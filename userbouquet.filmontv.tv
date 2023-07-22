@@ -1,0 +1,195 @@
+#NAME FILMON
+#SERVICE 1:64:18:0:0:0:0:0:0:0::== ★★ DEUTSCH ★★ ==
+#DESCRIPTION == ★★ DEUTSCH ★★ ==
+#SERVICE 4097:0:1:761D:4A27:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/zdf:ZDF
+#DESCRIPTION ZDF
+#SERVICE 4097:0:1:591C:F14F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/zdfneo:ZDF Neo
+#DESCRIPTION ZDF Neo
+#SERVICE 4097:0:1:1148:FE66:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/sport1:SPORT 1
+#DESCRIPTION SPORT 1
+#SERVICE 4097:0:1:7604:9689:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/sat-1-schweiz:SAT1 CH
+#DESCRIPTION SAT1 CH
+#SERVICE 4097:0:1:30D:2BAC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/vox-schweiz:VoxUp CH
+#DESCRIPTION VoxUp CH
+#SERVICE 1:64:19:0:0:0:0:0:0:0::== ★★ FRANCE ★★ ==
+#DESCRIPTION == ★★ FRANCE ★★ ==
+#SERVICE 4097:0:1:8D2F:1D1B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/arte-francais:ARTE
+#DESCRIPTION ARTE
+#SERVICE 4097:0:1:C347:8DE5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bfm-tv:BFM TV
+#DESCRIPTION BFM TV
+#SERVICE 4097:0:1:B2D9:9D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/france-2:France 2
+#DESCRIPTION France 2
+#SERVICE 4097:0:1:5A1:AAAA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/france-3-alpes:France 3
+#DESCRIPTION France 3
+#SERVICE 1:64:1A:0:0:0:0:0:0:0::== ★★ UK ★★ ==
+#DESCRIPTION == ★★ UK ★★ ==
+#SERVICE 4097:0:1:FC0B:4C49:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bbc-one:BBC ONE
+#DESCRIPTION BBC ONE
+#SERVICE 4097:0:1:968D:C689:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv1:ITV1
+#DESCRIPTION ITV1
+#SERVICE 4097:0:1:65B1:366B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv-plus-1:ITV1+1
+#DESCRIPTION ITV1+1
+#SERVICE 4097:0:1:F3E6:51EE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv2:ITV2
+#DESCRIPTION ITV2
+#SERVICE 4097:0:1:8EAE:59:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv2-plus-1:ITV2+1
+#DESCRIPTION ITV2+1
+#SERVICE 4097:0:1:513E:DD53:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv3:ITV3
+#DESCRIPTION ITV3
+#SERVICE 4097:0:1:EBEA:D6DE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv3-plus-1:ITV3+1
+#DESCRIPTION ITV3+1
+#SERVICE 4097:0:1:C3D:30D9:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv4:ITV 4
+#DESCRIPTION ITV 4
+#SERVICE 4097:0:1:FB05:683B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itv4-plus-1:ITV4+1
+#DESCRIPTION ITV4+1
+#SERVICE 4097:0:1:3255:F401:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/channel-4:Channel 4
+#DESCRIPTION Channel 4
+#SERVICE 4097:0:1:E27:8C6E:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/e4:E4
+#DESCRIPTION E4
+#SERVICE 4097:0:1:C265:6556:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/more4:More4
+#DESCRIPTION More4
+#SERVICE 4097:0:1:325:5F4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/channel-5:Channel 5
+#DESCRIPTION Channel 5
+#SERVICE 4097:0:1:BF04:5A5F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/5-star:5 Star
+#DESCRIPTION 5 Star
+#SERVICE 4097:0:1:EBD:F8CD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/5usa:5 USA
+#DESCRIPTION 5 USA
+#SERVICE 4097:0:1:3B4D:FDB8:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/ipick-tv:Pick TV
+#DESCRIPTION Pick TV
+#SERVICE 4097:0:1:6F0C:A903:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/itvbe:ITVBe
+#DESCRIPTION ITVBe
+#SERVICE 4097:0:1:4C4:3842:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/really:Really
+#DESCRIPTION Really
+#SERVICE 4097:0:1:B3EE:648D:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bbc-two:BBC 2
+#DESCRIPTION BBC 2
+#SERVICE 4097:0:1:E9B:75C7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/cbeebiesbbc-four:BBC Four
+#DESCRIPTION BBC Four
+#SERVICE 4097:0:1:F343:CC6B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/cbs-drama:CBS Drama
+#DESCRIPTION CBS Drama
+#SERVICE 4097:0:1:6A08:375C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/cbs-action:CBS Justice
+#DESCRIPTION CBS Justice
+#SERVICE 4097:0:1:B099:1D76:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/cbs-reality:CBS Reality
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:1:B4C1:1346:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/drama:Drama
+#DESCRIPTION Drama
+#SERVICE 1:64:1B:0:0:0:0:0:0:0::== ★★ LATINO ★★ ==
+#DESCRIPTION == ★★ LATINO ★★ ==
+#SERVICE 4097:0:1:CAEA:BFB5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/peliculas-de-filmon:Peliculas deFILMON
+#DESCRIPTION Peliculas deFILMON
+#SERVICE 4097:0:1:23C:12CF:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/canal-24-horas:Canal 24 Horas
+#DESCRIPTION Canal 24 Horas
+#SERVICE 4097:0:1:71CE:68EC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/canal-extremadura-satlite:Canal Extramadura Satelite
+#DESCRIPTION Canal Extramadura Satelite
+#SERVICE 4097:0:1:C223:F2E6:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/canal-portada:Canal Portada
+#DESCRIPTION Canal Portada
+#SERVICE 4097:0:1:B4CC:2FAD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/catwalk-en-espanol:Catwalk en Espanol
+#DESCRIPTION Catwalk en Espanol
+#SERVICE 4097:0:1:D534:27CB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/canal-sur-andaluca:Canal Sur Andaluca
+#DESCRIPTION Canal Sur Andaluca
+#SERVICE 4097:0:1:3A89:DD54:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/telenovelas-tv:Telenovelas TV
+#DESCRIPTION Telenovelas TV
+#SERVICE 4097:0:1:F793:7A7A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/televideo-latino:Televideo Latino
+#DESCRIPTION Televideo Latino
+#SERVICE 1:64:1C:0:0:0:0:0:0:0::== ★★ GREEK ★★ ==
+#DESCRIPTION == ★★ GREEK ★★ ==
+#SERVICE 4097:0:1:363A:7612:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com//tv/rik:RIK
+#DESCRIPTION RIK
+#SERVICE 4097:0:1:649:E229:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/montreal-greek-tv:Montrel Greek TV
+#DESCRIPTION Montrel Greek TV
+#SERVICE 4097:0:1:A3F4:528A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/nea-tv:NEA TV
+#DESCRIPTION NEA TV
+#SERVICE 4097:0:1:E63F:303A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/kontra:KONTRA
+#DESCRIPTION KONTRA
+#SERVICE 4097:0:1:5F58:9F69:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/crete-tv:CRETE TV
+#DESCRIPTION CRETE TV
+#SERVICE 1:64:1D:0:0:0:0:0:0:0::== ★★ RUSSIA ★★ ==
+#DESCRIPTION == ★★ RUSSIA ★★ ==
+#SERVICE 4097:0:1:4A41:B353:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/perviy-kanal-europa:Perviy Kanal Europe
+#DESCRIPTION Perviy Kanal Europe
+#SERVICE 4097:0:1:678:1945:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/rtr-planeta:RTL Planeta
+#DESCRIPTION RTL Planeta
+#SERVICE 4097:0:1:6F9:2D88:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/rossiya-24:Rossiya 24
+#DESCRIPTION Rossiya 24
+#SERVICE 4097:0:1:8588:4765:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/tbn-russia:TBN Russia
+#DESCRIPTION TBN Russia
+#SERVICE 1:64:1E:0:0:0:0:0:0:0::== ★★ ARABIA ★★ ==
+#DESCRIPTION == ★★ ARABIA ★★ ==
+#SERVICE 4097:0:1:45D:94A5:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/al-jazeera-documentary:Al Jazeera Documentary
+#DESCRIPTION Al Jazeera Documentary
+#SERVICE 4097:0:1:8367:BFCC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/al-jazeera-mubasher:Al Jazeera Mubasher
+#DESCRIPTION Al Jazeera Mubasher
+#SERVICE 4097:0:1:65D4:E6ED:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/al-jazeera-arabic:Al Jazeera Arabic
+#DESCRIPTION Al Jazeera Arabic
+#SERVICE 4097:0:1:CB90:ED9C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/el-watania-tv:El Watania TV
+#DESCRIPTION El Watania TV
+#SERVICE 4097:0:1:7F87:CC0B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana:Rotana
+#DESCRIPTION Rotana
+#SERVICE 4097:0:1:C674:D549:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana-aflam:Rotona Aflam
+#DESCRIPTION Rotona Aflam
+#SERVICE 4097:0:1:B424:CCEB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana-cinema:Rotana Cinema
+#DESCRIPTION Rotana Cinema
+#SERVICE 4097:0:1:5AC:D689:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana-clip:Rotana Clip
+#DESCRIPTION Rotana Clip
+#SERVICE 4097:0:1:4C80:7E86:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana-classic:Rotana Classic
+#DESCRIPTION Rotana Classic
+#SERVICE 4097:0:1:219D:3463:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana-khalijiah:Rotana Khalijiah
+#DESCRIPTION Rotana Khalijiah
+#SERVICE 4097:0:1:95AD:78BE:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/rotana-masriya:Rotana Masriya
+#DESCRIPTION Rotana Masriya
+#SERVICE 4097:0:1:D66:29AA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/noor-dubai:Noor Dubai
+#DESCRIPTION Noor Dubai
+#SERVICE 4097:0:1:7A67:FAB7:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/wwww.filmon.com/tv/dubai-sports:Dubai Sports
+#DESCRIPTION Dubai Sports
+#SERVICE 1:64:1F:0:0:0:0:0:0:0::== ★★ QAZAK ★★ ==
+#DESCRIPTION == ★★ QAZAK ★★ ==
+#SERVICE 4097:0:1:86F0:B8BA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/kazakh-tv:KAZAKH TV
+#DESCRIPTION KAZAKH TV
+#SERVICE 1:64:20:0:0:0:0:0:0:0::== ★★ INDIA ★★ ==
+#DESCRIPTION == ★★ INDIA ★★ ==
+#SERVICE 4097:0:1:F0B2:A28B:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/live9-tv:Live9 TV
+#DESCRIPTION Live9 TV
+#SERVICE 4097:0:1:DF85:837C:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/aaj-tak:Aaj Tak
+#DESCRIPTION Aaj Tak
+#SERVICE 4097:0:1:B9AB:2886:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/original-films-of-india:Films Of India
+#DESCRIPTION Films Of India
+#SERVICE 1:64:21:0:0:0:0:0:0:0::== ★★ AFCRICA★★ ==
+#DESCRIPTION == ★★ AFCRICA★★ ==
+#SERVICE 4097:0:1:15B0:DEE4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/eri-tv:Eri TV
+#DESCRIPTION Eri TV
+#SERVICE 1:64:22:0:0:0:0:0:0:0::== ★★ SHORT FILMS ★★ ==
+#DESCRIPTION == ★★ SHORT FILMS ★★ ==
+#SERVICE 4097:0:1:228E:8449:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/teen-shorts:Teen Shorts
+#DESCRIPTION Teen Shorts
+#SERVICE 4097:0:1:5B8D:12A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/drama-shorts:Drama Shorts
+#DESCRIPTION Drama Shorts
+#SERVICE 4097:0:1:89A:FC63:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/documentary:Documentary
+#DESCRIPTION Documentary
+#SERVICE 4097:0:1:C366:DFDA:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/movies:Documentary
+#DESCRIPTION Documentary
+#SERVICE 4097:0:1:AE60:5DDC:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/tvsci-fi:Sci Fi
+#DESCRIPTION Sci Fi
+#SERVICE 1:64:23:0:0:0:0:0:0:0::== ★★ NEWS ★★ ==
+#DESCRIPTION == ★★ NEWS ★★ ==
+#SERVICE 4097:0:1:1743:4F9A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/voa-english:Voice of America
+#DESCRIPTION Voice of America
+#SERVICE 4097:0:1:1796:1CCD:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/al-jazeera:Al Jazeera
+#DESCRIPTION Al Jazeera
+#SERVICE 4097:0:1:CBA9:D33F:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/cctv-news:CCTV NEWS
+#DESCRIPTION CCTV NEWS
+#SERVICE 1:64:24:0:0:0:0:0:0:0::== ★★ BIKIN GIRLS ★★ ==
+#DESCRIPTION == ★★ BIKIN GIRLS ★★ ==
+#SERVICE 4097:0:1:DF8B:9EDB:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/j-club-tv:J Club
+#DESCRIPTION J Club
+#SERVICE 4097:0:1:F1C3:513:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bikini-down-under:Bikini Down Under
+#DESCRIPTION Bikini Down Under
+#SERVICE 4097:0:1:80A:8F56:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/americas-hottest-cheerleaders:America Hottest Cherleeaders
+#DESCRIPTION America Hottest Cherleeaders
+#SERVICE 4097:0:1:C963:9A84:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/party-girls-tv:Party Girls
+#DESCRIPTION Party Girls
+#SERVICE 4097:0:1:D5E6:6F3:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bikini-girls-show-and-tell:Bikini Girls
+#DESCRIPTION Bikini Girls
+#SERVICE 4097:0:1:9932:22A4:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bikini-teevee:Bikini TeeVee
+#DESCRIPTION Bikini TeeVee
+#SERVICE 4097:0:1:98F1:313A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/bikini-kitchen:Bikini Kitchen
+#DESCRIPTION Bikini Kitchen
+#SERVICE 4097:0:1:90D4:16A:EC:0:0:0:0:http%3a//127.0.0.1%3a8088/www.filmon.com/tv/miss-top-of-the-world:Miss Top of The World
+#DESCRIPTION Miss Top of The World
