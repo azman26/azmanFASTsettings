@@ -1,341 +1,399 @@
 #NAME Redbox
-#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
-#DESCRIPTION NoGroup
-#SERVICE 5002:0:1:c5dd:ea11:1176:1010101:0:0:0:https%3a//8e5a51fd84df4fd4bd64dd49cc9ccb75.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_COPS/playlist.m3u8?ads.wurl_channel=1095&ads.wurl_name=COPS&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cops
-#DESCRIPTION Cops
-#SERVICE 5002:0:1:35e0:39f0:f064:1010101:0:0:0:https%3a//langleyproductions-jail-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jail
-#DESCRIPTION Jail
-#SERVICE 5002:0:1:c834:3ddf:df9f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forensic Files
-#DESCRIPTION Forensic Files
-#SERVICE 5002:0:1:7f88:6801:182:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
-#DESCRIPTION Unsolved Mysteries
-#SERVICE 5002:0:1:36c0:ef3e:3e37:1010101:0:0:0:https%3a//alliantcontent-truecrimenow-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime Now
-#DESCRIPTION True Crime Now
-#SERVICE 5002:0:1:54f0:58f2:f27b:1010101:0:0:0:https%3a//632e7b0caa3746638fedf21c7f458fd8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_RealNosey/playlist.m3u8?ads.coppa=0&ads.dnt=0&ads.is_roku_lat=0&ads.language=en&ads.subp=RedboxWebWindows&ads.sz=0x0&ads.us_privacy=1---&ads.wurl_channel=717798589&ads.wurl_name=Judge%20Nosey#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Judge Nosey
-#DESCRIPTION Judge Nosey
-#SERVICE 5002:0:1:b4d2:1915:15b7:1010101:0:0:0:https%3a//nosey-realnosey-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Judge Nosey alt
-#DESCRIPTION Judge Nosey alt
-#SERVICE 5002:0:1:19be:b7c8:c836:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdivorcecourt/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Divorce Court
-#DESCRIPTION Divorce Court
-#SERVICE 5002:0:1:761:ebf:bf40:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcourttv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
-#DESCRIPTION Court TV
-#SERVICE 5002:0:1:bda9:9d12:1214:1010101:0:0:0:https%3a//all3media-midsomer-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders
-#DESCRIPTION Midsomer Murders
-#SERVICE 5002:0:1:5ce7:34e4:e434:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrgmedicalexaminer/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebWindows&ssai_req=1&subp=RedboxWebWindows&sz=0x0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dr G Medical Examiner
-#DESCRIPTION Dr G Medical Examiner
-#SERVICE 5002:0:1:9067:3f12:12c0:1010101:0:0:0:https%3a//amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-caughtinprovidence-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caught in Providence
-#DESCRIPTION Caught in Providence
-#SERVICE 5002:0:1:3cac:b241:41e3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reelz Famous and Infamous
-#DESCRIPTION Reelz Famous and Infamous
-#SERVICE 5002:0:1:a08:c9a3:a3a6:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlawandcrime/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Law & Crime
-#DESCRIPTION Law & Crime
-#SERVICE 5002:0:1:8fe3:fe37:37f4:1010101:0:0:0:https%3a//spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Free Movies
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Summer Movies Showcase
+#DESCRIPTION RedBox: Summer Movies Showcase
+#SERVICE 5002:0:1:8fe3:ba78:78b1:1010101:0:0:0:https%3a//spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Free Movies
 #DESCRIPTION Redbox Free Movies
-#SERVICE 5002:0:1:16f4:7dbb:bbf1:1010101:0:0:0:https%3a//holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Romance (Geo)
-#DESCRIPTION Redbox Romance (Geo)
-#SERVICE 5002:0:1:3479:1ab0:b0e5:1010101:0:0:0:https%3a//chickensoup-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-chickensoup-redbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup for the Soul (Geo)
-#DESCRIPTION Chicken Soup for the Soul (Geo)
-#SERVICE 5002:0:1:fb87:feb2:b22a:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcrownmediahallmarkmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hallmark Movies & More
+#SERVICE 5002:0:1:475:1e38:38fc:1010101:0:0:0:https%3a//e2bed9d41f6d48558d0b18cabbbf800c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IFC Films Picks
+#DESCRIPTION IFC Films Picks
+#SERVICE 5002:0:1:b9fc:2db3:b362:1010101:0:0:0:https%3a//moviesphere-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-moviesphere-redbox/CDN/playlist.m3u8?deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moviesphere
+#DESCRIPTION Moviesphere
+#SERVICE 5002:0:1:679a:8a67:67c1:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Free Movies
+#DESCRIPTION FilmRise Free Movies
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Crime & Scandal
+#DESCRIPTION RedBox: Crime & Scandal
+#SERVICE 5002:0:1:6268:ac37:3798:1010101:0:0:0:https%3a//8e5a51fd84df4fd4bd64dd49cc9ccb75.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_COPS/playlist.m3u8?ads.wurl_channel=1095&ads.wurl_name=COPS&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:COPS
+#DESCRIPTION COPS
+#SERVICE 5002:0:1:35e0:ef78:78fa:1010101:0:0:0:https%3a//19132c0d3d424544a7d528a39b84e5de.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Redbox_Jail/playlist.m3u8?ads.wurl_channel=1201&ads.wurl_name=Jail&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jail
+#DESCRIPTION Jail
+#SERVICE 5002:0:1:1ac9:2aff:ffbe:1010101:0:0:0:https%3a//cracklepg13-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-pg13-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Originals
+#DESCRIPTION Crackle Originals
+#SERVICE 5002:0:1:74b:fd91:91e8:1010101:0:0:0:https%3a//sleuth-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-sleuth-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sleuth
+#DESCRIPTION Sleuth
+#SERVICE 5002:0:1:c834:656:56c0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxforensicfiles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forensic Files
+#DESCRIPTION Forensic Files
+#SERVICE 5002:0:1:7f88:a9f9:f92d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxunsolvedmysteries/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
+#DESCRIPTION Unsolved Mysteries
+#SERVICE 5002:0:1:36c0:6707:7bf:1010101:0:0:0:https%3a//805a8dbf31c74c3e9fcd6bd4b1b09d51.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_TrueCrimeNow/playlist.m3u8?ads.wurl_channel=941&ads.wurl_name=TrueCrimeNow&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime Now
+#DESCRIPTION True Crime Now
+#SERVICE 5002:0:1:54f0:9878:7871:1010101:0:0:0:https%3a//632e7b0caa3746638fedf21c7f458fd8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_RealNosey/playlist.m3u8?ads.wurl_channel=349&ads.wurl_name=RealNosey&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Judge Nosey
+#DESCRIPTION Judge Nosey
+#SERVICE 5002:0:1:19be:993b:3b5c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdivorcecourt/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Divorce Court
+#DESCRIPTION Divorce Court
+#SERVICE 5002:0:1:761:34cf:cfbc:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcourttv/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
+#DESCRIPTION Court TV
+#SERVICE 5002:0:1:bda9:aa93:935a:1010101:0:0:0:https%3a//74c54ddfb668499fab43327942fb60da.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Redbox_MidsomerMurders/playlist.m3u8?ads.wurl_channel=994&ads.wurl_name=MidsomerMurders&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders
+#DESCRIPTION Midsomer Murders
+#SERVICE 5002:0:1:4ea8:fe9:e9d6:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrgmedicalexaminer/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dr. G%3a Medical Examiner
+#DESCRIPTION Dr. G: Medical Examiner
+#SERVICE 5002:0:1:9067:d3db:db4f:1010101:0:0:0:https%3a//amg00353-lionsgate-caughtinprovidence-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-caughtinprovidence-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caught in Providence
+#DESCRIPTION Caught in Providence
+#SERVICE 5002:0:1:fd9b:db23:231d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reelz Channel
+#DESCRIPTION Reelz Channel
+#SERVICE 5002:0:1:a08:a707:70e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlawandcrime/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Law & Crime
+#DESCRIPTION Law & Crime
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Movies
+#DESCRIPTION RedBox: Movies
+#SERVICE 5002:0:1:8fe3:27a6:a67a:1010101:0:0:0:https%3a//spotlight-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-spotlight/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Free Movies
+#DESCRIPTION Redbox Free Movies
+#SERVICE 5002:0:1:afc5:a593:93fc:1010101:0:0:0:https%3a//holiday-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-holiday/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Romance
+#DESCRIPTION Redbox Romance
+#SERVICE 5002:0:1:7526:21f8:f813:1010101:0:0:0:https%3a//chickensoup-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-chickensoup-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup for the Soul
+#DESCRIPTION Chicken Soup for the Soul
+#SERVICE 5002:0:1:fb87:b1ef:ef42:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcrownmediahallmarkmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hallmark Movies & More
 #DESCRIPTION Hallmark Movies & More
-#SERVICE 5002:0:1:4f09:cf64:646c:1010101:0:0:0:https%3a//moviesphere-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-moviesphere-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MovieSphere (Geo)
-#DESCRIPTION MovieSphere (Geo)
-#SERVICE 5002:0:1:4b89:17b7:b747:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Maverick Black Cinema
-#DESCRIPTION Maverick Black Cinema
-#SERVICE 5002:0:1:6b58:17d3:d339:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xumo Free Movies
-#DESCRIPTION Xumo Free Movies
-#SERVICE 5002:0:1:4423:52d7:d7d3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Free Movies
-#DESCRIPTION Filmrise Free Movies
-#SERVICE 5002:0:1:cafb:7062:62d3:1010101:0:0:0:https%3a//amc-amcpresents-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Presents
-#DESCRIPTION AMC Presents
-#SERVICE 5002:0:1:7ba5:aca:ca79:1010101:0:0:0:https%3a//magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CineLife (Geo)
-#DESCRIPTION CineLife (Geo)
-#SERVICE 5002:0:1:e514:f972:7249:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Film Hub
-#DESCRIPTION Film Hub
-#SERVICE 5002:0:1:3450:364d:4d32:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Movies
+#SERVICE 5002:0:1:b9fc:b4da:dad2:1010101:0:0:0:https%3a//moviesphere-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-moviesphere-redbox/CDN/playlist.m3u8?deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moviesphere
+#DESCRIPTION Moviesphere
+#SERVICE 5002:0:1:1f0b:51cd:cd97:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumofreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XUMO FREE Movies
+#DESCRIPTION XUMO FREE Movies
+#SERVICE 5002:0:1:679a:23db:db53:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Free Movies
+#DESCRIPTION FilmRise Free Movies
+#SERVICE 5002:0:1:2721:366c:6c2e:1010101:0:0:0:https%3a//713799f3464f4d13a46826211fd66cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_StoriesByAMC/playlist.m3u8?ads.wurl_channel=474&ads.wurl_name=StoriesByAMC&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stories by AMC
+#DESCRIPTION Stories by AMC
+#SERVICE 5002:0:1:475:823e:3e7c:1010101:0:0:0:https%3a//e2bed9d41f6d48558d0b18cabbbf800c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_IFCFilmsPicks/playlist.m3u8?ads.wurl_channel=563&ads.wurl_name=IFCFilmsPicks&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IFC Films Picks
+#DESCRIPTION IFC Films Picks
+#SERVICE 5002:0:1:1ece:5cbe:be2d:1010101:0:0:0:https%3a//magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Life
+#DESCRIPTION Cine Life
+#SERVICE 5002:0:1:9b9f:bd19:196e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmhub
+#DESCRIPTION Filmhub
+#SERVICE 5002:0:1:3450:4d8c:8cae:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gravitas Movies
 #DESCRIPTION Gravitas Movies
-#SERVICE 5002:0:1:adc2:7177:7771:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Magellan TV Now
-#DESCRIPTION Magellan TV Now
-#SERVICE 5002:0:1:8a8f:aa7:a765:1010101:0:0:0:https%3a//13be15d3afd947ee922bc0f8a55f522d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_MadeInHollywood/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Made in Hollywood
+#SERVICE 5002:0:1:5c32:688b:8b91:1010101:0:0:0:https%3a//f33ea23034334a979987e15c81446025.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllBlkGems/playlist.m3u8?ads.wurl_channel=1180&ads.wurl_name=AllBlkGems&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AllBlk Gems
+#DESCRIPTION AllBlk Gems
+#SERVICE 5002:0:1:37f8:ef21:2148:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Maverick
+#DESCRIPTION Maverick
+#SERVICE 5002:0:1:8a8f:c14d:4d0f:1010101:0:0:0:https%3a//13be15d3afd947ee922bc0f8a55f522d.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_MadeInHollywood/playlist.m3u8?ads.wurl_channel=276&ads.wurl_name=MadeInHollywood&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Made in Hollywood
 #DESCRIPTION Made in Hollywood
-#SERVICE 5002:0:1:c76b:535c:5c62:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grio
-#DESCRIPTION The Grio
-#SERVICE 5002:0:1:4469:2fea:ea84:1010101:0:0:0:https%3a//crackle-redbox.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle
-#DESCRIPTION Crackle
-#SERVICE 5002:0:1:46ae:3c7:c79c:1010101:0:0:0:https%3a//cracklepg13-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-pg13-redbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Originals (Geo)
-#DESCRIPTION Crackle Originals (Geo)
-#SERVICE 5002:0:1:2745:c496:96cc:1010101:0:0:0:https%3a//amc-twdfanexperience-2-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC-The Walking Dead Universe
-#DESCRIPTION AMC-The Walking Dead Universe
-#SERVICE 5002:0:1:a1d0:e5a7:a747:1010101:0:0:0:https%3a//amc-rushbyamc-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC-Thrillers
-#DESCRIPTION AMC-Thrillers
-#SERVICE 5002:0:1:d476:13fd:fd39:1010101:0:0:0:https%3a//gunpowder-dust-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-dust-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dust (Geo)
-#DESCRIPTION Dust (Geo)
-#SERVICE 5002:0:1:3ec8:8233:33bc:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxparanormalfiles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paranormal Files
+#SERVICE 5002:0:1:59b1:2a57:57e5:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvoyager/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MagellanTV Now
+#DESCRIPTION MagellanTV Now
+#SERVICE 5002:0:1:e43a:fa:faae:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxblacknewschannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BNC GO
+#DESCRIPTION BNC GO
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Action Sci-Fi & Horror
+#DESCRIPTION RedBox: Action Sci-Fi & Horror
+#SERVICE 5002:0:1:36cb:ede:def8:1010101:0:0:0:https%3a//crackle-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackle-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CRACKLE
+#DESCRIPTION CRACKLE
+#SERVICE 5002:0:1:ef03:703c:3c85:1010101:0:0:0:https%3a//ec431a2c5ef845158bdac41d47b37aa5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_TWDUniverseTV14/playlist.m3u8?ads.wurl_channel=1215&ads.wurl_name=TWDUniverseTV14&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Walking Dead Universe
+#DESCRIPTION The Walking Dead Universe
+#SERVICE 5002:0:1:18bd:3af:af0e:1010101:0:0:0:https%3a//0d11c3107ff14abfb065fed01b52f1a4.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Thrillers
+#DESCRIPTION AMC Thrillers
+#SERVICE 5002:0:1:6090:f3e8:e8cc:1010101:0:0:0:https%3a//gunpowder-dust-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-dust-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DUST
+#DESCRIPTION DUST
+#SERVICE 5002:0:1:3ec8:baae:ae43:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxparanormalfiles/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paranormal Files
 #DESCRIPTION Paranormal Files
-#SERVICE 5002:0:1:33aa:1c9a:9a34:1010101:0:0:0:https%3a//shoutfactory-farscape-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Farscape
+#SERVICE 5002:0:1:33aa:847d:7da7:1010101:0:0:0:https%3a//06cbbbf663bb4142916b1db724408129.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_Farscape/playlist.m3u8?ads.wurl_channel=1241&ads.wurl_name=Farscape&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Farscape
 #DESCRIPTION Farscape
-#SERVICE 5002:0:1:e3cf:469f:9f32:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wu Tang Collection TV
+#SERVICE 5002:0:1:1c14:4c67:671e:1010101:0:0:0:https%3a//b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_ANIMExHIDIVE/playlist.m3u8?ads.wurl_channel=1398&ads.wurl_name=ANIMExHIDIVE&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ANIME x HIDIVE
+#DESCRIPTION ANIME x HIDIVE
+#SERVICE 5002:0:1:e3cf:cbbe:bee0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgoldenmediawutangcollection/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wu Tang Collection TV
 #DESCRIPTION Wu Tang Collection TV
-#SERVICE 5002:0:1:1911:12d1:d14b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hi-Yah
-#DESCRIPTION Hi-Yah
-#SERVICE 5002:0:1:d954:a536:3661:1010101:0:0:0:https%3a//3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Murder and Mayhem
-#DESCRIPTION Cinevault Murder and Mayhem
-#SERVICE 5002:0:1:5582:a3b0:b0f9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Sci-Fi
+#SERVICE 5002:0:1:ba5d:2d70:70d3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hi-Yah!
+#DESCRIPTION Hi-Yah!
+#SERVICE 5002:0:1:e16a:d2d9:d9db:1010101:0:0:0:https%3a//3357912395d4453bb8e0e934e0b4f54a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault70s/playlist.m3u8?ads.wurl_channel=830&ads.wurl_name=Cinevault70s&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CINEVAULT%3a Murder & Mayhem
+#DESCRIPTION CINEVAULT: Murder & Mayhem
+#SERVICE 5002:0:1:5582:3fc2:c24d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Sci-Fi
 #DESCRIPTION FilmRise Sci-Fi
-#SERVICE 5002:0:1:2381:a1e9:e995:1010101:0:0:0:https%3a//amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alter Horror
-#DESCRIPTION Alter Horror
-#SERVICE 5002:0:1:ec62:be6d:6dfc:1010101:0:0:0:https%3a//shoutfactory-screamfactorytv-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scream Factory TV
+#SERVICE 5002:0:1:2a10:fdfa:fa83:1010101:0:0:0:https%3a//amg00219-gunpowder-alter-redbox.amagi.tv/hls/amagi_hls_data_gunpowder-alter-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ALTER
+#DESCRIPTION ALTER
+#SERVICE 5002:0:1:ec62:cd88:8843:1010101:0:0:0:https%3a//4f87124ca4484862a02e3ce1687416b2.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_ScreamFactoryTV/playlist.m3u8?ads.wurl_channel=1154&ads.wurl_name=ScreamFactoryTV&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scream Factory TV
 #DESCRIPTION Scream Factory TV
-#SERVICE 5002:0:1:59c8:a10b:bbc:1010101:0:0:0:https%3a//shoutfactory-shoutcult-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout Cult
-#DESCRIPTION Shout Cult
-#SERVICE 5002:0:1:83b3:ff28:28cf:1010101:0:0:0:https%3a//popcornflix-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-popcornflix-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PopcornFlix (Geo)
-#DESCRIPTION PopcornFlix (Geo)
-#SERVICE 5002:0:1:e775:35a6:a6b0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxelectricnow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Electric Now
-#DESCRIPTION Electric Now
-#SERVICE 5002:0:1:db15:b431:31de:1010101:0:0:0:https%3a//thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Price is Right - Barker Era (Geo)
-#DESCRIPTION The Price is Right - Barker Era (Geo)
-#SERVICE 5002:0:1:e5cc:1169:6936:1010101:0:0:0:https%3a//nosey-2-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
+#SERVICE 5002:0:1:89df:acfd:fdd0:1010101:0:0:0:https%3a//e1de00afde284547b713d99099312f17.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_ShoutCult/playlist.m3u8?ads.wurl_channel=1169&ads.wurl_name=ShoutCult&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout! Cult
+#DESCRIPTION Shout! Cult
+#SERVICE 5002:0:1:72a2:db4:b40c:1010101:0:0:0:https%3a//popcornflix-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-popcornflix-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Popcornflix
+#DESCRIPTION Popcornflix
+#SERVICE 5002:0:1:4ff0:b497:9754:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxelectricnow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ElectricNOW
+#DESCRIPTION ElectricNOW
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Reality & Game Shows
+#DESCRIPTION RedBox: Reality & Game Shows
+#SERVICE 5002:0:1:5c92:85b8:b8bc:1010101:0:0:0:https%3a//thepriceisright-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-thepriceisright-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PriceIsRight
+#DESCRIPTION PriceIsRight
+#SERVICE 5002:0:1:e5cc:5602:2a9:1010101:0:0:0:https%3a//72b83bcbd2204cdabbf4ffd7742d63fa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_Nosey/playlist.m3u8?ads.wurl_channel=319&ads.wurl_name=Nosey&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey
 #DESCRIPTION Nosey
-#SERVICE 5002:0:1:b793:f646:46ce:1010101:0:0:0:https%3a//nosey-confessbynosey-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Confess by Nosey
+#SERVICE 5002:0:1:b793:7e4d:4dde:1010101:0:0:0:https%3a//9a319e0ee0694e24b1b08471b3145672.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_ConfessByNosey/playlist.m3u8?ads.wurl_channel=1445&ads.wurl_name=ConfessByNosey&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Confess by Nosey
 #DESCRIPTION Confess by Nosey
-#SERVICE 5002:0:1:6a8d:6fc9:c93a:1010101:0:0:0:https%3a//banijay-fearfactor-redbox.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fear Factor
-#DESCRIPTION Fear Factor
-#SERVICE 5002:0:1:7ddc:ab64:64b5:1010101:0:0:0:https%3a//890f34d0fe9b4c13b4fea89b53b849cf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_GameShowCentral/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Game Show Central
+#SERVICE 5002:0:1:facc:e925:252f:1010101:0:0:0:https%3a//banijay-fearfactor-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-fearfactor-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FearFactor
+#DESCRIPTION FearFactor
+#SERVICE 5002:0:1:7ddc:5cae:ae2a:1010101:0:0:0:https%3a//890f34d0fe9b4c13b4fea89b53b849cf.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_GameShowCentral/playlist.m3u8?ads.wurl_channel=416&ads.wurl_name=GameShowCentral&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Game Show Central
 #DESCRIPTION Game Show Central
-#SERVICE 5002:0:1:856e:225b:5b0e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family Feud
+#SERVICE 5002:0:1:90f4:8761:619b:1010101:0:0:0:https%3a//supermarketsweep-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-supermarketsweep-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Supermarket Sweep
+#DESCRIPTION Supermarket Sweep
+#SERVICE 5002:0:1:856e:7f4c:4cfb:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family Feud
 #DESCRIPTION Family Feud
-#SERVICE 5002:0:1:b25b:1147:479b:1010101:0:0:0:https%3a//banijay-dealornodeal-redbox.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal or No Deal
-#DESCRIPTION Deal or No Deal
-#SERVICE 5002:0:1:91a7:2bd5:d516:1010101:0:0:0:https%3a//banijay-thebiggestloser-redbox.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Biggest Loser
-#DESCRIPTION The Biggest Loser
-#SERVICE 5002:0:1:e08:2677:7773:1010101:0:0:0:https%3a//buzzr-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-buzzr-redbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr (Geo)
-#DESCRIPTION Buzzr (Geo)
-#SERVICE 5002:0:1:6218:327e:7e8d:1010101:0:0:0:https%3a//banijay-wipeoutxtra-redbox.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra
-#DESCRIPTION Wipeout Xtra
-#SERVICE 5002:0:1:3ee7:f335:3514:1010101:0:0:0:https%3a//49ae7dfd78e642cba00a192a5bea7c10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllReality/playlist.m3u8?ads.coppa=0&ads.dnt=0&ads.is_roku_lat=0&ads.language=en&ads.subp=RedboxWebWindows&ads.sz=0x0&ads.us_privacy=1---&ads.wurl_channel=358559586&ads.wurl_name=All%20Reality%20WE%20tv#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Reality WE TV
-#DESCRIPTION All Reality WE TV
-#SERVICE 5002:0:1:2172:236a:6a88:1010101:0:0:0:https%3a//amc-absolutereality-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Reality WE TV alt
-#DESCRIPTION All Reality WE TV alt
-#SERVICE 5002:0:1:7ec5:a04e:4e7d:1010101:0:0:0:https%3a//rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox War and Westerns
-#DESCRIPTION Redbox War and Westerns
-#SERVICE 5002:0:1:1879:6641:410d:1010101:0:0:0:https%3a//7590bb52ed354228b7fafee823374cbd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Westerns
-#DESCRIPTION Cinevault Westerns
-#SERVICE 5002:0:1:f4a0:8e91:9124:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-samuelgoldwynlicensed/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebWindows&ssai_req=1&subp=RedboxWebWindows&sz=0x0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Snowy River The McGregor Saga
-#DESCRIPTION Snowy River The McGregor Saga
-#SERVICE 5002:0:1:9ec2:99e:9e1e:1010101:0:0:0:https%3a//amg00353-lionsgate-wanteddeadoralive-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-wanted-deadoralive-redbox/CDN/playlist.m3u8?DNT=0&app_name=Redbox&app_store_url=https%3a%2F%2Fwww.vizio.com%2Fsmart-tv-apps%3FappName%3Dredbox%26appId%3Dvizio.redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebWindows&ssai_req=1&subp=RedboxWebWindows&sz=0x0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wanted Dead or Alive
-#DESCRIPTION Wanted Dead or Alive
-#SERVICE 5002:0:1:8d0e:9070:7091:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumowesterns/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xumo Westerns
-#DESCRIPTION Xumo Westerns
-#SERVICE 5002:0:1:9e59:a581:8103:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcowboyway/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cowboy Way
+#SERVICE 5002:0:1:856e:7f4c:4cfb:1010101:0:0:0:https%3a//familyfeud-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-familyfeud-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family Feud
+#DESCRIPTION Family Feud
+#SERVICE 5002:0:1:d4fa:f880:8042:1010101:0:0:0:https%3a//banijay-dealornodeal-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-dealornodeal-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DealorNoDeal
+#DESCRIPTION DealorNoDeal
+#SERVICE 5002:0:1:f541:eae:aeba:1010101:0:0:0:https%3a//banijay-thebiggestloser-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-thebiggestloser-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TheBiggestLoser
+#DESCRIPTION TheBiggestLoser
+#SERVICE 5002:0:1:4e8a:abfe:fe64:1010101:0:0:0:https%3a//buzzr-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-buzzr-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr
+#DESCRIPTION Buzzr
+#SERVICE 5002:0:1:b8b4:ffc:fc2d:1010101:0:0:0:https%3a//banijay-wipeoutxtra-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-banijay-wipeoutxtra-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WipeoutXtra
+#DESCRIPTION WipeoutXtra
+#SERVICE 5002:0:1:e9ab:9e5f:5f48:1010101:0:0:0:https%3a//49ae7dfd78e642cba00a192a5bea7c10.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AllReality&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Reality WE tv
+#DESCRIPTION All Reality WE tv
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Westerns
+#DESCRIPTION RedBox: Westerns
+#SERVICE 5002:0:1:afa8:5674:74e2:1010101:0:0:0:https%3a//rush-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-rush/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox War & Westerns
+#DESCRIPTION Redbox War & Westerns
+#SERVICE 5002:0:1:4b53:e979:7919:1010101:0:0:0:https%3a//7590bb52ed354228b7fafee823374cbd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_CinevaultWesterns/playlist.m3u8?ads.wurl_channel=690&ads.wurl_name=CinevaultWesterns&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CINEVAULT%3a Westerns
+#DESCRIPTION CINEVAULT: Westerns
+#SERVICE 5002:0:1:7e:1e7c:7cc4:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-samuelgoldwynlicensed/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Snowy River%3a The Mcgregor Saga
+#DESCRIPTION Snowy River: The Mcgregor Saga
+#SERVICE 5002:0:1:d7b2:1ad0:d03f:1010101:0:0:0:https%3a//amg00353-lionsgate-wanteddeadoralive-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-wanted-deadoralive-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wanted%3a Dead or Alive
+#DESCRIPTION Wanted: Dead or Alive
+#SERVICE 5002:0:1:33db:a44:44c9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumowesterns/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XUMO FREE Westerns
+#DESCRIPTION XUMO FREE Westerns
+#SERVICE 5002:0:1:9e59:fbb5:b55e:1010101:0:0:0:https%3a//dai2.xumo.com/xumocdn/p=redbox/amagi_hls_data_xumo1212A-redboxcowboyway/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cowboy Way
 #DESCRIPTION Cowboy Way
-#SERVICE 5002:0:1:5f64:ea08:84d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Sports & Gaming
+#DESCRIPTION RedBox: Sports & Gaming
+#SERVICE 5002:0:1:5f64:c5db:db07:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
 #DESCRIPTION World Poker Tour
-#SERVICE 5002:0:1:148c:8019:1932:1010101:0:0:0:https%3a//e72dfa6f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmVkYm94X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Speedvision
-#DESCRIPTION Speedvision
-#SERVICE 5002:0:1:d223:e90f:f49:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbilliardtv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiard TV
-#DESCRIPTION Billiard TV
-#SERVICE 5002:0:1:5768:272f:2fda:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glory Kickboxing
-#DESCRIPTION Glory Kickboxing
-#SERVICE 5002:0:1:f8ff:2429:2996:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxanthemsportsimpactwrestling/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Impact Wrestling
-#DESCRIPTION Impact Wrestling
-#SERVICE 5002:0:1:2a4:4324:24dd:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaclcornhole/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ACL Cornhole TV
-#DESCRIPTION ACL Cornhole TV
-#SERVICE 5002:0:1:e756:4b6c:6ce2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nitro Circus
+#SERVICE 5002:0:1:7302:622f:2fa0:1010101:0:0:0:https%3a//e72dfa6f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmVkYm94X1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8?ads.wurl_channel=1325&ads.wurl_name=Speedvision&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SPEEDVISION
+#DESCRIPTION SPEEDVISION
+#SERVICE 5002:0:1:5c8c:3770:70bf:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbilliardtv/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BilliardTV
+#DESCRIPTION BilliardTV
+#SERVICE 5002:0:1:d602:baf1:f1e2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GLORY Kickboxing
+#DESCRIPTION GLORY Kickboxing
+#SERVICE 5002:0:1:276b:5022:22cd:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxanthemsportsimpactwrestling/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IMPACT Wrestling Channel
+#DESCRIPTION IMPACT Wrestling Channel
+#SERVICE 5002:0:1:ce00:e16e:6e3b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaclcornhole/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ACL Cornhole
+#DESCRIPTION ACL Cornhole
+#SERVICE 5002:0:1:e756:810c:c76:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nitro Circus
 #DESCRIPTION Nitro Circus
-#SERVICE 5002:0:1:fa2:a9d0:d017:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfightnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fight Network
+#SERVICE 5002:0:1:fa2:7382:820d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfightnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fight Network
 #DESCRIPTION Fight Network
-#SERVICE 5002:0:1:3d59:c476:7669:1010101:0:0:0:https%3a//inverleigh-unbeaten-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-inverleigh-unbeaten-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
+#SERVICE 5002:0:1:3d59:6cce:ce41:1010101:0:0:0:https%3a//inverleigh-unbeaten-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-inverleigh-unbeaten-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten
 #DESCRIPTION Unbeaten
-#SERVICE 5002:0:1:adc0:72d5:d5c6:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hard Knocks Fighting Championship
+#SERVICE 5002:0:1:adc0:ceb6:b6ea:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hard Knocks Fighting Championship
 #DESCRIPTION Hard Knocks Fighting Championship
-#SERVICE 5002:0:1:2a52:bcd5:d514:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra (Geo)
-#DESCRIPTION Bein Sports Xtra (Geo)
-#SERVICE 5002:0:1:6e72:8da8:a8ef:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America
+#SERVICE 5002:0:1:ef3b:ba6f:6f19:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbeinsports/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:beIN Sports
+#DESCRIPTION beIN Sports
+#SERVICE 5002:0:1:6e72:9c7c:7c61:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutdooramerica/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America
 #DESCRIPTION Outdoor America
-#SERVICE 5002:0:1:51eb:6c61:6174:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outside TV+
-#DESCRIPTION Outside TV+
-#SERVICE 5002:0:1:e6cf:ec63:63e5:1010101:0:0:0:https%3a//pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PAC 12 Insider
-#DESCRIPTION PAC 12 Insider
-#SERVICE 5002:0:1:a0e6:9aa:aab3:1010101:0:0:0:https%3a//comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Rewind
+#SERVICE 5002:0:1:456e:f14c:4c09:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxoutsidetv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outside TV
+#DESCRIPTION Outside TV
+#SERVICE 5002:0:1:e853:e78b:8b28:1010101:0:0:0:https%3a//dd73d784.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmVkYm94X01TR1Nwb3J0c1pvbmVfSExT/playlist.m3u8?ads.wurl_channel=1386&ads.wurl_name=MSGSportsZone&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MSG SportsZone
+#DESCRIPTION MSG SportsZone
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Classics & Nostalgia
+#DESCRIPTION RedBox: Classics & Nostalgia
+#SERVICE 5002:0:1:a0e6:b08d:8df8:1010101:0:0:0:https%3a//comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Rewind
 #DESCRIPTION Redbox Rewind
-#SERVICE 5002:0:1:506:6e4f:4f10:1010101:0:0:0:https%3a//baywatch-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-baywatch-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch (Geo)
-#DESCRIPTION Baywatch (Geo)
-#SERVICE 5002:0:1:d4ea:feae:aea2:1010101:0:0:0:https%3a//crackleclassics-redbox.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Classics
+#SERVICE 5002:0:1:9005:26ba:ba21:1010101:0:0:0:https%3a//baywatch-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-baywatch-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
+#DESCRIPTION Baywatch
+#SERVICE 5002:0:1:d4ea:2276:76a9:1010101:0:0:0:https%3a//crackleclassics-redbox.amagi.tv/hls/amagi_hls_data_crackleAA-crackleclassics-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle Classics
 #DESCRIPTION Crackle Classics
-#SERVICE 5002:0:1:46a2:619d:9dc5:1010101:0:0:0:https%3a//shoutfactory-alf-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ALF
+#SERVICE 5002:0:1:46a2:bff8:f8e2:1010101:0:0:0:https%3a//6962cced8042497f86bd17ca6f91d963.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Redbox_ALF/playlist.m3u8?ads.wurl_channel=1183&ads.wurl_name=ALF&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ALF
 #DESCRIPTION ALF
-#SERVICE 5002:0:1:8328:a6cf:cf4c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8?p=redbox&deviceid=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Showtime at the Apollo
-#DESCRIPTION Showtime at the Apollo
-#SERVICE 5002:0:1:d93:73db:db54:1010101:0:0:0:https%3a//974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault80s/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault 80's
-#DESCRIPTION Cinevault 80's
-#SERVICE 5002:0:1:88f2:39ed:ed3d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Classic TV
+#SERVICE 5002:0:1:ee02:a028:28ad:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxshowtimeattheapollo/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Its Showtime At The Apollo
+#DESCRIPTION Its Showtime At The Apollo
+#SERVICE 5002:0:1:fbda:75b1:b161:1010101:0:0:0:https%3a//974e6936323b42fcb0553ebb0a9f3e52.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_Cinevault80s/playlist.m3u8?ads.wurl_channel=691&ads.wurl_name=Cinevault80s&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CINEVAULT%3a 80s
+#DESCRIPTION CINEVAULT: 80s
+#SERVICE 5002:0:1:88f2:421a:1a87:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Classic TV
 #DESCRIPTION FilmRise Classic TV
-#SERVICE 5002:0:1:b998:81c8:c82c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Bob Ross Channel
+#SERVICE 5002:0:1:b998:8b2f:2fec:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbobross/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Bob Ross Channel
 #DESCRIPTION The Bob Ross Channel
-#SERVICE 5002:0:1:e60d:2cb2:b277:1010101:0:0:0:https%3a//johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV OFFLINE
-#DESCRIPTION Johnny Carson TV OFFLINE
-#SERVICE 5002:0:1:15ff:916c:6ccb:1010101:0:0:0:https%3a//shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout Factory TV
-#DESCRIPTION Shout Factory TV
-#SERVICE 5002:0:1:f633:5411:1100:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:American Classics
+#SERVICE 5002:0:1:1b00:3a48:480c:1010101:0:0:0:https%3a//johnnycarson-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-johnnycarson-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 5002:0:1:d2d8:72a6:a6ad:1010101:0:0:0:https%3a//shoutfactory-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-shoutfactorytv/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout! Factory TV
+#DESCRIPTION Shout! Factory TV
+#SERVICE 5002:0:1:f633:d4b7:b7ac:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericanclassics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:American Classics
 #DESCRIPTION American Classics
-#SERVICE 5002:0:1:c1a1:b2c4:c485:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Archive
+#SERVICE 5002:0:1:c1a1:4055:5599:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8??p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Archive
 #DESCRIPTION The Archive
-#SERVICE 5002:0:1:c185:6411:11ac:1010101:0:0:0:https%3a//sci-fi-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-sci-fi/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Faith and Family
-#DESCRIPTION Redbox Faith and Family
-#SERVICE 5002:0:1:4128:3b17:1729:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Family
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Kids & Family
+#DESCRIPTION RedBox: Kids & Family
+#SERVICE 5002:0:1:246:3a4e:4e43:1010101:0:0:0:https%3a//sci-fi-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-sci-fi/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Faith & Family
+#DESCRIPTION Redbox Faith & Family
+#SERVICE 5002:0:1:4128:2b9d:9d42:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Family
 #DESCRIPTION FilmRise Family
-#SERVICE 5002:0:1:c0a2:7a20:206c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdovenow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove Channel
+#SERVICE 5002:0:1:c0a2:c944:44e9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdovenow/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove Channel
 #DESCRIPTION Dove Channel
-#SERVICE 5002:0:1:af42:85e9:e916:1010101:0:0:0:https%3a//d4e4b47f05724d05814819ba38a5408a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheLEGOChannel/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lego Channel
-#DESCRIPTION Lego Channel
-#SERVICE 5002:0:1:a339:1d21:21cf:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxheartland/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Heartland
+#SERVICE 5002:0:1:70e2:fa16:162f:1010101:0:0:0:https%3a//d4e4b47f05724d05814819ba38a5408a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheLEGOChannel/playlist.m3u8?ads.wurl_channel=791&ads.wurl_name=TheLEGOChannel&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The LEGO Channel
+#DESCRIPTION The LEGO Channel
+#SERVICE 5002:0:1:a339:1adb:db80:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxheartland/CDN/playlist.m3u8?p=redbox&device_id=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Heartland
 #DESCRIPTION Heartland
-#SERVICE 5002:0:1:2106:1fc:fc30:1010101:0:0:0:https%3a//7a730d80a1554e0b9c0bd604f276c552.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_BabySharkTV/playlist.m3u8?ads.coppa=0&ads.dnt=0&ads.is_roku_lat=0&ads.language=en&ads.name=BABY%20SHARK%20TV&ads.subp=RedboxWebWindows&ads.sz=0x0&ads.us_privacy=1---&ads.wurl_channel=1223343782&ads.wurl_name=BabySharkTV#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV
-#DESCRIPTION Baby Shark TV
-#SERVICE 5002:0:1:fc62:ba64:6426:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Toon Goggles
+#SERVICE 5002:0:1:7d6a:50c4:c4e7:1010101:0:0:0:https%3a//7a730d80a1554e0b9c0bd604f276c552.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BABY SHARK TV
+#DESCRIPTION BABY SHARK TV
+#SERVICE 5002:0:1:fc62:4940:402a:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtoongoggles/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Toon Goggles
 #DESCRIPTION Toon Goggles
-#SERVICE 5002:0:1:e861:96c2:c22a:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pocket.watch
-#DESCRIPTION Pocket.watch
-#SERVICE 5002:0:1:690:e1fd:fda2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Battery Pop
-#DESCRIPTION Battery Pop
-#SERVICE 5002:0:1:bae2:71ba:ba46:1010101:0:0:0:https%3a//6490c4f30f3848f78e657d20f022d6ed.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_HappyKidsTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happy Kids
-#DESCRIPTION Happy Kids
-#SERVICE 5002:0:1:bc83:2917:17b0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtrinitybroadcastingnetwork/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trinity Broadcasting Network
+#SERVICE 5002:0:1:1684:764e:4e1d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:pocket.watch
+#DESCRIPTION pocket.watch
+#SERVICE 5002:0:1:4593:2e6b:6bd5:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:batteryPop
+#DESCRIPTION batteryPop
+#SERVICE 5002:0:1:396e:b0ed:ed7b:1010101:0:0:0:https%3a//6490c4f30f3848f78e657d20f022d6ed.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_HappyKidsTV/playlist.m3u8?ads.wurl_channel=876&ads.wurl_name=HappyKidsTV&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Happykids
+#DESCRIPTION Happykids
+#SERVICE 5002:0:1:bc83:ca07:761:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtrinitybroadcastingnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trinity Broadcasting Network
 #DESCRIPTION Trinity Broadcasting Network
-#SERVICE 5002:0:1:d58d:e4aa:aab9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LOL Network
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Comedy
+#DESCRIPTION RedBox: Comedy
+#SERVICE 5002:0:1:d58d:8316:16ca:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxlolcomedy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LOL Network
 #DESCRIPTION LOL Network
-#SERVICE 5002:0:1:3e4e:771e:1e21:1010101:0:0:0:https%3a//amc-portlandia-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Portlandia
-#DESCRIPTION AMC Portlandia
-#SERVICE 5002:0:1:3626:a81e:1eab:1010101:0:0:0:https%3a//lionsgate-arewethereyet-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-arewethereyet-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are We There Yet (Geo)
-#DESCRIPTION Are We There Yet (Geo)
-#SERVICE 5002:0:1:9ee3:92f7:f7ce:1010101:0:0:0:https%3a//446b4f00568042eea80eda81ad95595b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheRedGreenChannel/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Red Green channel
-#DESCRIPTION The Red Green channel
-#SERVICE 5002:0:1:59c5:a6ec:ecb3:1010101:0:0:0:https%3a//mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mystery Science Theatre 3000
-#DESCRIPTION Mystery Science Theatre 3000
-#SERVICE 5002:0:1:ce66:a38b:8b03:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fail Army
+#SERVICE 5002:0:1:f990:83f5:f589:1010101:0:0:0:https%3a//244ea2bf58804131938b09e260de0576.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_Portlandia/playlist.m3u8?ads.wurl_channel=928&ads.wurl_name=Portlandia&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Portlandia
+#DESCRIPTION Portlandia
+#SERVICE 5002:0:1:e55:c589:8914:1010101:0:0:0:https%3a//lionsgate-arewethereyet-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-lionsgate-arewethereyet-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are We There Yet
+#DESCRIPTION Are We There Yet
+#SERVICE 5002:0:1:341b:61f8:f8f5:1010101:0:0:0:https%3a//446b4f00568042eea80eda81ad95595b.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_TheRedGreenChannel/playlist.m3u8?ads.wurl_channel=949&ads.wurl_name=TheRedGreenChannel&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Red Green Channel
+#DESCRIPTION The Red Green Channel
+#SERVICE 5002:0:1:6dc6:fca3:a33d:1010101:0:0:0:https%3a//mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K
+#DESCRIPTION MST3K
+#SERVICE 5002:0:1:ce66:c0b0:b0c0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfailarmy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fail Army
 #DESCRIPTION Fail Army
-#SERVICE 5002:0:1:d235:8c31:3144:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
+#SERVICE 5002:0:1:d235:db83:8359:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
 #DESCRIPTION The Pet Collective
-#SERVICE 5002:0:1:61d6:37d:7dc3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Funny Or Die
-#DESCRIPTION Funny Or Die
-#SERVICE 5002:0:1:7f1e:ff18:187b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomedydynamics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics
+#SERVICE 5002:0:1:f7cb:7452:5292:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfunnyordie/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Funny or Die
+#DESCRIPTION Funny or Die
+#SERVICE 5002:0:1:244f:5d18:186a:1010101:0:0:0:https%3a//quip-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-quip-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Quip
+#DESCRIPTION Quip
+#SERVICE 5002:0:1:7f1e:f1e9:e91e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomedydynamics/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Dynamics
 #DESCRIPTION Comedy Dynamics
-#SERVICE 5002:0:1:5f29:56ed:eda4:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just For Laughs Gags
+#SERVICE 5002:0:1:2129:fbe3:e319:1010101:0:0:0:https%3a//6a4f448e48194a9ea3a16a39105eb0eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_SlightlyOffIFC/playlist.m3u8?ads.wurl_channel=564&ads.wurl_name=SlightlyOffIFC&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Slightly Off IFC
+#DESCRIPTION Slightly Off IFC
+#SERVICE 5002:0:1:5f29:fc39:39a0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjustforlaughsgags/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just For Laughs Gags
 #DESCRIPTION Just For Laughs Gags
-#SERVICE 5002:0:1:707e:c8e6:e6e3:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrybar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DryBar Comedy
-#DESCRIPTION DryBar Comedy
-#SERVICE 5002:0:1:787e:303:31a:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chive TV
-#DESCRIPTION Chive TV
-#SERVICE 5002:0:1:1e2b:3bf1:f17c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Test Kitchen
+#SERVICE 5002:0:1:44ba:3c40:40e2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxdrybar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dry Bar Comedy
+#DESCRIPTION Dry Bar Comedy
+#SERVICE 5002:0:1:6c08:2e31:3141:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxchive/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CHIVE TV
+#DESCRIPTION CHIVE TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Food & Home
+#DESCRIPTION RedBox: Food & Home
+#SERVICE 5002:0:1:915:cbb0:b031:1010101:0:0:0:https%3a//jamieoliver-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-jamieoliver-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jamie Oliver
+#DESCRIPTION Jamie Oliver
+#SERVICE 5002:0:1:1e2b:a758:58b9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Test Kitchen
 #DESCRIPTION America's Test Kitchen
-#SERVICE 5002:0:1:8d98:e902:2a0:1010101:0:0:0:https%3a//tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
+#SERVICE 5002:0:1:8d98:b47c:7c98:1010101:0:0:0:https%3a//tastemadefr16min-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16-redbox/CDN/playlist.m3u8?p=Redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
 #DESCRIPTION Tastemade
-#SERVICE 5002:0:1:21d1:76ab:ab26:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food 52
-#DESCRIPTION Food 52
-#SERVICE 5002:0:1:9d2a:a8b0:b082:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bon Appetit
+#SERVICE 5002:0:1:7c14:308c:8cb8:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food52
+#DESCRIPTION Food52
+#SERVICE 5002:0:1:9d2a:faee:ee40:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bon Appetit
 #DESCRIPTION Bon Appetit
-#SERVICE 5002:0:1:35a9:f3a7:a7df:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hungry
+#SERVICE 5002:0:1:11fc:acb8:b841:1010101:0:0:0:https%3a//cookchopchat-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-cookchopchat-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CookChopChat
+#DESCRIPTION CookChopChat
+#SERVICE 5002:0:1:35a9:854:545c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hungry
 #DESCRIPTION Hungry
-#SERVICE 5002:0:1:60af:a203:348:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Design Network
+#SERVICE 5002:0:1:85ca:c700:bf:1010101:0:0:0:https%3a//placesandspaces-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-buzzr-placesandspaces-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Places and Spaces
+#DESCRIPTION Places and Spaces
+#SERVICE 5002:0:1:60af:6c2:c26e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthedesignnetwork/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Design Network
 #DESCRIPTION The Design Network
-#SERVICE 5002:0:1:7946:9615:150f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Architectural Digest
+#SERVICE 5002:0:1:7946:18ca:ca27:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxarchitecturaldigest/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Architectural Digest
 #DESCRIPTION Architectural Digest
-#SERVICE 5002:0:1:9bfe:f026:26ca:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Pop
-#DESCRIPTION Vevo Pop
-#SERVICE 5002:0:1:2ed:cf6b:6b4c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=&subp=RedboxdesktopWebWindows#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo 80s
-#DESCRIPTION Vevo 80s
-#SERVICE 5002:0:1:24fb:bc50:50d0:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayeverything80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Everything 80's
-#DESCRIPTION Stingray Everything 80's
-#SERVICE 5002:0:1:5c35:e430:3076:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Classic Rock
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Music
+#DESCRIPTION RedBox: Music
+#SERVICE 5002:0:1:b014:e47c:7ccb:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo
+#DESCRIPTION Vevo
+#SERVICE 5002:0:1:78c4:17e1:e1e1:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo 80's
+#DESCRIPTION Vevo 80's
+#SERVICE 5002:0:1:3e73:e8a6:a65f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayeverything80s/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Everything 80s
+#DESCRIPTION Stingray Everything 80s
+#SERVICE 5002:0:1:5c35:6efd:fdac:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayclassicrock/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Classic Rock
 #DESCRIPTION Stingray Classic Rock
-#SERVICE 5002:0:1:c395:b708:894:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hit List
-#DESCRIPTION Stingray Hit List
-#SERVICE 5002:0:1:fd57:3610:1018:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Greatest Hits
+#SERVICE 5002:0:1:b397:ec96:96b8:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhitlist/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hitlist
+#DESCRIPTION Stingray Hitlist
+#SERVICE 5002:0:1:fd57:64f5:f58c:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraygreatesthits/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Greatest Hits
 #DESCRIPTION Stingray Greatest Hits
-#SERVICE 5002:0:1:fa20:3ed5:d58d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hot Country
-#DESCRIPTION Stingray Hot Country
-#SERVICE 5002:0:1:3fdc:beaa:aacc:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Soul Storm
+#SERVICE 5002:0:1:6aa3:f3ec:ec44:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingrayhotcountry/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Hot Country Christmas
+#DESCRIPTION Stingray Hot Country Christmas
+#SERVICE 5002:0:1:3fdc:542a:2a91:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Soul Storm
 #DESCRIPTION Stingray Soul Storm
-#SERVICE 5002:0:1:c19b:cc45:45a9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Naturescape
+#SERVICE 5002:0:1:c19b:572f:2f23:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraynaturescape/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Naturescape
 #DESCRIPTION Stingray Naturescape
-#SERVICE 5002:0:1:3f4c:1a9c:9ccb:1010101:0:0:0:https%3a//accuweather-redbox.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AccuWeather Now
-#DESCRIPTION AccuWeather Now
-#SERVICE 5002:0:1:241f:fb91:91bc:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheddar News
-#DESCRIPTION Cheddar News
-#SERVICE 5002:0:1:e669:d58a:8a72:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today (Geo)
-#DESCRIPTION USA Today (Geo)
-#SERVICE 5002:0:1:6bbf:a21b:1bd7:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Television
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: News & Weather
+#DESCRIPTION RedBox: News & Weather
+#SERVICE 5002:0:1:eba3:d358:5805:1010101:0:0:0:https%3a//accuweather-redbox.amagi.tv/hls/amagi_hls_data_accuweath-accuweather-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Accu Weather
+#DESCRIPTION Accu Weather
+#SERVICE 5002:0:1:6160:5edc:dcf2:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcheddar/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheddar
+#DESCRIPTION Cheddar
+#SERVICE 5002:0:1:d89f:5010:105d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxusatoday/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today
+#DESCRIPTION USA Today
+#SERVICE 5002:0:1:6bbf:ad4b:4b13:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Television
 #DESCRIPTION Bloomberg Television
-#SERVICE 5002:0:1:792d:1489:8984:1010101:0:0:0:https%3a//yahoo-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-yahoofinance/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yahoo Finance (Geo)
-#DESCRIPTION Yahoo Finance (Geo)
-#SERVICE 5002:0:1:979b:e31a:1a72:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News
-#DESCRIPTION Scripps News
-#SERVICE 5002:0:1:2939:1817:1749:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBC News
+#SERVICE 5002:0:1:e736:ee47:47d5:1010101:0:0:0:https%3a//yahoo-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-yahoofinance/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:YahooFinance
+#DESCRIPTION YahooFinance
+#SERVICE 5002:0:1:6eda:a7ca:ca67:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnewsy/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsy
+#DESCRIPTION Newsy
+#SERVICE 5002:0:1:2939:ec13:134d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBC News
 #DESCRIPTION CBC News
-#SERVICE 5002:0:1:fa31:e171:7122:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Now This
-#DESCRIPTION Now This
-#SERVICE 5002:0:1:daa1:2fe5:e59f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wired
+#SERVICE 5002:0:1:5ad4:99cd:cd11:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnowthis/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NowThis
+#DESCRIPTION NowThis
+#SERVICE 5002:0:1:daa1:32d0:d008:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxwired/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wired
 #DESCRIPTION Wired
-#SERVICE 5002:0:1:a365:7899:9909:1010101:0:0:0:https%3a//cmg-wftvbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wftvbreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:9 WFTV Now (Geo)
-#DESCRIPTION 9 WFTV Now (Geo)
-#SERVICE 5002:0:1:27c9:af79:7979:1010101:0:0:0:https%3a//cmg-wsocbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsocbreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WSOC 9 Now (Geo)
-#DESCRIPTION WSOC 9 Now (Geo)
-#SERVICE 5002:0:1:265c:415c:5c40:1010101:0:0:0:https%3a//cmg-kirobreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-kirobreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KIRO 7 Seattle (Geo)
-#DESCRIPTION KIRO 7 Seattle (Geo)
-#SERVICE 5002:0:1:8093:221b:1b1a:1010101:0:0:0:https%3a//cmg-wfxtbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wfxtbreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boston 25 News (Geo)
-#DESCRIPTION Boston 25 News (Geo)
-#SERVICE 5002:0:1:5273:d29f:9f6a:1010101:0:0:0:https%3a//cmg-wpxibreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wpxibreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WPXI Now (Geo)
-#DESCRIPTION WPXI Now (Geo)
-#SERVICE 5002:0:1:8cc0:f04:402:1010101:0:0:0:https%3a//cmg-wjaxbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wjaxbreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS 47 Fox30 Action News JAX (Geo)
-#DESCRIPTION CBS 47 Fox30 Action News JAX (Geo)
-#SERVICE 5002:0:1:992b:2978:7860:1010101:0:0:0:https%3a//cmg-whiobreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-whiobreakingnewsredbox/CDN/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WHIO TV Now (Geo)
-#DESCRIPTION WHIO TV Now (Geo)
-#SERVICE 5002:0:1:ff7a:c5bf:bf0d:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpattrn/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebWindows&ssai_req=1&subp=RedboxWebWindows&sz=0x0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pattrn
+#SERVICE 5002:0:1:a364:3fe7:e734:1010101:0:0:0:https%3a//cmg-wsbbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsbbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WSB Breaking News
+#DESCRIPTION WSB Breaking News
+#SERVICE 5002:0:1:9f6:a913:13c8:1010101:0:0:0:https%3a//cmg-wftvbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wftvbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFTV Breaking News
+#DESCRIPTION WFTV Breaking News
+#SERVICE 5002:0:1:8caa:ef98:9822:1010101:0:0:0:https%3a//cmg-wsocbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wsocbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WSOC Breaking News
+#DESCRIPTION WSOC Breaking News
+#SERVICE 5002:0:1:f5bd:d1:d104:1010101:0:0:0:https%3a//cmg-kirobreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-kirobreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KIRO Seattle
+#DESCRIPTION KIRO Seattle
+#SERVICE 5002:0:1:f184:3926:265d:1010101:0:0:0:https%3a//cmg-wfxtbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wfxtbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boston 25
+#DESCRIPTION Boston 25
+#SERVICE 5002:0:1:89ce:d81:81be:1010101:0:0:0:https%3a//cmg-wpxibreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wpxibreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WPXI Breaking News
+#DESCRIPTION WPXI Breaking News
+#SERVICE 5002:0:1:cfdb:ecd8:d867:1010101:0:0:0:https%3a//cmg-wjaxbreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-wjaxbreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Action News Jax
+#DESCRIPTION Action News Jax
+#SERVICE 5002:0:1:c40a:9e0e:ea7:1010101:0:0:0:https%3a//cmg-whiobreakingnews-redbox.amagi.tv/hls/amagi_hls_data_cmgAAAAAA-whiobreakingnewsredbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WHIO Breaking News
+#DESCRIPTION WHIO Breaking News
+#SERVICE 5002:0:1:ff7a:8b48:48ae:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpattrn/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pattrn
 #DESCRIPTION Pattrn
-#SERVICE 5002:0:1:2683:ba83:83b7:1010101:0:0:0:https%3a//tm-es16us-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tm-es16us-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade En Espanol (Geo)
-#DESCRIPTION Tastemade En Espanol (Geo)
-#SERVICE 5002:0:1:faad:d845:4568:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtheweatherchannelespanol/CDN/playlist.m3u8?DNT=0&app_name=Redbox&coppa=0&inv_type=sp&is_lat=0&is_raf=0&is_roku=0&is_roku_lat=0&p=redbox&roku_cust_param=redbox_amagi&rtid=ZIo7aEoJFqAGnTnIoKX2BceOqp7SFwCL2Fr-5SzqV0w&source=RedboxWebWindows&ssai_req=1&subp=RedboxWebWindows&sz=0x0#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Weather Channel en Espanol
-#DESCRIPTION The Weather Channel en Espanol
-#SERVICE 5002:0:1:92fd:65d:5d6e:1010101:0:0:0:https%3a//21f068bc92c4408289525b6d95c9e053.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalCompetencias/playlist.m3u8?ads.coppa=0&ads.dnt=0&ads.is_roku_lat=0&ads.language=en&ads.subp=RedboxWebWindows&ads.sz=0x0&ads.us_privacy=1---&ads.wurl_channel=1007189539&ads.wurl_name=Sony%20Canal%20Competencias#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Competencias
-#DESCRIPTION Sony Canal Competencias
-#SERVICE 5002:0:1:6ebf:23a8:a897:1010101:0:0:0:https%3a//8111cdb914be41de9a96651a8a8d5a5c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalNovelas/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Novelas
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: En Espanol
+#DESCRIPTION RedBox: En Espanol
+#SERVICE 5002:0:1:346e:1900:1c:1010101:0:0:0:https%3a//cde171496b99407db0035623d184a562.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AMCenEspanol/playlist.m3u8?ads.wurl_channel=1228&ads.wurl_name=AMCenEspanol&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC en Español
+#DESCRIPTION AMC en Español
+#SERVICE 5002:0:1:22e3:29e6:e6ab:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxtheweatherchannelespanol/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Weather Channel En Español
+#DESCRIPTION The Weather Channel En Español
+#SERVICE 5002:0:1:6e89:8c5d:5d40:1010101:0:0:0:https%3a//tm-es16us-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tm-es16us-redbox/CDN/playlist.m3u8?p=redbox#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ES16US
+#DESCRIPTION ES16US
+#SERVICE 5002:0:1:6ebf:70aa:aa4d:1010101:0:0:0:https%3a//8111cdb914be41de9a96651a8a8d5a5c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalNovelas/playlist.m3u8?ads.wurl_channel=694&ads.wurl_name=SonyCanalNovelas&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Novelas
 #DESCRIPTION Sony Canal Novelas
-#SERVICE 5002:0:1:1860:8320:20e3:1010101:0:0:0:https%3a//b987e5dd92fa4a0cb7c2f7d3f266b6c3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalComedias/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Comedias
+#SERVICE 5002:0:1:92fd:47db:db30:1010101:0:0:0:https%3a//21f068bc92c4408289525b6d95c9e053.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalCompetencias/playlist.m3u8?ads.wurl_channel=692&ads.wurl_name=SonyCanalCompetencias&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Competencias
+#DESCRIPTION Sony Canal Competencias
+#SERVICE 5002:0:1:1860:f881:8154:1010101:0:0:0:https%3a//b987e5dd92fa4a0cb7c2f7d3f266b6c3.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalComedias/playlist.m3u8?ads.wurl_channel=693&ads.wurl_name=SonyCanalComedias&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.coppa=%7Bcoppa%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Comedias
 #DESCRIPTION Sony Canal Comedias
-#SERVICE 5002:0:1:741d:d7da:da6b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxuptvcineromantico/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Romantico
+#SERVICE 5002:0:1:741d:ddea:eae9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxuptvcineromantico/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Romantico
 #DESCRIPTION Cine Romantico
-#SERVICE 5002:0:1:c81d:b603:3fb:1010101:0:0:0:https%3a//qvchsn-hsn-2-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HSN
+#SERVICE 1:64:0:0:0:0:0:0:0:0::RedBox: Travel & Lifestyle
+#DESCRIPTION RedBox: Travel & Lifestyle
+#SERVICE 5002:0:1:c81d:8c70:7037:1010101:0:0:0:https%3a//qvchsn-hsn-2-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HSN
 #DESCRIPTION HSN
-#SERVICE 5002:0:1:ed60:5bf6:f6fe:1010101:0:0:0:https%3a//qvchsn-qvc-2-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:QVC
+#SERVICE 5002:0:1:ed60:81b7:b78b:1010101:0:0:0:https%3a//qvchsn-qvc-2-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:QVC
 #DESCRIPTION QVC
-#SERVICE 5002:0:1:84df:6162:622a:1010101:0:0:0:https%3a//amc-allweddings-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Weddings WE TV
-#DESCRIPTION All Weddings WE TV
-#SERVICE 5002:0:1:1929:9470:70a5:1010101:0:0:0:https%3a//lovestoriestv-lovestoriestv-1-us.redbox.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Stories Tv
-#DESCRIPTION Love Stories Tv
-#SERVICE 5002:0:1:8949:8a62:6273:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People are Awesome
-#DESCRIPTION People are Awesome
-#SERVICE 5002:0:1:4630:f1e4:e419:1010101:0:0:0:https%3a//tastemadetravel-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-tarvel-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Travel
+#SERVICE 5002:0:1:5826:d87e:7ebd:1010101:0:0:0:https%3a//138c87d932d843fba278cb698a90e08c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Weddings WE tv
+#DESCRIPTION All Weddings WE tv
+#SERVICE 5002:0:1:2886:9830:30ac:1010101:0:0:0:https%3a//2a99b69896764d8f99233b0bc3560a51.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Redbox_LoveStoriesTV/playlist.m3u8?ads.wurl_channel=1061&ads.wurl_name=LoveStoriesTV&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Stories TV
+#DESCRIPTION Love Stories TV
+#SERVICE 5002:0:1:21db:2ae3:e3f4:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpeopleareawesome/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People Are Awesome
+#DESCRIPTION People Are Awesome
+#SERVICE 5002:0:1:4630:e528:282f:1010101:0:0:0:https%3a//tastemadetravel-redbox.amagi.tv/hls/amagi_hls_data_tastemade-tastemade-tarvel-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade Travel
 #DESCRIPTION Tastemade Travel
-#SERVICE 5002:0:1:5bdc:fbac:ac3f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go Traveler
+#SERVICE 5002:0:1:5bdc:bc29:290f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go Traveler
 #DESCRIPTION Go Traveler
-#SERVICE 5002:0:1:bccb:9ca8:a8ef:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumotravellifestyle/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xumo Travel and Lifestyle TV
-#DESCRIPTION Xumo Travel and Lifestyle TV
-#SERVICE 5002:0:1:f598:f09a:9a41:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Complex
+#SERVICE 5002:0:1:4ce9:e7fc:fcc7:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxxumotravellifestyle/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XUMO Travel & Lifestyle
+#DESCRIPTION XUMO Travel & Lifestyle
+#SERVICE 5002:0:1:f598:135f:5f31:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcomplex/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Complex
 #DESCRIPTION Complex
-#SERVICE 5002:0:1:1d18:ee18:187b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Backstage (Geo)
-#DESCRIPTION Backstage (Geo)
-#SERVICE 5002:0:1:fe83:6103:3a9:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle TV
+#SERVICE 5002:0:1:61fc:81d:1d2f:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FUSE
+#DESCRIPTION FUSE
+#SERVICE 5002:0:1:fe83:9670:70cd:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcircletv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle TV
 #DESCRIPTION Circle TV
-#SERVICE 5002:0:1:c575:f95d:5dba:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaxstv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AXS TV Now
-#DESCRIPTION AXS TV Now
-#SERVICE 5002:0:1:45af:a90e:e66:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Journy
+#SERVICE 5002:0:1:a778:b96e:6e00:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxaxstv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AXS TV NOW
+#DESCRIPTION AXS TV NOW
+#SERVICE 5002:0:1:45af:5940:40f7:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Journy
 #DESCRIPTION Journy
-#SERVICE 5002:0:1:deaf:209e:9e43:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Weather Spy
-#DESCRIPTION Weather Spy
-#SERVICE 5002:0:1:d792:adde:de51:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GQ
+#SERVICE 5002:0:1:cdb9:653a:3a89:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxweatherspy/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Weatherspy
+#DESCRIPTION Weatherspy
+#SERVICE 5002:0:1:d792:c824:249e:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GQ
 #DESCRIPTION GQ
-#SERVICE 5002:0:1:6052:23c7:c730:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glamour
+#SERVICE 5002:0:1:6052:151:519b:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglamour/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glamour
 #DESCRIPTION Glamour
-#SERVICE 5002:0:1:759b:3625:2558:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vanity Fair
+#SERVICE 5002:0:1:759b:da21:2151:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vanity Fair
 #DESCRIPTION Vanity Fair
-#SERVICE 5002:0:1:555a:c4ec:ecbc:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vogue
+#SERVICE 5002:0:1:555a:6ec5:c533:1010101:0:0:0:https%3a//dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvogue/CDN/playlist.m3u8?p=redbox&subp=&is_lat=&device_id=#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vogue
 #DESCRIPTION Vogue
