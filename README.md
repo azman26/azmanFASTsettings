@@ -31,4 +31,4 @@ Poza oficjalnymi pluginami wymagane są też autorskie pluginy j00zka ( _pilot
 - Samsung TV Plus All, Pluto TV All, Srirr, Plex - jest to kopia 1:1 list których autorem jest @Matt Huisman
 
 
-Przy tworzeniu powyższych list wykorzystano pracę kolegów @zet71, @doglover, @dreamboxxrend, @ciefp, @technl, @zvirek13, @matthuisman, @Apsatv
+Przy tworzeniu powyższych list wykorzystano pracę kolegów @zet71, @doglover, @dreamboxxrend, @ciefp, @technl, @zvirek13, @matthuisman, @Apsattv
