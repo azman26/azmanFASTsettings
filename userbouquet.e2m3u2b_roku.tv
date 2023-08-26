@@ -463,8 +463,6 @@
 #DESCRIPTION iHeart The Beat
 #SERVICE 5002:0:1:e5af:bc97:97ba:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Biggest Pop
 #DESCRIPTION MTV Biggest Pop
-#SERVICE 5002:0:1:db53:6d69:6970:1010101:0:0:0:https%3a//live704.delivery.roku.com/t283f5a09b367849d8#acd150a8d27b7569/live.m3u8 https%3a//live571.delivery.roku.com/t2103af310964a4d50#a36519077c0234bd/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WMX POP (Geo)
-#DESCRIPTION WMX POP (Geo)
 #SERVICE 5002:0:1:7c6f:e490:903a:1010101:0:0:0:https%3a//live610.delivery.roku.com/t2-origin/out/v1/267d9ad7-d942-4680-9ebc-2c5d7905a475/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Pop (Geo)
 #DESCRIPTION VEVO Pop (Geo)
 #SERVICE 5002:0:1:fd70:95a6:a624:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Yo!
@@ -477,8 +475,6 @@
 #DESCRIPTION VEVO R&B (Geo)
 #SERVICE 5002:0:1:81f2:e805:5e4:1010101:0:0:0:https%3a//live603.delivery.roku.com/t2-origin/out/v1/bea82980-82c1-45e6-8665-c373af71899a/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Hip Hop (Geo)
 #DESCRIPTION VEVO Hip Hop (Geo)
-#SERVICE 5002:0:1:842b:9b99:99ad:1010101:0:0:0:https%3a//live257.delivery.roku.com/t2-origin/out/v1/b6f8727d0b7b41fb#ae7493d2d964af04/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WMX Hip Hop (Geo)
-#DESCRIPTION WMX Hip Hop (Geo)
 #SERVICE 5002:0:1:89f3:2130:3063:1010101:0:0:0:https%3a//iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart Country
 #DESCRIPTION iHeart Country
 #SERVICE 5002:0:1:fe9f:ae9b:9be2:1010101:0:0:0:https%3a//live600.delivery.roku.com/t2-origin/out/v1/0667dde2-16ae-4392-8881-ff362c134505/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Country (Geo)
