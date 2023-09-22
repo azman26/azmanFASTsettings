@@ -1,0 +1,259 @@
+#NAME Xumo
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 5002:0:1:2b05:bf33:330c:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951133#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch (Geo)
+#DESCRIPTION Baywatch (Geo)
+#SERVICE 5002:0:1:fcf2:9ac3:c354:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951142#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Swerve Sports (Geo)
+#DESCRIPTION Swerve Sports (Geo)
+#SERVICE 5002:0:1:8495:a816:1647:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951155#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revolt
+#DESCRIPTION Revolt
+#SERVICE 5002:0:1:ee0b:2b9e:9e9f:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951179#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Campuslore Sports
+#DESCRIPTION Campuslore Sports
+#SERVICE 5002:0:1:8d5c:37fc:fc51:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951184#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Kal
+#DESCRIPTION Sony Kal
+#SERVICE 5002:0:1:5c4e:4f0d:d35:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951194#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Comedias
+#DESCRIPTION Sony Canal Comedias
+#SERVICE 5002:0:1:52bc:ccc1:c102:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951195#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PBS Nature (Geo)
+#DESCRIPTION PBS Nature (Geo)
+#SERVICE 5002:0:1:423a:67ec:ec31:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951201#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV (Geo)
+#DESCRIPTION Gusto TV (Geo)
+#SERVICE 5002:0:1:dd94:6451:51e1:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951203#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PFL
+#DESCRIPTION PFL
+#SERVICE 5002:0:1:dcd4:8939:393b:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951139#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Weather Channel Espanol
+#DESCRIPTION The Weather Channel Espanol
+#SERVICE 5002:0:1:f71e:5109:995:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951140#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Americatele
+#DESCRIPTION Americatele
+#SERVICE 5002:0:1:3fc1:2b1f:1f1e:1010101:0:0:0:https%3a//d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951143#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ted Conferences
+#DESCRIPTION Ted Conferences
+#SERVICE 5002:0:1:f789:1f21:21a4:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951152#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Grit Xtra
+#DESCRIPTION Grit Xtra
+#SERVICE 5002:0:1:2bd2:c752:523a:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951153#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jamie Oliver Channel
+#DESCRIPTION The Jamie Oliver Channel
+#SERVICE 5002:0:1:6c3e:27e4:e48f:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951156#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:At Home With Family HandyMan
+#DESCRIPTION At Home With Family HandyMan
+#SERVICE 5002:0:1:beb4:bdc5:c598:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951157#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ion Mystery
+#DESCRIPTION Ion Mystery
+#SERVICE 5002:0:1:dd97:5f6a:6a7c:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951158#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION
+#DESCRIPTION ION
+#SERVICE 5002:0:1:2c02:ea78:789e:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951162#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC SF Bay Area (Geo)
+#DESCRIPTION NBC SF Bay Area (Geo)
+#SERVICE 5002:0:1:5145:3138:3835:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951163#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC NY News (Geo)
+#DESCRIPTION NBC NY News (Geo)
+#SERVICE 5002:0:1:4f80:afde:dea2:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951164#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Los Angeles News (Geo)
+#DESCRIPTION NBC Los Angeles News (Geo)
+#SERVICE 5002:0:1:f7fe:d28e:8e05:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951165#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Chicago News (Geo)
+#DESCRIPTION NBC Chicago News (Geo)
+#SERVICE 5002:0:1:a7a2:af42:4221:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951166#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Phildelphia News (Geo)
+#DESCRIPTION NBC Phildelphia News (Geo)
+#SERVICE 5002:0:1:b76f:3a73:73fd:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951167#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Florida News (Geo)
+#DESCRIPTION NBC Florida News (Geo)
+#SERVICE 5002:0:1:304e:e2a6:a635:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951168#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Boston News (Geo)
+#DESCRIPTION NBC Boston News (Geo)
+#SERVICE 5002:0:1:95e1:2d7:d7e5:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951177#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Food
+#DESCRIPTION BBC Food
+#SERVICE 5002:0:1:9d2a:b280:8085:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951178#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Home
+#DESCRIPTION BBC Home
+#SERVICE 5002:0:1:a36c:e1ed:edd8:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951180#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strongmans Champion League
+#DESCRIPTION Strongmans Champion League
+#SERVICE 5002:0:1:36e3:ce2d:2dbc:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951181#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Washington D.C News (Geo)
+#DESCRIPTION NBC Washington D.C News (Geo)
+#SERVICE 5002:0:1:aaa6:59fd:fd10:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951182#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Dallas Fortworth News (Geo)
+#DESCRIPTION NBC Dallas Fortworth News (Geo)
+#SERVICE 5002:0:1:2f56:cbed:ed42:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951183#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Connecticut News (Geo)
+#DESCRIPTION NBC Connecticut News (Geo)
+#SERVICE 5002:0:1:ad3:65ed:edee:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99951185#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC San Diego News (Geo)
+#DESCRIPTION NBC San Diego News (Geo)
+#SERVICE 5002:0:1:c99e:3b00:83:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951196#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motortrend Fast TV
+#DESCRIPTION Motortrend Fast TV
+#SERVICE 5002:0:1:95e5:9411:11f9:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951197#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters Now
+#DESCRIPTION Reuters Now
+#SERVICE 5002:0:1:8ddc:a254:54fb:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951206#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PBS Antiques Roadshow USA
+#DESCRIPTION PBS Antiques Roadshow USA
+#SERVICE 5002:0:1:7d99:2498:9827:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99951208#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Coindesk.TV
+#DESCRIPTION Coindesk.TV
+#SERVICE 5002:0:1:e2b0:fc91:9190:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951212#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gardening with Monty Don
+#DESCRIPTION Gardening with Monty Don
+#SERVICE 5002:0:1:225c:86c4:c4f1:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951213#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Britbox Mysteries
+#DESCRIPTION Britbox Mysteries
+#SERVICE 5002:0:1:dafd:286c:6c67:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951215#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Wine
+#DESCRIPTION Love Wine
+#SERVICE 5002:0:1:665a:1977:77d1:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951217#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Aspire TV Life
+#DESCRIPTION Aspire TV Life
+#SERVICE 5002:0:1:ea6a:26a3:a3cf:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951223#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sky News
+#DESCRIPTION Sky News
+#SERVICE 5002:0:1:f733:51ea:ea61:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951224#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Celebrity Name Game
+#DESCRIPTION Celebrity Name Game
+#SERVICE 5002:0:1:10c2:780d:d97:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951225#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Telemundo California
+#DESCRIPTION Telemundo California
+#SERVICE 5002:0:1:52d4:feff:ff87:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951226#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Telemundo Texas
+#DESCRIPTION Telemundo Texas
+#SERVICE 5002:0:1:d42f:4ee7:e713:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951227#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Telemundo Florida
+#DESCRIPTION Telemundo Florida
+#SERVICE 5002:0:1:296b:a1ed:ed56:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951228#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Telemundo Northeast
+#DESCRIPTION Telemundo Northeast
+#SERVICE 5002:0:1:e9ce:b656:565b:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951229#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ninja Kids TV
+#DESCRIPTION Ninja Kids TV
+#SERVICE 5002:0:1:6c39:7cf6:f6ec:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951230#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Maximum Effort (Geo)
+#DESCRIPTION Maximum Effort (Geo)
+#SERVICE 5002:0:1:5401:243:4346:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951231#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Earth
+#DESCRIPTION BBC Earth
+#SERVICE 5002:0:1:4b37:b49d:9d78:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951232#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Laff More
+#DESCRIPTION Laff More
+#SERVICE 5002:0:1:f59f:59a:9ab3:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951233#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV Legendary Trials
+#DESCRIPTION Court TV Legendary Trials
+#SERVICE 5002:0:1:59d1:700:19:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951234#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Oxygen True Crime Archives
+#DESCRIPTION Oxygen True Crime Archives
+#SERVICE 5002:0:1:4ae1:95d5:d557:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951235#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:E! Keeping up with the Kardashians
+#DESCRIPTION E! Keeping up with the Kardashians
+#SERVICE 5002:0:1:c04:7fd7:d73e:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951236#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SNL Vault
+#DESCRIPTION SNL Vault
+#SERVICE 5002:0:1:2b05:9df1:f1f5:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951238#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Chef Vault
+#DESCRIPTION Top Chef Vault
+#SERVICE 5002:0:1:160c:9497:9769:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951239#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Murder She Wrote
+#DESCRIPTION Murder She Wrote
+#SERVICE 5002:0:1:62b9:d144:4453:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951240#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Little House on the Prarie
+#DESCRIPTION Little House on the Prarie
+#SERVICE 5002:0:1:84b4:a74f:4f17:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951241#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bad Girls Club
+#DESCRIPTION Bad Girls Club
+#SERVICE 5002:0:1:eb3b:55bc:bc47:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951242#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Million Dollar Listing Vault
+#DESCRIPTION Million Dollar Listing Vault
+#SERVICE 5002:0:1:78da:574f:4f35:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951243#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bravo Real Housewives Vault
+#DESCRIPTION Bravo Real Housewives Vault
+#SERVICE 5002:0:1:884:9e9:e926:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951244#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TNBC
+#DESCRIPTION TNBC
+#SERVICE 5002:0:1:d3a4:ae1b:1b90:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951245#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Universal Crime
+#DESCRIPTION Universal Crime
+#SERVICE 5002:0:1:f2ed:a8a8:a879:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951246#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:American Crimes
+#DESCRIPTION American Crimes
+#SERVICE 5002:0:1:3e37:8b3:b344:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951247#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Saved by the Bell
+#DESCRIPTION Saved by the Bell
+#SERVICE 5002:0:1:6db6:a14d:4db9:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951248#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Doctor Who
+#DESCRIPTION BBC Doctor Who
+#SERVICE 5002:0:1:e838:ce1e:1e92:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951250#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outer Sphere by Lionsgate
+#DESCRIPTION Outer Sphere by Lionsgate
+#SERVICE 5002:0:1:1f9b:2f92:9267:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951251#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Sphere by Lionsgate
+#DESCRIPTION Movie Sphere by Lionsgate
+#SERVICE 5002:0:1:280b:45ee:eecc:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951253#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Sports
+#DESCRIPTION NBC Sports
+#SERVICE 5002:0:1:e8a7:9bad:adfb:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951254#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Universal Action
+#DESCRIPTION Universal Action
+#SERVICE 5002:0:1:da7f:2ecc:ccc2:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951255#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Universal Westerns
+#DESCRIPTION Universal Westerns
+#SERVICE 5002:0:1:4b20:906b:6b59:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951256#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alfred Hitchcock Presents
+#DESCRIPTION Alfred Hitchcock Presents
+#SERVICE 5002:0:1:4b8f:7db8:b829:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951257#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Made in Chelsea
+#DESCRIPTION Made in Chelsea
+#SERVICE 5002:0:1:4b9d:f3bf:bf1d:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951258#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lone Ranger
+#DESCRIPTION Lone Ranger
+#SERVICE 5002:0:1:a7c:b01b:1bd4:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99951259#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lassie
+#DESCRIPTION Lassie
+#SERVICE 5002:0:1:6360:e89c:9c36:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/master.m3u8?ads.channelId=99991101#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:So Yummy!
+#DESCRIPTION So Yummy!
+#SERVICE 5002:0:1:8eba:a6d5:d576:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991103#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Soul
+#DESCRIPTION Fox Soul
+#SERVICE 5002:0:1:652d:b9a9:a908:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991131#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle TV
+#DESCRIPTION Circle TV
+#SERVICE 5002:0:1:f5cf:510e:ec0:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991143#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pac 12 Insider
+#DESCRIPTION Pac 12 Insider
+#SERVICE 5002:0:1:bc27:d20f:f78:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991148#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News
+#DESCRIPTION Scripps News
+#SERVICE 5002:0:1:c125:aa44:4424:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991188#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Grid
+#DESCRIPTION Sports Grid
+#SERVICE 5002:0:1:7181:a987:8783:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/master.m3u8?ads.channelId=99991194#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax
+#DESCRIPTION Newsmax
+#SERVICE 5002:0:1:ed46:8da:daf8:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951210#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Craftsy TV
+#DESCRIPTION Craftsy TV
+#SERVICE 5002:0:1:f87c:f8de:dea0:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951221#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Property and Reno
+#DESCRIPTION Property and Reno
+#SERVICE 5002:0:1:dedc:4fd6:d6b1:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951260#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:4 Emergency
+#DESCRIPTION 4 Emergency
+#SERVICE 5002:0:1:1559:7a08:83b:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951261#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:4 Adventure
+#DESCRIPTION 4 Adventure
+#SERVICE 5002:0:1:241e:1398:9867:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99951262#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Disaster Channel (Geo)
+#DESCRIPTION Real Disaster Channel (Geo)
+#SERVICE 5002:0:1:242f:ca89:8994:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Today Allday
+#DESCRIPTION Today Allday
+#SERVICE 5002:0:1:6172:3478:783b:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News Now
+#DESCRIPTION NBC News Now
+#SERVICE 5002:0:1:9e5b:9371:7181:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991252#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Naturescape
+#DESCRIPTION Stingray Naturescape
+#SERVICE 5002:0:1:41d:526b:6b93:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991265#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shout! TV
+#DESCRIPTION Shout! TV
+#SERVICE 5002:0:1:3072:6d1b:1b86:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991278#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Glory Kick Boxing
+#DESCRIPTION Glory Kick Boxing
+#SERVICE 5002:0:1:f6db:bca9:a9e1:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991279#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:USA Today Sports
+#DESCRIPTION USA Today Sports
+#SERVICE 5002:0:1:1d53:6f3b:3b6e:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991280#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Escapes
+#DESCRIPTION Escapes
+#SERVICE 5002:0:1:b497:cf22:221c:1010101:0:0:0:https%3a//d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991287#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Usa Today (Geo)
+#DESCRIPTION Usa Today (Geo)
+#SERVICE 5002:0:1:a539:eb5a:5ad8:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991296#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revry
+#DESCRIPTION Revry
+#SERVICE 5002:0:1:fdee:382b:2b17:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991303#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Backstage (Geo)
+#DESCRIPTION Backstage (Geo)
+#SERVICE 5002:0:1:6bd8:e373:736d:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991394#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Antiques Roadshow UK (Geo)
+#DESCRIPTION BBC Antiques Roadshow UK (Geo)
+#SERVICE 5002:0:1:56d1:809e:9ecd:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991326#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pocket.Watch
+#DESCRIPTION Pocket.Watch
+#SERVICE 5002:0:1:b74b:62e7:e7d3:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991328#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV
+#DESCRIPTION Gusto TV
+#SERVICE 5002:0:1:42:d22:22c8:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991358#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint
+#DESCRIPTION Waypoint
+#SERVICE 5002:0:1:7a1f:31ae:aed3:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/master.m3u8?ads.channelId=99991359#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fubo Sports (Geo)
+#DESCRIPTION Fubo Sports (Geo)
+#SERVICE 5002:0:1:b12e:5ec4:c4cb:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991365#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger TV
+#DESCRIPTION Danger TV
+#SERVICE 5002:0:1:f223:748d:8d46:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991380#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hungry
+#DESCRIPTION Hungry
+#SERVICE 5002:0:1:f0ac:51f6:f6a8:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991398#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LoveNature
+#DESCRIPTION LoveNature
+#SERVICE 5002:0:1:8b69:7e6:e6a1:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991616#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K (Geo)
+#DESCRIPTION MST3K (Geo)
+#SERVICE 5002:0:1:85d9:687b:7b12:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/playlist.m3u8?ads.channelId=99991621#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rotten Tomatoes (Geo)
+#DESCRIPTION Rotten Tomatoes (Geo)
+#SERVICE 5002:0:1:fb1a:cf1a:1a03:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News Now alt
+#DESCRIPTION NBC News Now alt
+#SERVICE 5002:0:1:6139:76f7:f7ff:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991628#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wild Earth
+#DESCRIPTION Wild Earth
+#SERVICE 5002:0:1:d1b5:a17:177c:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/playlist.m3u8?ads.xumo_channelId=99991633#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Poker Go!
+#DESCRIPTION Poker Go!
+#SERVICE 5002:0:1:20b3:f2a5:a56f:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991635#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Live Now (Geo)
+#DESCRIPTION Fox Live Now (Geo)
+#SERVICE 5002:0:1:873a:36ad:adcf:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991649#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AccuWeather Now (Geo)
+#DESCRIPTION AccuWeather Now (Geo)
+#SERVICE 5002:0:1:f197:c754:54ca:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Home
+#DESCRIPTION NBC Home
+#SERVICE 5002:0:1:36f7:7206:61f:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991660#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC Golf Pass
+#DESCRIPTION NBC Golf Pass
+#SERVICE 5002:0:1:c35e:d1b0:b0ab:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991661#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spartan TV (Geo)
+#DESCRIPTION Spartan TV (Geo)
+#SERVICE 5002:0:1:c6d5:1088:88f2:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991675#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America (Geo)
+#DESCRIPTION Racing America (Geo)
+#SERVICE 5002:0:1:91f8:8f77:77ee:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991693#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homeful
+#DESCRIPTION Homeful
+#SERVICE 5002:0:1:9ba8:ca10:101e:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991694#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fox Weather Live (Geo)
+#DESCRIPTION Fox Weather Live (Geo)
+#SERVICE 5002:0:1:906b:d1a:1a99:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991713#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
+#DESCRIPTION Court TV
+#SERVICE 5002:0:1:a117:c93d:3dbb:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991743#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade En Espanol (Geo)
+#DESCRIPTION Tastemade En Espanol (Geo)
+#SERVICE 5002:0:1:7999:e697:97b0:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991746#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Estrella TV
+#DESCRIPTION Estrella TV
+#SERVICE 5002:0:1:6541:8a60:6074:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991757#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle
+#DESCRIPTION Crackle
+#SERVICE 5002:0:1:c3a9:294e:4e74:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991765#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xplore
+#DESCRIPTION Xplore
+#SERVICE 5002:0:1:36a6:7068:6850:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991773#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Loupe
+#DESCRIPTION Loupe
+#SERVICE 5002:0:1:2491:e37f:7fcc:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991776#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Estrella News
+#DESCRIPTION Estrella News
+#SERVICE 5002:0:1:cdef:2615:152d:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991781#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Impossible
+#DESCRIPTION BBC Impossible
+#SERVICE 5002:0:1:9c13:f13:135a:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991785#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Sports Xtra Espanol
+#DESCRIPTION Bein Sports Xtra Espanol
+#SERVICE 5002:0:1:635:b2ec:ec35:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/playlist.m3u8?ads.channelId=99991786#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Origin Sports
+#DESCRIPTION Origin Sports
+#SERVICE 5002:0:1:ea6a:26a3:a3cf:1010101:0:0:0:https%3a//d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sky News
+#DESCRIPTION Sky News
+#SERVICE 5002:0:1:f75c:87d3:d324:1010101:0:0:0:https%3a//d2vv1kwm3dofeu.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-publica-hlsv3/master.m3u8?ads.channelId=99992215#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fubo Sports alt (Geo)
+#DESCRIPTION Fubo Sports alt (Geo)
