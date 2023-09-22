@@ -1,16 +1,42 @@
 #NAME LG
 #SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
 #DESCRIPTION NoGroup
-#SERVICE 5002:0:1:5a65:d5fd:fde1:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c17-lg-au-340.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go! (AU) Geo
-#DESCRIPTION 123 Go! (AU) Geo
+#SERVICE 5002:0:1:2102:5cb0:b0f7:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go! English (AU) Geo
+#DESCRIPTION 123 Go! English (AU) Geo
+#SERVICE 5002:0:1:4a53:f155:55a4:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c9-lg-au-342.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go English (AU) Alt 1
+#DESCRIPTION 123 Go English (AU) Alt 1
+#SERVICE 5002:0:1:8d8c:aefb:fb6f:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c17-lg-au-340.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go English (AU) Alt 2
+#DESCRIPTION 123 Go English (AU) Alt 2
+#SERVICE 5002:0:1:7a8a:787f:7fea:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go Spanish (AR)
+#DESCRIPTION 123 Go Spanish (AR)
+#SERVICE 5002:0:1:c315:568f:8f45:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go Spanish (CL)
+#DESCRIPTION 123 Go Spanish (CL)
+#SERVICE 5002:0:1:85d1:fcc0:c08f:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-co-585.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgco/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go Spanish (CO)
+#DESCRIPTION 123 Go Spanish (CO)
+#SERVICE 5002:0:1:f8e5:4408:87d:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go Spanish (MX)
+#DESCRIPTION 123 Go Spanish (MX)
+#SERVICE 5002:0:1:5e94:330b:b8c:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-pe-587.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:123 Go Spanish (PE)
+#DESCRIPTION 123 Go Spanish (PE)
+#SERVICE 5002:0:1:d603:7c9:c92f:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (AR)
+#DESCRIPTION 5 Minute Crafts Spanish (AR)
+#SERVICE 5002:0:1:a466:89aa:aa38:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c18-lg-ar-551.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (AR) Alt
+#DESCRIPTION 5 Minute Crafts Spanish (AR) Alt
 #SERVICE 5002:0:1:dd4:f436:36a0:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-cl-584.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (CL)
 #DESCRIPTION 5 Minute Crafts Spanish (CL)
+#SERVICE 5002:0:1:832e:6f5f:5f58:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c18-lg-cl-553.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (CL) Alt
+#DESCRIPTION 5 Minute Crafts Spanish (CL) Alt
 #SERVICE 5002:0:1:8632:91e3:e319:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-co-585.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgco/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (CO)
 #DESCRIPTION 5 Minute Crafts Spanish (CO)
+#SERVICE 5002:0:1:684c:eec1:c11f:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c18-lg-co-558.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgco/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (CO) Alt
+#DESCRIPTION 5 Minute Crafts Spanish (CO) Alt
 #SERVICE 5002:0:1:ef7f:aaa1:a1b5:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-mx-586.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (MX)
 #DESCRIPTION 5 Minute Crafts Spanish (MX)
+#SERVICE 5002:0:1:6c09:417d:7d02:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c18-lg-mx-559.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (MX) Alt
+#DESCRIPTION 5 Minute Crafts Spanish (MX) Alt
 #SERVICE 5002:0:1:f9d6:89cb:cb52:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c3-lg-pe-587.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (PE)
 #DESCRIPTION 5 Minute Crafts Spanish (PE)
+#SERVICE 5002:0:1:2d0c:1e80:8075:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c18-lg-pe-560.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Minute Crafts Spanish (PE) Alt
+#DESCRIPTION 5 Minute Crafts Spanish (PE) Alt
 #SERVICE 5002:0:1:e0d:6ec5:c51e:1010101:0:0:0:https%3a//accuweatherx-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Accuweather
 #DESCRIPTION Accuweather
 #SERVICE 5002:0:1:8312:118f:8f61:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/accuweath-accuweather-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Accuweather Geo
@@ -41,6 +67,16 @@
 #DESCRIPTION All Real (US) Geo
 #SERVICE 5002:0:1:a75:ac72:7254:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/lgAAAAAAA-banijay-allreal-lg-us/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Real alt (US) Geo
 #DESCRIPTION All Real alt (US) Geo
+#SERVICE 5002:0:1:8089:8631:3188:1010101:0:0:0:https%3a//amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC All Reality (US)
+#DESCRIPTION AMC All Reality (US)
+#SERVICE 5002:0:1:43a1:f834:34f1:1010101:0:0:0:https%3a//amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Espanol (US)
+#DESCRIPTION AMC Espanol (US)
+#SERVICE 5002:0:1:15f0:e28d:8d6f:1010101:0:0:0:https%3a//amc-amcpresents-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Stories (US)
+#DESCRIPTION AMC Stories (US)
+#SERVICE 5002:0:1:9af1:dcab:ab56:1010101:0:0:0:https%3a//amc-portlandia-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC Portlandia (US)
+#DESCRIPTION AMC Portlandia (US)
+#SERVICE 5002:0:1:b314:f20d:de6:1010101:0:0:0:https%3a//amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMD The Walking Dead Fan Experience (US)
+#DESCRIPTION AMD The Walking Dead Fan Experience (US)
 #SERVICE 5002:0:1:894d:c093:9345:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Anger Management (US)
 #DESCRIPTION Anger Management (US)
 #SERVICE 5002:0:1:a045:a16e:6e13:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are we There Yet (US)
@@ -75,6 +111,8 @@
 #DESCRIPTION Autentic Spiegel TV Konflikte (AT)
 #SERVICE 5002:0:1:b5a2:c1f6:f63a:1010101:0:0:0:https%3a//autentic-spiegeltv-konflikte-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autentic Spiegel TV Konflikte (DE)
 #DESCRIPTION Autentic Spiegel TV Konflikte (DE)
+#SERVICE 5002:0:1:fcd4:8c79:793f:1010101:0:0:0:https%3a//autentic-spiegeltv-konflikte-1-ch.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autentic Spiegel TV Konflikte (CH)
+#DESCRIPTION Autentic Spiegel TV Konflikte (CH)
 #SERVICE 5002:0:1:8fd6:b827:2790:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-be.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (BE)
 #DESCRIPTION Autoallstars (BE)
 #SERVICE 5002:0:1:6f1b:6e2:e2b3:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (DE)
@@ -89,6 +127,8 @@
 #DESCRIPTION Autoallstars (IE)
 #SERVICE 5002:0:1:ef77:5377:77cd:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (IT)
 #DESCRIPTION Autoallstars (IT)
+#SERVICE 5002:0:1:501f:7669:69fc:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-lu.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (LU)
+#DESCRIPTION Autoallstars (LU)
 #SERVICE 5002:0:1:f577:4428:28df:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-pt.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (PT)
 #DESCRIPTION Autoallstars (PT)
 #SERVICE 5002:0:1:a6f4:302:2e2:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autoallstars (US)
@@ -101,6 +141,8 @@
 #DESCRIPTION AWE (AU)
 #SERVICE 5002:0:1:f28f:fe42:4243:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/oneameric-aweencore-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Awe Encore
 #DESCRIPTION Awe Encore
+#SERVICE 5002:0:1:3013:b5bf:bf20:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02333-pbsdistribution-antiquesroadshow-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Antiques Road Show (US)
+#DESCRIPTION Antiques Road Show (US)
 #SERVICE 5002:0:1:451f:8959:5994:1010101:0:0:0:https%3a//newidco-babysharktv-1-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (CA)
 #DESCRIPTION Baby Shark TV (CA)
 #SERVICE 5002:0:1:63ef:6b1d:1dfd:1010101:0:0:0:https%3a//newidco-babysharktv-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baby Shark TV (DE)
@@ -155,6 +197,8 @@
 #DESCRIPTION Bloomberg Originals (AR)
 #SERVICE 5002:0:1:f304:4e9c:9caa:1010101:0:0:0:https%3a//bloomberg-quicktake-1-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (AT)
 #DESCRIPTION Bloomberg Originals (AT)
+#SERVICE 5002:0:1:5753:f03f:3f99:1010101:0:0:0:https%3a//bloomberg-quicktake-4-au.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (AU)
+#DESCRIPTION Bloomberg Originals (AU)
 #SERVICE 5002:0:1:90f9:5864:64b6:1010101:0:0:0:https%3a//bloomberg-quicktake-4-br.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (BR)
 #DESCRIPTION Bloomberg Originals (BR)
 #SERVICE 5002:0:1:ba44:b3b2:b2f4:1010101:0:0:0:https%3a//bloomberg-quicktake-4-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (CA)
@@ -183,6 +227,8 @@
 #DESCRIPTION Bloomberg Originals (JP)
 #SERVICE 5002:0:1:3924:c01b:1b21:1010101:0:0:0:https%3a//bloomberg-quicktake-4-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (MX)
 #DESCRIPTION Bloomberg Originals (MX)
+#SERVICE 5002:0:1:bdf4:1aee:ee02:1010101:0:0:0:https%3a//bloomberg-quicktake-1-nl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (NL)
+#DESCRIPTION Bloomberg Originals (NL)
 #SERVICE 5002:0:1:d6ae:c0ee:ee07:1010101:0:0:0:https%3a//bloomberg-quicktake-4-pe.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (PE)
 #DESCRIPTION Bloomberg Originals (PE)
 #SERVICE 5002:0:1:98e5:92e6:e676:1010101:0:0:0:https%3a//bloomberg-quicktake-1-pt.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals (PT)
@@ -217,6 +263,8 @@
 #DESCRIPTION Bloomberg TV (IE)
 #SERVICE 5002:0:1:10fc:f283:83fc:1010101:0:0:0:https%3a//bloomberg-bloombergtv-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (IT)
 #DESCRIPTION Bloomberg TV (IT)
+#SERVICE 5002:0:1:97ba:3d2e:2e5f:1010101:0:0:0:https%3a//bloomberg-bloombergtv-1-jp.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (JP)
+#DESCRIPTION Bloomberg TV (JP)
 #SERVICE 5002:0:1:c9de:58e:8e1e:1010101:0:0:0:https%3a//bloomberg-bloombergtv-1-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (MX)
 #DESCRIPTION Bloomberg TV (MX)
 #SERVICE 5002:0:1:3a4a:9e59:590a:1010101:0:0:0:http%3a//bloomberg-bloombergtv-3-nl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV (NL)
@@ -231,6 +279,8 @@
 #DESCRIPTION Bondi Vet (ES)
 #SERVICE 5002:0:1:fee9:98d3:d3fa:1010101:0:0:0:https%3a//goseetv-bondivet-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bondi Vet (IT)
 #DESCRIPTION Bondi Vet (IT)
+#SERVICE 5002:0:1:11e5:28bb:bbd8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-bollywoodprime-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bollywood Prime (AU)
+#DESCRIPTION Bollywood Prime (AU)
 #SERVICE 5002:0:1:b906:b1a0:a027:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lgch/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brat TV (CH)
 #DESCRIPTION Brat TV (CH)
 #SERVICE 5002:0:1:48f6:c98b:8b6b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-lges/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brat TV (ES)
@@ -243,6 +293,18 @@
 #DESCRIPTION Brat TV (IT)
 #SERVICE 5002:0:1:aafd:14b9:b9b2:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00366-runtime-bridezilla-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bridezillas (GB)
 #DESCRIPTION Bridezillas (GB)
+#SERVICE 5002:0:1:b9ed:a8:a8c9:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brightside English (AU)
+#DESCRIPTION Brightside English (AU)
+#SERVICE 5002:0:1:6ff2:c89f:9f34:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c9-lg-au-342.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsideenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brightside English (AU) alt
+#DESCRIPTION Brightside English (AU) alt
+#SERVICE 5002:0:1:bdff:efe6:e677:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c16-lg-ar-561.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brightside Spanish (AR)
+#DESCRIPTION Brightside Spanish (AR)
+#SERVICE 5002:0:1:db5d:5a3b:3b5b:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c16-lg-co-563.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgco/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brightside Spanish (CO)
+#DESCRIPTION Brightside Spanish (CO)
+#SERVICE 5002:0:1:7c4c:25c5:c57b:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c16-lg-mx-564.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brightside Spanish (MX)
+#DESCRIPTION Brightside Spanish (MX)
+#SERVICE 5002:0:1:4674:4902:2bf:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c16-lg-pe-565.playouts.now.amagi.tv/playlist/amg02051-admecyltd-brightsidespanish-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Brightside Spanish (PE)
+#DESCRIPTION Brightside Spanish (PE)
 #SERVICE 5002:0:1:39:f81:8188:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Buzzr (US)
 #DESCRIPTION Buzzr (US)
 #SERVICE 5002:0:1:44ef:5bda:dad0:1010101:0:0:0:https%3a//carbontv-gb-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Carbon TV (GB)
@@ -253,12 +315,26 @@
 #DESCRIPTION Canela Cinema (CO)
 #SERVICE 5002:0:1:db10:4f0f:fe2:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela Cinema (MX)
 #DESCRIPTION Canela Cinema (MX)
+#SERVICE 5002:0:1:c722:f4c5:c5d2:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela Cinema (PE)
+#DESCRIPTION Canela Cinema (PE)
 #SERVICE 5002:0:1:cb70:4230:30bd:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela Novelas (MX)
 #DESCRIPTION Canela Novelas (MX)
+#SERVICE 5002:0:1:936:9877:775a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela TV (AR)
+#DESCRIPTION Canela TV (AR)
+#SERVICE 5002:0:1:5fb7:cafd:fd38:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgco/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela TV (CO)
+#DESCRIPTION Canela TV (CO)
 #SERVICE 5002:0:1:e3a:65bc:bcf5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela TV (CL)
 #DESCRIPTION Canela TV (CL)
+#SERVICE 5002:0:1:fe73:974b:4bea:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela TV (PE)
+#DESCRIPTION Canela TV (PE)
 #SERVICE 5002:0:1:bb5c:2ac3:c397:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatv-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela TV (MX)
 #DESCRIPTION Canela TV (MX)
+#SERVICE 5002:0:1:6534:a467:67c8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela Telenovelas (CL)
+#DESCRIPTION Canela Telenovelas (CL)
+#SERVICE 5002:0:1:f4c8:4f92:927a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgco/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela Telenovelas (CO)
+#DESCRIPTION Canela Telenovelas (CO)
+#SERVICE 5002:0:1:840c:8f3c:3c66:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatelenovelas-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Canela Telenovelas (PE)
+#DESCRIPTION Canela Telenovelas (PE)
 #SERVICE 5002:0:1:4a4:915c:5cb4:1010101:0:0:0:https%3a//cgentertainment-cgtv-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CGTV (IT)
 #DESCRIPTION CGTV (IT)
 #SERVICE 5002:0:1:b34d:c275:7536:1010101:0:0:0:https%3a//crackle-chickensoupforthesoul-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup for the Soul
@@ -363,7 +439,7 @@
 #DESCRIPTION Cops (GB)
 #SERVICE 5002:0:1:f9c4:1e4f:4f16:1010101:0:0:0:https%3a//scripps-courttv-3-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV (CA)
 #DESCRIPTION Court TV (CA)
-#SERVICE 5002:0:1:67ae:4bdf:df35:1010101:0:0:0:https%3a//scripps-courttv-2-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV (US)
+#SERVICE 5002:0:1:67ae:4bdf:df35:1010101:0:0:0:https%3a//scripps-courttv-4-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV (US)
 #DESCRIPTION Court TV (US)
 #SERVICE 5002:0:1:4621:2aea:ea15:1010101:0:0:0:https%3a//crackle-crackle-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackle
 #DESCRIPTION Crackle
@@ -371,12 +447,22 @@
 #DESCRIPTION Craction TV
 #SERVICE 5002:0:1:133d:e837:3765:1010101:0:0:0:https%3a//bamca-crimetime-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crimetime
 #DESCRIPTION Crimetime
+#SERVICE 5002:0:1:5683:77a4:a429:1010101:0:0:0:https%3a//autentic-curiosity-now-1-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Curiosity Now (AT)
+#DESCRIPTION Curiosity Now (AT)
+#SERVICE 5002:0:1:c867:83fa:fa25:1010101:0:0:0:https%3a//autentic-curiosity-now-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Curiosity Now (DE)
+#DESCRIPTION Curiosity Now (DE)
 #SERVICE 5002:0:1:682d:76f0:f0b5:1010101:0:0:0:https%3a//curiosity-curiosity-now-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Curiosity Now (US)
 #DESCRIPTION Curiosity Now (US)
+#SERVICE 5002:0:1:3e63:c7f:7f8a:1010101:0:0:0:https%3a//amg02232-botravail-amg02232c3-lg-ch-778.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgch/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Culture Pub (CH) Geo
+#DESCRIPTION Culture Pub (CH) Geo
+#SERVICE 5002:0:1:41d5:6a3:a334:1010101:0:0:0:https%3a//amg02232-botravail-amg02232c3-lg-fr-776.playouts.now.amagi.tv/playlist/amg02232-botravail-culturepub-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Culture Pub (FR) Geo
+#DESCRIPTION Culture Pub (FR) Geo
 #SERVICE 5002:0:1:e16e:96bd:bd7b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Davinci (GB)
 #DESCRIPTION Davinci (GB)
 #SERVICE 5002:0:1:6c1a:953:53ec:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgbr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Combat (AU) Geo
 #DESCRIPTION DAZN Combat (AU) Geo
+#SERVICE 5002:0:1:f743:8634:34b3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Combat (AR)
+#DESCRIPTION DAZN Combat (AR)
 #SERVICE 5002:0:1:86dd:4367:67aa:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgfi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Combat (FI) Geo
 #DESCRIPTION DAZN Combat (FI) Geo
 #SERVICE 5002:0:1:26c2:bae1:e14f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Combat (FR) Geo
@@ -391,6 +477,8 @@
 #DESCRIPTION DAZN Rise (DE) Geo
 #SERVICE 5002:0:1:6d9:b6f7:f78a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Womens Sport (AU) Geo
 #DESCRIPTION DAZN Womens Sport (AU) Geo
+#SERVICE 5002:0:1:a9b9:aaf9:f9ff:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dazn Womens Sports (AR) Geo
+#DESCRIPTION Dazn Womens Sports (AR) Geo
 #SERVICE 5002:0:1:c3a5:59e6:e680:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Womens Sport (BR) Geo
 #DESCRIPTION DAZN Womens Sport (BR) Geo
 #SERVICE 5002:0:1:c59b:4b57:5714:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgfi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Womens Sport (FI) Geo
@@ -501,6 +589,8 @@
 #DESCRIPTION Euronews via Rakuten (GB)
 #SERVICE 5002:0:1:850c:e99:99a2:1010101:0:0:0:https%3a//rakuten-euronews-11-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews via Rakuten (IT)
 #DESCRIPTION Euronews via Rakuten (IT)
+#SERVICE 5002:0:1:c8cd:74a:4aa8:1010101:0:0:0:https%3a//amg02232-botravail-amg02232c1-lg-fr-774.playouts.now.amagi.tv/playlist/amg02232-botravail-echappeesbelles-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Echappeesbelles (FR) Geo
+#DESCRIPTION Echappeesbelles (FR) Geo
 #SERVICE 5002:0:1:dc45:8fbe:beeb:1010101:0:0:0:https%3a//alchimie-explorebytvplayer-es-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore by TVplayer (ES) Geo
 #DESCRIPTION Explore by TVplayer (ES) Geo
 #SERVICE 5002:0:1:f836:d457:5752:1010101:0:0:0:https%3a//alchimie-explorebytvplayer-fr-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Explore by TVplayer (FR) Geo
@@ -539,6 +629,8 @@
 #DESCRIPTION Fail Army (PT)
 #SERVICE 5002:0:1:fcb5:543c:3c7b:1010101:0:0:0:https%3a//jukin-failarmy-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fail Army (US)
 #DESCRIPTION Fail Army (US)
+#SERVICE 5002:0:1:2699:1e0e:e73:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00497-lgelectronicsus-fantasylife-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fantasy Life (US) Geo
+#DESCRIPTION Fantasy Life (US) Geo
 #SERVICE 5002:0:1:1018:d86f:6f97:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-be.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (BE)
 #DESCRIPTION Fashion TV (BE)
 #SERVICE 5002:0:1:9b34:a6e4:e4e7:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-br.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV (BR)
@@ -613,8 +705,12 @@
 #DESCRIPTION Flou Cine (MX)
 #SERVICE 5002:0:1:f3f2:b100:ef:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucine-lgpe/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flou Cine (PE)
 #DESCRIPTION Flou Cine (PE)
-#SERVICE 5002:0:1:9e23:ca68:6810:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flou (AU)
-#DESCRIPTION Flou (AU)
+#SERVICE 5002:0:1:f842:fb29:2906:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01768-flou-floucaribe-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flou Caribe (AU)
+#DESCRIPTION Flou Caribe (AU)
+#SERVICE 5002:0:1:b6fa:63d9:d954:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flou Caribe (AR)
+#DESCRIPTION Flou Caribe (AR)
+#SERVICE 5002:0:1:bcda:6524:24b1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01365-spanglishmovies-floucaribe-lgcl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flou Caribe (CL)
+#DESCRIPTION Flou Caribe (CL)
 #SERVICE 5002:0:1:d0ef:e30b:b37:1010101:0:0:0:https%3a//food-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food (CA)
 #DESCRIPTION Food (CA)
 #SERVICE 5002:0:1:11fd:2c5c:5cfd:1010101:0:0:0:https%3a//food-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Food (US)
@@ -667,6 +763,8 @@
 #DESCRIPTION Gameshow Channel (CA)
 #SERVICE 5002:0:1:bff:2e3:e3a5:1010101:0:0:0:https%3a//gsn-gameshowchannnel-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gameshow Channel (US)
 #DESCRIPTION Gameshow Channel (US)
+#SERVICE 5002:0:1:8eb9:a9ec:ec1a:1010101:0:0:0:https%3a//globi-globi-1-ch.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Globi (CH)
+#DESCRIPTION Globi (CH)
 #SERVICE 5002:0:1:33c5:653f:3fcd:1010101:0:0:0:https%3a//globi-globi-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Globi (DE)
 #DESCRIPTION Globi (DE)
 #SERVICE 5002:0:1:61f:7df:df8c:1010101:0:0:0:https%3a//globi-globi-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Globi (FR)
@@ -679,16 +777,22 @@
 #DESCRIPTION GO USA (BR)
 #SERVICE 5002:0:1:2971:4b03:3d8:1010101:0:0:0:https%3a//brandusa-gousa-1-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (CA)
 #DESCRIPTION Go USA (CA)
+#SERVICE 5002:0:1:385c:abd3:d3a6:1010101:0:0:0:https%3a//brandusa-gousa-1-ch.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (CH)
+#DESCRIPTION Go USA (CH)
 #SERVICE 5002:0:1:20f2:6212:1269:1010101:0:0:0:https%3a//brandusa-gousa-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (DE)
 #DESCRIPTION Go USA (DE)
 #SERVICE 5002:0:1:733e:3bfe:fe28:1010101:0:0:0:https%3a//brandusa-gousa-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (ES)
 #DESCRIPTION Go USA (ES)
+#SERVICE 5002:0:1:fef8:3aa2:a24c:1010101:0:0:0:https%3a//brandusa-gousa-1-fi.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (FI)
+#DESCRIPTION Go USA (FI)
 #SERVICE 5002:0:1:bb2:101c:1c14:1010101:0:0:0:https%3a//brandusa-gousa-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (FR)
 #DESCRIPTION Go USA (FR)
 #SERVICE 5002:0:1:8a65:fa51:511c:1010101:0:0:0:https%3a//brandusa-gousa-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (GB)
 #DESCRIPTION Go USA (GB)
 #SERVICE 5002:0:1:8cbb:cd88:8840:1010101:0:0:0:https%3a//brandusa-gousa-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (IT)
 #DESCRIPTION Go USA (IT)
+#SERVICE 5002:0:1:b273:2690:902d:1010101:0:0:0:https%3a//brandusa-gousa-1-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Go USA (MX)
+#DESCRIPTION Go USA (MX)
 #SERVICE 5002:0:1:e470:afa7:a704:1010101:0:0:0:https%3a//gghubsrl-gotgame-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Got Game (IT)
 #DESCRIPTION Got Game (IT)
 #SERVICE 5002:0:1:5a0b:f302:243:1010101:0:0:0:https%3a//scripps-gritxtra-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Grit Xtra (US)
@@ -701,6 +805,10 @@
 #DESCRIPTION Grjngo (ES)
 #SERVICE 5002:0:1:c4e2:e878:787a:1010101:0:0:0:https%3a//amogonetworx-grjngo-3-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Grjngo (GB)
 #DESCRIPTION Grjngo (GB)
+#SERVICE 5002:0:1:c354:fce4:e449:1010101:0:0:0:https%3a//amogonetworx-grjngo-6-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Grjngo (IT)
+#DESCRIPTION Grjngo (IT)
+#SERVICE 5002:0:1:e387:143c:3cd2:1010101:0:0:0:https%3a//gustotv-gustotv-2-be.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV (BE)
+#DESCRIPTION Gusto TV (BE)
 #SERVICE 5002:0:1:3f18:85f0:f0cb:1010101:0:0:0:https%3a//gustotv-gustotv-2-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV (BR)
 #DESCRIPTION Gusto TV (BR)
 #SERVICE 5002:0:1:b222:37cc:ccb9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvca-lgca/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV (CA)
@@ -735,6 +843,10 @@
 #DESCRIPTION Haunt TV alt (US)
 #SERVICE 5002:0:1:3da1:6524:241e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-hersphere-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Her Sphere (US)
 #DESCRIPTION Her Sphere (US)
+#SERVICE 5002:0:1:914f:ec03:32d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchengermany-lgde/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hells Kitchen Germany (DE)
+#DESCRIPTION Hells Kitchen Germany (DE)
+#SERVICE 5002:0:1:4653:9767:6720:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-hellskitchenlgse-lgse/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hells Kitchen (SE)
+#DESCRIPTION Hells Kitchen (SE)
 #SERVICE 5002:0:1:2955:2505:5d3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-historyhit-lgfi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:History Hit (FI)
 #DESCRIPTION History Hit (FI)
 #SERVICE 5002:0:1:51a5:2ce5:e551:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgca/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:History Time (CA)
@@ -759,6 +871,8 @@
 #DESCRIPTION Homeful (CA)
 #SERVICE 5002:0:1:b983:1706:64b:1010101:0:0:0:https%3a//bam-homeful-usa-lg-us.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homeful (US) Geo
 #DESCRIPTION Homeful (US) Geo
+#SERVICE 5002:0:1:18:a211:1171:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulworldwide-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homeful (GB)
+#DESCRIPTION Homeful (GB)
 #SERVICE 5002:0:1:76d7:612a:2a97:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01796-fastmediabackbo-homicide-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homicide (FR)
 #DESCRIPTION Homicide (FR)
 #SERVICE 5002:0:1:4585:75a3:a3ed:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-horizons-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horizons (GB)
@@ -791,6 +905,8 @@
 #DESCRIPTION Insight TV ROW
 #SERVICE 5002:0:1:3809:2993:93a2:1010101:0:0:0:https%3a//insighttv-us-lg-spain.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Insight TV Spain (US)
 #DESCRIPTION Insight TV Spain (US)
+#SERVICE 5002:0:1:5fb3:2476:76e6:1010101:0:0:0:https%3a//baktilp-intipacha-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Intipacha (ES)
+#DESCRIPTION Intipacha (ES)
 #SERVICE 5002:0:1:8687:420e:ee3:1010101:0:0:0:https%3a//scripps-ion-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION (US)
 #DESCRIPTION ION (US)
 #SERVICE 5002:0:1:5dda:f62e:2ed4:1010101:0:0:0:https%3a//scripps-ionmystery-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ION Mystery (US)
@@ -833,8 +949,12 @@
 #DESCRIPTION KTTV (US)
 #SERVICE 5002:0:1:1c17:9e46:4606:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-ktvu-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KTVU (US)
 #DESCRIPTION KTVU (US)
-#SERVICE 5002:0:1:3feb:f398:984f:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LA LA Life (AU) Geo
-#DESCRIPTION LA LA Life (AU) Geo
+#SERVICE 5002:0:1:3cc1:6983:83ca:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c8-lg-au-343.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lala Life English (AU) Geo
+#DESCRIPTION Lala Life English (AU) Geo
+#SERVICE 5002:0:1:ec09:29a4:a4cd:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c9-lg-au-342.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lala Life English (AU) Geo Alt 1
+#DESCRIPTION Lala Life English (AU) Geo Alt 1
+#SERVICE 5002:0:1:6af:b8ac:ac91:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c17-lg-au-340.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lala Life English (AU) Geo Alt 2
+#DESCRIPTION Lala Life English (AU) Geo Alt 2
 #SERVICE 5002:0:1:c8ce:3ce0:e04b:1010101:0:0:0:https%3a//daiconnect.com/live/hls/tvup/lg-laliga/613313bc66ac393ed26fc09d82851082/.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:La Liga Plus
 #DESCRIPTION La Liga Plus
 #SERVICE 5002:0:1:334b:77b5:b5b5:1010101:0:0:0:https%3a//scripps-laffmore-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Laff More (US)
@@ -859,10 +979,20 @@
 #DESCRIPTION Love Magazine (GB)
 #SERVICE 5002:0:1:d639:f197:97dd:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazineit-lgit/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Magazine (IT)
 #DESCRIPTION Love Magazine (IT)
+#SERVICE 5002:0:1:b82d:877f:7fec:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinenl-lgnl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Magazine (NL)
+#DESCRIPTION Love Magazine (NL)
 #SERVICE 5002:0:1:c6e6:e954:54d0:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovemagazinese-lgse/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Magazine (SE)
 #DESCRIPTION Love Magazine (SE)
 #SERVICE 5002:0:1:eb2b:a01:1bc:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Pets (GB)
 #DESCRIPTION Love Pets (GB)
+#SERVICE 5002:0:1:411f:beb1:b1f5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lgfi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Pets (FI)
+#DESCRIPTION Love Pets (FI)
+#SERVICE 5002:0:1:e43:227d:7d56:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-lovepetsemea-lgnl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Pets (NL)
+#DESCRIPTION Love Pets (NL)
+#SERVICE 5002:0:1:50b0:3fc8:c8cd:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Wine (AU)
+#DESCRIPTION Love Wine (AU)
+#SERVICE 5002:0:1:ae01:da13:13ec:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgdk/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Wine (DK)
+#DESCRIPTION Love Wine (DK)
 #SERVICE 5002:0:1:fdf8:2f70:70a5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewinespain-lges/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Wine (ES)
 #DESCRIPTION Love Wine (ES)
 #SERVICE 5002:0:1:7779:89ce:ce4e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01821-lovetvchannels-lovewineusuk-lgfi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love Wine (FI)
@@ -879,6 +1009,8 @@
 #DESCRIPTION LoveNature (US)
 #SERVICE 5002:0:1:25b2:46ad:ad72:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/bamusaAAA-bamus-lovenature-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LoveNature alt
 #DESCRIPTION LoveNature alt
+#SERVICE 5002:0:1:b7d:77cd:cd69:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lges/playlist.m3u8flkous#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NatureTime (ES)
+#DESCRIPTION NatureTime (ES)
 #SERVICE 5002:0:1:6a13:66c8:c823:1010101:0:0:0:https%3a//alchimie-luxetv-fr-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe TV (FR) Geo
 #DESCRIPTION Luxe TV (FR) Geo
 #SERVICE 5002:0:1:6e53:d85d:5df6:1010101:0:0:0:https%3a//alchimie-luxetv-uk-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Luxe TV (UK) Geo
@@ -889,6 +1021,8 @@
 #DESCRIPTION Magellan TV (CA)
 #SERVICE 5002:0:1:c074:8add:dd8b:1010101:0:0:0:https%3a//magellantv-2-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Magellan TV (US)
 #DESCRIPTION Magellan TV (US)
+#SERVICE 5002:0:1:f0cf:f464:6476:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-masterchefuk-lgca/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Master Chef UK (CA)
+#DESCRIPTION Master Chef UK (CA)
 #SERVICE 5002:0:1:382e:c5a5:a536:1010101:0:0:0:https%3a//lg-majordomo-media-channel-dc-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MajorDomo TV (CA)
 #DESCRIPTION MajorDomo TV (CA)
 #SERVICE 5002:0:1:d58f:7512:123b:1010101:0:0:0:https%3a//lg-majordomo-media-channel-dc-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MajorDomo TV (US)
@@ -907,6 +1041,8 @@
 #DESCRIPTION Meat Eater (AU)
 #SERVICE 5002:0:1:d9af:bc4b:4b5a:1010101:0:0:0:https%3a//mechtvltd-mechplus-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mech Plus (GB)
 #DESCRIPTION Mech Plus (GB)
+#SERVICE 5002:0:1:3770:1291:913b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-mobtv-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mob TV (AU)
+#DESCRIPTION Mob TV (AU)
 #SERVICE 5002:0:1:c02e:da07:79d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgbr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MOB TV (BR)
 #DESCRIPTION MOB TV (BR)
 #SERVICE 5002:0:1:ae49:28a5:a58c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-lgde/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MOB TV (DE)
@@ -941,16 +1077,28 @@
 #DESCRIPTION Movies 4 Free
 #SERVICE 5002:0:1:c00e:d070:70d3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/videosolu-movies4free-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movies 4 Free Geo
 #DESCRIPTION Movies 4 Free Geo
+#SERVICE 5002:0:1:610c:6a27:2771:1010101:0:0:0:https%3a//youlook-motorsport-se-fi.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MotorSport (FI)
+#DESCRIPTION MotorSport (FI)
+#SERVICE 5002:0:1:65d8:67fd:fdc4:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-au.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt 1 (AU)
+#DESCRIPTION Mtrspt 1 (AU)
 #SERVICE 5002:0:1:70f1:7b3:b3ad:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt 1 (DE)
 #DESCRIPTION Mtrspt 1 (DE)
+#SERVICE 5002:0:1:45cb:42a4:a444:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgde/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrsprt 1 (DE) alt
+#DESCRIPTION Mtrsprt 1 (DE) alt
 #SERVICE 5002:0:1:2ef9:aadc:dc4d:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt 1 (ES)
 #DESCRIPTION Mtrspt 1 (ES)
+#SERVICE 5002:0:1:209b:5078:78a0:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lges/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrsprt 1 (ES) alt
+#DESCRIPTION Mtrsprt 1 (ES) alt
 #SERVICE 5002:0:1:8836:ee09:95b:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-fr.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt 1 (FR)
 #DESCRIPTION Mtrspt 1 (FR)
+#SERVICE 5002:0:1:93b7:6c2e:2ef7:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrsprt 1 (FR) alt
+#DESCRIPTION Mtrsprt 1 (FR) alt
 #SERVICE 5002:0:1:ff99:b625:2587:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt 1 (GB)
 #DESCRIPTION Mtrspt 1 (GB)
 #SERVICE 5002:0:1:6f6:cbb6:b6a0:1010101:0:0:0:https%3a//kravemedia-mtrspt1-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrspt 1 (IT)
 #DESCRIPTION Mtrspt 1 (IT)
+#SERVICE 5002:0:1:af5b:3ee4:e486:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-lgit/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mtrsprt 1 (IT) alt
+#DESCRIPTION Mtrsprt 1 (IT) alt
 #SERVICE 5002:0:1:741a:c014:14a9:1010101:0:0:0:https%3a//newidco-mubeat-1-br.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mubeat (BR)
 #DESCRIPTION Mubeat (BR)
 #SERVICE 5002:0:1:f9be:b1ba:bad8:1010101:0:0:0:https%3a//newidco-mubeat-1-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mubeat (CA)
@@ -1071,6 +1219,8 @@
 #DESCRIPTION Outdoor Channel (AU)
 #SERVICE 5002:0:1:60e7:161b:1bc8:1010101:0:0:0:https%3a//raycomsports-originsports-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Origin Sports
 #DESCRIPTION Origin Sports
+#SERVICE 5002:0:1:ea7c:3b93:937e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01258-raycomsports-powernation-lgca/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation (CA)
+#DESCRIPTION PowerNation (CA)
 #SERVICE 5002:0:1:a659:b371:7148:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-pbsamerica-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PBS America (GB)
 #DESCRIPTION PBS America (GB)
 #SERVICE 5002:0:1:6792:6d8d:8db1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01597-wnetnewyorkpubl-pbsnature-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PBS Nature (US)
@@ -1149,10 +1299,14 @@
 #DESCRIPTION Quest Jazz (BE)
 #SERVICE 5002:0:1:29a1:5e72:722e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgbr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz (BR)
 #DESCRIPTION Qwest Jazz (BR)
+#SERVICE 5002:0:1:c7fb:695f:5f1e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgch/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz (CH)
+#DESCRIPTION Qwest Jazz (CH)
 #SERVICE 5002:0:1:2521:50a4:a4c8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgdk/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz (DK)
 #DESCRIPTION Qwest Jazz (DK)
 #SERVICE 5002:0:1:7aa2:a688:885a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz (MX)
 #DESCRIPTION Qwest Jazz (MX)
+#SERVICE 5002:0:1:977:345b:5be3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgnl/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz (NL)
+#DESCRIPTION Qwest Jazz (NL)
 #SERVICE 5002:0:1:9d26:2735:3574:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-lgpt/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Jazz (PT)
 #DESCRIPTION Qwest Jazz (PT)
 #SERVICE 5002:0:1:6157:6990:90cb:1010101:0:0:0:https%3a//qwest-mix-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest Mix
@@ -1171,6 +1325,8 @@
 #DESCRIPTION Rakuten Action (FI)
 #SERVICE 5002:0:1:8a5d:c8ce:cef4:1010101:0:0:0:https%3a//rakuten-action-8-nl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action (NL)
 #DESCRIPTION Rakuten Action (NL)
+#SERVICE 5002:0:1:60:29c:9c1b:1010101:0:0:0:https%3a//rakuten-action-11-no.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action (NO)
+#DESCRIPTION Rakuten Action (NO)
 #SERVICE 5002:0:1:68ae:5edb:db26:1010101:0:0:0:https%3a//rakuten-actionmovies-3-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (AT)
 #DESCRIPTION Rakuten Action Movies (AT)
 #SERVICE 5002:0:1:9e69:99d2:d274:1010101:0:0:0:https%3a//rakuten-actionmovies-3-ch.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Action Movies (CH)
@@ -1219,6 +1375,8 @@
 #DESCRIPTION Rakuten Drama (FI)
 #SERVICE 5002:0:1:9c4f:d228:2859:1010101:0:0:0:https%3a//rakuten-drama-8-nl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Drama (NL)
 #DESCRIPTION Rakuten Drama (NL)
+#SERVICE 5002:0:1:e18a:6b21:215f:1010101:0:0:0:https%3a//rakuten-drama-11-no.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Drama (NO)
+#DESCRIPTION Rakuten Drama (NO)
 #SERVICE 5002:0:1:8937:861f:1f51:1010101:0:0:0:https%3a//rakuten-drama-9-se.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Drama (SE)
 #DESCRIPTION Rakuten Drama (SE)
 #SERVICE 5002:0:1:2908:8a52:5272:1010101:0:0:0:https%3a//rakuten-family-3-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Family (AT)
@@ -1363,6 +1521,8 @@
 #DESCRIPTION Rakuten Viki (ES)
 #SERVICE 5002:0:1:1e7f:3e46:4692:1010101:0:0:0:https%3a//newidco-rakutenviki-2-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki alt (IT)
 #DESCRIPTION Rakuten Viki alt (IT)
+#SERVICE 5002:0:1:88a8:82fa:fa51:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00654-itvstudios-rivermonstergermany-lgde/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:River Monsters (DE)
+#DESCRIPTION River Monsters (DE)
 #SERVICE 5002:0:1:a46a:2490:909e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime2-lgdk/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Crime (DK)
 #DESCRIPTION Real Crime (DK)
 #SERVICE 5002:0:1:a2e9:eeb0:b0d3:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realcrime2-lgfi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Crime (FI)
@@ -1399,6 +1559,8 @@
 #DESCRIPTION Real Wild (GB)
 #SERVICE 5002:0:1:88f7:f03:361:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgie/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Wild (IE)
 #DESCRIPTION Real Wild (IE)
+#SERVICE 5002:0:1:791d:1a6a:6a84:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-lgse/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Wild (SE)
+#DESCRIPTION Real Wild (SE)
 #SERVICE 5002:0:1:79bb:407b:7b70:1010101:0:0:0:https%3a//redbox-holiday-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Holiday
 #DESCRIPTION Redbox Holiday
 #SERVICE 5002:0:1:16ef:5c20:20e1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/redboxAAA-redboxholiday-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Holiday alt
@@ -1417,6 +1579,8 @@
 #DESCRIPTION Reuters (US)
 #SERVICE 5002:0:1:450f:29f0:f057:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-revolttv-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revolt TV (AU)
 #DESCRIPTION Revolt TV (AU)
+#SERVICE 5002:0:1:9bb:e254:542d:1010101:0:0:0:https%3a//minerva-risateallitaliana-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Risateallitaliana (IT)
+#DESCRIPTION Risateallitaliana (IT)
 #SERVICE 5002:0:1:c7b6:10ec:ec97:1010101:0:0:0:https%3a//cinedigm-rmtv-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RMTV
 #DESCRIPTION RMTV
 #SERVICE 5002:0:1:6d63:8d0e:e54:1010101:0:0:0:https%3a//newidco-sbs-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS (DE)
@@ -1437,7 +1601,7 @@
 #DESCRIPTION Screamin
 #SERVICE 5002:0:1:dc1b:4af9:f9b0:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/zyloAAAAA-zylo-screamin-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Screamin Geo
 #DESCRIPTION Screamin Geo
-#SERVICE 5002:0:1:8cb1:3c99:998f:1010101:0:0:0:https%3a//scripps-newsy-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News (US)
+#SERVICE 5002:0:1:8cb1:3c99:998f:1010101:0:0:0:https%3a//scripps-newsy-3-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News (US)
 #DESCRIPTION Scripps News (US)
 #SERVICE 5002:0:1:5d51:1b6d:6d4e:1010101:0:0:0:https%3a//shortstv-fast-spain-lg.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shorts TV (ES)
 #DESCRIPTION Shorts TV (ES)
@@ -1451,6 +1615,8 @@
 #DESCRIPTION Soreal
 #SERVICE 5002:0:1:6d2b:c9d2:d2d6:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/xumo-host-soreal-lg/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Soreal Geo
 #DESCRIPTION Soreal Geo
+#SERVICE 5002:0:1:c002:95d8:d88e:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c16-lg-ar-561.playouts.now.amagi.tv/playlist/amg02051-admecyltd-slickslimesamspanish-lgar/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Slick Sam Spanish (AR)
+#DESCRIPTION Slick Sam Spanish (AR)
 #SERVICE 5002:0:1:ec7f:3c8d:8d4b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-lgat/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spannungemo (AT) Geo
 #DESCRIPTION Spannungemo (AT) Geo
 #SERVICE 5002:0:1:c1ad:112e:2ec9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-spannungemo-lgch/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spannungemo (CH) Geo
@@ -1563,6 +1729,8 @@
 #DESCRIPTION The Kids (KR)
 #SERVICE 5002:0:1:2cbc:8aff:ffca:1010101:0:0:0:https%3a//lg-nflchannel-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The NFL Channel (US)
 #DESCRIPTION The NFL Channel (US)
+#SERVICE 5002:0:1:a19a:f347:4738:1010101:0:0:0:https%3a//jukin-thepetcollective-1-ar.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (AR)
+#DESCRIPTION The Pet Collective (AR)
 #SERVICE 5002:0:1:4153:54af:af4b:1010101:0:0:0:https%3a//jukin-thepetcollective-1-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (AT)
 #DESCRIPTION The Pet Collective (AT)
 #SERVICE 5002:0:1:61f7:3754:549f:1010101:0:0:0:https%3a//jukin-thepetcollective-1-be.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (BE)
@@ -1573,6 +1741,10 @@
 #DESCRIPTION The Pet Collective (CA)
 #SERVICE 5002:0:1:7a7c:9ca0:a002:1010101:0:0:0:https%3a//jukin-thepetcollective-1-ch.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (CH)
 #DESCRIPTION The Pet Collective (CH)
+#SERVICE 5002:0:1:f231:85d5:d579:1010101:0:0:0:https%3a//jukin-thepetcollective-1-cl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (CL)
+#DESCRIPTION The Pet Collective (CL)
+#SERVICE 5002:0:1:b18e:ce84:84f3:1010101:0:0:0:https%3a//jukin-thepetcollective-1-co.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (CO)
+#DESCRIPTION The Pet Collective (CO)
 #SERVICE 5002:0:1:56a4:66e4:e463:1010101:0:0:0:https%3a//jukin-thepetcollective-1-de.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (DE)
 #DESCRIPTION The Pet Collective (DE)
 #SERVICE 5002:0:1:25a4:b56a:6a71:1010101:0:0:0:https%3a//jukin-thepetcollective-1-es.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (ES)
@@ -1587,6 +1759,8 @@
 #DESCRIPTION The Pet Collective (IT)
 #SERVICE 5002:0:1:b8ae:70cb:cb78:1010101:0:0:0:https%3a//jukin-thepetcollective-1-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (MX)
 #DESCRIPTION The Pet Collective (MX)
+#SERVICE 5002:0:1:9216:212a:2a78:1010101:0:0:0:https%3a//jukin-thepetcollective-1-pe.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (PE)
+#DESCRIPTION The Pet Collective (PE)
 #SERVICE 5002:0:1:e499:16be:bec7:1010101:0:0:0:https%3a//jukin-thepetcollective-1-pt.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (PT)
 #DESCRIPTION The Pet Collective (PT)
 #SERVICE 5002:0:1:9fef:3319:19ef:1010101:0:0:0:https%3a//jukin-thepetcollective-1-us.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective (US)
@@ -1713,6 +1887,10 @@
 #DESCRIPTION True Crime (GB)
 #SERVICE 5002:0:1:6707:3d1b:1bc9:1010101:0:0:0:https%3a//indigenius-truecrime-1-ie.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime (IE)
 #DESCRIPTION True Crime (IE)
+#SERVICE 5002:0:1:8f14:6f95:9587:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgca/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tribeca (CA)
+#DESCRIPTION Tribeca (CA)
+#SERVICE 5002:0:1:58ec:e23d:3d40:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02507-giantpictures-tribeca-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tribeca (US)
+#DESCRIPTION Tribeca (US)
 #SERVICE 5002:0:1:8f7e:57c:7c7b:1010101:0:0:0:https%3a//twistedmirror-twistedmirrorcomedy-1-gb.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Twisted Mirror Comedy (GB)
 #DESCRIPTION Twisted Mirror Comedy (GB)
 #SERVICE 5002:0:1:c095:73ac:ac66:1010101:0:0:0:https%3a//amg01391-sbtinfast-amg01391c2-lg-mx-652.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-lgmx/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV ZYN (MX) U.S ip
@@ -1779,14 +1957,16 @@
 #DESCRIPTION Watchmojo (GB)
 #SERVICE 5002:0:1:bfad:f958:5838:1010101:0:0:0:https%3a//watchmojo-1-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Watchmojo (IT)
 #DESCRIPTION Watchmojo (IT)
-#SERVICE 5002:0:1:7ccf:7706:688:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (FR)
-#DESCRIPTION Waterbear Network (FR)
 #SERVICE 5002:0:1:974f:5705:59d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgau/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (AU)
 #DESCRIPTION Waterbear Network (AU)
+#SERVICE 5002:0:1:e802:8069:69ae:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lgat/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (AT)
+#DESCRIPTION Waterbear Network (AT)
 #SERVICE 5002:0:1:9227:9cf0:f099:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgde/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (DE)
 #DESCRIPTION Waterbear Network (DE)
 #SERVICE 5002:0:1:a180:1506:678:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lges/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (ES)
 #DESCRIPTION Waterbear Network (ES)
+#SERVICE 5002:0:1:7ccf:7706:688:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-waterbear-lgfr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (FR)
+#DESCRIPTION Waterbear Network (FR)
 #SERVICE 5002:0:1:e078:b988:887c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01415-waterbearnetwor-waterbear-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waterbear Network (GB)
 #DESCRIPTION Waterbear Network (GB)
 #SERVICE 5002:0:1:4206:f713:1336:1010101:0:0:0:https%3a//waypointtv-lg-ca.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint TV (CA) Geo
@@ -1795,6 +1975,8 @@
 #DESCRIPTION Waypoint TV (US) Geo
 #SERVICE 5002:0:1:dcd2:8b7c:7c5a:1010101:0:0:0:https%3a//jukin-weatherspy-4-at.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (AT)
 #DESCRIPTION WeatherSpy (AT)
+#SERVICE 5002:0:1:5076:4d91:9181:1010101:0:0:0:https%3a//jukin-weatherspy-4-be.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (BE)
+#DESCRIPTION WeatherSpy (BE)
 #SERVICE 5002:0:1:b42a:8370:7028:1010101:0:0:0:https%3a//jukin-weatherspy-4-br.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (BR)
 #DESCRIPTION WeatherSpy (BR)
 #SERVICE 5002:0:1:ef3d:1b79:79e9:1010101:0:0:0:https%3a//jukin-weatherspy-4-ca.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (CA)
@@ -1815,6 +1997,8 @@
 #DESCRIPTION Weatherspy (IE)
 #SERVICE 5002:0:1:67bf:bb69:69a8:1010101:0:0:0:https%3a//jukin-weatherspy-4-it.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (IT)
 #DESCRIPTION WeatherSpy (IT)
+#SERVICE 5002:0:1:1e7:6a85:8596:1010101:0:0:0:https%3a//jukin-weatherspy-4-lu.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (LU)
+#DESCRIPTION WeatherSpy (LU)
 #SERVICE 5002:0:1:a86c:beba:bad8:1010101:0:0:0:https%3a//jukin-weatherspy-4-mx.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (MX)
 #DESCRIPTION WeatherSpy (MX)
 #SERVICE 5002:0:1:da9f:a739:39e9:1010101:0:0:0:https%3a//jukin-weatherspy-4-nl.lg.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WeatherSpy (NL)
@@ -1831,14 +2015,22 @@
 #DESCRIPTION Wedo Big Docs (GB)
 #SERVICE 5002:0:1:2295:9bf3:f310:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesitaly-lgit/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wedo Movies (IT)
 #DESCRIPTION Wedo Movies (IT)
+#SERVICE 5002:0:1:ee8a:8650:5092:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedosports-lgat/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wedo Sports (AT)
+#DESCRIPTION Wedo Sports (AT)
+#SERVICE 5002:0:1:4df0:ce04:40e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedosports-lgde/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wedo Sports (DE)
+#DESCRIPTION Wedo Sports (DE)
 #SERVICE 5002:0:1:bbd4:73ec:eccc:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFLD
 #DESCRIPTION WFLD
+#SERVICE 5002:0:1:a4a7:a7db:db47:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-wickedtuna-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wicked Tuna (GB)
+#DESCRIPTION Wicked Tuna (GB)
 #SERVICE 5002:0:1:f40e:e6df:df6d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lgca/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra (CA)
 #DESCRIPTION Wipeout Xtra (CA)
 #SERVICE 5002:0:1:2c6:e20c:cee:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-lggb/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra (GB)
 #DESCRIPTION Wipeout Xtra (GB)
 #SERVICE 5002:0:1:af7e:87ea:eade:1010101:0:0:0:https%3a//banijay-wipeoutxtra-lg-us.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra (US) Geo
 #DESCRIPTION Wipeout Xtra (US) Geo
+#SERVICE 5002:0:1:6d58:c151:516a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-lgkr/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wild Earth (KR)
+#DESCRIPTION Wild Earth (KR)
 #SERVICE 5002:0:1:1af3:c12b:2b88:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-kriv-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KRIV (US)
 #DESCRIPTION KRIV (US)
 #SERVICE 5002:0:1:7010:754e:4edc:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-waga-lgus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WAGA (US)
@@ -1957,3 +2149,5 @@
 #DESCRIPTION MBN nid 170 to id
 #SERVICE 5002:0:1:1881:6b75:7537:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=5496#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBN nid 171 to id
 #DESCRIPTION MBN nid 171 to id
+#SERVICE 5002:0:1:d9df:7641:41f8:1010101:0:0:0:https%3a//amg02051-soulpublishing-amg02051c5-lg-au-305.playouts.now.amagi.tv/playlist/amg02051-amg02051c5-305/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:?? (AU) to i.d
+#DESCRIPTION ?? (AU) to i.d
