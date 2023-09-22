@@ -183,6 +183,12 @@
 #DESCRIPTION Comedy Dynamics
 #SERVICE 5002:0:1:dcc0:b9aa:aa94:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,So-Real.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:So...Real
 #DESCRIPTION So...Real
+#SERVICE 5002:0:1:87ff:fa26:2676:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Adventure.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:4 Adventure
+#DESCRIPTION 4 Adventure
+#SERVICE 5002:0:1:cc4:1e5f:5ff5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,4Emergency.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:4 Emergency
+#DESCRIPTION 4 Emergency
+#SERVICE 5002:0:1:d768:1439:394c:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Nashville.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nashville Channel
+#DESCRIPTION Nashville Channel
 #SERVICE 5002:0:1:8d43:a63d:3dc5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Heartland.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Filmrise Heartland
 #DESCRIPTION Filmrise Heartland
 #SERVICE 5002:0:1:e219:ac99:994e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Wipeout-Xtra.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra
