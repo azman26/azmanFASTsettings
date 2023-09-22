@@ -1,18 +1,16 @@
 #NAME Samsung TV Plus All
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Austria
 #DESCRIPTION Austria
-#SERVICE 5002:0:1:63b1:165a:5ab2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD2600008HN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
-#DESCRIPTION Baywatch
-#SERVICE 5002:0:1:d620:8d6e:6ec0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA3300031VR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wilder Planet
-#DESCRIPTION Wilder Planet
+#SERVICE 5002:0:1:2118:1fb1:b1cb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBB3100001RH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Mix
+#DESCRIPTION Crime Mix
 #SERVICE 5002:0:1:201a:530:305a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA1000004XC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Live
 #DESCRIPTION Euronews Live
 #SERVICE 5002:0:1:3c49:11d3:d3b9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ35000024Y.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Komödien - Rakuten TV
 #DESCRIPTION Komödien - Rakuten TV
 #SERVICE 5002:0:1:2a37:e1eb:ebe7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN
 #DESCRIPTION CNN
-#SERVICE 5002:0:1:343e:a8a5:a576:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD1500002EX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Mix
-#DESCRIPTION Cine Mix
+#SERVICE 5002:0:1:6848:6e5:e5c1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ0500427A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tierwelt
+#DESCRIPTION Tierwelt
 #SERVICE 5002:0:1:7901:2e52:5222:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD1500001X4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lagerfeuer
 #DESCRIPTION Lagerfeuer
 #SERVICE 5002:0:1:e221:ff96:96fb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAK3504517A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Catfish
@@ -47,14 +45,16 @@
 #DESCRIPTION Yu-Gi-Oh!
 #SERVICE 5002:0:1:f93e:59bc:bc31:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD2500001A8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Out TV
 #DESCRIPTION Out TV
-#SERVICE 5002:0:1:2118:1fb1:b1cb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBB3100001RH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Mix
-#DESCRIPTION Crime Mix
+#SERVICE 5002:0:1:63b1:165a:5ab2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD2600008HN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
+#DESCRIPTION Baywatch
 #SERVICE 5002:0:1:5da2:1bab:abc9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ70000741.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Serie
 #DESCRIPTION Pluto TV Serie
 #SERVICE 5002:0:1:1aa2:5dd3:d311:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA33000123Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Serien - Rakuten TV
 #DESCRIPTION Crime Serien - Rakuten TV
 #SERVICE 5002:0:1:909a:29c5:c505:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBC30000021Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spannung & Emotionen
 #DESCRIPTION Spannung & Emotionen
+#SERVICE 5002:0:1:2d14:3c80:803a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA3300006WH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee One
+#DESCRIPTION Zee One
 #SERVICE 5002:0:1:985a:83d4:d423:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA3300009MF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SPIEGEL TV Konflikte
 #DESCRIPTION SPIEGEL TV Konflikte
 #SERVICE 5002:0:1:37b0:8da1:a127:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBC3900001W3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Wicked Tuna Channel
@@ -79,10 +79,10 @@
 #DESCRIPTION INFAST
 #SERVICE 5002:0:1:cb76:777b:7bab:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA15000088F.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moconomy
 #DESCRIPTION Moconomy
+#SERVICE 5002:0:1:d620:8d6e:6ec0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA3300031VR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wilder Planet
+#DESCRIPTION Wilder Planet
 #SERVICE 5002:0:1:82e9:e782:821c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA1500021SL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:One Terra
 #DESCRIPTION One Terra
-#SERVICE 5002:0:1:6848:6e5:e5c1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ0500427A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tierwelt
-#DESCRIPTION Tierwelt
 #SERVICE 5002:0:1:5898:73d3:d35b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAK3504500A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Animals
 #DESCRIPTION Pluto TV Animals
 #SERVICE 5002:0:1:14bd:7115:1550:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD190000101.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN FAST
@@ -111,12 +111,12 @@
 #DESCRIPTION Tastemade
 #SERVICE 5002:0:1:8f2b:75d5:d599:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ0500443A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just Cooking
 #DESCRIPTION Just Cooking
-#SERVICE 5002:0:1:8558:7a42:42f1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ0500410A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
+#SERVICE 5002:0:1:8558:7a42:42f1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD2600011EO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
 #DESCRIPTION Motorvision
+#SERVICE 5002:0:1:4e12:5c60:60cc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD2600010EC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision Classic
+#DESCRIPTION Motorvision Classic
 #SERVICE 5002:0:1:a7bf:3384:849f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ0500458A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:auto motor und sport
 #DESCRIPTION auto motor und sport
-#SERVICE 5002:0:1:4e12:5c60:60cc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ0500429A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision Classic
-#DESCRIPTION Motorvision Classic
 #SERVICE 5002:0:1:1113:51b4:b404:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
 #DESCRIPTION FIFA+
 #SERVICE 5002:0:1:8758:6b2b:2b82:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD1500003ES.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Red Bull TV
@@ -129,8 +129,8 @@
 #DESCRIPTION Horse & Country
 #SERVICE 5002:0:1:31d9:dd03:3e3:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA2200008XN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tennis Channel
 #DESCRIPTION Tennis Channel
-#SERVICE 5002:0:1:1b8f:fa88:88c2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA15000256P.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More Than Sports TV
-#DESCRIPTION More Than Sports TV
+#SERVICE 5002:0:1:f69d:5af5:f543:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD2600009FE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More than Sports TV
+#DESCRIPTION More than Sports TV
 #SERVICE 5002:0:1:164f:2cbc:bc7f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA3300010PU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strongman Champions League
 #DESCRIPTION Strongman Champions League
 #SERVICE 5002:0:1:f411:d6ea:eaba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA33000151A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teletubbies
@@ -187,18 +187,20 @@
 #DESCRIPTION MyTime Movie Network
 #SERVICE 5002:0:1:b150:5591:911e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBA10000096N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Filme - Rakuten TV
 #DESCRIPTION Top Filme - Rakuten TV
+#SERVICE 5002:0:1:343e:a8a5:a576:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATBD1500002EX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Mix
+#DESCRIPTION Cine Mix
 #SERVICE 5002:0:1:fa3e:45f3:f3c8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ3500003Y1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Drama Filme - Rakuten TV
 #DESCRIPTION Drama Filme - Rakuten TV
 #SERVICE 5002:0:1:cfe2:322e:2e02:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ATAJ3500001J9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Actionfilme - Rakuten TV
 #DESCRIPTION Actionfilme - Rakuten TV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Canada
 #DESCRIPTION Canada
-#SERVICE 5002:0:1:3c8a:3e6d:6d92:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC23000056U.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders
-#DESCRIPTION Midsomer Murders
-#SERVICE 5002:0:1:8474:5ce6:e6c4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Western
-#DESCRIPTION FilmRise Western
-#SERVICE 5002:0:1:b507:3261:61d7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Food
-#DESCRIPTION BBC Food
+#SERVICE 5002:0:1:b24d:eba6:a692:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABB2600006SV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hell's Kitchen
+#DESCRIPTION Hell's Kitchen
+#SERVICE 5002:0:1:7853:2a0d:d1f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABA3700005AD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
+#DESCRIPTION Court TV
+#SERVICE 5002:0:1:60af:5bc7:c72d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC2300017XX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HappyKids
+#DESCRIPTION HappyKids
 #SERVICE 5002:0:1:2a7c:579a:9a92:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBC News Explore
 #DESCRIPTION CBC News Explore
 #SERVICE 5002:0:1:3798:def8:f8dd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC2300010E4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Radio-Canada INFO
@@ -235,12 +237,12 @@
 #DESCRIPTION Forensic Files
 #SERVICE 5002:0:1:d5fc:6313:1347:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ3400002DI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Law&Crime
 #DESCRIPTION Law&Crime
-#SERVICE 5002:0:1:7853:2a0d:d1f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABA3700005AD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Court TV
-#DESCRIPTION Court TV
 #SERVICE 5002:0:1:cc70:5350:50ba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ27000079E.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise True Crime
 #DESCRIPTION FilmRise True Crime
 #SERVICE 5002:0:1:b5be:785a:5a95:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ27000135F.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
 #DESCRIPTION Unsolved Mysteries
+#SERVICE 5002:0:1:3c8a:3e6d:6d92:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC23000056U.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders
+#DESCRIPTION Midsomer Murders
 #SERVICE 5002:0:1:9452:717c:7c74:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABA8000080J.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Time
 #DESCRIPTION Crime Time
 #SERVICE 5002:0:1:5e10:e14b:4bdf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ2700027GW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Game Show Central
@@ -299,12 +301,12 @@
 #DESCRIPTION Fireplace 4K
 #SERVICE 5002:0:1:105e:6a52:52ad:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABD1200012B8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Home & Garden
 #DESCRIPTION BBC Home & Garden
+#SERVICE 5002:0:1:b507:3261:61d7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABD1200010LE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Food
+#DESCRIPTION BBC Food
 #SERVICE 5002:0:1:78d7:c306:6a1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC5200001OH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Biggest Loser
 #DESCRIPTION The Biggest Loser
 #SERVICE 5002:0:1:a582:121c:1c7b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABB2500026WM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Operation Repo
 #DESCRIPTION Operation Repo
-#SERVICE 5002:0:1:b24d:eba6:a692:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABB2600006SV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hell's Kitchen
-#DESCRIPTION Hell's Kitchen
 #SERVICE 5002:0:1:b96f:c480:8086:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABA800001IQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:INFAST
 #DESCRIPTION INFAST
 #SERVICE 5002:0:1:61e5:a55a:5a5a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABB2500035MW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:That Girl
@@ -325,12 +327,14 @@
 #DESCRIPTION Comedy Dynamics
 #SERVICE 5002:0:1:d49a:9335:3577:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ4000008MG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Funny Or Die
 #DESCRIPTION Funny Or Die
+#SERVICE 5002:0:1:bd86:820f:f61:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC52000039H.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bob the Builder
+#DESCRIPTION Bob the Builder
+#SERVICE 5002:0:1:e5fe:5b0d:d01:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC5200004AI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strawberry Shortcake
+#DESCRIPTION Strawberry Shortcake
 #SERVICE 5002:0:1:8665:f3aa:aa98:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABA3700003NA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moonbug
 #DESCRIPTION Moonbug
 #SERVICE 5002:0:1:4b1d:8df1:f1fb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC230001363#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LEGO Channel
 #DESCRIPTION LEGO Channel
-#SERVICE 5002:0:1:60af:5bc7:c72d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABC2300017XX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HappyKids
-#DESCRIPTION HappyKids
 #SERVICE 5002:0:1:cb08:5e01:135:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABD120000693.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:pocket.watch
 #DESCRIPTION pocket.watch
 #SERVICE 5002:0:1:e259:9dc2:c256:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ34000122Z.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kidoodle.TV
@@ -369,6 +373,8 @@
 #DESCRIPTION Documentary+
 #SERVICE 5002:0:1:c970:62a6:a66e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ3400009KT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CINEVAULT%3a Classics
 #DESCRIPTION CINEVAULT: Classics
+#SERVICE 5002:0:1:8474:5ce6:e6c4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ27000159K.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Western
+#DESCRIPTION FilmRise Western
 #SERVICE 5002:0:1:12ac:942d:2dcc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CAAJ3400011V4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Preview Channel
 #DESCRIPTION The Preview Channel
 #SERVICE 5002:0:1:e6c7:d2a6:a66d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CABB2600017ZU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XITE 80s Flashback
@@ -401,18 +407,18 @@
 #DESCRIPTION Vevo Pop
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Switzerland
 #DESCRIPTION Switzerland
-#SERVICE 5002:0:1:63b1:de8:e8bf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD2600009ZC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
-#DESCRIPTION Baywatch
-#SERVICE 5002:0:1:ff9c:3dab:abfa:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA2200007DD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ADN [FR]
-#DESCRIPTION ADN [FR]
+#SERVICE 5002:0:1:2118:7ce5:e57a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBB310000196.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Mix
+#DESCRIPTION Crime Mix
+#SERVICE 5002:0:1:5fe9:d582:8263:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD200003G1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Génération Sitcoms [FR]
+#DESCRIPTION Génération Sitcoms [FR]
 #SERVICE 5002:0:1:201a:809a:9a7c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA100000532.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Live
 #DESCRIPTION Euronews Live
 #SERVICE 5002:0:1:3c49:27b3:b37b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ35000037Z.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Komödien - Rakuten TV
 #DESCRIPTION Komödien - Rakuten TV
 #SERVICE 5002:0:1:2a37:fc02:229:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN
 #DESCRIPTION CNN
-#SERVICE 5002:0:1:6848:8790:903e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ0500427A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tierwelt
-#DESCRIPTION Tierwelt
+#SERVICE 5002:0:1:37b0:5c1e:1eba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBC40000011Y.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Wicked Tuna Channel
+#DESCRIPTION The Wicked Tuna Channel
 #SERVICE 5002:0:1:7901:3807:753:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD150000135.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lagerfeuer
 #DESCRIPTION Lagerfeuer
 #SERVICE 5002:0:1:b8dd:4b8:b8ab:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ32000026J.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
@@ -447,18 +453,18 @@
 #DESCRIPTION Naruto
 #SERVICE 5002:0:1:577e:3456:565e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD1400003NE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yu-Gi-Oh!
 #DESCRIPTION Yu-Gi-Oh!
-#SERVICE 5002:0:1:2118:7ce5:e57a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBB310000196.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Mix
-#DESCRIPTION Crime Mix
+#SERVICE 5002:0:1:63b1:de8:e8bf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD2600009ZC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
+#DESCRIPTION Baywatch
 #SERVICE 5002:0:1:5da2:3765:650b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ700007XE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Serie
 #DESCRIPTION Pluto TV Serie
 #SERVICE 5002:0:1:1aa2:a11d:1db4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA33000099T.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Serien - Rakuten TV
 #DESCRIPTION Crime Serien - Rakuten TV
 #SERVICE 5002:0:1:909a:f71c:1cba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBB4900003F5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spannung & Emotionen
 #DESCRIPTION Spannung & Emotionen
+#SERVICE 5002:0:1:2d14:9347:4725:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD27000011N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee One
+#DESCRIPTION Zee One
 #SERVICE 5002:0:1:985a:4ac9:c949:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD1400002AK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SPIEGEL TV Konflikte
 #DESCRIPTION SPIEGEL TV Konflikte
-#SERVICE 5002:0:1:37b0:5c1e:1eba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBC40000011Y.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Wicked Tuna Channel
-#DESCRIPTION The Wicked Tuna Channel
 #SERVICE 5002:0:1:e4fe:3fd0:d012:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD1400001NP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CURIOSITY Now
 #DESCRIPTION CURIOSITY Now
 #SERVICE 5002:0:1:e2b1:fe5f:5fa6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ7000084D.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
@@ -487,6 +493,8 @@
 #DESCRIPTION Pluto TV Animals
 #SERVICE 5002:0:1:82e9:64d7:d79f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA1500021M5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:One Terra
 #DESCRIPTION One Terra
+#SERVICE 5002:0:1:6848:8790:903e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ0500427A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tierwelt
+#DESCRIPTION Tierwelt
 #SERVICE 5002:0:1:14bd:905b:5bc7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD1900001JB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN FAST
 #DESCRIPTION CNN FAST
 #SERVICE 5002:0:1:815a:dc9a:9ac4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD1100003CW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FRANCE 24 FAST
@@ -515,9 +523,9 @@
 #DESCRIPTION Just Cooking
 #SERVICE 5002:0:1:6160:b3c3:c315:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA2200006MT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
 #DESCRIPTION Tastemade
-#SERVICE 5002:0:1:8558:b11f:1f6d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ0500410A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
+#SERVICE 5002:0:1:8558:b11f:1f6d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD26000130C.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
 #DESCRIPTION Motorvision
-#SERVICE 5002:0:1:4e12:eda6:a60b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ0500429A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision Classic
+#SERVICE 5002:0:1:4e12:eda6:a60b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD2600012Y6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision Classic
 #DESCRIPTION Motorvision Classic
 #SERVICE 5002:0:1:a7bf:b727:2737:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHAJ0500459A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:auto motor und sport
 #DESCRIPTION auto motor und sport
@@ -533,8 +541,8 @@
 #DESCRIPTION Horse & Country
 #SERVICE 5002:0:1:45ea:79fa:fab9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA3300006D5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
 #DESCRIPTION World Poker Tour
-#SERVICE 5002:0:1:1b8f:3f94:94be:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA15000257K.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More Than Sports TV
-#DESCRIPTION More Than Sports TV
+#SERVICE 5002:0:1:f69d:3dad:adbc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD2600011YG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More than Sports TV
+#DESCRIPTION More than Sports TV
 #SERVICE 5002:0:1:164f:7aea:eac6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA3300011A6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strongman Champions League
 #DESCRIPTION Strongman Champions League
 #SERVICE 5002:0:1:f411:8836:367a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA3300014AM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teletubbies
@@ -563,6 +571,8 @@
 #DESCRIPTION Qwest TV
 #SERVICE 5002:0:1:b20f:4259:59d3:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBC4000006ZD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Destination Nature [FR]
 #DESCRIPTION Destination Nature [FR]
+#SERVICE 5002:0:1:ff9c:3dab:abfa:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBA2200007DD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ADN [FR]
+#DESCRIPTION ADN [FR]
 #SERVICE 5002:0:1:ad2b:b936:3634:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD2000023S.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alerte à Malibu [FR]
 #DESCRIPTION Alerte à Malibu [FR]
 #SERVICE 5002:0:1:3597:710b:bde:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBB49000023B.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Y'a que la vérité qui compte [FR]
@@ -577,8 +587,6 @@
 #DESCRIPTION BelAir TV [FR]
 #SERVICE 5002:0:1:7e3a:5fac:ac89:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBC3500001NJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Enquêtes de Choc [FR]
 #DESCRIPTION Enquêtes de Choc [FR]
-#SERVICE 5002:0:1:5fe9:d582:8263:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBD200003G1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Génération Sitcoms [FR]
-#DESCRIPTION Génération Sitcoms [FR]
 #SERVICE 5002:0:1:cb61:9370:7029:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBC14000022X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Le Figaro Live [FR]
 #DESCRIPTION Le Figaro Live [FR]
 #SERVICE 5002:0:1:cc99:2de8:e8f4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/CHBB29000035U.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Stories [FR]
@@ -657,16 +665,16 @@
 #DESCRIPTION Actionfilme - Rakuten TV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Germany
 #DESCRIPTION Germany
-#SERVICE 5002:0:1:63b1:9f6c:6c9e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD26000020X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
-#DESCRIPTION Baywatch
+#SERVICE 5002:0:1:2118:2fb2:b239:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBB3100001AR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Mix
+#DESCRIPTION Crime Mix
 #SERVICE 5002:0:1:201a:8f79:79ef:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA1000003IM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Live
 #DESCRIPTION Euronews Live
 #SERVICE 5002:0:1:3c49:8069:6948:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ3500002EO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Komödien - Rakuten TV
 #DESCRIPTION Komödien - Rakuten TV
 #SERVICE 5002:0:1:2a37:96ec:ec80:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN
 #DESCRIPTION CNN
-#SERVICE 5002:0:1:343e:62c5:c5f5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC1000001LB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Mix
-#DESCRIPTION Cine Mix
+#SERVICE 5002:0:1:b8d6:dad2:d26f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC3000003IG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Terra X
+#DESCRIPTION Terra X
 #SERVICE 5002:0:1:7901:734a:4a9b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD1500001VJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lagerfeuer
 #DESCRIPTION Lagerfeuer
 #SERVICE 5002:0:1:e221:7676:7610:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAK3504502A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Catfish
@@ -701,16 +709,16 @@
 #DESCRIPTION Yu-Gi-Oh!
 #SERVICE 5002:0:1:f93e:d59a:9a6b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD2400001PC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Out TV
 #DESCRIPTION Out TV
-#SERVICE 5002:0:1:2118:2fb2:b239:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBB3100001AR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Mix
-#DESCRIPTION Crime Mix
+#SERVICE 5002:0:1:63b1:9f6c:6c9e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD26000020X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
+#DESCRIPTION Baywatch
 #SERVICE 5002:0:1:5da2:ad8d:8d6f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ700007OT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Serie
 #DESCRIPTION Pluto TV Serie
 #SERVICE 5002:0:1:1aa2:926b:6be1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300018UN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Serien - Rakuten TV
 #DESCRIPTION Crime Serien - Rakuten TV
 #SERVICE 5002:0:1:909a:991c:1ca0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC2200001EO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spannung & Emotionen
 #DESCRIPTION Spannung & Emotionen
-#SERVICE 5002:0:1:b8d6:dad2:d26f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC3000003IG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Terra X
-#DESCRIPTION Terra X
+#SERVICE 5002:0:1:2d14:bb70:70de:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ2900003CN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee One
+#DESCRIPTION Zee One
 #SERVICE 5002:0:1:985a:2778:78f4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ2900001NG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SPIEGEL TV Konflikte
 #DESCRIPTION SPIEGEL TV Konflikte
 #SERVICE 5002:0:1:37b0:f238:387a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC220000422.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Wicked Tuna Channel
@@ -785,10 +793,10 @@
 #DESCRIPTION Just Cooking
 #SERVICE 5002:0:1:a7bf:4a09:95b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAK0500452A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:auto motor und sport
 #DESCRIPTION auto motor und sport
-#SERVICE 5002:0:1:8558:a368:68f8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAH3904004A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
-#DESCRIPTION Motorvision
-#SERVICE 5002:0:1:4e12:f37a:7aa4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ0500425A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision Classic
+#SERVICE 5002:0:1:4e12:f37a:7aa4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD2600004U7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision Classic
 #DESCRIPTION Motorvision Classic
+#SERVICE 5002:0:1:8558:a368:68f8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD2600005U6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
+#DESCRIPTION Motorvision
 #SERVICE 5002:0:1:1113:411:11b7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300019EB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
 #DESCRIPTION FIFA+
 #SERVICE 5002:0:1:8758:4d46:4641:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC2300001EU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Red Bull TV
@@ -801,8 +809,8 @@
 #DESCRIPTION Sportdigital Free
 #SERVICE 5002:0:1:107f:f370:7022:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA2200008NL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tennis Channel Deutschland
 #DESCRIPTION Tennis Channel Deutschland
-#SERVICE 5002:0:1:1b8f:b099:995c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA1500026EV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More Than Sports TV
-#DESCRIPTION More Than Sports TV
+#SERVICE 5002:0:1:f69d:c45c:5c5a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD26000034M.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More than Sports TV
+#DESCRIPTION More than Sports TV
 #SERVICE 5002:0:1:164f:1e64:640d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300016EV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strongman Champions League
 #DESCRIPTION Strongman Champions League
 #SERVICE 5002:0:1:f411:ab37:37ba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300023IR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teletubbies
@@ -839,7 +847,7 @@
 #DESCRIPTION GoldStar TV
 #SERVICE 5002:0:1:f1d2:2dfb:fbd9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300030O1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Urban
 #DESCRIPTION Trace Urban
-#SERVICE 5002:0:1:e238:b8ff:ff1d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300031Q8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XITE Rock On
+#SERVICE 5002:0:1:e238:b8ff:ff1d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBD3000002SI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XITE Rock On
 #DESCRIPTION XITE Rock On
 #SERVICE 5002:0:1:30a6:d41c:1c49:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBB1900001Z6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
 #DESCRIPTION Clubbing TV
@@ -871,24 +879,26 @@
 #DESCRIPTION MyTime Movie Network
 #SERVICE 5002:0:1:b150:b232:323d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBA3300015ZU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Filme - Rakuten TV
 #DESCRIPTION Top Filme - Rakuten TV
+#SERVICE 5002:0:1:343e:62c5:c5f5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEBC1000001LB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Mix
+#DESCRIPTION Cine Mix
 #SERVICE 5002:0:1:fa3e:3aa5:a546:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ3500003YF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Drama Filme - Rakuten TV
 #DESCRIPTION Drama Filme - Rakuten TV
 #SERVICE 5002:0:1:cfe2:7b8c:8c88:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/DEAJ3500001Q1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Actionfilme - Rakuten TV
 #DESCRIPTION Actionfilme - Rakuten TV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Spain
 #DESCRIPTION Spain
-#SERVICE 5002:0:1:87f7:990e:ee8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Runtime Comedia
-#DESCRIPTION Runtime Comedia
+#SERVICE 5002:0:1:fabe:6a6c:6c47:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA3300027H5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Las Reglas Del Juego
+#DESCRIPTION Las Reglas Del Juego
 #SERVICE 5002:0:1:5e03:4946:4660:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA2200005D6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Todo Crimen
 #DESCRIPTION Todo Crimen
 #SERVICE 5002:0:1:90fb:2b23:23b3:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESAJ4500024LR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews en directo
 #DESCRIPTION Euronews en directo
 #SERVICE 5002:0:1:d5bf:d52:52b7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESAJ4500019AM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedias - Rakuten TV
 #DESCRIPTION Comedias - Rakuten TV
-#SERVICE 5002:0:1:bf54:6bff:ff82:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teledeporte
-#DESCRIPTION Teledeporte
-#SERVICE 5002:0:1:1c90:c763:63ad:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Latino
-#DESCRIPTION Vevo Latino
+#SERVICE 5002:0:1:9cdc:4a30:30e6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD2300004Y7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sol Música
+#DESCRIPTION Sol Música
+#SERVICE 5002:0:1:a1c:8493:93ae:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA22000102A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nature Time
+#DESCRIPTION Nature Time
 #SERVICE 5002:0:1:5f13:75db:db8c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC4100001NZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:La 1
 #DESCRIPTION La 1
 #SERVICE 5002:0:1:2138:28a1:a105:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD1500001SD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoguera
@@ -935,12 +945,10 @@
 #DESCRIPTION Crimen - Rakuten TV
 #SERVICE 5002:0:1:7961:789b:9b79:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA3300039ZX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tu Cine
 #DESCRIPTION Tu Cine
-#SERVICE 5002:0:1:fabe:6a6c:6c47:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA3300027H5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Las Reglas Del Juego
-#DESCRIPTION Las Reglas Del Juego
 #SERVICE 5002:0:1:65c7:bd80:8020:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA140000504.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stormcast Novelas
 #DESCRIPTION Stormcast Novelas
-#SERVICE 5002:0:1:1773:de2d:2dd5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Frecuencia Novelas
-#DESCRIPTION Frecuencia Novelas
+#SERVICE 5002:0:1:1245:5f8d:8d7f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC43000013T.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Todo Novelas
+#DESCRIPTION Todo Novelas
 #SERVICE 5002:0:1:2086:a5aa:aa84:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA1400001OG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Doctor Who
 #DESCRIPTION Doctor Who
 #SERVICE 5002:0:1:b0ec:7954:5420:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA1400003LA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Drama
@@ -961,8 +969,6 @@
 #DESCRIPTION Love the Planet
 #SERVICE 5002:0:1:f881:4e56:56dd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC170000388.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WaterBear
 #DESCRIPTION WaterBear
-#SERVICE 5002:0:1:a1c:8493:93ae:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA22000102A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nature Time
-#DESCRIPTION Nature Time
 #SERVICE 5002:0:1:3207:3b94:9426:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA330004121.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WildEarth
 #DESCRIPTION WildEarth
 #SERVICE 5002:0:1:f1f7:d69b:9b23:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC4100004J1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:24H
@@ -973,6 +979,8 @@
 #DESCRIPTION El Confidencial
 #SERVICE 5002:0:1:14bd:696e:6ec6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD190000137.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN FAST
 #DESCRIPTION CNN FAST
+#SERVICE 5002:0:1:fc4f:461e:1ec3:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC400003YM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News NOW
+#DESCRIPTION NBC News NOW
 #SERVICE 5002:0:1:e86f:992:9285:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC39000033J.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:El País
 #DESCRIPTION El País
 #SERVICE 5002:0:1:815a:c6fb:fb5d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD1100001PQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FRANCE 24 FAST
@@ -1003,8 +1011,10 @@
 #DESCRIPTION Tastemade
 #SERVICE 5002:0:1:de2d:b170:7057:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESAJ2900001Y3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear en Español
 #DESCRIPTION Top Gear en Español
-#SERVICE 5002:0:1:8558:9d96:9631:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA1500002B5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
+#SERVICE 5002:0:1:8558:9d96:9631:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD3200001EG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
 #DESCRIPTION Motorvision
+#SERVICE 5002:0:1:bf54:6bff:ff82:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC410000577.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teledeporte
+#DESCRIPTION Teledeporte
 #SERVICE 5002:0:1:1113:8539:395e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
 #DESCRIPTION FIFA+
 #SERVICE 5002:0:1:b58d:9484:84ea:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC3500003YK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MyPadel TV
@@ -1027,8 +1037,8 @@
 #DESCRIPTION SuperToons TV
 #SERVICE 5002:0:1:ca04:f71b:1b5d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA3300017FA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Familiares - Rakuten TV
 #DESCRIPTION Familiares - Rakuten TV
-#SERVICE 5002:0:1:71b4:79d2:d287:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESAJ4500026J3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Planeta Junior
-#DESCRIPTION Planeta Junior
+#SERVICE 5002:0:1:c2a7:1153:5381:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD3200002V5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:David el Gnomo & Friends
+#DESCRIPTION David el Gnomo & Friends
 #SERVICE 5002:0:1:cbb3:9058:58cc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA3300020W5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Caillou
 #DESCRIPTION Caillou
 #SERVICE 5002:0:1:23ab:682b:2b52:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESAJ3800009VJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Animakids
@@ -1045,8 +1055,8 @@
 #DESCRIPTION Pocoyó
 #SERVICE 5002:0:1:20b8:4425:2512:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC4700001GR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:duckTV
 #DESCRIPTION duckTV
-#SERVICE 5002:0:1:9cdc:4a30:30e6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD2300004Y7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sol Música
-#DESCRIPTION Sol Música
+#SERVICE 5002:0:1:1c90:c763:63ad:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC2100002LV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Latino
+#DESCRIPTION Vevo Latino
 #SERVICE 5002:0:1:3299:8b37:371a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBC2100001IU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Pop
 #DESCRIPTION Vevo Pop
 #SERVICE 5002:0:1:8ce1:f0b1:b13a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBA3300042Y6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trace Latina
@@ -1081,6 +1091,8 @@
 #DESCRIPTION Runtime
 #SERVICE 5002:0:1:61f7:26d9:d958:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD80000288.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Runtime Acción
 #DESCRIPTION Runtime Acción
+#SERVICE 5002:0:1:87f7:990e:ee8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD8000033W.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Runtime Comedia
+#DESCRIPTION Runtime Comedia
 #SERVICE 5002:0:1:43ea:8893:93b7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD800004KU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Runtime Romance
 #DESCRIPTION Runtime Romance
 #SERVICE 5002:0:1:7ce4:8e48:480a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ESBD800001RJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Friki
@@ -1107,28 +1119,30 @@
 #DESCRIPTION France
 #SERVICE 5002:0:1:ad06:723a:3aaf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC4000001IO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Destination Nature
 #DESCRIPTION Destination Nature
-#SERVICE 5002:0:1:a762:f00a:a1a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1900006NA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Le meilleur d'Arthur
-#DESCRIPTION Le meilleur d'Arthur
+#SERVICE 5002:0:1:49bc:1dee:ee59:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC4700003FS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:A prendre ou à laisser
+#DESCRIPTION A prendre ou à laisser
 #SERVICE 5002:0:1:3055:8e74:7428:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA1000005TW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews en direct
 #DESCRIPTION Euronews en direct
 #SERVICE 5002:0:1:8c96:e689:8985:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRAJ4500024MR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comédies - Rakuten TV
 #DESCRIPTION Comédies - Rakuten TV
-#SERVICE 5002:0:1:56c7:bcdb:dbb6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC900003KP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Y'a que la vérité qui compte
-#DESCRIPTION Y'a que la vérité qui compte
-#SERVICE 5002:0:1:d3e5:77db:dbc2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA2200007G7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ADN
-#DESCRIPTION ADN
+#SERVICE 5002:0:1:8b58:61e6:e664:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD11000038N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:L'effet papillon
+#DESCRIPTION L'effet papillon
+#SERVICE 5002:0:1:8bea:cb3d:3d92:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1900005BA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Les Z'amours
+#DESCRIPTION Les Z'amours
 #SERVICE 5002:0:1:712d:b2a3:a3c4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1500001BN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Au coin de feu
 #DESCRIPTION Au coin de feu
-#SERVICE 5002:0:1:49bc:1dee:ee59:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC4700003FS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:A prendre ou à laisser
-#DESCRIPTION A prendre ou à laisser
 #SERVICE 5002:0:1:9392:b790:9095:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1900007PQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qui veut gagner des millions
 #DESCRIPTION Qui veut gagner des millions
 #SERVICE 5002:0:1:b8dd:48fb:fb57:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA33000234L.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
 #DESCRIPTION FailArmy
 #SERVICE 5002:0:1:b698:40dc:dc56:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBB490000412.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motus
 #DESCRIPTION Motus
-#SERVICE 5002:0:1:8bea:cb3d:3d92:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1900005BA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Les Z'amours
-#DESCRIPTION Les Z'amours
+#SERVICE 5002:0:1:ac5a:3c68:68e6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD300000170.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ardivision
+#DESCRIPTION Ardivision
+#SERVICE 5002:0:1:a762:f00a:a1a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1900006NA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Le meilleur d'Arthur
+#DESCRIPTION Le meilleur d'Arthur
+#SERVICE 5002:0:1:d3e5:77db:dbc2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA2200007G7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ADN
+#DESCRIPTION ADN
 #SERVICE 5002:0:1:61a8:3e3b:3b6d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBB49000014I.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gong
 #DESCRIPTION Gong
 #SERVICE 5002:0:1:7d96:c78c:8caf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC3900003ZH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MGG FAST
@@ -1139,6 +1153,8 @@
 #DESCRIPTION People Are Awesome
 #SERVICE 5002:0:1:e221:3087:871e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRAJ38000050Z.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Catfish
 #DESCRIPTION MTV Catfish
+#SERVICE 5002:0:1:56c7:bcdb:dbb6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC900003KP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Y'a que la vérité qui compte
+#DESCRIPTION Y'a que la vérité qui compte
 #SERVICE 5002:0:1:ca73:364d:4dbe:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC9000041F.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trailers
 #DESCRIPTION Trailers
 #SERVICE 5002:0:1:b058:b465:65f2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA3300035UK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Juste Pour Rire
@@ -1185,8 +1201,6 @@
 #DESCRIPTION BelAir TV
 #SERVICE 5002:0:1:90cf:8498:98a0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA3300061XH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Aventurama TV
 #DESCRIPTION Aventurama TV
-#SERVICE 5002:0:1:8b58:61e6:e664:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD11000038N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:L'effet papillon
-#DESCRIPTION L'effet papillon
 #SERVICE 5002:0:1:8f5:40c4:c429:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC4700004ZN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Les 30 histoires
 #DESCRIPTION Les 30 histoires
 #SERVICE 5002:0:1:4661:d66:669d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBB49000033R.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homicide
@@ -1237,7 +1251,7 @@
 #DESCRIPTION Exquis TV
 #SERVICE 5002:0:1:ee42:43c7:c74b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA3300044VR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Cuisine
 #DESCRIPTION Pluto TV Cuisine
-#SERVICE 5002:0:1:8558:9116:1699:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA1500006WU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
+#SERVICE 5002:0:1:8558:9116:1699:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD3200001DV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
 #DESCRIPTION Motorvision
 #SERVICE 5002:0:1:11a8:e0c2:c2ab:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBA3300053F3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorsport.tv
 #DESCRIPTION Motorsport.tv
@@ -1271,6 +1285,8 @@
 #DESCRIPTION Pluto TV Kids Séries
 #SERVICE 5002:0:1:74ff:7428:2826:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRAJ38000061J.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iCarly
 #DESCRIPTION iCarly
+#SERVICE 5002:0:1:c2b5:89:89f7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBD1900012T7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Charlotte aux Fraises
+#DESCRIPTION Charlotte aux Fraises
 #SERVICE 5002:0:1:72b1:3d18:180a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC2100002JA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Hip-Hop & R&B
 #DESCRIPTION Vevo Hip-Hop & R&B
 #SERVICE 5002:0:1:3299:2320:208c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/FRBC2100001YY.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Pop
@@ -1325,28 +1341,26 @@
 #DESCRIPTION United Kingdom
 #SERVICE 5002:0:1:610a:951a:1a27:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Entertainment Hub
 #DESCRIPTION Entertainment Hub
-#SERVICE 5002:0:1:aa91:2:2b0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jamie Oliver Channel
-#DESCRIPTION The Jamie Oliver Channel
+#SERVICE 5002:0:1:e396:38c3:c3f5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Hub
+#DESCRIPTION Comedy Hub
 #SERVICE 5002:0:1:201a:d338:38ff:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews Live
 #DESCRIPTION Euronews Live
 #SERVICE 5002:0:1:c5b2:e54a:4a14:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Movies - Rakuten TV
 #DESCRIPTION Comedy Movies - Rakuten TV
 #SERVICE 5002:0:1:2a37:1dbc:bc70:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN
 #DESCRIPTION CNN
-#SERVICE 5002:0:1:4feb:f3af:afb0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Project Runway
-#DESCRIPTION Project Runway
-#SERVICE 5002:0:1:9be7:29b2:b233:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD1300001WA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Smurf TV
-#DESCRIPTION Smurf TV
+#SERVICE 5002:0:1:7c9b:bdae:ae46:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Got Talent
+#DESCRIPTION America's Got Talent
+#SERVICE 5002:0:1:47e7:8db7:b7f7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime UK from CBS Reality
+#DESCRIPTION True Crime UK from CBS Reality
 #SERVICE 5002:0:1:1113:e72a:2a76:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
 #DESCRIPTION FIFA+
 #SERVICE 5002:0:1:ce6c:2ffe:fe98:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FireScape
 #DESCRIPTION FireScape
-#SERVICE 5002:0:1:e396:38c3:c3f5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Hub
-#DESCRIPTION Comedy Hub
 #SERVICE 5002:0:1:2e92:9b2a:2ae6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD3100003J5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:UKTV Play Laughs
 #DESCRIPTION UKTV Play Laughs
-#SERVICE 5002:0:1:7c9b:bdae:ae46:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Got Talent
-#DESCRIPTION America's Got Talent
+#SERVICE 5002:0:1:4feb:f3af:afb0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Project Runway
+#DESCRIPTION Project Runway
 #SERVICE 5002:0:1:34f0:add4:d4dd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:American Idol
 #DESCRIPTION American Idol
 #SERVICE 5002:0:1:b24d:c484:841c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC300002SA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hell's Kitchen
@@ -1375,6 +1389,8 @@
 #DESCRIPTION Pointless UK: 'Powered by Banijay'
 #SERVICE 5002:0:1:cfe:fa62:6252:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA3300022EI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Revry
 #DESCRIPTION Revry
+#SERVICE 5002:0:1:fbbb:c603:32e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD3000001QB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wipeout Xtra Powered by Banijay
+#DESCRIPTION Wipeout Xtra Powered by Banijay
 #SERVICE 5002:0:1:fe3e:7864:64b1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB1600006RS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are We There Yet?
 #DESCRIPTION Are We There Yet?
 #SERVICE 5002:0:1:34cc:1aa3:a39d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC4300003XU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Life
@@ -1399,8 +1415,8 @@
 #DESCRIPTION Comedy Dynamics
 #SERVICE 5002:0:1:63b1:399e:9e6c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
 #DESCRIPTION Baywatch
-#SERVICE 5002:0:1:edd2:2fb6:b63d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB38000106Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Storylands
-#DESCRIPTION Storylands
+#SERVICE 5002:0:1:96b6:2fb:fbe6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB38000106Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Drama by ITV Studios
+#DESCRIPTION World Drama by ITV Studios
 #SERVICE 5002:0:1:1ddb:4ae7:e76f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBAK3504509A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Drama
 #DESCRIPTION Pluto TV Drama
 #SERVICE 5002:0:1:c7bf:5233:336f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB3800008UD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:McLeod's Daughters
@@ -1421,8 +1437,6 @@
 #DESCRIPTION 5 Cops
 #SERVICE 5002:0:1:13cd:76a7:a727:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA3300038UZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homicide Hunter
 #DESCRIPTION Homicide Hunter
-#SERVICE 5002:0:1:47e7:8db7:b7f7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime UK from CBS Reality
-#DESCRIPTION True Crime UK from CBS Reality
 #SERVICE 5002:0:1:60fe:9383:8379:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD260000189.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime & Justice
 #DESCRIPTION Crime & Justice
 #SERVICE 5002:0:1:eeae:1bc8:c838:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC900005T0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Haunt TV
@@ -1469,6 +1483,8 @@
 #DESCRIPTION Real Wild
 #SERVICE 5002:0:1:5898:e637:3747:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBAJ700001FH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Animals
 #DESCRIPTION Pluto TV Animals
+#SERVICE 5002:0:1:aab6:5aac:aca9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD3200001E2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Earth Touch
+#DESCRIPTION Earth Touch
 #SERVICE 5002:0:1:ffe2:daba:ba98:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:INWILD
 #DESCRIPTION INWILD
 #SERVICE 5002:0:1:3207:d9d:9d3c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WildEarth
@@ -1481,6 +1497,8 @@
 #DESCRIPTION FRANCE 24 FAST
 #SERVICE 5002:0:1:d667:a4d0:d0bc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB1000002VQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TalkTV
 #DESCRIPTION TalkTV
+#SERVICE 5002:0:1:fc4f:d9eb:eb89:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News NOW
+#DESCRIPTION NBC News NOW
 #SERVICE 5002:0:1:58e8:1d9d:9d03:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV+
 #DESCRIPTION Bloomberg TV+
 #SERVICE 5002:0:1:c8e:deb8:b863:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals
@@ -1501,6 +1519,8 @@
 #DESCRIPTION Love Pets
 #SERVICE 5002:0:1:d020:a077:77ee:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
 #DESCRIPTION Fashion TV
+#SERVICE 5002:0:1:aa91:2:2b0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jamie Oliver Channel
+#DESCRIPTION The Jamie Oliver Channel
 #SERVICE 5002:0:1:190a:966c:6cd6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Masterchef UK%3a 'Powered by Banijay'
 #DESCRIPTION Masterchef UK: 'Powered by Banijay'
 #SERVICE 5002:0:1:34ad:7ebc:bc2a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC900014LW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Great British Menu
@@ -1519,6 +1539,8 @@
 #DESCRIPTION MotorRacing
 #SERVICE 5002:0:1:9d29:337c:7c67:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA330002677.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MAVTV Motorsports Network
 #DESCRIPTION MAVTV Motorsports Network
+#SERVICE 5002:0:1:e5b9:d145:455c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB1500005BH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PGA Tour
+#DESCRIPTION PGA Tour
 #SERVICE 5002:0:1:6447:6589:8909:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB4300001NX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Viaplay Xtra
 #DESCRIPTION Viaplay Xtra
 #SERVICE 5002:0:1:8758:372a:2acd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD2300003IK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Red Bull TV
@@ -1537,14 +1559,16 @@
 #DESCRIPTION INTROUBLE
 #SERVICE 5002:0:1:e8d7:d90:9058:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The LEGO Channel
 #DESCRIPTION The LEGO Channel
-#SERVICE 5002:0:1:dc30:dd87:8727:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC3700001TW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Smurf TV (Promoted)
-#DESCRIPTION Smurf TV (Promoted)
+#SERVICE 5002:0:1:9be7:29b2:b233:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD1300001WA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Smurf TV
+#DESCRIPTION Smurf TV
 #SERVICE 5002:0:1:f411:fa37:3707:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA33000286F.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teletubbies
 #DESCRIPTION Teletubbies
-#SERVICE 5002:0:1:a301:ef72:7210:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:POP Kids
-#DESCRIPTION POP Kids
+#SERVICE 5002:0:1:9d3:78f5:f53a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:POP
+#DESCRIPTION POP
 #SERVICE 5002:0:1:c7dc:cb01:174:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ketchup TV
 #DESCRIPTION Ketchup TV
+#SERVICE 5002:0:1:444f:e4e6:e62d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny POP
+#DESCRIPTION Tiny POP
 #SERVICE 5002:0:1:6ecf:bb1b:1bba:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family - Rakuten TV
 #DESCRIPTION Family - Rakuten TV
 #SERVICE 5002:0:1:e3f9:4ed6:d6cf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/GBBA3300032S9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SuperToons TV
@@ -1629,12 +1653,12 @@
 #DESCRIPTION The Movie Club
 #SERVICE 5002:0:1:357:eb12:122a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC4300002N8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Station
 #DESCRIPTION South Station
-#SERVICE 5002:0:1:e273:c0c2:c208:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Korean TV
-#DESCRIPTION Korean TV
-#SERVICE 5002:0:1:a786:c40e:ea7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300010WP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News18 India
-#DESCRIPTION News18 India
-#SERVICE 5002:0:1:1113:4c76:7626:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
-#DESCRIPTION FIFA+
+#SERVICE 5002:0:1:f66a:7b25:250b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pogo
+#DESCRIPTION Pogo
+#SERVICE 5002:0:1:1506:105e:5eee:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD25000054A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV9 Bharatvarsh
+#DESCRIPTION TV9 Bharatvarsh
+#SERVICE 5002:0:1:e5b9:76e9:e964:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD29000010W.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PGA Tour
+#DESCRIPTION PGA Tour
 #SERVICE 5002:0:1:88ff:fa85:85de:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC2800003RQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Aaj Tak
 #DESCRIPTION Aaj Tak
 #SERVICE 5002:0:1:d56f:2fe8:e897:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC2800002WJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NDTV India
@@ -1645,12 +1669,12 @@
 #DESCRIPTION ABP News
 #SERVICE 5002:0:1:57a4:2432:3280:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC4300010Z6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee News
 #DESCRIPTION Zee News
+#SERVICE 5002:0:1:a786:c40e:ea7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300010WP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News18 India
+#DESCRIPTION News18 India
 #SERVICE 5002:0:1:eed1:261a:1ac4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300003OW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Times Now Navbharat
 #DESCRIPTION Times Now Navbharat
 #SERVICE 5002:0:1:ae06:dfaa:aa97:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC2800004FU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Good News Today
 #DESCRIPTION Good News Today
-#SERVICE 5002:0:1:38c1:fcae:ae33:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD40000974.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABP Ganga
-#DESCRIPTION ABP Ganga
 #SERVICE 5002:0:1:9688:a741:4119:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300007ST.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNBC AWAAZ
 #DESCRIPTION CNBC AWAAZ
 #SERVICE 5002:0:1:e2f1:57c8:c87b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD400004NS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee Business
@@ -1665,26 +1689,32 @@
 #DESCRIPTION NDTV 24X7
 #SERVICE 5002:0:1:b93d:85a4:a45b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300009QZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN News18
 #DESCRIPTION CNN News18
+#SERVICE 5002:0:1:e474:5f04:4cc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD25000021N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:News9 Live
+#DESCRIPTION News9 Live
 #SERVICE 5002:0:1:4604:1625:25ad:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC2800006GF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NDTV Profit
 #DESCRIPTION NDTV Profit
 #SERVICE 5002:0:1:739d:6ab2:b25a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300008ZY.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNBC TV18
 #DESCRIPTION CNBC TV18
 #SERVICE 5002:0:1:6027:eb2:b2be:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100021WP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV
 #DESCRIPTION Bloomberg TV
+#SERVICE 5002:0:1:2a37:50e2:e2be:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN
+#DESCRIPTION CNN
 #SERVICE 5002:0:1:c8e:6251:518d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100022O4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals
 #DESCRIPTION Bloomberg Originals
 #SERVICE 5002:0:1:5ee3:2fcd:cd1b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD400008VR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABP Majha
 #DESCRIPTION ABP Majha
 #SERVICE 5002:0:1:c879:4b88:88e8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD400001CP.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee 24 Taas
 #DESCRIPTION Zee 24 Taas
-#SERVICE 5002:0:1:ea1e:6fa2:a2c4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD40001109.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABP Sanjha
-#DESCRIPTION ABP Sanjha
 #SERVICE 5002:0:1:2003:d4a4:a44c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD400010BD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABP Asmita
 #DESCRIPTION ABP Asmita
 #SERVICE 5002:0:1:4ac6:32d3:d30c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD400007NT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABP Ananda
 #DESCRIPTION ABP Ananda
 #SERVICE 5002:0:1:205e:ea0b:b4b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD400003GE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee 24 Ghanta
 #DESCRIPTION Zee 24 Ghanta
+#SERVICE 5002:0:1:661b:1b58:588f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD2500004Y0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV9 Telugu
+#DESCRIPTION TV9 Telugu
+#SERVICE 5002:0:1:a2ed:6f87:878a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD2500003XT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV9 Kannada
+#DESCRIPTION TV9 Kannada
 #SERVICE 5002:0:1:fca7:7140:402d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD4000027E.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zee 24 Kalak
 #DESCRIPTION Zee 24 Kalak
 #SERVICE 5002:0:1:9161:844f:4ff5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBB28000060I.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mastiii
@@ -1705,6 +1735,8 @@
 #DESCRIPTION Qwest TV
 #SERVICE 5002:0:1:33a0:1960:6069:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300015JE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dangal TV
 #DESCRIPTION Dangal TV
+#SERVICE 5002:0:1:e273:c0c2:c208:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC4300008IH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Korean TV
+#DESCRIPTION Korean TV
 #SERVICE 5002:0:1:8c58:6b43:4395:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC1500006UB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Investigation Discovery
 #DESCRIPTION Investigation Discovery
 #SERVICE 5002:0:1:7a13:46c9:c91a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC1500007PX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ID-HD
@@ -1713,12 +1745,8 @@
 #DESCRIPTION Real Crime
 #SERVICE 5002:0:1:d905:cbc5:c5da:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA510000407.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True Crime Now
 #DESCRIPTION True Crime Now
-#SERVICE 5002:0:1:1713:5295:95d7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA4900013C2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Q
-#DESCRIPTION The Q
 #SERVICE 5002:0:1:1b40:8fed:ed57:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD130001674.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Enterr10 Bangla
 #DESCRIPTION Enterr10 Bangla
-#SERVICE 5002:0:1:2d1d:4d21:2131:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC15000134K.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Q Marathi
-#DESCRIPTION Q Marathi
 #SERVICE 5002:0:1:b8dd:abe2:e215:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100030AO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
 #DESCRIPTION FailArmy
 #SERVICE 5002:0:1:daaf:f2fb:fb95:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100029JI.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Pet Collective
@@ -1753,20 +1781,18 @@
 #DESCRIPTION INWILD
 #SERVICE 5002:0:1:bb2:2eb5:b5fe:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC15000102M.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Discovery Tamil
 #DESCRIPTION Discovery Tamil
+#SERVICE 5002:0:1:1113:4c76:7626:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100009V3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
+#DESCRIPTION FIFA+
 #SERVICE 5002:0:1:95c1:a9cb:cb9a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC1500008UJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Eurosport
 #DESCRIPTION Eurosport
 #SERVICE 5002:0:1:4f8c:9731:3112:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC1500009OF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Eurosport HD
 #DESCRIPTION Eurosport HD
 #SERVICE 5002:0:1:88f5:ef84:8414:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100007ME.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boxing TV
 #DESCRIPTION Boxing TV
-#SERVICE 5002:0:1:146e:9293:9353:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC28000195A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Prime Fight HD
-#DESCRIPTION Prime Fight HD
 #SERVICE 5002:0:1:3b46:93c7:c702:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC2800017OC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIGHT TV
 #DESCRIPTION FIGHT TV
 #SERVICE 5002:0:1:31d9:4676:761d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA4900017K8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tennis Channel
 #DESCRIPTION Tennis Channel
-#SERVICE 5002:0:1:194a:7e38:382c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD130000600.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Q GameX
-#DESCRIPTION Q GameX
 #SERVICE 5002:0:1:9d29:1772:72cf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100023G0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MAVTV Motorsports Network
 #DESCRIPTION MAVTV Motorsports Network
 #SERVICE 5002:0:1:3d2b:dd46:4652:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA49000067X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:INTROUBLE
@@ -1775,12 +1801,12 @@
 #DESCRIPTION Motorvision.TV
 #SERVICE 5002:0:1:22db:2820:202c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100006V5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiard TV
 #DESCRIPTION Billiard TV
+#SERVICE 5002:0:1:d38a:c359:59d9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD13000205L.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cartoon Network
+#DESCRIPTION Cartoon Network
 #SERVICE 5002:0:1:3a:3a48:4803:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Discovery Kids
 #DESCRIPTION Discovery Kids
 #SERVICE 5002:0:1:f46c:7fe1:e190:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC4300009W5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hooray Rhymes
 #DESCRIPTION Hooray Rhymes
-#SERVICE 5002:0:1:1667:5ad8:d87e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBB28000041S.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Q Kahaniyan
-#DESCRIPTION The Q Kahaniyan
 #SERVICE 5002:0:1:20e5:63a7:a715:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA4900026FJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Toon Goggles
 #DESCRIPTION Toon Goggles
 #SERVICE 5002:0:1:b670:37d2:d216:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC2800015NR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BEANI TV
@@ -1813,8 +1839,6 @@
 #DESCRIPTION Fashion TV
 #SERVICE 5002:0:1:9dab:339d:9dc0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA5100020HQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gusto TV
 #DESCRIPTION Gusto TV
-#SERVICE 5002:0:1:2c48:1b5a:5a8b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBD1300011PJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sadhguru
-#DESCRIPTION Sadhguru
 #SERVICE 5002:0:1:6160:68e7:e7b7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBA490001909.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
 #DESCRIPTION Tastemade
 #SERVICE 5002:0:1:abd9:5c8:c8a7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/INBC1500012AD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Discovery Turbo
@@ -1843,16 +1867,16 @@
 #DESCRIPTION Divya
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Italy
 #DESCRIPTION Italy
-#SERVICE 5002:0:1:1113:ecd7:d7e2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
-#DESCRIPTION FIFA+
-#SERVICE 5002:0:1:5dd4:a97d:7d49:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1100005LL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel & Living by DOVE
-#DESCRIPTION Travel & Living by DOVE
+#SERVICE 5002:0:1:d9a1:184b:4b00:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1500002NL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:La 7
+#DESCRIPTION La 7
+#SERVICE 5002:0:1:227c:31cb:cba7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Solocalcio
+#DESCRIPTION Solocalcio
 #SERVICE 5002:0:1:1431:6d4d:4d86:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ4500023ZX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews in diretta
 #DESCRIPTION Euronews in diretta
 #SERVICE 5002:0:1:3e33:d2df:df02:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ4500019R9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Commedia - Rakuten TV
 #DESCRIPTION Commedia - Rakuten TV
-#SERVICE 5002:0:1:591b:4ef5:f526:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD2300001MT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RBN
-#DESCRIPTION RBN
+#SERVICE 5002:0:1:719d:a2ba:bab8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA14000093A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CG - CINEMA d'Autore
+#DESCRIPTION CG - CINEMA d'Autore
 #SERVICE 5002:0:1:12f3:171:71bd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD15000010I.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Falò
 #DESCRIPTION Falò
 #SERVICE 5002:0:1:b8dd:289e:9e0b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA1400001QN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
@@ -1885,16 +1909,24 @@
 #DESCRIPTION Doctor Who
 #SERVICE 5002:0:1:b0ec:d0a0:a0ec:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ2900001V9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BBC Drama
 #DESCRIPTION BBC Drama
-#SERVICE 5002:0:1:5d0c:7d6:d619:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD600001CL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Serially
-#DESCRIPTION Serially
+#SERVICE 5002:0:1:e665:7bf3:f3f9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1000006RD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Serially Crime
+#DESCRIPTION Serially Crime
+#SERVICE 5002:0:1:ea8d:dee9:e96a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD600001CL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Serially Drama
+#DESCRIPTION Serially Drama
 #SERVICE 5002:0:1:5da2:3c4c:4caf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ3800007P8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Serie
 #DESCRIPTION Pluto TV Serie
 #SERVICE 5002:0:1:a379:7cd0:d01b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD600003E2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Serie Crime - Rakuten TV
 #DESCRIPTION Serie Crime - Rakuten TV
+#SERVICE 5002:0:1:3d21:4cc2:c20c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD3200005YA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mutant X
+#DESCRIPTION Mutant X
 #SERVICE 5002:0:1:ad0c:6745:4581:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA14000026G.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Televisa Telenovelas
 #DESCRIPTION Televisa Telenovelas
 #SERVICE 5002:0:1:36e3:3fcb:cb7d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC3000004PL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Consulenze Illegali
 #DESCRIPTION Consulenze Illegali
+#SERVICE 5002:0:1:2941:9f81:813a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD3200003HL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Andromeda
+#DESCRIPTION Andromeda
+#SERVICE 5002:0:1:1ff8:c64d:4d5d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD3200004KN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Autostop per il Cielo
+#DESCRIPTION Autostop per il Cielo
 #SERVICE 5002:0:1:2236:d484:84b0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ3800008QW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Serie Teen
 #DESCRIPTION Serie Teen
 #SERVICE 5002:0:1:c557:a256:5670:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1100001B7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:House of Docs
@@ -1911,12 +1943,12 @@
 #DESCRIPTION WaterBear
 #SERVICE 5002:0:1:3207:9b13:13af:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA3300046KE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WildEarth
 #DESCRIPTION WildEarth
-#SERVICE 5002:0:1:d9a1:184b:4b00:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1500002NL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:La 7
-#DESCRIPTION La 7
 #SERVICE 5002:0:1:a3bb:a82d:2d55:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBB5000002N0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Giornale Radio TV
 #DESCRIPTION Giornale Radio TV
 #SERVICE 5002:0:1:14bd:5766:663b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD19000097D.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN FAST
 #DESCRIPTION CNN FAST
+#SERVICE 5002:0:1:fc4f:5903:3e8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC4000028E.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News NOW
+#DESCRIPTION NBC News NOW
 #SERVICE 5002:0:1:815a:f344:4428:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1100002WX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FRANCE 24 FAST
 #DESCRIPTION FRANCE 24 FAST
 #SERVICE 5002:0:1:58e8:b28f:8f05:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA3300025F5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg TV+
@@ -1927,6 +1959,8 @@
 #DESCRIPTION Euronews Stories
 #SERVICE 5002:0:1:955d:bbf:bf23:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD10000040W.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Boat Show
 #DESCRIPTION The Boat Show
+#SERVICE 5002:0:1:5dd4:a97d:7d49:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1100005LL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Travel & Living by DOVE
+#DESCRIPTION Travel & Living by DOVE
 #SERVICE 5002:0:1:5f07:69c7:c71c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1900004MZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lifestyle by LEI
 #DESCRIPTION Lifestyle by LEI
 #SERVICE 5002:0:1:bd8c:ed71:7114:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA33000399U.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wellbeing TV
@@ -1945,14 +1979,16 @@
 #DESCRIPTION Brindiamo!
 #SERVICE 5002:0:1:18c2:7911:1151:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ4500024DT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motor1TV
 #DESCRIPTION Motor1TV
-#SERVICE 5002:0:1:227c:31cb:cba7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC4700002CO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Solocalcio
-#DESCRIPTION Solocalcio
+#SERVICE 5002:0:1:1113:ecd7:d7e2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
+#DESCRIPTION FIFA+
 #SERVICE 5002:0:1:f0b9:7bcb:cb21:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA2200010O1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sportitalia
 #DESCRIPTION Sportitalia
 #SERVICE 5002:0:1:6947:7277:7791:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA3300022EA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SportOutdoor.tv
 #DESCRIPTION SportOutdoor.tv
 #SERVICE 5002:0:1:4874:8c73:731a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBB2000001QB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Italian Fishing TV
 #DESCRIPTION Italian Fishing TV
+#SERVICE 5002:0:1:591b:4ef5:f526:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD2300001MT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RBN
+#DESCRIPTION RBN
 #SERVICE 5002:0:1:45ea:3bd:bddc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBB2000010WK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
 #DESCRIPTION World Poker Tour
 #SERVICE 5002:0:1:3232:9e34:341e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC3000006F9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Premio Live GCTV
@@ -1973,8 +2009,8 @@
 #DESCRIPTION Family - Rakuten TV
 #SERVICE 5002:0:1:e3f9:9c2c:2ca1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA3300018TT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SuperToons TV
 #DESCRIPTION SuperToons TV
-#SERVICE 5002:0:1:71b4:3f9c:9cf6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ45000261B.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Planeta Junior
-#DESCRIPTION Planeta Junior
+#SERVICE 5002:0:1:4534:7b7:b797:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD3200007SZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pippi Calzelunghe & Friends
+#DESCRIPTION Pippi Calzelunghe & Friends
 #SERVICE 5002:0:1:2e1f:652e:2e87:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ380000343.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super! Spongebob
 #DESCRIPTION Super! Spongebob
 #SERVICE 5002:0:1:5030:4429:29ad:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA3300020W1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MONDO TV KIDS
@@ -2015,10 +2051,10 @@
 #DESCRIPTION Cinema Segreto
 #SERVICE 5002:0:1:5947:34b6:b606:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC400001LX.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dark Matter TV
 #DESCRIPTION Dark Matter TV
+#SERVICE 5002:0:1:5b92:7b51:517a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD3200001VR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinema Excelsior
+#DESCRIPTION Cinema Excelsior
 #SERVICE 5002:0:1:9109:10d:ddf:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA3300024IU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bizzarro Movies
 #DESCRIPTION Bizzarro Movies
-#SERVICE 5002:0:1:719d:a2ba:bab8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBA14000093A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CG - CINEMA d'Autore
-#DESCRIPTION CG - CINEMA d'Autore
 #SERVICE 5002:0:1:b817:27f4:f41d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC4700004EQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:wedo movies Italy (Film Al Femminile)
 #DESCRIPTION wedo movies Italy (Film Al Femminile)
 #SERVICE 5002:0:1:5e4b:bc6:c670:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBB20000072M.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WP
@@ -2027,6 +2063,8 @@
 #DESCRIPTION Grjngo- Film Western
 #SERVICE 5002:0:1:f8c9:420a:a72:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC1100008L4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Risate all'italiana
 #DESCRIPTION Risate all'italiana
+#SERVICE 5002:0:1:961a:415f:5fc9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD140000119.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Film e Sorrisi
+#DESCRIPTION Film e Sorrisi
 #SERVICE 5002:0:1:6f12:eb16:164f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITAJ38000055E.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Film
 #DESCRIPTION Pluto TV Film
 #SERVICE 5002:0:1:ed6f:8e60:6056:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC1100009AL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Romance - Rakuten TV
@@ -2037,6 +2075,8 @@
 #DESCRIPTION Pluto TV Film Romantici
 #SERVICE 5002:0:1:561c:6200:81:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC3000002WL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Film Commedia
 #DESCRIPTION Pluto TV Film Commedia
+#SERVICE 5002:0:1:37e5:447c:7c0f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBD3200002DU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Le Vite Degli Altri
+#DESCRIPTION Le Vite Degli Altri
 #SERVICE 5002:0:1:66e9:db38:38df:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC1100001G5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alta Tensione
 #DESCRIPTION Alta Tensione
 #SERVICE 5002:0:1:da68:6600:9e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/ITBC1100002ZU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Smile
@@ -2063,52 +2103,64 @@
 #DESCRIPTION tvN 사랑의 불시착
 #SERVICE 5002:0:1:cea4:95c4:c475:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 나혼자산다
 #DESCRIPTION MBC 나혼자산다
+#SERVICE 5002:0:1:eabd:34a7:a78f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS TV 동물농장
+#DESCRIPTION SBS TV 동물농장
+#SERVICE 5002:0:1:e5b9:9dad:adfe:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PGA Tour
+#DESCRIPTION PGA Tour
+#SERVICE 5002:0:1:8705:8469:6955:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 원더우먼
+#DESCRIPTION SBS 원더우먼
+#SERVICE 5002:0:1:b733:dc2f:2f99:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 궁금한 이야기 Y
+#DESCRIPTION SBS 궁금한 이야기 Y
+#SERVICE 5002:0:1:fc67:a7d8:d82c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 톡파원25시
+#DESCRIPTION JTBC 톡파원25시
+#SERVICE 5002:0:1:bc76:2b8e:8ed3:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KBS 쌈마이웨이
+#DESCRIPTION KBS 쌈마이웨이
+#SERVICE 5002:0:1:c65a:1f93:9309:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 라스트
+#DESCRIPTION JTBC 라스트
+#SERVICE 5002:0:1:e91:425f:5faa:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 품위있는 그녀
+#DESCRIPTION JTBC 품위있는 그녀
 #SERVICE 5002:0:1:4689:1e7b:7b98:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 나는 솔로
 #DESCRIPTION SBS 나는 솔로
+#SERVICE 5002:0:1:6482:7c3e:3e6c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV조선 미스터트롯 영웅의 탄생
+#DESCRIPTION TV조선 미스터트롯 영웅의 탄생
 #SERVICE 5002:0:1:bd:8211:1188:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV조선 빨간 풍선
 #DESCRIPTION TV조선 빨간 풍선
 #SERVICE 5002:0:1:ff07:a2cd:cdfb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV조선 골프왕
 #DESCRIPTION TV조선 골프왕
-#SERVICE 5002:0:1:6482:7c3e:3e6c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV조선 미스터트롯 영웅의 탄생
-#DESCRIPTION TV조선 미스터트롯 영웅의 탄생
-#SERVICE 5002:0:1:3006:1754:541e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PLAYY 영화
-#DESCRIPTION PLAYY 영화
 #SERVICE 5002:0:1:3425:807a:7a5f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PLAYY 여름공포특집
 #DESCRIPTION PLAYY 여름공포특집
-#SERVICE 5002:0:1:7a8c:5064:645b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 뷰티 인사이드
-#DESCRIPTION JTBC 뷰티 인사이드
-#SERVICE 5002:0:1:46:fc60:6027:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4600004BQ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 청춘시대
-#DESCRIPTION JTBC 청춘시대
-#SERVICE 5002:0:1:9b6b:6e73:7363:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:tvN 호텔 델루나
-#DESCRIPTION tvN 호텔 델루나
-#SERVICE 5002:0:1:71c7:523e:3ef7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 효리네 민박 시즌1
-#DESCRIPTION JTBC 효리네 민박 시즌1
-#SERVICE 5002:0:1:4e17:d06c:6ce2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 낭만닥터 김사부 시즌2
-#DESCRIPTION SBS 낭만닥터 김사부 시즌2
-#SERVICE 5002:0:1:f31f:c639:392e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:채널A 이제 만나러 갑니다
-#DESCRIPTION 채널A 이제 만나러 갑니다
-#SERVICE 5002:0:1:4a17:98aa:aadb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:전우치
-#DESCRIPTION 전우치
-#SERVICE 5002:0:1:ba99:a6f4:f41d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 거침없이 하이킥
-#DESCRIPTION MBC 거침없이 하이킥
+#SERVICE 5002:0:1:3006:1754:541e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PLAYY 영화
+#DESCRIPTION PLAYY 영화
+#SERVICE 5002:0:1:3627:2fe9:e956:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 스토브리그
+#DESCRIPTION SBS 스토브리그
 #SERVICE 5002:0:1:304b:af9a:9ae5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 웬만해선 그들을 막을 수 없다
 #DESCRIPTION SBS 웬만해선 그들을 막을 수 없다
 #SERVICE 5002:0:1:c763:7a3:a35a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 지붕뚫고 하이킥
 #DESCRIPTION MBC 지붕뚫고 하이킥
+#SERVICE 5002:0:1:ba99:a6f4:f41d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 거침없이 하이킥
+#DESCRIPTION MBC 거침없이 하이킥
 #SERVICE 5002:0:1:3f47:7c19:194b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 심야괴담회
 #DESCRIPTION MBC 심야괴담회
+#SERVICE 5002:0:1:71c7:523e:3ef7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC5000016BM.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 효리네 민박 시즌1
+#DESCRIPTION JTBC 효리네 민박 시즌1
+#SERVICE 5002:0:1:e14a:5586:865d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 정글의 법칙
+#DESCRIPTION SBS 정글의 법칙
 #SERVICE 5002:0:1:3da:46ab:abf6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:맛있는 녀석들
 #DESCRIPTION 맛있는 녀석들
+#SERVICE 5002:0:1:7a8c:5064:645b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC5000015F5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 뷰티 인사이드
+#DESCRIPTION JTBC 뷰티 인사이드
+#SERVICE 5002:0:1:9b6b:6e73:7363:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:tvN 호텔 델루나
+#DESCRIPTION tvN 호텔 델루나
+#SERVICE 5002:0:1:f31f:c639:392e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:채널A 이제 만나러 갑니다
+#DESCRIPTION 채널A 이제 만나러 갑니다
+#SERVICE 5002:0:1:4a17:98aa:aadb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:전우치
+#DESCRIPTION 전우치
 #SERVICE 5002:0:1:d63:2cff:ff47:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBN 나는 자연인이다
 #DESCRIPTION MBN 나는 자연인이다
 #SERVICE 5002:0:1:a0c3:c91b:1b52:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ch.핑크퐁
 #DESCRIPTION ch.핑크퐁
-#SERVICE 5002:0:1:e14a:5586:865d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 정글의 법칙
-#DESCRIPTION SBS 정글의 법칙
 #SERVICE 5002:0:1:3fe9:5b31:31e2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 그것이 알고싶다
 #DESCRIPTION SBS 그것이 알고싶다
-#SERVICE 5002:0:1:3627:2fe9:e956:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 스토브리그
-#DESCRIPTION SBS 스토브리그
 #SERVICE 5002:0:1:9348:8595:9581:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 아빠! 어디가?
 #DESCRIPTION MBC 아빠! 어디가?
 #SERVICE 5002:0:1:4370:1848:48cd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:고독한 미식가
@@ -2131,8 +2183,6 @@
 #DESCRIPTION Mnet 스트릿 맨 파이터
 #SERVICE 5002:0:1:e61d:59e8:e8fc:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBN 돌싱글즈
 #DESCRIPTION MBN 돌싱글즈
-#SERVICE 5002:0:1:fcc4:39b3:b33e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC50000228B.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 눈이 부시게
-#DESCRIPTION JTBC 눈이 부시게
 #SERVICE 5002:0:1:bc40:eb25:25c1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 순옥명작관
 #DESCRIPTION SBS 순옥명작관
 #SERVICE 5002:0:1:b040:f58f:8f99:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBC 검법남녀2
@@ -2187,8 +2237,6 @@
 #DESCRIPTION MBN 속풀이쇼 동치미
 #SERVICE 5002:0:1:6d22:5759:5940:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 순간포착 세상에 이런일이
 #DESCRIPTION SBS 순간포착 세상에 이런일이
-#SERVICE 5002:0:1:54fc:f984:84ff:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 스페셜
-#DESCRIPTION SBS 스페셜
 #SERVICE 5002:0:1:1847:955a:5a29:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS 생활의 달인
 #DESCRIPTION SBS 생활의 달인
 #SERVICE 5002:0:1:4c73:75ef:ef7e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MBN 휴먼다큐 사노라면
@@ -2213,30 +2261,24 @@
 #DESCRIPTION JTBC 슈가맨
 #SERVICE 5002:0:1:b42e:c79a:9aca:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 최강야구
 #DESCRIPTION JTBC 최강야구
-#SERVICE 5002:0:1:5635:98dd:ddae:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 팬텀싱어
-#DESCRIPTION JTBC 팬텀싱어
 #SERVICE 5002:0:1:f3da:1165:654e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC5000018O9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:JTBC 골프
 #DESCRIPTION JTBC 골프
 #SERVICE 5002:0:1:1113:23f7:f721:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FIFA+
 #DESCRIPTION FIFA+
-#SERVICE 5002:0:1:61a9:9452:52f7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KBS 사장님 귀는 당나귀 귀
-#DESCRIPTION KBS 사장님 귀는 당나귀 귀
 #SERVICE 5002:0:1:8107:5b07:787:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KBS 김과장
 #DESCRIPTION KBS 김과장
 #SERVICE 5002:0:1:fb28:1221:215c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KBS 개는 훌륭하다
 #DESCRIPTION KBS 개는 훌륭하다
-#SERVICE 5002:0:1:eabd:34a7:a78f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:SBS TV 동물농장
-#DESCRIPTION SBS TV 동물농장
 #SERVICE 5002:0:1:d8b3:d693:932a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:씨네21+
 #DESCRIPTION 씨네21+
 #SERVICE 1:64:0:0:0:0:0:0:0:0::United States
 #DESCRIPTION United States
-#SERVICE 5002:0:1:3d21:fc42:4251:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Home Refresh
-#DESCRIPTION Home Refresh
-#SERVICE 5002:0:1:5ae3:dda2:a25c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mountain Men
-#DESCRIPTION Mountain Men
-#SERVICE 5002:0:1:4c59:e3a7:a7f4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DraftKings Network
-#DESCRIPTION DraftKings Network
+#SERVICE 5002:0:1:c710:811f:1ff2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC1300008AZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Plated
+#DESCRIPTION Plated
+#SERVICE 5002:0:1:2472:6cc3:c31b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bring It!
+#DESCRIPTION Bring It!
+#SERVICE 5002:0:1:60f9:4c76:7651:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MyTime Movie Network
+#DESCRIPTION MyTime Movie Network
 #SERVICE 5002:0:1:99:a9ea:ea18:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS News
 #DESCRIPTION CBS News
 #SERVICE 5002:0:1:9a8:11:1147:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LiveNOW from FOX
@@ -2331,6 +2373,8 @@
 #DESCRIPTION Dove Channel
 #SERVICE 5002:0:1:c3b6:b03b:3bc0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chicken Soup for the Soul
 #DESCRIPTION Chicken Soup for the Soul
+#SERVICE 5002:0:1:a24f:6c8d:8dda:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:K-Stories by CJ ENM
+#DESCRIPTION K-Stories by CJ ENM
 #SERVICE 5002:0:1:e331:696e:6e7a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MHz Now
 #DESCRIPTION MHz Now
 #SERVICE 5002:0:1:1412:c6ff:ff49:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cowboy Way
@@ -2415,6 +2459,8 @@
 #DESCRIPTION IMPACT Wrestling
 #SERVICE 5002:0:1:cec2:cf12:12aa:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MSG SportsZone
 #DESCRIPTION MSG SportsZone
+#SERVICE 5002:0:1:4c59:e3a7:a7f4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DraftKings Network
+#DESCRIPTION DraftKings Network
 #SERVICE 5002:0:1:a874:7f10:10b4:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:People Are Awesome
 #DESCRIPTION People Are Awesome
 #SERVICE 5002:0:1:22db:864d:4d4f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiard TV
@@ -2437,8 +2483,6 @@
 #DESCRIPTION Cars
 #SERVICE 5002:0:1:df9c:b85a:5ae1:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB5200027Z5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Torque
 #DESCRIPTION Torque
-#SERVICE 5002:0:1:c710:811f:1ff2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC1300008AZ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Plated
-#DESCRIPTION Plated
 #SERVICE 5002:0:1:6160:5297:974d:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tastemade
 #DESCRIPTION Tastemade
 #SERVICE 5002:0:1:be0c:3947:4715:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bon Appétit
@@ -2455,6 +2499,8 @@
 #DESCRIPTION Tastemade Travel
 #SERVICE 5002:0:1:3724:4e46:46ab:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Journy
 #DESCRIPTION Journy
+#SERVICE 5002:0:1:3d21:fc42:4251:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Home Refresh
+#DESCRIPTION Home Refresh
 #SERVICE 5002:0:1:89f8:9609:9fa:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB3200024V5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Million Dollar Listing
 #DESCRIPTION Million Dollar Listing
 #SERVICE 5002:0:1:f05c:43b8:b8d6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ3400020KC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House Nation
@@ -2509,8 +2555,6 @@
 #DESCRIPTION MTV Pluto TV
 #SERVICE 5002:0:1:94f8:341:41f8:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love & Hip Hop
 #DESCRIPTION Love & Hip Hop
-#SERVICE 5002:0:1:2472:6cc3:c31b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bring It!
-#DESCRIPTION Bring It!
 #SERVICE 5002:0:1:ad55:f287:875a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dallas Cowboys Cheer
 #DESCRIPTION Dallas Cowboys Cheer
 #SERVICE 5002:0:1:c183:8689:89ea:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:All Weddings WE tv
@@ -2551,8 +2595,18 @@
 #DESCRIPTION ViX Villanos de Novela
 #SERVICE 5002:0:1:13a4:74ed:ed7e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ViX JaJaJa
 #DESCRIPTION ViX JaJaJa
+#SERVICE 5002:0:1:f18e:579a:9a7a:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD1700018II.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rebelde
+#DESCRIPTION Rebelde
+#SERVICE 5002:0:1:5ea9:d7fc:fc70:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD2700002DU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Galanes
+#DESCRIPTION Galanes
 #SERVICE 5002:0:1:1c76:67e5:e5b3:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD2500022U5.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Retro
 #DESCRIPTION Cine Retro
+#SERVICE 5002:0:1:ad22:a388:88bb:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD2700005KL.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine de Oro
+#DESCRIPTION Cine de Oro
+#SERVICE 5002:0:1:7202:452d:2d0c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD2700004ME.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Como Dice el Dicho
+#DESCRIPTION Como Dice el Dicho
+#SERVICE 5002:0:1:30e7:85f9:f9f7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD2700003F3.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pequenos Gigantes
+#DESCRIPTION Pequenos Gigantes
 #SERVICE 5002:0:1:7ba5:c22b:2bc7:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Aquí y Ahora
 #DESCRIPTION Aquí y Ahora
 #SERVICE 5002:0:1:9f5b:d287:87b9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Noticias Univision 24/7
@@ -2561,12 +2615,10 @@
 #DESCRIPTION Cine Romantico
 #SERVICE 5002:0:1:7961:8f99:9932:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ1700009QJ.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tu Cine
 #DESCRIPTION Tu Cine
-#SERVICE 5002:0:1:a24f:6c8d:8dda:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:K-Stories by CJ ENM
-#DESCRIPTION K-Stories by CJ ENM
-#SERVICE 5002:0:1:893c:21ac:ac88:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NEW KMOVIES
-#DESCRIPTION NEW KMOVIES
 #SERVICE 5002:0:1:5749:a3ea:eacd:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Duck Dynasty
 #DESCRIPTION Duck Dynasty
+#SERVICE 5002:0:1:5ae3:dda2:a25c:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mountain Men
+#DESCRIPTION Mountain Men
 #SERVICE 5002:0:1:4b3b:8707:768:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ax Men
 #DESCRIPTION Ax Men
 #SERVICE 5002:0:1:11c3:6aad:ad1b:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger TV
@@ -2633,6 +2685,10 @@
 #DESCRIPTION Pluto TV Pixel World
 #SERVICE 5002:0:1:edcf:c407:75e:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBA3000158L.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nick Pluto TV
 #DESCRIPTION Nick Pluto TV
+#SERVICE 5002:0:1:bd86:e006:6e0:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bob the Builder
+#DESCRIPTION Bob the Builder
+#SERVICE 5002:0:1:e5fe:9941:41d9:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strawberry Shortcake
+#DESCRIPTION Strawberry Shortcake
 #SERVICE 5002:0:1:8665:4351:51d5:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moonbug
 #DESCRIPTION Moonbug
 #SERVICE 5002:0:1:1aa6:8268:685f:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBD12000239N.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ryan and Friends
@@ -2715,8 +2771,6 @@
 #DESCRIPTION MovieSphere
 #SERVICE 5002:0:1:1081:c052:52e6:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Free Movies
 #DESCRIPTION FilmRise Free Movies
-#SERVICE 5002:0:1:60f9:4c76:7651:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MyTime Movie Network
-#DESCRIPTION MyTime Movie Network
 #SERVICE 5002:0:1:c817:7b41:41da:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Fantastic
 #DESCRIPTION Pluto TV Fantastic
 #SERVICE 5002:0:1:3f89:709a:9a24:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Action
@@ -2737,6 +2791,8 @@
 #DESCRIPTION Pluto TV Westerns
 #SERVICE 5002:0:1:8474:fda6:a613:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FilmRise Western
 #DESCRIPTION FilmRise Western
+#SERVICE 5002:0:1:893c:21ac:ac88:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NEW KMOVIES
+#DESCRIPTION NEW KMOVIES
 #SERVICE 5002:0:1:12ac:7845:45e2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Preview Channel
 #DESCRIPTION The Preview Channel
 #SERVICE 5002:0:1:e6c7:3b64:64f2:1010101:0:0:0:https%3a//i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XITE 80s Flashback
