@@ -45,10 +45,10 @@
 #DESCRIPTION USA Today
 #SERVICE 5002:0:1:b44f:4afa:fa24:1010101:0:0:0:https%3a//yahoo-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yahoo Finance
 #DESCRIPTION Yahoo Finance
-#SERVICE 5002:0:1:d2fa:c68e:8e58:1010101:0:0:0:https%3a//tdameritrade-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TD Ameritrade Network
-#DESCRIPTION TD Ameritrade Network
-#SERVICE 5002:0:1:98c1:4211:11a0:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TD Ameritrade Network Alt
-#DESCRIPTION TD Ameritrade Network Alt
+#SERVICE 5002:0:1:bc89:6f4b:4b6a:1010101:0:0:0:https%3a//tdameritrade-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Schwab Network
+#DESCRIPTION Schwab Network
+#SERVICE 5002:0:1:e067:5b9a:9a91:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Schwab Network Alt
+#DESCRIPTION Schwab Network Alt
 #SERVICE 5002:0:1:6413:d88a:8a73:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-blacknewsnetwork-vizio/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grio
 #DESCRIPTION The Grio
 #SERVICE 5002:0:1:34a:a45:45f4:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5atlantawaga-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FOX 5 Atlanta
@@ -461,8 +461,10 @@
 #DESCRIPTION Ice Road Truckers
 #SERVICE 5002:0:1:a1c1:50ea:ea28:1010101:0:0:0:https%3a//aenetworks-iceroadtruckers-1-us-pi.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ice Road Truckers alt
 #DESCRIPTION Ice Road Truckers alt
-#SERVICE 5002:0:1:f225:52f:2f4f:1010101:0:0:0:https%3a//mavtv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV Select
+#SERVICE 5002:0:1:f225:52f:2f4f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV Select
 #DESCRIPTION Mav TV Select
+#SERVICE 5002:0:1:9b83:7b2a:2a40:1010101:0:0:0:https%3a//mavtv-1-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV Select alt
+#DESCRIPTION Mav TV Select alt
 #SERVICE 5002:0:1:bad8:e6c2:c287:1010101:0:0:0:https%3a//racingamerica-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America (Geo)
 #DESCRIPTION Racing America (Geo)
 #SERVICE 5002:0:1:d95a:50e3:e3c4:1010101:0:0:0:https%3a//rtmtv-samsung-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation
@@ -475,7 +477,7 @@
 #DESCRIPTION Torque alt
 #SERVICE 5002:0:1:3d63:bb20:2077:1010101:0:0:0:https%3a//dangertv-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Danger TV
 #DESCRIPTION Danger TV
-#SERVICE 5002:0:1:4ceb:ff6b:6b3a:1010101:0:0:0:https%3a//world-poker-tour-samsung-us.vizio.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
+#SERVICE 5002:0:1:4ceb:ff6b:6b3a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
 #DESCRIPTION World Poker Tour
 #SERVICE 5002:0:1:3e44:b318:181b:1010101:0:0:0:https%3a//sportsgrid-vizio.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Grid Live
 #DESCRIPTION Sports Grid Live
