@@ -37,10 +37,10 @@
 #DESCRIPTION The Young Turks alt (Geo)
 #SERVICE 5002:0:1:23c5:f9dd:dd8f:1010101:0:0:0:https%3a//reuters-reutersnow-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reuters
 #DESCRIPTION Reuters
-#SERVICE 5002:0:1:97ea:953f:3f74:1010101:0:0:0:https%3a//live728.delivery.roku.com/t2-origin/out/v1/a6a4da04-dc3f-4cfa-843e-83f403bcbc8d/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews (Geo)
-#DESCRIPTION Euronews (Geo)
-#SERVICE 5002:0:1:b63b:870a:a00:1010101:0:0:0:https%3a//euronews-euronews-world-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews News alt
-#DESCRIPTION Euronews News alt
+#SERVICE 5002:0:1:18bf:1471:7129:1010101:0:0:0:https%3a//live728.delivery.roku.com/t2-origin/out/v1/a6a4da04-dc3f-4cfa-843e-83f403bcbc8d/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews World (Geo)
+#DESCRIPTION Euronews World (Geo)
+#SERVICE 5002:0:1:15cc:6ab7:b744:1010101:0:0:0:https%3a//euronews-euronews-world-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews News World alt
+#DESCRIPTION Euronews News World alt
 #SERVICE 5002:0:1:c0fd:ba79:79c7:1010101:0:0:0:https%3a//live746.delivery.roku.com/t2-origin/out/v1/bab5c86f-4e1f-41cf-8371-fe626bf8a81a/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Oan Plus (Geo)
 #DESCRIPTION Oan Plus (Geo)
 #SERVICE 5002:0:1:bb04:9baf:af12:1010101:0:0:0:https%3a//live639.delivery.roku.com/t2-origin/out/v1/1987ab62-0173-4020-a876-bd5dbc0d3817/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Womens Sports Network (Geo)
@@ -81,12 +81,8 @@
 #DESCRIPTION Mav TV (Geo)
 #SERVICE 5002:0:1:2759:88d8:d8f9:1010101:0:0:0:https%3a//live750.delivery.roku.com/t2-origin/out/v1/4d504db1-c6eb-4632-9386-79875e9d2578/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation (Geo)
 #DESCRIPTION PowerNation (Geo)
-#SERVICE 5002:0:1:5289:e9c9:c981:1010101:0:0:0:https%3a//rtmtv-powernation-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Power Nation alt
-#DESCRIPTION Power Nation alt
-#SERVICE 5002:0:1:9a98:204a:4a28:1010101:0:0:0:https%3a//aenetworks-torque-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Torque!
-#DESCRIPTION Torque!
-#SERVICE 5002:0:1:c0ba:ce35:3548:1010101:0:0:0:https%3a//aenetworks-torque-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Torque! alt
-#DESCRIPTION Torque! alt
+#SERVICE 5002:0:1:8183:c19b:9bde:1010101:0:0:0:https%3a//df7ed838.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ub3JxdWVfSExT/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Torque
+#DESCRIPTION Torque
 #SERVICE 5002:0:1:5bb8:d14a:4aed:1010101:0:0:0:https%3a//live167.delivery.roku.com/t2-origin/out/v1/9247ddf8-bc68-45a1-be8a-29ad09feae9f/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NHRA TV (Geo)
 #DESCRIPTION NHRA TV (Geo)
 #SERVICE 5002:0:1:18:a6c5:c536:1010101:0:0:0:https%3a//live703.delivery.roku.com/t2-origin/out/v1/ee06d6be-3643-47e4-b076-2054a02e90ee/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Grid (Geo)
@@ -133,7 +129,7 @@
 #DESCRIPTION Baywatch Remastered (Geo)
 #SERVICE 5002:0:1:8c99:854f:4f08:1010101:0:0:0:https%3a//live67.delivery.roku.com/t2-origin/out/v1/771a155f-afd0-42f0-9fb8-703890f483d7/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Johnny Carson TV (Geo)
 #DESCRIPTION Johnny Carson TV (Geo)
-#SERVICE 5002:0:1:c8a:33ca:ca93:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=2d50efd5-2148-592a-86d8-3d56a0143b92&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CMT Pluto
+#SERVICE 5002:0:1:c8a:33ca:ca93:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509b87809fd000949e399/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel&is_lat=ROKU_ADS_LIMIT_TRACKING&bmodel=bm1&content=88eb3559a1b35743af300c2b5a3b3585&platform=googletv&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=ROKU_ADS_TRACKING_ID&genre=reality&content_rating=TVPG&studio_id=viacom&channel_id=151908&channelStore=us#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CMT Pluto
 #DESCRIPTION CMT Pluto
 #SERVICE 5002:0:1:9079:9e22:2283:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150978589c0700095f97ae/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bet Pluto
 #DESCRIPTION Bet Pluto
@@ -147,6 +143,8 @@
 #DESCRIPTION Demand Africa (Geo)
 #SERVICE 5002:0:1:e7eb:c802:255:1010101:0:0:0:https%3a//bbc-doctors-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Doctors
 #DESCRIPTION Doctors
+#SERVICE 5002:0:1:9153:6c2e:2e54:1010101:0:0:0:https%3a//live31.delivery.roku.com/t2-origin/out/v1/f11a5fe3-3cf6-4133-8be5-a2e71aab12a9/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crunchyroll (Geo)
+#DESCRIPTION Crunchyroll (Geo)
 #SERVICE 5002:0:1:bb0b:9031:3177:1010101:0:0:0:https%3a//live619.delivery.roku.com/t2-origin/out/v1/9e6f37ba-af6f-404a-bd3b-f1061b3f1950/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CJ ENM (Geo)
 #DESCRIPTION CJ ENM (Geo)
 #SERVICE 5002:0:1:10ee:586d:6d38:1010101:0:0:0:https%3a//live752.delivery.roku.com/t2-origin/out/v1/dc884dee-1fe9-4e06-ab4a-aa9a6f7fa72d/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rakuten Viki (Geo)
@@ -157,12 +155,14 @@
 #DESCRIPTION New KMovies (Geo)
 #SERVICE 5002:0:1:b1fb:1c7f:7fbe:1010101:0:0:0:https%3a//live744.delivery.roku.com/t2-origin/out/v1/ef8ccaf6-738e-4b0a-8473-f3a8346b1a7a/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mytime Movie Network (Geo)
 #DESCRIPTION Mytime Movie Network (Geo)
-#SERVICE 5002:0:1:d454:d822:2217:1010101:0:0:0:https%3a//aenetworks-holidaymoviefavorites-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Favorites by Lifetime
-#DESCRIPTION Movie Favorites by Lifetime
+#SERVICE 5002:0:1:7cec:4c76:76da:1010101:0:0:0:https%3a//9fa8bd65.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ib2xpZGF5TW92aWVGYXZvcml0ZXNieUxpZmV0aW1lX0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lifetime Holiday Favourites
+#DESCRIPTION Lifetime Holiday Favourites
 #SERVICE 5002:0:1:8542:7cc9:c915:1010101:0:0:0:https%3a//candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spark TV
 #DESCRIPTION Spark TV
 #SERVICE 5002:0:1:ef7b:9b98:98c5:1010101:0:0:0:https%3a//candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spark TV alt
 #DESCRIPTION Spark TV alt
+#SERVICE 5002:0:1:aed9:5426:268f:1010101:0:0:0:https%3a//3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lively Place
+#DESCRIPTION Lively Place
 #SERVICE 5002:0:1:506c:5108:837:1010101:0:0:0:https%3a//live723.delivery.roku.com/t2-origin/out/v1/f01ee2f4-bd57-4743-9d44-fb124cdf10fb/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dove Channel (Geo)
 #DESCRIPTION Dove Channel (Geo)
 #SERVICE 5002:0:1:cc7f:6f13:1313:1010101:0:0:0:https%3a//live753.delivery.roku.com/t2-origin/out/v1/7df78a5e-fac4-461b-87b2-f63fa7ec1e3b/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Redbox Faith and Family (Geo)
@@ -217,10 +217,8 @@
 #DESCRIPTION Bon Appetit (Geo)
 #SERVICE 5002:0:1:c1c3:45bc:bcc9:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenast-bonappetit-rokuus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bon Appetit alt (Geo)
 #DESCRIPTION Bon Appetit alt (Geo)
-#SERVICE 5002:0:1:5d97:d0ca:ca12:1010101:0:0:0:https%3a//aenetworks-tinyhousenation-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House Nation
-#DESCRIPTION Tiny House Nation
-#SERVICE 5002:0:1:cf67:a5a2:a25f:1010101:0:0:0:https%3a//aenetworks-tinyhousenation-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House Nation alt
-#DESCRIPTION Tiny House Nation alt
+#SERVICE 5002:0:1:a459:369d:9d1c:1010101:0:0:0:https%3a//6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tiny House
+#DESCRIPTION Tiny House
 #SERVICE 5002:0:1:e263:33ce:ce11:1010101:0:0:0:https%3a//live766.delivery.roku.com/t2-origin/out/v1/69fb6e9f-784e-4778-9598-4616f9a8b1e9/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Design Network (Geo)
 #DESCRIPTION The Design Network (Geo)
 #SERVICE 5002:0:1:8856:831b:1b6c:1010101:0:0:0:https%3a//thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:This Old House
@@ -239,8 +237,8 @@
 #DESCRIPTION At Home With Family Handyman (Geo)
 #SERVICE 5002:0:1:d5a0:e7cb:cb2a:1010101:0:0:0:https%3a//outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8?ads.rdid=2d50efd5-2148-592a-86d8-3d56a0143b92&ads.coppa=0&ads.content=c011a8d859c85e289f8b0170cfbab2aa&ads.platform=web&ads.content_type=livefeed&ads.content_rating=ROKU_ADS_CONTENT_RATING&ads.is_roku_lat=1&ads.studio_id=outsidetv&ads.bmodel=bm1&ads.channelStore=us&ads.tags=ROKU_CONTENT_TAGS&ads.device_lang=ROKU_ADS_LOCALE&ads.genre=adventure&ads.unlocked=UNLOCKED&ads.ua=Mozilla%2F5.0+%28Macintosh%3B+Intel+Mac+OS+X+10_12_6%29+AppleWebKit%2F604.3.5+%28KHTML%2C+like+Gecko%29+Version%2F11.0.1+Safari%2F604.3.5&is_lat=1&bmodel=bm1&content=c011a8d859c85e289f8b0170cfbab2aa&platform=web&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=2d50efd5-2148-592a-86d8-3d56a0143b92&genre=adventure&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=outsidetv&channel_id=151908&channelStore=us#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outside TV +
 #DESCRIPTION Outside TV +
-#SERVICE 5002:0:1:8836:5eb0:b0b7:1010101:0:0:0:https%3a//aenetworks-modernmarvels-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Modern Marvels Presented by History
-#DESCRIPTION Modern Marvels Presented by History
+#SERVICE 5002:0:1:fd59:899c:9c66:1010101:0:0:0:https%3a//277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Modern Marvels
+#DESCRIPTION Modern Marvels
 #SERVICE 5002:0:1:69c3:b8d7:d7d4:1010101:0:0:0:https%3a//live767.delivery.roku.com/t2-origin/out/v1/7984ffbb-c666-46ba-94b5-82dcfc7907c8/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Jack Hanna Channel (Geo)
 #DESCRIPTION The Jack Hanna Channel (Geo)
 #SERVICE 5002:0:1:9a1b:55f1:f104:1010101:0:0:0:https%3a//live631.delivery.roku.com/t2-origin/out/v1/0155a0a4-50fa-46e8-9aaf-2423c50a806b/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:True History Channel (Geo)
@@ -257,14 +255,12 @@
 #DESCRIPTION Xplore alt (Geo)
 #SERVICE 5002:0:1:924c:f940:40f8:1010101:0:0:0:https%3a//live758.delivery.roku.com/t2-origin/out/v1/9b897001-4430-46fd-9eaf-46ee39755e65/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Great American Adventures (Geo)
 #DESCRIPTION Great American Adventures (Geo)
-#SERVICE 5002:0:1:4afb:e0fe:fe80:1010101:0:0:0:https%3a//aenetworks-crime360-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime 360 (Geo)
-#DESCRIPTION Crime 360 (Geo)
 #SERVICE 5002:0:1:8cd3:3259:5950:1010101:0:0:0:https%3a//live116.delivery.roku.com/t2-origin/out/v1/982a2404-7ae7-46d1-8b3a-be4c2b7e3e45/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Law and Crime (Geo)
 #DESCRIPTION Law and Crime (Geo)
 #SERVICE 5002:0:1:9743:60eb:ebb4:1010101:0:0:0:https%3a//live756.delivery.roku.com/t2-origin/out/v1/e8814217-3c17-477c-843e-12fd51994dbd/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Reelz Famous and Infamous (Geo)
 #DESCRIPTION Reelz Famous and Infamous (Geo)
-#SERVICE 5002:0:1:2d1f:88a2:a210:1010101:0:0:0:https%3a//aenetworks-kriminal-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kriminal Presented by A&E
-#DESCRIPTION Kriminal Presented by A&E
+#SERVICE 5002:0:1:747c:be8c:8c7b:1010101:0:0:0:https%3a//44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9LcmltaW5hbF9ITFM/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kriminal
+#DESCRIPTION Kriminal
 #SERVICE 5002:0:1:5798:9607:70c:1010101:0:0:0:https%3a//live208.delivery.roku.com/t2-origin/out/v1/62175bac-b28d-4d4f-841b-00b4d51ba51d/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Crime (Geo)
 #DESCRIPTION Real Crime (Geo)
 #SERVICE 5002:0:1:4fc0:75f1:f1ab:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-lds-realcrime-rokuus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Real Crime alt (Geo)
@@ -273,7 +269,7 @@
 #DESCRIPTION Midsomer Murders
 #SERVICE 5002:0:1:d927:aa2b:2b17:1010101:0:0:0:https%3a//live742.delivery.roku.com/t2-origin/out/v1/53ff224b-4c0d-4be7-9255-2996a2c7a8ca/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Midsomer Murders alt (Geo)
 #DESCRIPTION Midsomer Murders alt (Geo)
-#SERVICE 5002:0:1:6fc5:73a6:a6bd:1010101:0:0:0:https%3a//aenetworks-thrillher-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Thrill Her
+#SERVICE 5002:0:1:6fc5:73a6:a6bd:1010101:0:0:0:https%3a//8c4e8f4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZVRocmlsbEhlcl9ITFM/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Thrill Her
 #DESCRIPTION Crime Thrill Her
 #SERVICE 5002:0:1:ac72:b859:59a0:1010101:0:0:0:https%3a//gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cinevault Murder and Mayhem (Geo)
 #DESCRIPTION Cinevault Murder and Mayhem (Geo)
@@ -289,10 +285,8 @@
 #DESCRIPTION Vice (Geo)
 #SERVICE 5002:0:1:89ed:5a73:73db:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenastentert-gq-rokuus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GQ (Geo)
 #DESCRIPTION GQ (Geo)
-#SERVICE 5002:0:1:b268:f024:241f:1010101:0:0:0:https%3a//aenetworks-perform-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perform
+#SERVICE 5002:0:1:b268:f024:241f:1010101:0:0:0:https%3a//4a72da62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9QZXJmb3JtX0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perform
 #DESCRIPTION Perform
-#SERVICE 5002:0:1:e5c7:494b:4b85:1010101:0:0:0:https%3a//aenetworks-perform-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perform alt
-#DESCRIPTION Perform alt
 #SERVICE 5002:0:1:c5c7:29a7:a761:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Supermarket Sweep (Geo)
 #DESCRIPTION Supermarket Sweep (Geo)
 #SERVICE 5002:0:1:ffe9:9233:33b1:1010101:0:0:0:https%3a//bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Impossible
@@ -305,22 +299,16 @@
 #DESCRIPTION The Price Is Right The Barker Era (Geo)
 #SERVICE 5002:0:1:8ab7:8234:34c0:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e13b6dd7ec3510009e032d0/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Pluto
 #DESCRIPTION MTV Pluto
-#SERVICE 5002:0:1:d8db:3e63:63a2:1010101:0:0:0:https%3a//aenetworks-skills-thrills-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xtreme Outdoor by History
-#DESCRIPTION Xtreme Outdoor by History
+#SERVICE 5002:0:1:aba5:4b5d:5d11:1010101:0:0:0:https%3a//9bd99d43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ta2lsbHNBbmRUaHJpbGxzX0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xtreme Outdoors
+#DESCRIPTION Xtreme Outdoors
 #SERVICE 5002:0:1:becf:4669:6921:1010101:0:0:0:https%3a//live689.delivery.roku.com/t2-origin/out/v1/29520b30-a3f4-4586-8b90-c45666cf4a13/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Circle (Geo)
 #DESCRIPTION Circle (Geo)
-#SERVICE 5002:0:1:df41:5ffc:fcaf:1010101:0:0:0:https%3a//aenetworks-iceroadtruckers-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ice Road Truckers
+#SERVICE 5002:0:1:df41:5ffc:fcaf:1010101:0:0:0:https%3a//3787c49a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ice Road Truckers
 #DESCRIPTION Ice Road Truckers
-#SERVICE 5002:0:1:30bc:b8b7:b723:1010101:0:0:0:https%3a//aenetworks-axmen-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ax Men
-#DESCRIPTION Ax Men
-#SERVICE 5002:0:1:3c25:1b1e:1e47:1010101:0:0:0:https%3a//aenetworks-dealzone-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal Zone
-#DESCRIPTION Deal Zone
-#SERVICE 5002:0:1:69e3:658d:8dfd:1010101:0:0:0:https%3a//aenetworks-dealzone-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deal Zone alt
-#DESCRIPTION Deal Zone alt
-#SERVICE 5002:0:1:c6b7:fe3:e3c2:1010101:0:0:0:https%3a//aenetworks-ae-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homemade Nation
-#DESCRIPTION Homemade Nation
-#SERVICE 5002:0:1:d371:30b6:b65d:1010101:0:0:0:https%3a//aenetworks-ae-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homemade Nation alt
-#DESCRIPTION Homemade Nation alt
+#SERVICE 5002:0:1:f6c5:471f:1f48:1010101:0:0:0:https%3a//335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9BeE1lbl9ITFM/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Axe Men
+#DESCRIPTION Axe Men
+#SERVICE 5002:0:1:20a6:aed1:d165:1010101:0:0:0:https%3a//c86bc87f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9EZWFsWm9uZV9ITFM/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dealzone
+#DESCRIPTION Dealzone
 #SERVICE 5002:0:1:7216:6506:6bf:1010101:0:0:0:https%3a//bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Antiques Roadshow UK
 #DESCRIPTION Antiques Roadshow UK
 #SERVICE 5002:0:1:bf97:2218:180b:1010101:0:0:0:https%3a//live762.delivery.roku.com/t2-origin/out/v1/45f33c72-d538-48b0-8c28-f00cf3d05d55/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:So Real (Geo)
@@ -343,8 +331,8 @@
 #DESCRIPTION The Asylum Movie Channel (Geo)
 #SERVICE 5002:0:1:8280:3aeb:ebeb:1010101:0:0:0:https%3a//live784.delivery.roku.com/t2-origin/out/v1/f18a7712-397b-4637-9d0d-84e0bb61428d/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MST3K (Geo)
 #DESCRIPTION MST3K (Geo)
-#SERVICE 5002:0:1:af85:688b:8bd8:1010101:0:0:0:https%3a//aenetworks-unxplainedzone-1-us-pi.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:UnXplained Zone!
-#DESCRIPTION UnXplained Zone!
+#SERVICE 5002:0:1:4506:1ae1:e13c:1010101:0:0:0:https%3a//5f8e578f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9VblhwbGFpbmVkWm9uZV9ITFM/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unexplained
+#DESCRIPTION Unexplained
 #SERVICE 5002:0:1:90d:46b9:b9f7:1010101:0:0:0:https%3a//live759.delivery.roku.com/t2-origin/out/v1/25d83fb3-d088-460d-9ad2-8491516b5e5b/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Screambox (Geo)
 #DESCRIPTION Screambox (Geo)
 #SERVICE 5002:0:1:a3e2:413f:3f7a:1010101:0:0:0:https%3a//live289.delivery.roku.com/t2-origin/out/v1/0a718b72-32bf-40bb-b768-09a6fdc9cc01/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Asian Crush (Geo)
@@ -455,18 +443,22 @@
 #DESCRIPTION VEVO Reggaeton and Trap (Geo)
 #SERVICE 5002:0:1:6380:122e:2eac:1010101:0:0:0:https%3a//live605.delivery.roku.com/t2-origin/out/v1/c6a9143b-5a02-4abb-bb44-300b9aa08f34/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Latino (Geo)
 #DESCRIPTION VEVO Latino (Geo)
-#SERVICE 5002:0:1:76bb:4d13:1316:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620d73c186a8060007fd7aca/master.m3u8?deviceId=2d50efd5-2148-592a-86d8-3d56a0143b92&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=2d50efd5-2148-592a-86d8-3d56a0143b92&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Spankin New
-#DESCRIPTION MTV Spankin New
+#SERVICE 5002:0:1:8678:274b:4b86:1010101:0:0:0:https%3a//stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d73c186a8060007fd7acalivestitch/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel&is_lat=ROKU_ADS_LIMIT_TRACKING&bmodel=bm1&content=6aab4cc6c3815293b18f8d615940df52&platform=googletv&tags=ROKU_CONTENT_TAGS&coppa=0&content_type=livefeed&rdid=ROKU_ADS_TRACKING_ID&genre=music&content_rating=TV14&studio_id=viacom&channel_id=151908&channelStore=us&already_redirected=true&profilesFromStream=true#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Spankin new
+#DESCRIPTION MTV Spankin new
 #SERVICE 5002:0:1:613d:db15:15d8:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Block Party
 #DESCRIPTION MTV Block Party
 #SERVICE 5002:0:1:ba25:2ffb:fbc1:1010101:0:0:0:https%3a//iheart-iheartthebeat-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart The Beat
 #DESCRIPTION iHeart The Beat
 #SERVICE 5002:0:1:e5af:bc97:97ba:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Biggest Pop
 #DESCRIPTION MTV Biggest Pop
+#SERVICE 5002:0:1:db53:6d69:6970:1010101:0:0:0:https%3a//live704.delivery.roku.com/t283f5a09b367849d8#acd150a8d27b7569/live.m3u8 https%3a//live571.delivery.roku.com/t2103af310964a4d50#a36519077c0234bd/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WMX POP (Geo)
+#DESCRIPTION WMX POP (Geo)
 #SERVICE 5002:0:1:7c6f:e490:903a:1010101:0:0:0:https%3a//live610.delivery.roku.com/t2-origin/out/v1/267d9ad7-d942-4680-9ebc-2c5d7905a475/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Pop (Geo)
 #DESCRIPTION VEVO Pop (Geo)
 #SERVICE 5002:0:1:fd70:95a6:a624:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Yo!
 #DESCRIPTION MTV Yo!
+#SERVICE 5002:0:1:6c28:9b88:8812:1010101:0:0:0:https%3a//service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=ROKU_ADS_TRACKING_ID&deviceModel=googletv&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=ROKU_ADS_LIMIT_TRACKING&advertisingId=ROKU_ADS_TRACKING_ID&embedPartner=rokuChannel&appName=rokuchannel#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Flow Latino
+#DESCRIPTION MTV Flow Latino
 #SERVICE 5002:0:1:50e1:222a:2a42:1010101:0:0:0:https%3a//iheart-iheartaltradio-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart Alt Radio
 #DESCRIPTION iHeart Alt Radio
 #SERVICE 5002:0:1:f1d2:5ec8:c8bd:1010101:0:0:0:https%3a//iheart-ihearthitnation-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart Hit Nation
@@ -475,6 +467,8 @@
 #DESCRIPTION VEVO R&B (Geo)
 #SERVICE 5002:0:1:81f2:e805:5e4:1010101:0:0:0:https%3a//live603.delivery.roku.com/t2-origin/out/v1/bea82980-82c1-45e6-8665-c373af71899a/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Hip Hop (Geo)
 #DESCRIPTION VEVO Hip Hop (Geo)
+#SERVICE 5002:0:1:842b:9b99:99ad:1010101:0:0:0:https%3a//live257.delivery.roku.com/t2-origin/out/v1/b6f8727d0b7b41fb#ae7493d2d964af04/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WMX Hip Hop (Geo)
+#DESCRIPTION WMX Hip Hop (Geo)
 #SERVICE 5002:0:1:89f3:2130:3063:1010101:0:0:0:https%3a//iheart-iheartcountry-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart Country
 #DESCRIPTION iHeart Country
 #SERVICE 5002:0:1:fe9f:ae9b:9be2:1010101:0:0:0:https%3a//live600.delivery.roku.com/t2-origin/out/v1/0667dde2-16ae-4392-8881-ff362c134505/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO Country (Geo)
@@ -487,8 +481,8 @@
 #DESCRIPTION Vevo 90s (Geo)
 #SERVICE 5002:0:1:7abf:9dea:eae3:1010101:0:0:0:https%3a//iheart-iheart90s-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart 90s
 #DESCRIPTION iHeart 90s
-#SERVICE 5002:0:1:154f:9322:22c6:1010101:0:0:0:https%3a//live598.delivery.roku.com/t2-origin/out/v1/376c6b79-612f-469c-ac83-a2cd7f2f669c/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo 80s (Geo)
-#DESCRIPTION Vevo 80s (Geo)
+#SERVICE 5002:0:1:17ac:8fb4:b4cd:1010101:0:0:0:https%3a//live598.delivery.roku.com/t2-origin/out/v1/376c6b79-612f-469c-ac83-a2cd7f2f669c/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VEVO 80s (Geo)
+#DESCRIPTION VEVO 80s (Geo)
 #SERVICE 5002:0:1:76ff:e74:7469:1010101:0:0:0:https%3a//iheart-iheart80s-1-us.roku.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:iHeart 80s
 #DESCRIPTION iHeart 80s
 #SERVICE 5002:0:1:7f65:3b2e:2e59:1010101:0:0:0:https%3a//live597.delivery.roku.com/t2-origin/out/v1/355df07f-bc41-4642-8f1c034745a6d4f2/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo 70s (Geo) check
