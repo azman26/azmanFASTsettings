@@ -49,12 +49,26 @@
 #DESCRIPTION Classic Movies Channel
 #SERVICE 5002:0:1:d068:a194:9438:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Cult Films
 #DESCRIPTION Pluto TV Cult Films
-#SERVICE 5002:0:1:7e8d:95ad:ad89:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504ae0f473a5400083bd5f9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Godzilla
-#DESCRIPTION Godzilla
 #SERVICE 5002:0:1:6017:7057:5790:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Flicks of Fury
 #DESCRIPTION Flicks of Fury
-#SERVICE 5002:0:1:2285:14f6:f63e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504b190473a5400083bf0f1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Asylum
-#DESCRIPTION The Asylum
+#SERVICE 5002:0:1:bd07:7690:90bd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63335c59e4d7eb000785e71a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Holiday Movie Favorites By Lifetime
+#DESCRIPTION Holiday Movie Favorites By Lifetime
+#SERVICE 5002:0:1:9085:e1f6:f61b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63335d36a1cd8c000765466c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hallmark Movies & More
+#DESCRIPTION Hallmark Movies & More
+#SERVICE 5002:0:1:1c26:9ea0:a011:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bb1b9f0adfc955391f8b7a2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Christmas
+#DESCRIPTION Pluto TV Christmas
+#SERVICE 5002:0:1:eaf1:263c:3c65:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/614501c653ceee000772b0ca-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Festive Fireplace
+#DESCRIPTION Festive Fireplace
+#SERVICE 5002:0:1:5196:3da1:a11c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bf48085851dd5632e2f7b4d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crackling Fireplace
+#DESCRIPTION Crackling Fireplace
+#SERVICE 5002:0:1:80e6:69d0:d0b0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/58348b5cc4d11ba530b30f51-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Holiday Lights
+#DESCRIPTION Holiday Lights
+#SERVICE 5002:0:1:a1ec:a3c1:c1c1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f7f8698ec435a000785810b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Home for the Holidays
+#DESCRIPTION Home for the Holidays
+#SERVICE 5002:0:1:71a4:732b:2b1f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dcf059646c0cf000a293edd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Holiday
+#DESCRIPTION Vevo Holiday
+#SERVICE 5002:0:1:86b4:383c:3c77:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60fb3162df090700075da907-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine navideño
+#DESCRIPTION Cine navideño
 #SERVICE 5002:0:1:da:cb05:560:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/633354b63df9700007f6a1b7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sitcom Legends
 #DESCRIPTION Sitcom Legends
 #SERVICE 5002:0:1:72d5:c65:65c7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c2d64ffbdf11b71587184b8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV Land Sitcoms
@@ -173,6 +187,8 @@
 #DESCRIPTION Blue Bloods
 #SERVICE 5002:0:1:2b81:11ad:adde:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f31fd1b4c510e00071c3103-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Crime Drama
 #DESCRIPTION Pluto TV Crime Drama
+#SERVICE 5002:0:1:3429:2ea3:a3dc:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/650b6905d1f20c0008586b0c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More Crime Drama
+#DESCRIPTION More Crime Drama
 #SERVICE 5002:0:1:b040:dda:da1c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d40bebc5e3d2750a2239d7e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TV Land Drama
 #DESCRIPTION TV Land Drama
 #SERVICE 5002:0:1:be94:b77b:7b69:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/613260e4bdb71c00070d63fa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More TV Drama
@@ -245,6 +261,8 @@
 #DESCRIPTION Pluto TV Cars
 #SERVICE 5002:0:1:4d2f:f8:f8cb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/636adc255bcf470007d6e0e2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
 #DESCRIPTION Top Gear
+#SERVICE 5002:0:1:564:9e7c:7c8f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/651f239d9c7aeb0008286823-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dating Disasters
+#DESCRIPTION Dating Disasters
 #SERVICE 5002:0:1:9397:e8eb:eba6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d51ddf0369acdb278dfb05e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love & Hip Hop
 #DESCRIPTION Love & Hip Hop
 #SERVICE 5002:0:1:8912:3705:505:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d71561df6f2e6d0b6493bf5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1 Hip Hop Family
@@ -279,16 +297,8 @@
 #DESCRIPTION The Amazing Race
 #SERVICE 5002:0:1:754a:5b30:30e8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/588128d17d64bc0d0f385c34-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fear Factor
 #DESCRIPTION Fear Factor
-#SERVICE 5002:0:1:4bb2:7f49:498e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a766cd798def0008734695-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Big Brother Quad View
-#DESCRIPTION Big Brother Quad View
 #SERVICE 5002:0:1:dea7:e474:7404:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a765c04ea480000823917a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Big Brother Camera 1
 #DESCRIPTION Big Brother Camera 1
-#SERVICE 5002:0:1:9843:1947:47c3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a765fb798def0008734632-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Big Brother Camera 2
-#DESCRIPTION Big Brother Camera 2
-#SERVICE 5002:0:1:ee61:9b48:48f8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a7665b902f2300085d7901-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Big Brother Camera 3
-#DESCRIPTION Big Brother Camera 3
-#SERVICE 5002:0:1:fd03:52a3:a3b6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a766a794635e0008626601-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Big Brother Camera 4
-#DESCRIPTION Big Brother Camera 4
 #SERVICE 5002:0:1:c4a3:cf46:46fb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ff8c708653d080007361b14-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paramount+ Picks
 #DESCRIPTION Paramount+ Picks
 #SERVICE 5002:0:1:bcc4:fe30:30b5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f988934a507de00075d9ae7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Showtime Selects
@@ -297,20 +307,14 @@
 #DESCRIPTION BET Pluto TV
 #SERVICE 5002:0:1:51d9:f17a:7a79:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d51e6949ab8e2b35bdcaa9f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BET Her
 #DESCRIPTION BET Her
-#SERVICE 5002:0:1:bcdc:79e7:e756:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63335b193583440007c859fb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Movie Favorites by Lifetime
-#DESCRIPTION Movie Favorites by Lifetime
+#SERVICE 5002:0:1:bd07:7690:90bd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63335b193583440007c859fb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Holiday Movie Favorites By Lifetime
+#DESCRIPTION Holiday Movie Favorites By Lifetime
 #SERVICE 5002:0:1:9085:e1f6:f61b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/628e685ba3811100070551a8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hallmark Movies & More
 #DESCRIPTION Hallmark Movies & More
+#SERVICE 5002:0:1:1c26:9ea0:a011:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63335df531a7590007c226b9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Christmas
+#DESCRIPTION Pluto TV Christmas
 #SERVICE 5002:0:1:b485:30e9:e973:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f15e181520cfa000771ce79-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Love Stories
 #DESCRIPTION Pluto TV Love Stories
-#SERVICE 5002:0:1:555b:442c:2c08:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504bcc211054500084f318c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Trek
-#DESCRIPTION Star Trek
-#SERVICE 5002:0:1:4ae7:832c:2cd6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504bde12ce8e40008a10ef2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More Star Trek
-#DESCRIPTION More Star Trek
-#SERVICE 5002:0:1:c0ed:27ca:cab0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504bebda1217e000910842f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
-#DESCRIPTION Pluto TV Sci-Fi
-#SERVICE 5002:0:1:bb2d:2921:21e6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504bf323a0d700008bffe95-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stargate
-#DESCRIPTION Stargate
 #SERVICE 5002:0:1:9623:4dda:daf4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6176fd25e83a5f0007a464c9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bounce XL
 #DESCRIPTION Bounce XL
 #SERVICE 5002:0:1:75eb:29fd:fd9b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6176fddda3a6160007f60433-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shades of Black
@@ -389,6 +393,8 @@
 #DESCRIPTION CBS News Los Angeles
 #SERVICE 5002:0:1:e9be:37aa:aae5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cdc75b1a1cbd0007ed45dc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS News Chicago
 #DESCRIPTION CBS News Chicago
+#SERVICE 5002:0:1:b30c:6dfc:fce7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6508be683a0d700008c534e4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ABC News Live
+#DESCRIPTION ABC News Live
 #SERVICE 5002:0:1:bc4e:2e32:322e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5421f71da6af422839419cb3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CNN HEADLINES
 #DESCRIPTION CNN HEADLINES
 #SERVICE 5002:0:1:7eaf:b4a2:a244:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5df97894467dfa00091c873c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NBC News NOW
@@ -407,8 +413,8 @@
 #DESCRIPTION Cheddar News
 #SERVICE 5002:0:1:4ca6:907f:7fb0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5459795fc9f133a519bc0bef-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scripps News
 #DESCRIPTION Scripps News
-#SERVICE 5002:0:1:b69e:1cf5:f523:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/55b179af994403942f3061d6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax
-#DESCRIPTION Newsmax
+#SERVICE 5002:0:1:11eb:6339:399c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/55b179af994403942f3061d6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Newsmax2
+#DESCRIPTION Newsmax2
 #SERVICE 5002:0:1:2936:2c08:812:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e46fba0c43b0d00096e5ac1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Blaze Live
 #DESCRIPTION Blaze Live
 #SERVICE 5002:0:1:380f:bc11:1172:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e1f7da4bc7d740009831259-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Voice News
@@ -455,6 +461,8 @@
 #DESCRIPTION World Poker Tour
 #SERVICE 5002:0:1:a076:ca02:2d8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5fc54366b04b2300072e31af-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PokerGo
 #DESCRIPTION PokerGo
+#SERVICE 5002:0:1:a1ec:a3c1:c1c1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6334a3355471ee0007609e21-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Home for the Holidays
+#DESCRIPTION Home for the Holidays
 #SERVICE 5002:0:1:11a1:f3f3:f301:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d51e791b7dba3b2ae990ab2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:This Old House
 #DESCRIPTION This Old House
 #SERVICE 5002:0:1:a6c1:a4f8:f8b4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6022bd17849c620007f43ae0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Home
@@ -587,8 +595,8 @@
 #DESCRIPTION Yu-Gi-Oh!
 #SERVICE 5002:0:1:f338:f187:8705:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60f74ba51c82ac000776c669-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Lupin the 3rd
 #DESCRIPTION Lupin the 3rd
-#SERVICE 5002:0:1:4b5e:36c1:c198:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6504c01998020f0008591ae2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:TokuSHOUTsu
-#DESCRIPTION TokuSHOUTsu
+#SERVICE 5002:0:1:71a4:732b:2b1f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6334a3ffdc283500076acf92-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Holiday
+#DESCRIPTION Vevo Holiday
 #SERVICE 5002:0:1:bc1c:bab4:b412:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo '70s
 #DESCRIPTION Vevo '70s
 #SERVICE 5002:0:1:dbb3:7f71:718e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo '80s
@@ -625,14 +633,12 @@
 #DESCRIPTION XITE Gospel
 #SERVICE 5002:0:1:3b85:de5a:5add:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Classica
 #DESCRIPTION Classica
-#SERVICE 5002:0:1:49d5:e160:60a4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64d162783d48f4000873b6a4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Íconos Latinos
-#DESCRIPTION Vevo Íconos Latinos
-#SERVICE 5002:0:1:b409:a11e:1e98:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64d1615e3542510008fa2036-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Regional Mexicano
-#DESCRIPTION Vevo Regional Mexicano
 #SERVICE 5002:0:1:8061:b552:52db:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Latino
 #DESCRIPTION Vevo Latino
 #SERVICE 5002:0:1:af4c:5d6d:6d26:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f32f397795b750007706448-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Reggaeton & Trap
 #DESCRIPTION Vevo Reggaeton & Trap
+#SERVICE 5002:0:1:86b4:383c:3c77:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6334a4d7ae975100073994a2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine navideño
+#DESCRIPTION Cine navideño
 #SERVICE 5002:0:1:7291:ad8c:8c09:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cf968040ab7d8f181e6a68b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cine Premiere
 #DESCRIPTION Cine Premiere
 #SERVICE 5002:0:1:bbb7:21ac:ac05:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cf96b1c4f1ca3f0629f4bf0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Séptimo arte
@@ -659,6 +665,10 @@
 #DESCRIPTION Corazón turco
 #SERVICE 5002:0:1:1a9b:9249:490a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e84dc59026b9b000766f9a2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Badass novelas
 #DESCRIPTION Badass novelas
+#SERVICE 5002:0:1:ef58:45aa:aa0f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60492c67f4c48700075b5d37-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Entre nosotras
+#DESCRIPTION Entre nosotras
+#SERVICE 5002:0:1:712a:ba8a:8adb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Series con Ñ
+#DESCRIPTION Series con Ñ
 #SERVICE 5002:0:1:d2ec:73ce:cee6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/604928d54a4f730007ff76bc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI en Español
 #DESCRIPTION CSI en Español
 #SERVICE 5002:0:1:20e0:f0f7:f7f6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/632b5950b515b000079e6b81-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a Miami en español
@@ -687,18 +697,12 @@
 #DESCRIPTION The Walking Dead en español
 #SERVICE 5002:0:1:fcfc:5ecc:ccf8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62fa81ccd1a7e90007c1ada0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:AMC en español
 #DESCRIPTION AMC en español
-#SERVICE 5002:0:1:712a:ba8a:8adb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60fb3087fbbc120007fc46be-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Series con Ñ
-#DESCRIPTION Series con Ñ
-#SERVICE 5002:0:1:ef58:45aa:aa0f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60492c67f4c48700075b5d37-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Entre nosotras
-#DESCRIPTION Entre nosotras
 #SERVICE 5002:0:1:505e:b3b5:b560:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cf0622da00ca1e2f6fac712-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:EstrellaTV
 #DESCRIPTION EstrellaTV
 #SERVICE 5002:0:1:175b:854b:4b61:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60d393e5579a420007ee553c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casos de la Dra. Polo
 #DESCRIPTION Casos de la Dra. Polo
 #SERVICE 5002:0:1:25cb:d9e1:e137:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60492ee6375a3900079a158c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nosey escándalos
 #DESCRIPTION Nosey escándalos
-#SERVICE 5002:0:1:d14:be7:e7b8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60492bb931054f00073c0b4e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sony Canal Comedias
-#DESCRIPTION Sony Canal Comedias
 #SERVICE 5002:0:1:3638:56df:df7f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cf96dad1652631e36d43320-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Comedy Central en español
 #DESCRIPTION Comedy Central en español
 #SERVICE 5002:0:1:4976:6d8a:8a33:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60492b2794116800073e32dc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hell's Kitchen en español
@@ -723,14 +727,8 @@
 #DESCRIPTION Lucha Libre AAA
 #SERVICE 5002:0:1:49d5:e160:60a4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64d161c93c785e0008df575e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Íconos Latinos
 #DESCRIPTION Vevo Íconos Latinos
-#SERVICE 5002:0:1:8061:b552:52db:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64daad9b35425100080d9d94-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Latino
-#DESCRIPTION Vevo Latino
 #SERVICE 5002:0:1:b409:a11e:1e98:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64dab5fe35425100080e2991-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Regional Mexicano
 #DESCRIPTION Vevo Regional Mexicano
-#SERVICE 5002:0:1:af4c:5d6d:6d26:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64daa92a44fe100009ac56f6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Vevo Reggaeton & Trap
-#DESCRIPTION Vevo Reggaeton & Trap
-#SERVICE 5002:0:1:3843:384c:4c98:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e404a39c1e390008419d58-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Flow Latino
-#DESCRIPTION MTV Flow Latino
 #SERVICE 5002:0:1:1e9e:b7ac:ac31:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60f75919718aed0007250d7a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS News Baltimore
 #DESCRIPTION CBS News Baltimore
 #SERVICE 5002:0:1:201b:ca29:29de:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5eb1afb21486df0007abc57c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CBS News Bay Area
@@ -765,82 +763,50 @@
 #DESCRIPTION CBS News Texas
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Great Britain
 #DESCRIPTION Great Britain
-#SERVICE 5002:0:1:4bc8:1e40:405f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
-#DESCRIPTION Yo! MTV Raps Classic
-#SERVICE 5002:0:1:677b:5ee5:e517:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/639b558c73423d00071ce624-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More TV Crime
-#DESCRIPTION More TV Crime
-#SERVICE 5002:0:1:2287:e9de:de51:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ca1de9208ee5378be82db3b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fifth Gear
-#DESCRIPTION Fifth Gear
-#SERVICE 5002:0:1:a1bf:3410:10d4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d91cf54e83e7000881ca1c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Big Builds
-#DESCRIPTION Pluto TV Big Builds
-#SERVICE 5002:0:1:bfe2:e4b:4b9d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6304f7bac6073d000725a5a9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Relative Justice
-#DESCRIPTION Relative Justice
-#SERVICE 5002:0:1:5540:3d6e:6e39:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a Miami
-#DESCRIPTION CSI: Miami
-#SERVICE 5002:0:1:c168:130a:a32:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c5c2e9d8002db3c3e0b1c72-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homes Under Hammer
-#DESCRIPTION Homes Under Hammer
-#SERVICE 5002:0:1:cc25:eab6:b66f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Halloween
-#DESCRIPTION Pluto TV Halloween
-#SERVICE 5002:0:1:49ab:eb41:4111:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d4af2ffa9506ab29cf38c38-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
-#DESCRIPTION Pluto TV Paranormal
-#SERVICE 5002:0:1:df1b:75ae:ae08:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64ff1d92d545e9000877fba4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:A Haunting
-#DESCRIPTION A Haunting
-#SERVICE 5002:0:1:a648:6dbb:bb3c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f27bbe4779de70007a6d1c1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Hunters
-#DESCRIPTION Ghost Hunters
-#SERVICE 5002:0:1:5cc6:78bb:bbfe:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6081648340382e0007f73d45-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Most Haunted
-#DESCRIPTION Most Haunted
-#SERVICE 5002:0:1:8792:b1c6:c6a1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Haunt TV
-#DESCRIPTION Haunt TV
-#SERVICE 5002:0:1:4a41:cdb4:b480:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bd05b4694d45d266bc951f2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
-#DESCRIPTION Unsolved Mysteries
-#SERVICE 5002:0:1:dc47:ab94:9438:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c4a09d6c959f0007189c93-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mystery TV
-#DESCRIPTION Mystery TV
-#SERVICE 5002:0:1:ef95:be82:82ab:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/611f85396abc84000738417b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beyond Belief%3a Fact or Fiction
-#DESCRIPTION Beyond Belief: Fact or Fiction
-#SERVICE 5002:0:1:fbc:379:797f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c45f5a9d40d58066869fa60-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Dimension
-#DESCRIPTION Ghost Dimension
-#SERVICE 5002:0:1:540d:f4f4:f452:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60804d85858bd00007c5d591-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paranormal State
-#DESCRIPTION Paranormal State
+#SERVICE 5002:0:1:c4bf:6b6a:6a2e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64edf6eaa7ec0d000812f58c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park
+#DESCRIPTION South Park
+#SERVICE 5002:0:1:1c26:1bd8:d869:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bd8273953ed2c6334ea10f8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Christmas
+#DESCRIPTION Pluto TV Christmas
+#SERVICE 5002:0:1:6b8:1553:53aa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dc039c65b56d0000945af0e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Mistletoe
+#DESCRIPTION Pluto TV Mistletoe
+#SERVICE 5002:0:1:80e6:72df:dfaf:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bd832fd1843b56328bac0c7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Holiday Lights
+#DESCRIPTION Holiday Lights
+#SERVICE 5002:0:1:53d3:c7ab:ab5c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bd8282253ed2c6334ea10fa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fireplace
+#DESCRIPTION Fireplace
+#SERVICE 5002:0:1:3f39:afed:ed8f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/635bfa457176da0007355017-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Xmas
+#DESCRIPTION MTV Xmas
 #SERVICE 5002:0:1:b66f:a3a7:a7b3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ad8d3a31b95267e225e4e09-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Movies
 #DESCRIPTION Pluto TV Movies
 #SERVICE 5002:0:1:5ddb:ec28:28c3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dbfeb961b411c00090b52b3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Action
 #DESCRIPTION Pluto TV Action
 #SERVICE 5002:0:1:c0ed:5948:4892:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dc02a44a9518600094273ac-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
 #DESCRIPTION Pluto TV Sci-Fi
-#SERVICE 5002:0:1:ea3:bede:de00:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cbdc45d3cb9f0007128df4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Christmas in Summer
-#DESCRIPTION Pluto TV Christmas in Summer
 #SERVICE 5002:0:1:3431:b8bf:bfa6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c363c2411c5ca053f198f97-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Comedy Movies
 #DESCRIPTION Pluto TV Comedy Movies
 #SERVICE 5002:0:1:d068:aebb:bb9a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c5c31f2f21b553c1f673fb0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Cult Films
 #DESCRIPTION Pluto TV Cult Films
 #SERVICE 5002:0:1:d732:3fea:eaf1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dbfedccc563080009b60f4a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Thrillers
 #DESCRIPTION Pluto TV Thrillers
+#SERVICE 5002:0:1:f54d:fa55:55eb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/612cda102f5f18000705e0bf-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
 #SERVICE 5002:0:1:de96:a5bf:bfd0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d4bdb635ce813b38639e6a3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Westerns
 #DESCRIPTION Pluto TV Westerns
 #SERVICE 5002:0:1:4e73:5aee:ee4c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dc3fc6b9133f500099c7d98-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Family Movie Club
 #DESCRIPTION Pluto TV Family Movie Club
-#SERVICE 5002:0:1:2887:802e:2e39:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5db04252241007000975faac-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Documentaries
-#DESCRIPTION Pluto TV Documentaries
 #SERVICE 5002:0:1:e004:d654:5431:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62da778fad95670007f610c0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a New York
 #DESCRIPTION CSI: New York
 #SERVICE 5002:0:1:f3f0:8fb7:b785:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6304f8d5ffb61000071ab478-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a Crime Scene Investigation
 #DESCRIPTION CSI: Crime Scene Investigation
-#SERVICE 5002:0:1:f576:ad5f:5f99:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/647e09c24f5ba500087e70ac-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Justified
-#DESCRIPTION Justified
-#SERVICE 5002:0:1:31b8:d248:4886:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/645cb54de94c3800080ea6d4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Night Shift
-#DESCRIPTION The Night Shift
+#SERVICE 5002:0:1:5540:3d6e:6e39:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62da7819be7a97000878eb92-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a Miami
+#DESCRIPTION CSI: Miami
 #SERVICE 5002:0:1:735f:6555:5586:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/649c22999df8dd00086921c3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pensacola%3a Wings of Gold
 #DESCRIPTION Pensacola: Wings of Gold
 #SERVICE 5002:0:1:b806:443a:3a9e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/611e672d4676bf00076a3837-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Baywatch
 #DESCRIPTION Baywatch
 #SERVICE 5002:0:1:bde2:1c6e:6e90:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d000ef4e83e700086e0d6c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scorpion
 #DESCRIPTION Scorpion
-#SERVICE 5002:0:1:dd55:3a65:6503:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63231d3f1e0d4d00076a7a27-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Numbers
-#DESCRIPTION Numbers
 #SERVICE 5002:0:1:5e07:c6c0:c0a7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63fe2ec4dff38e000835f786-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rookie Blue
 #DESCRIPTION Rookie Blue
-#SERVICE 5002:0:1:1d83:394b:4bab:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62ab579258cb950007811aad-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mission Impossible
-#DESCRIPTION Mission Impossible
 #SERVICE 5002:0:1:cb66:24ff:ff46:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619247c34a270700077c8415-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-fi Series
 #DESCRIPTION Pluto TV Sci-fi Series
 #SERVICE 5002:0:1:8ffd:ca28:28b2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/645e00d5d3fdde000829463a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More TV Sci-fi
@@ -881,6 +847,8 @@
 #DESCRIPTION Pluto TV Adventure
 #SERVICE 5002:0:1:d668:d8d6:d62f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5db0510962948d000961d3c6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Motor
 #DESCRIPTION Pluto TV Motor
+#SERVICE 5002:0:1:2287:e9de:de51:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ca1de9208ee5378be82db3b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fifth Gear
+#DESCRIPTION Fifth Gear
 #SERVICE 5002:0:1:1a11:d7e1:e1b8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e78faa05a0e200007a6f487-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Full Custom Garage
 #DESCRIPTION Full Custom Garage
 #SERVICE 5002:0:1:1b71:be02:26b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c0d6765dc1660008a3e033-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:UKTV Play Full Throttle
@@ -913,8 +881,6 @@
 #DESCRIPTION Undercover Boss Global
 #SERVICE 5002:0:1:409d:bf76:7688:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63e2311c4e83e70008953121-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Trash to Cash
 #DESCRIPTION Pluto TV Trash to Cash
-#SERVICE 5002:0:1:9c11:4bc2:c2f3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c5c2b9d8002db3c3e0b1c6d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Retro Toons
-#DESCRIPTION Pluto TV Retro Toons
 #SERVICE 5002:0:1:14e0:d934:3458:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/612f761008a9e50007984ba0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Animation
 #DESCRIPTION Pluto TV Animation
 #SERVICE 5002:0:1:a099:32bb:bbea:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a069bfd88ef000073f6775-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Garfield & Friends
@@ -925,6 +891,28 @@
 #DESCRIPTION Best of The Drew Barrymore Show
 #SERVICE 5002:0:1:913e:49d:9d02:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/647f09e5f77b61000823ff24-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tattoo Fixers
 #DESCRIPTION Tattoo Fixers
+#SERVICE 5002:0:1:5cc6:78bb:bbfe:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6081648340382e0007f73d45-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Most Haunted
+#DESCRIPTION Most Haunted
+#SERVICE 5002:0:1:49ab:eb41:4111:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d4af2ffa9506ab29cf38c38-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
+#DESCRIPTION Pluto TV Paranormal
+#SERVICE 5002:0:1:df1b:75ae:ae08:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64ff1d92d545e9000877fba4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:A Haunting
+#DESCRIPTION A Haunting
+#SERVICE 5002:0:1:a648:6dbb:bb3c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f27bbe4779de70007a6d1c1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Hunters
+#DESCRIPTION Ghost Hunters
+#SERVICE 5002:0:1:d677:b718:18f2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e9ed47c26ebb000074af566-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensing Murder
+#DESCRIPTION Sensing Murder
+#SERVICE 5002:0:1:8792:b1c6:c6a1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6319f06067a3ee000708af95-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Haunt TV
+#DESCRIPTION Haunt TV
+#SERVICE 5002:0:1:4a41:cdb4:b480:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bd05b4694d45d266bc951f2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
+#DESCRIPTION Unsolved Mysteries
+#SERVICE 5002:0:1:dc47:ab94:9438:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c4a09d6c959f0007189c93-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mystery TV
+#DESCRIPTION Mystery TV
+#SERVICE 5002:0:1:ef95:be82:82ab:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/611f85396abc84000738417b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beyond Belief%3a Fact or Fiction
+#DESCRIPTION Beyond Belief: Fact or Fiction
+#SERVICE 5002:0:1:fbc:379:797f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c45f5a9d40d58066869fa60-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Dimension
+#DESCRIPTION Ghost Dimension
+#SERVICE 5002:0:1:540d:f4f4:f452:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60804d85858bd00007c5d591-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paranormal State
+#DESCRIPTION Paranormal State
 #SERVICE 5002:0:1:e4ca:3fed:ed3c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d767790d0438aceb41d03ae-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Crime
 #DESCRIPTION Pluto TV Crime
 #SERVICE 5002:0:1:4971:72b0:b0c8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63808dc806aa4700075f319a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Investigation
@@ -933,6 +921,8 @@
 #DESCRIPTION On The Case
 #SERVICE 5002:0:1:39b4:4cf0:f080:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60e452730e76f20007598de8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homicide Hunter
 #DESCRIPTION Homicide Hunter
+#SERVICE 5002:0:1:677b:5ee5:e517:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/639b558c73423d00071ce624-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:More TV Crime
+#DESCRIPTION More TV Crime
 #SERVICE 5002:0:1:7a44:8040:40fb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c49f1495f417000731cef0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inside Crime
 #DESCRIPTION Inside Crime
 #SERVICE 5002:0:1:d689:a123:238b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e9184439d80c00076e166d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Aftershock
@@ -947,8 +937,6 @@
 #DESCRIPTION The New Detectives
 #SERVICE 5002:0:1:4b8a:3266:6683:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ea18cd42ee5410007e349dc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Investigation
 #DESCRIPTION Crime Investigation
-#SERVICE 5002:0:1:d677:b718:18f2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e9ed47c26ebb000074af566-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sensing Murder
-#DESCRIPTION Sensing Murder
 #SERVICE 5002:0:1:7967:fd59:59cf:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5bd8186d53ed2c6334ea0855-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Reality
 #DESCRIPTION Pluto TV Reality
 #SERVICE 5002:0:1:5a48:4c87:87c1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/625eaebc2a73a00007d3f855-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Catfish
@@ -959,16 +947,18 @@
 #DESCRIPTION MTV Reality
 #SERVICE 5002:0:1:ac43:ceee:ee1e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62d556fe2888ce000764b3fa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:16 & Pregnant
 #DESCRIPTION 16 & Pregnant
+#SERVICE 5002:0:1:bfe2:e4b:4b9d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6304f7bac6073d000725a5a9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Relative Justice
+#DESCRIPTION Relative Justice
 #SERVICE 5002:0:1:479f:9454:54bf:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/600acdc434a37000070004cf-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Judge Nosey
 #DESCRIPTION Judge Nosey
+#SERVICE 5002:0:1:aef7:fbcc:ccb0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60c8807f46b11c0007b800a9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bridezillas
+#DESCRIPTION Bridezillas
 #SERVICE 5002:0:1:c8f:9800:2f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60e455469bb4200008374d7e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:My Strange Addiction
 #DESCRIPTION My Strange Addiction
 #SERVICE 5002:0:1:1bd3:5955:55fb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c8d7814cc09e00087e8fe3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NextUp LIVE Comedy Channel
 #DESCRIPTION NextUp LIVE Comedy Channel
 #SERVICE 5002:0:1:2ef5:7506:660:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c0d6f34096290008132d6b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:UKTV Play Laughs
 #DESCRIPTION UKTV Play Laughs
-#SERVICE 5002:0:1:df3b:8a5a:5a37:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6152d75abd229300079c7078-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Married with Children
-#DESCRIPTION Married with Children
 #SERVICE 5002:0:1:6721:3bc7:c7eb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/620f6c60b994540007ddd74b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Moesha
 #DESCRIPTION Moesha
 #SERVICE 5002:0:1:9ea:d769:6945:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/620bb260821a860007b2d3df-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Family Ties
@@ -999,6 +989,8 @@
 #DESCRIPTION Great British Menu
 #SERVICE 5002:0:1:76a1:e1be:bec2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/635a77357bb27d0007d25c3f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bake with Anna Olson
 #DESCRIPTION Bake with Anna Olson
+#SERVICE 5002:0:1:c168:130a:a32:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c5c2e9d8002db3c3e0b1c72-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Homes Under Hammer
+#DESCRIPTION Homes Under Hammer
 #SERVICE 5002:0:1:da6:2a0:a0e0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/620f6f9e36a49b000761f0d5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Location, location, location
 #DESCRIPTION Location, location, location
 #SERVICE 5002:0:1:53fe:9f6a:6a9f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60f03e32b6455d000748b640-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Extreme American Homes
@@ -1035,12 +1027,14 @@
 #DESCRIPTION World's Greatest
 #SERVICE 5002:0:1:48c7:6d0b:b15:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ddf901280e3550009139c86-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:5 Exploring Britain
 #DESCRIPTION 5 Exploring Britain
-#SERVICE 5002:0:1:a7c1:667f:7fcd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64df50974c5ed80008fef851-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV EMA
-#DESCRIPTION MTV EMA
+#SERVICE 5002:0:1:a1bf:3410:10d4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d91cf54e83e7000881ca1c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Big Builds
+#DESCRIPTION Pluto TV Big Builds
 #SERVICE 5002:0:1:8bfb:dc77:7770:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d4af2a24f1c5ab2d298776b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Music
 #DESCRIPTION Pluto TV Music
 #SERVICE 5002:0:1:6050:9558:58a4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/635bfb89b5cd9b0007ca9d63-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Classic
 #DESCRIPTION MTV Classic
+#SERVICE 5002:0:1:4bc8:1e40:405f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c10558060e830008ed1b0a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
+#DESCRIPTION Yo! MTV Raps Classic
 #SERVICE 5002:0:1:2b45:a81f:1f66:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Movie Hits
 #DESCRIPTION MTV Movie Hits
 #SERVICE 5002:0:1:8859:a5d8:d8a4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Love
@@ -1063,8 +1057,6 @@
 #DESCRIPTION Pluto TV Kids
 #SERVICE 5002:0:1:b46f:6c9f:9fcd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d8ed19a9957100086f4d33-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Transformers
 #DESCRIPTION Transformers
-#SERVICE 5002:0:1:d90a:ee32:32cd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d94a5451754e6a4298d1059-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sabrina Teenage Witch
-#DESCRIPTION Sabrina Teenage Witch
 #SERVICE 5002:0:1:5beb:c469:69e6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5c363ac9e41be30cb6054c7c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yu-Gi-Oh!
 #DESCRIPTION Yu-Gi-Oh!
 #SERVICE 5002:0:1:2f17:ade:ded6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d765786aad587cf4d0e2bf6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inspector Gadget
@@ -1081,14 +1073,18 @@
 #DESCRIPTION Arthur
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Spain
 #DESCRIPTION Spain
+#SERVICE 5002:0:1:6530:3188:8827:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6335a6b6e6f7a600076e589e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cazasubastas
+#DESCRIPTION Cazasubastas
+#SERVICE 5002:0:1:c90b:5f38:3814:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6523f672a6c38300088cb807-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:El Reino Infantil
+#DESCRIPTION El Reino Infantil
+#SERVICE 5002:0:1:66ef:f6ed:edd7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6511a53f473a54000854e2ee-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zoey 101
+#DESCRIPTION Zoey 101
+#SERVICE 5002:0:1:89c8:235d:5da1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6511a5d8d1f20c000864b951-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Victorious
+#DESCRIPTION Victorious
+#SERVICE 5002:0:1:4bc8:24ad:adec:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64db35b44c5ed80008f6a3ed-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
+#DESCRIPTION Yo! MTV Raps Classic
 #SERVICE 5002:0:1:ba3f:5936:3639:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64db2e0835425100080f2f5a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Diseño
 #DESCRIPTION Pluto TV Diseño
-#SERVICE 5002:0:1:a7c1:aea0:a0e9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64db2c974c5ed80008f68b6d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV EMA
-#DESCRIPTION MTV EMA
-#SERVICE 5002:0:1:579a:c0be:bea3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64db32bedfa324000832e34c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park Halloween
-#DESCRIPTION South Park Halloween
-#SERVICE 5002:0:1:2800:acfe:fe39:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1abeb21044ee0007f19d33-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kids Halloween
-#DESCRIPTION Pluto TV Kids Halloween
 #SERVICE 5002:0:1:1e0f:5f34:3402:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619b7db4872c650008eb8b6a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Star Trek
 #DESCRIPTION Pluto TV Star Trek
 #SERVICE 5002:0:1:c9bc:d54b:4b44:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60d3574e97f10800078455de-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Doctor Who
@@ -1203,10 +1199,6 @@
 #DESCRIPTION Pluto TV Historia
 #SERVICE 5002:0:1:460:53fd:fde2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60c343ad476ec00007c2ec1a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Viajes
 #DESCRIPTION Pluto TV Viajes
-#SERVICE 5002:0:1:40aa:5bf8:f8dc:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60c882460ea4a200076a2a37-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
-#DESCRIPTION Fashion TV
-#SERVICE 5002:0:1:7093:f0b0:b06d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6140a074a99e79000738162a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Fitness
-#DESCRIPTION Pluto TV Fitness
 #SERVICE 5002:0:1:d54b:2b88:8873:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61cd78920b90cb0007e28231-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Documentales
 #DESCRIPTION Pluto TV Documentales
 #SERVICE 5002:0:1:2315:76d5:d58a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nature Time
@@ -1263,8 +1255,6 @@
 #DESCRIPTION Pluto TV K-Pop
 #SERVICE 5002:0:1:32a7:8193:9359:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60f16986acb81b0007c384ac-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qello Concerts
 #DESCRIPTION Qello Concerts
-#SERVICE 5002:0:1:706a:fe19:19df:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60db37b8b919720007c07fa4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest TV
-#DESCRIPTION Qwest TV
 #SERVICE 5002:0:1:1ddb:682e:2e5b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/600ad4ad6537680007be2ea6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
 #DESCRIPTION Clubbing TV
 #SERVICE 5002:0:1:49fa:6fa9:a974:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60d3583ef310610007fb02b1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Euronews
@@ -1309,22 +1299,22 @@
 #DESCRIPTION Rugrats
 #SERVICE 5002:0:1:f8df:e6ed:ed21:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c69c87808b740007599fe1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Érase una vez...
 #DESCRIPTION Érase una vez...
-#SERVICE 5002:0:1:b742:6e90:906e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/645a30f6f3f5b1000864ac04-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Las Tres Mellizas
-#DESCRIPTION Las Tres Mellizas
+#SERVICE 5002:0:1:7fb4:a29a:9a9b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kids
+#DESCRIPTION Pluto TV Kids
+#SERVICE 5002:0:1:f176:fb0c:c62:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/624466b26ab25e0007dd7cfb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dora la Exploradora
+#DESCRIPTION Dora la Exploradora
+#SERVICE 5002:0:1:2c1:b412:127e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1aa9bcd8160700076d45d1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Junior
+#DESCRIPTION Pluto TV Junior
 #SERVICE 5002:0:1:e575:2b10:10e0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Toons Clásico
 #DESCRIPTION Pluto TV Toons Clásico
-#SERVICE 5002:0:1:9971:cab9:b96f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Winx Club
-#DESCRIPTION Winx Club
+#SERVICE 5002:0:1:b742:6e90:906e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/645a30f6f3f5b1000864ac04-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Las Tres Mellizas
+#DESCRIPTION Las Tres Mellizas
 #SERVICE 5002:0:1:4a1a:94be:be0c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1aabee6f4a2c00076a322c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Animakids
 #DESCRIPTION Pluto TV Animakids
 #SERVICE 5002:0:1:a9cf:1ab1:b1bb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6228b6a38717420007375848-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kids Ukraine
 #DESCRIPTION Pluto TV Kids Ukraine
-#SERVICE 5002:0:1:2c1:b412:127e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1aa9bcd8160700076d45d1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Junior
-#DESCRIPTION Pluto TV Junior
-#SERVICE 5002:0:1:f176:fb0c:c62:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/624466b26ab25e0007dd7cfb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dora la Exploradora
-#DESCRIPTION Dora la Exploradora
-#SERVICE 5002:0:1:7fb4:a29a:9a9b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kids
-#DESCRIPTION Pluto TV Kids
+#SERVICE 5002:0:1:9971:cab9:b96f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62568a94ed1f380007b0211f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Winx Club
+#DESCRIPTION Winx Club
 #SERVICE 5002:0:1:e13d:bcdc:dc05:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63eb944dc111bc0008fe7021-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Teen
 #DESCRIPTION Pluto TV Teen
 #SERVICE 5002:0:1:94b3:582c:2cfc:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f1aa7aab66c76000790ee7e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Big Time Rush
@@ -1513,6 +1503,8 @@
 #DESCRIPTION Nosey
 #SERVICE 5002:0:1:f84e:803:3a1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/638e0f4832494900074481e7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Confess by Nosey
 #DESCRIPTION Confess by Nosey
+#SERVICE 5002:0:1:aef7:768c:8cfd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62bdb0785611f2000761ca9a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bridezillas
+#DESCRIPTION Bridezillas
 #SERVICE 5002:0:1:9ebf:2b66:66ec:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6368e15a51e9560007c592ed-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Out TV Proud
 #DESCRIPTION Out TV Proud
 #SERVICE 5002:0:1:8194:5db6:b679:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/641b17c4aa2d690008c852b2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HappiTV
@@ -1653,42 +1645,20 @@
 #DESCRIPTION Naturescape
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Germany
 #DESCRIPTION Germany
+#SERVICE 5002:0:1:e330:18cb:cb05:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/651e951fb43b640008bfe697-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Republic of Doyle
+#DESCRIPTION Republic of Doyle
+#SERVICE 5002:0:1:41d3:9143:4373:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/651e94c930876e000840eb50-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Outpost
+#DESCRIPTION The Outpost
+#SERVICE 5002:0:1:de1e:e310:1083:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64be745340962900080b55e7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Melrose Place
+#DESCRIPTION Melrose Place
 #SERVICE 5002:0:1:4d2f:358a:8a48:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c109735dc1660008a4a2dc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
 #DESCRIPTION Top Gear
 #SERVICE 5002:0:1:a0f1:9fff:ff57:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/638f2bc7bc363100072f02dd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Rauchende Colts
 #DESCRIPTION Rauchende Colts
-#SERVICE 5002:0:1:7a23:c819:1955:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64eddc3485efec00085b0369-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perry Mason
-#DESCRIPTION Perry Mason
-#SERVICE 5002:0:1:598a:2fc6:c631:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64be64445dc166000899ce75-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Polizeiserien
-#DESCRIPTION Pluto TV Polizeiserien
-#SERVICE 5002:0:1:b270:6bc2:c2d9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64be778c40962900080b6461-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Twin Peaks
-#DESCRIPTION Twin Peaks
-#SERVICE 5002:0:1:9262:234c:4c2a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c8dd94e4391c0008eb4742-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Twilight Zone
-#DESCRIPTION The Twilight Zone
-#SERVICE 5002:0:1:a7c1:12ea:ea4b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64df505c286f6b00082d99b6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV EMA
-#DESCRIPTION MTV EMA
-#SERVICE 5002:0:1:f54d:fc6a:6a08:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
-#DESCRIPTION Pluto TV Horror
-#SERVICE 5002:0:1:448d:1ae2:e2ea:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64ecc21744fe100009d274eb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park%3a Halloween
-#DESCRIPTION South Park: Halloween
-#SERVICE 5002:0:1:49ab:e62:6264:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f98487036af340008da1e37-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
-#DESCRIPTION Pluto TV Paranormal
-#SERVICE 5002:0:1:fd9a:dd5c:5cb6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/617aad99b68ef100072608cd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Mystery
-#DESCRIPTION Pluto TV Mystery
-#SERVICE 5002:0:1:2e1e:d064:6435:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a0b2aff4cf470007e47e29-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fluss-Monster
-#DESCRIPTION Fluss-Monster
-#SERVICE 5002:0:1:d690:d609:9e4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/642d7e029189ce0008958af5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:X-Factor%3a Das Unfassbare
-#DESCRIPTION X-Factor: Das Unfassbare
-#SERVICE 5002:0:1:29e5:e1e3:e3fa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62f4faddf923fb0007eab521-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nick Spuktober
-#DESCRIPTION Nick Spuktober
-#SERVICE 5002:0:1:6761:f564:6416:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f4796368174910007756454-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Emma, einfach magisch!
-#DESCRIPTION Emma, einfach magisch!
-#SERVICE 5002:0:1:4cb:5c21:2103:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63905bf62892fc0007b5ba7b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Voll Vergeistert
-#DESCRIPTION Voll Vergeistert
-#SERVICE 5002:0:1:7688:818e:8eb6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d9107e60bc8f0008a1d9ed-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Das Geheimnis der Hunters
-#DESCRIPTION Das Geheimnis der Hunters
-#SERVICE 5002:0:1:8dff:8585:85c9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dbc327d0451770009ed7577-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Simsalabim Sabrina
-#DESCRIPTION Simsalabim Sabrina
+#SERVICE 5002:0:1:b3ac:217a:7ab0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/65004605110545000842035d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Knallhart
+#DESCRIPTION Pluto TV Knallhart
+#SERVICE 5002:0:1:2ebd:3863:636a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/65004cf398020f00084ca8bc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Marco Polo TV
+#DESCRIPTION Marco Polo TV
 #SERVICE 5002:0:1:108c:5f51:51eb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c9430af13a9b000786422a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kino Filme
 #DESCRIPTION Pluto TV Kino Filme
 #SERVICE 5002:0:1:bcd3:ad64:6472:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64526a145a0cd50008632bfa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV heiße Nächte
@@ -1703,6 +1673,8 @@
 #DESCRIPTION MOVIEDOME
 #SERVICE 5002:0:1:1a0e:e547:4720:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dc287ce3086a20009f5024c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Romance
 #DESCRIPTION Pluto TV Romance
+#SERVICE 5002:0:1:f54d:fc6a:6a08:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62f4f4b88157cf00075c22db-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
 #SERVICE 5002:0:1:b478:255a:5a59:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cc81e793798650e4f7d9fd3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Asylum Channel
 #DESCRIPTION The Asylum Channel
 #SERVICE 5002:0:1:4e56:69aa:aa32:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ce40e59246a395e9758923e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Indies
@@ -1765,6 +1737,8 @@
 #DESCRIPTION Mork vom Ork
 #SERVICE 5002:0:1:c00f:87f9:f9ed:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/622f6faf65be650007f57aab-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hausmeister Krause
 #DESCRIPTION Hausmeister Krause
+#SERVICE 5002:0:1:8e69:65c:5c58:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64105834925bd50008f5cde5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bewegte Männer
+#DESCRIPTION Bewegte Männer
 #SERVICE 5002:0:1:43a1:7cf1:f13f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61fbfa1a9e38ec0007a395b7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dittsche
 #DESCRIPTION Dittsche
 #SERVICE 5002:0:1:e338:e32d:2d18:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/611e7f224676bf00076a4d8d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cheers
@@ -1787,16 +1761,20 @@
 #DESCRIPTION Pluto TV Sitcoms
 #SERVICE 5002:0:1:1e0f:630d:dbd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6152ee71bf99590007893a11-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Star Trek
 #DESCRIPTION Pluto TV Star Trek
-#SERVICE 5002:0:1:c0ed:2af8:f8ab:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60ed498c4248a400077c0b9d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
-#DESCRIPTION Pluto TV Sci-Fi
 #SERVICE 5002:0:1:5679:6d6:d6f2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/642ad6a5aa2d690008ea6d96-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Viper
 #DESCRIPTION Viper
+#SERVICE 5002:0:1:c0ed:2af8:f8ab:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60ed498c4248a400077c0b9d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
+#DESCRIPTION Pluto TV Sci-Fi
 #SERVICE 5002:0:1:985a:50ad:ad4b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e843d849109b700075d5ada-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dark Matter
 #DESCRIPTION Dark Matter
 #SERVICE 5002:0:1:f7cd:ff96:96dc:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/622f487722d9d400075f74dd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ein Engel auf Erden
 #DESCRIPTION Ein Engel auf Erden
 #SERVICE 5002:0:1:a64a:381b:1bea:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cb5cfe5caf83414128f209e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KultKrimi
 #DESCRIPTION KultKrimi
+#SERVICE 5002:0:1:7a23:c819:1955:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64eddc3485efec00085b0369-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perry Mason
+#DESCRIPTION Perry Mason
+#SERVICE 5002:0:1:598a:2fc6:c631:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64be64445dc166000899ce75-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Polizeiserien
+#DESCRIPTION Pluto TV Polizeiserien
 #SERVICE 5002:0:1:e4ca:b52:52e3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e7b6c60fd20c50007910bf5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Crime
 #DESCRIPTION Pluto TV Crime
 #SERVICE 5002:0:1:cae0:6b5c:5c09:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61fbf91afb1b10000880dd08-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Auf Achse
@@ -1809,6 +1787,8 @@
 #DESCRIPTION Pacific Blue
 #SERVICE 5002:0:1:1967:2d7e:7ed3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cebd7302478b00073a6b71-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Der Denver-Clan
 #DESCRIPTION Der Denver-Clan
+#SERVICE 5002:0:1:b270:6bc2:c2d9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64be778c40962900080b6461-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Twin Peaks
+#DESCRIPTION Twin Peaks
 #SERVICE 5002:0:1:1c58:8d53:5317:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/645a0ddfe1979c00086d83ff-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Red Shoe Diaries
 #DESCRIPTION Red Shoe Diaries
 #SERVICE 5002:0:1:e2b7:f778:78a5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62bc1784120ba80007935aaa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Awkward
@@ -1821,6 +1801,8 @@
 #DESCRIPTION Das Haus am Eaton Place
 #SERVICE 5002:0:1:4c11:707:7a3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6254240a8256cb00079a9bf1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Praxis Bülowbogen
 #DESCRIPTION Praxis Bülowbogen
+#SERVICE 5002:0:1:9262:234c:4c2a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c8dd94e4391c0008eb4742-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Twilight Zone
+#DESCRIPTION The Twilight Zone
 #SERVICE 5002:0:1:3839:6046:4662:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5cb5d043a461406ffe3fb2de-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Telenovela ZDF
 #DESCRIPTION Telenovela ZDF
 #SERVICE 5002:0:1:a4cd:f27:2737:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/609536871db47700075a04bf-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Serie
@@ -1833,12 +1815,22 @@
 #DESCRIPTION Pluto TV Anime
 #SERVICE 5002:0:1:9c11:c1fa:fab1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e1c669094e0e80009b22ab8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Retro Toons
 #DESCRIPTION Pluto TV Retro Toons
+#SERVICE 5002:0:1:4d8a:dd74:74f6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/650adc3198020f000862eed4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unentdeckt – Mörder unter uns
+#DESCRIPTION Unentdeckt – Mörder unter uns
 #SERVICE 5002:0:1:a5fd:a963:633b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/642abea1283aa4000805bb5b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Täterjagd
 #DESCRIPTION Täterjagd
 #SERVICE 5002:0:1:fa75:aed2:d23e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d90f828795f300086745b2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Myth Hunters
 #DESCRIPTION Myth Hunters
 #SERVICE 5002:0:1:ab21:1efa:fac9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/615333098185f00008715a56-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV True Crime
 #DESCRIPTION Pluto TV True Crime
+#SERVICE 5002:0:1:49ab:e62:6264:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f98487036af340008da1e37-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
+#DESCRIPTION Pluto TV Paranormal
+#SERVICE 5002:0:1:fd9a:dd5c:5cb6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/617aad99b68ef100072608cd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Mystery
+#DESCRIPTION Pluto TV Mystery
+#SERVICE 5002:0:1:d690:d609:9e4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/642d7e029189ce0008958af5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:X-Factor%3a Das Unfassbare
+#DESCRIPTION X-Factor: Das Unfassbare
+#SERVICE 5002:0:1:2e1e:d064:6435:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a0b2aff4cf470007e47e29-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fluss-Monster
+#DESCRIPTION Fluss-Monster
 #SERVICE 5002:0:1:ec5b:50d9:d94b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5db6a697d5f34a000934cd13-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Catfish TV Show
 #DESCRIPTION MTV Catfish TV Show
 #SERVICE 5002:0:1:64dc:c882:826e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6407347ccb41a40008e73383-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IIS – Die Idil und Ingmar Show
@@ -1885,10 +1877,12 @@
 #DESCRIPTION Pluto TV Biografie
 #SERVICE 5002:0:1:4d12:911e:1e33:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60080e8a4bf36000076a81b1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:N24 Doku
 #DESCRIPTION N24 Doku
-#SERVICE 5002:0:1:c2ef:2634:34fa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d00e86bf0bac55fe7f75736-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV The Hills
-#DESCRIPTION MTV The Hills
+#SERVICE 5002:0:1:41b8:97ea:ea4f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/650adc5e473a54000846cbf6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV The Challenge
+#DESCRIPTION MTV The Challenge
 #SERVICE 5002:0:1:c204:5f0d:ded:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6447dea7e94c380008dba94c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Germany Shore
 #DESCRIPTION Germany Shore
+#SERVICE 5002:0:1:c2ef:2634:34fa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d00e86bf0bac55fe7f75736-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV The Hills
+#DESCRIPTION MTV The Hills
 #SERVICE 5002:0:1:48d7:48f0:f063:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64be826b0e086a0009d95779-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dating Naked
 #DESCRIPTION Dating Naked
 #SERVICE 5002:0:1:aacb:199c:9ccf:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6447de7bd3fdde0008f1ef98-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jersey Shore
@@ -1915,10 +1909,10 @@
 #DESCRIPTION The Pet Collective
 #SERVICE 5002:0:1:1888:c932:32db:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b9c3339f5db20007ff4867-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Pets
 #DESCRIPTION Pluto TV Pets
-#SERVICE 5002:0:1:bab9:d06e:6e5e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f9847fd513250000728a9a5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Ridiculousness
-#DESCRIPTION MTV Ridiculousness
 #SERVICE 5002:0:1:b639:8f34:3453:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60db2e7a62df960007a9b6b1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just for Laughs
 #DESCRIPTION Just for Laughs
+#SERVICE 5002:0:1:bab9:d06e:6e5e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f9847fd513250000728a9a5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Ridiculousness
+#DESCRIPTION MTV Ridiculousness
 #SERVICE 5002:0:1:6b8d:d281:8188:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61b33085897b9d000702b72e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just.fishing
 #DESCRIPTION Just.fishing
 #SERVICE 5002:0:1:6b1e:2675:758b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dc280c9aa218c0009724b4b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Food
@@ -1955,6 +1949,12 @@
 #DESCRIPTION Teen Nick
 #SERVICE 5002:0:1:ad39:c408:84e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5d6792bd6be2998ad0ccce30-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Totally Turtles
 #DESCRIPTION Totally Turtles
+#SERVICE 5002:0:1:6761:f564:6416:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f4796368174910007756454-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Emma, einfach magisch!
+#DESCRIPTION Emma, einfach magisch!
+#SERVICE 5002:0:1:4cb:5c21:2103:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63905bf62892fc0007b5ba7b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Voll Vergeistert
+#DESCRIPTION Voll Vergeistert
+#SERVICE 5002:0:1:7688:818e:8eb6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63d9107e60bc8f0008a1d9ed-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Das Geheimnis der Hunters
+#DESCRIPTION Das Geheimnis der Hunters
 #SERVICE 5002:0:1:21c3:a0df:df47:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/643683519b32b400094e0a40-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Transformers TV
 #DESCRIPTION Transformers TV
 #SERVICE 5002:0:1:c4fc:164e:4e7b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/627d2d1d05e09f00073ccdff-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Willkommen bei den Louds
@@ -1973,6 +1973,8 @@
 #DESCRIPTION Nick Ukraine
 #SERVICE 5002:0:1:2f17:fcbd:bd96:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dbc2d1ce10f0b0009e6cf9e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inspector Gadget
 #DESCRIPTION Inspector Gadget
+#SERVICE 5002:0:1:8dff:8585:85c9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dbc327d0451770009ed7577-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Simsalabim Sabrina
+#DESCRIPTION Simsalabim Sabrina
 #SERVICE 5002:0:1:bfd4:bd7f:7f7e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5e8b551ddcd25500072c4dad-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beyblade Burst
 #DESCRIPTION Beyblade Burst
 #SERVICE 5002:0:1:7fb4:80e5:e52a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ad9b648e738977e2c312131-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kids
@@ -2517,6 +2519,8 @@
 #DESCRIPTION Telefe Hits
 #SERVICE 5002:0:1:7a89:2a92:9288:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gran Hermano Chile
 #DESCRIPTION Gran Hermano Chile
+#SERVICE 5002:0:1:47c6:fd26:26eb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chilevision Contigo
+#DESCRIPTION Chilevision Contigo
 #SERVICE 5002:0:1:460:4f36:3623:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Viajes
 #DESCRIPTION Pluto TV Viajes
 #SERVICE 5002:0:1:e456:3047:4704:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Hogar
@@ -2837,8 +2841,8 @@
 #DESCRIPTION Telefe Hits
 #SERVICE 5002:0:1:7a89:d051:519f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/645505747cb4b10008492e03-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gran Hermano Chile
 #DESCRIPTION Gran Hermano Chile
-#SERVICE 5002:0:1:f814:a26d:6db4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chilevision Contigo Puro Oro
-#DESCRIPTION Chilevision Contigo Puro Oro
+#SERVICE 5002:0:1:47c6:d012:1279:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62aa5740a47b6c000769f407-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chilevision Contigo
+#DESCRIPTION Chilevision Contigo
 #SERVICE 5002:0:1:460:7b20:20f3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dcddfbdb7cf0e0009ae09ea-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Viajes
 #DESCRIPTION Pluto TV Viajes
 #SERVICE 5002:0:1:e456:685d:5ded:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5dd6ab8056beb000091fc6b6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Hogar
@@ -2935,10 +2939,12 @@
 #DESCRIPTION France
 #SERVICE 5002:0:1:4d2f:f028:2829:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c1093824ade50008bd117f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
 #DESCRIPTION Top Gear
-#SERVICE 5002:0:1:f320:ef68:6883:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62f3eeabf328e00007e7fb66-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Montreux Comedy
-#DESCRIPTION Montreux Comedy
-#SERVICE 5002:0:1:579a:aad7:d7f2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/65080a8798020f00085b501e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park Halloween
-#DESCRIPTION South Park Halloween
+#SERVICE 5002:0:1:54d3:383a:3aaa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64bab8ba5dc1660008969b5a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Adjugé, vendu
+#DESCRIPTION Adjugé, vendu
+#SERVICE 5002:0:1:b56a:75f3:f348:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/65251c3a9c7aeb00083741c9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Téléfilms de Noël by Pluto TV
+#DESCRIPTION Téléfilms de Noël by Pluto TV
+#SERVICE 5002:0:1:9fd5:8359:5911:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/639b54404cfdf7000729b3c1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:INA 70
+#DESCRIPTION INA 70
 #SERVICE 5002:0:1:eaa1:2787:87a9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62f3e4bc08f5ec000744f552-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Alerte Cobra
 #DESCRIPTION Alerte Cobra
 #SERVICE 5002:0:1:9e00:9da7:a7e4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60afa749ac7f3200078adb40-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Walker Texas Ranger
@@ -3037,8 +3043,6 @@
 #DESCRIPTION Detective Conan
 #SERVICE 5002:0:1:cd4f:b1df:dfe9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/611e75226b7f420007c3f319-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Inazuma Eleven
 #DESCRIPTION Inazuma Eleven
-#SERVICE 5002:0:1:1b9f:57c8:c8ca:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f8ed52a62fa750007733239-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Animé All Day
-#DESCRIPTION Pluto TV Animé All Day
 #SERVICE 5002:0:1:9c11:4715:153d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/611e6a9b4bb5790007a6f0f8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Retro Toons
 #DESCRIPTION Pluto TV Retro Toons
 #SERVICE 5002:0:1:28af:fb6e:6e0a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f8eccd81062c300078a11df-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Gaming TV
@@ -3081,8 +3085,6 @@
 #DESCRIPTION Are You The One?
 #SERVICE 5002:0:1:3d3d:41ef:efb2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/602cf8963b4bc90007454541-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CRIBS MAISONS DE STAR
 #DESCRIPTION CRIBS MAISONS DE STAR
-#SERVICE 5002:0:1:f4f5:ffdb:db0f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f8eb71a26ed8300076433f9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MADE TV
-#DESCRIPTION MADE TV
 #SERVICE 5002:0:1:345b:881d:1daa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62f3e6aebcdda4000754fa47-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Toute une histoire
 #DESCRIPTION Toute une histoire
 #SERVICE 5002:0:1:2b65:673c:3c5d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/612e044c970e6f00083bcf3b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Y'a que la vérité qui compte
@@ -3095,8 +3097,6 @@
 #DESCRIPTION Masterchef
 #SERVICE 5002:0:1:5fe7:9559:592d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f92b5ba040eaa0007074d0a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BET CLASSICS Pluto TV
 #DESCRIPTION BET CLASSICS Pluto TV
-#SERVICE 5002:0:1:40aa:6bf3:f363:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/627b70387ccdc400074e2715-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
-#DESCRIPTION Fashion TV
 #SERVICE 5002:0:1:3f77:5e3c:3c93:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62729857ba845f00071d80b1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chefclub
 #DESCRIPTION Chefclub
 #SERVICE 5002:0:1:2ad4:b5e1:e19f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5ffc8c345822750007e167de-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bob l'éponge
@@ -3157,16 +3157,12 @@
 #DESCRIPTION Pluto TV Classic Rock
 #SERVICE 5002:0:1:44c6:f02e:2e2a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60c8b57beef158000787ac19-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV K-Pop
 #DESCRIPTION Pluto TV K-Pop
-#SERVICE 5002:0:1:a352:c68f:8f1b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6080411af03506000759916e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Concert
-#DESCRIPTION Pluto TV Concert
 #SERVICE 5002:0:1:beb4:7feb:ebb8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619b80acac5329000740c022-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Love Songs
 #DESCRIPTION Pluto TV Love Songs
 #SERVICE 5002:0:1:1ddb:2228:2875:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/600ad8f86e1eba00081da3ce-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
 #DESCRIPTION Clubbing TV
 #SERVICE 5002:0:1:b48f:3ec2:c2c5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6267dc92cc905f00087ee623-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Stingray Classica
 #DESCRIPTION Stingray Classica
-#SERVICE 5002:0:1:706a:1b97:9711:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60db3aef7b85d300073db507-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest TV
-#DESCRIPTION Qwest TV
 #SERVICE 5002:0:1:1e60:4805:501:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6081310e48d3200007afaf3b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sports
 #DESCRIPTION Pluto TV Sports
 #SERVICE 5002:0:1:ed29:7280:8063:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/5f8ed327f9e9b0000761141e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Extrême
@@ -3175,8 +3171,8 @@
 #DESCRIPTION Pluto TV Motor
 #SERVICE 5002:0:1:2681:8e93:938f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c3b0bf0e086a0009e8a60d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten Sports
 #DESCRIPTION Unbeaten Sports
-#SERVICE 5002:0:1:d781:12db:dba2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a28480aab9ce0008cff2da-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women’s Football
-#DESCRIPTION DAZN Women’s Football
+#SERVICE 5002:0:1:679c:460:601b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a28480aab9ce0008cff2da-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women's Football
+#DESCRIPTION DAZN Women's Football
 #SERVICE 5002:0:1:20b0:7474:7484:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60817e1aa6997500072d0d6d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision
 #DESCRIPTION Motorvision
 #SERVICE 5002:0:1:64be:259d:9d93:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60f165cd4e33aa0007481782-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FUEL TV
@@ -3197,8 +3193,18 @@
 #DESCRIPTION Chilevision Noticias
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Italy
 #DESCRIPTION Italy
-#SERVICE 5002:0:1:4d2f:55ca:cade:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c109a4798def0008a6e03e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
-#DESCRIPTION Top Gear
+#SERVICE 5002:0:1:c40a:59e1:e117:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/612ce0ead825b300078b7082-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super! Natale
+#DESCRIPTION Super! Natale
+#SERVICE 5002:0:1:cfbc:c38a:8ab8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e8e137865c590007ecae3c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1+ Christmas
+#DESCRIPTION VH1+ Christmas
+#SERVICE 5002:0:1:3835:4cba:ba05:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64ec5c6644fe100009d114ae-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Affare Fatto
+#DESCRIPTION Affare Fatto
+#SERVICE 5002:0:1:7ca:2e6a:6ac7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/626baa721c279b00072cbedd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:#Riccanza
+#DESCRIPTION #Riccanza
+#SERVICE 5002:0:1:d024:2288:88c6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6304ed62410a4c00083c0291-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super! Zoey 101
+#DESCRIPTION Super! Zoey 101
+#SERVICE 5002:0:1:9933:5e0e:e11:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64fee60130ab3300084d9157-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Musketeers
+#DESCRIPTION The Musketeers
 #SERVICE 5002:0:1:1c26:6897:9788:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/612e05b885183d0007958101-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Christmas
 #DESCRIPTION Pluto TV Christmas
 #SERVICE 5002:0:1:e44a:108c:8c21:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6385eb5588399a000759ef45-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Il mio amico Arnold
@@ -3275,24 +3281,38 @@
 #DESCRIPTION Il Testimone
 #SERVICE 5002:0:1:ffca:4488:88f6:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62618478b389bb0007b24c12-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just Tattoo of Us
 #DESCRIPTION Just Tattoo of Us
-#SERVICE 5002:0:1:fc70:732b:2b03:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/636a4eaf77279a0007f14861-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pimp My Ride
-#DESCRIPTION Pimp My Ride
 #SERVICE 5002:0:1:9e42:7154:54df:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/626bb07a58b8dd0007e9f36e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Case Pazzesche
 #DESCRIPTION Case Pazzesche
 #SERVICE 5002:0:1:bb8b:3208:84b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619263ee9541940007d20d60-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Geordie Shore
 #DESCRIPTION Geordie Shore
-#SERVICE 5002:0:1:aacb:b594:9416:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63eb5767da71180008ace8fc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jersey Shore
-#DESCRIPTION Jersey Shore
 #SERVICE 5002:0:1:d3ef:c345:45c8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60940ebad67fd900072382db-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ex On The Beach
 #DESCRIPTION Ex On The Beach
+#SERVICE 5002:0:1:38c3:8b4d:4d34:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6466007181844c000967f80a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Hills
+#DESCRIPTION The Hills
 #SERVICE 5002:0:1:7967:b6bd:bdd8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61925f874b1ec000075e700a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Reality
 #DESCRIPTION Pluto TV Reality
 #SERVICE 5002:0:1:9f4d:cf57:57b2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60940a07d88ba90007b9cb71-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:16 Anni e Incinta
 #DESCRIPTION 16 Anni e Incinta
 #SERVICE 5002:0:1:1ea6:9df2:f285:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e7fc8c0d061100083946a9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teen Mom
 #DESCRIPTION Teen Mom
-#SERVICE 5002:0:1:38c3:8b4d:4d34:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6466007181844c000967f80a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Hills
-#DESCRIPTION The Hills
+#SERVICE 5002:0:1:aacb:b594:9416:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63eb5767da71180008ace8fc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jersey Shore
+#DESCRIPTION Jersey Shore
+#SERVICE 5002:0:1:4d2f:55ca:cade:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c109a4798def0008a6e03e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
+#DESCRIPTION Top Gear
+#SERVICE 5002:0:1:fc70:732b:2b03:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/636a4eaf77279a0007f14861-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pimp My Ride
+#DESCRIPTION Pimp My Ride
+#SERVICE 5002:0:1:b853:aa04:4a9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608016e446d73500075ea7e0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 5002:0:1:c872:8d0d:daa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63eb58aa60bc8f0008caa8f8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Boat Show
+#DESCRIPTION The Boat Show
+#SERVICE 5002:0:1:2681:afc5:c57b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c3b106dac71b00080a26d2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten Sports
+#DESCRIPTION Unbeaten Sports
+#SERVICE 5002:0:1:64be:5f20:204f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60b9dbea1f19550007dd0dfa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FUEL TV
+#DESCRIPTION FUEL TV
+#SERVICE 5002:0:1:8cfd:6b61:61a1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608015ea48a6e800076f0f2f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IGN
+#DESCRIPTION IGN
+#SERVICE 5002:0:1:40c1:891f:1fcd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608030eff4b6f70007e1684c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sport
+#DESCRIPTION Pluto TV Sport
 #SERVICE 5002:0:1:dece:695f:5f07:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61fbd721e5b49e00079bfedc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ridiculousness
 #DESCRIPTION Ridiculousness
 #SERVICE 5002:0:1:4f54:5f40:40af:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/609404b0a8ec810007d8de9d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scherzi e risate
@@ -3347,10 +3367,6 @@
 #DESCRIPTION Super! Risate
 #SERVICE 5002:0:1:c125:bf95:9587:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61925ea79541940007d20881-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super! Brothers and Sisters
 #DESCRIPTION Super! Brothers and Sisters
-#SERVICE 5002:0:1:f41e:9976:762a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e8d22424f1bd0007a5f387-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Super! Halloween
-#DESCRIPTION Super! Halloween
-#SERVICE 5002:0:1:153c:370e:e97:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/639b4e5373423d00071ce330-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1+ Halloween
-#DESCRIPTION VH1+ Halloween
 #SERVICE 5002:0:1:bf4d:ebac:aca3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e8cc10ca869f00078efca8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1+ Music Legends
 #DESCRIPTION VH1+ Music Legends
 #SERVICE 5002:0:1:e59:8fd9:d95f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/636a4173e34fd50007534542-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1+ Rock!
@@ -3361,8 +3377,6 @@
 #DESCRIPTION VH1+ Hip Hop & Rap
 #SERVICE 5002:0:1:610b:195f:5fb5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61cd822216e2fd00086d0aeb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:VH1+
 #DESCRIPTION VH1+
-#SERVICE 5002:0:1:706a:e2e7:e77c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60db3bbd9397a00007ab029a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Qwest TV
-#DESCRIPTION Qwest TV
 #SERVICE 5002:0:1:d433:1bb2:b299:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6278ec6c33d85a00077ad814-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Deluxe Lounge HD
 #DESCRIPTION Deluxe Lounge HD
 #SERVICE 5002:0:1:1ddb:568:682b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60802de3fd2d70000763bb83-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Clubbing TV
@@ -3377,24 +3391,10 @@
 #DESCRIPTION Telefe Noticias
 #SERVICE 5002:0:1:d588:f16b:6b62:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/627d16b55b43690007badae0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chilevision Noticias
 #DESCRIPTION Chilevision Noticias
-#SERVICE 5002:0:1:b853:aa04:4a9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608016e446d73500075ea7e0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
-#DESCRIPTION World Poker Tour
-#SERVICE 5002:0:1:c872:8d0d:daa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63eb58aa60bc8f0008caa8f8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Boat Show
-#DESCRIPTION The Boat Show
-#SERVICE 5002:0:1:40c1:891f:1fcd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608030eff4b6f70007e1684c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sport
-#DESCRIPTION Pluto TV Sport
-#SERVICE 5002:0:1:2681:afc5:c57b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64c3b106dac71b00080a26d2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten Sports
-#DESCRIPTION Unbeaten Sports
-#SERVICE 5002:0:1:64be:5f20:204f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60b9dbea1f19550007dd0dfa-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FUEL TV
-#DESCRIPTION FUEL TV
-#SERVICE 5002:0:1:8cfd:6b61:61a1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608015ea48a6e800076f0f2f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IGN
-#DESCRIPTION IGN
 #SERVICE 5002:0:1:85d9:74fb:fb76:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/608aa718a8ec810007d87fee-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Cucina
 #DESCRIPTION Pluto TV Cucina
 #SERVICE 5002:0:1:c2f5:2ec2:c290:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60801976f92a750007a0699c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Real Life
 #DESCRIPTION Pluto TV Real Life
-#SERVICE 5002:0:1:40aa:7dd2:d261:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60c88130ab4a9800074e5f87-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fashion TV
-#DESCRIPTION Fashion TV
 #SERVICE 5002:0:1:4011:dcd9:d9a0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/610a9ebe8c2ac2000734776e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Naturescape
 #DESCRIPTION Naturescape
 #SERVICE 5002:0:1:8322:f9e2:e213:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/60802b37709d6b0007b0c549-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Natura
@@ -3405,32 +3405,10 @@
 #DESCRIPTION Pluto TV Viaggi
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Norway
 #DESCRIPTION Norway
-#SERVICE 5002:0:1:f54d:a7da:da93:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a19cb7847a090007f230d7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
-#DESCRIPTION Pluto TV Horror
-#SERVICE 5002:0:1:bf9:64a1:a1b4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e74354d923000731bf7c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Overnaturlig
-#DESCRIPTION Pluto TV Overnaturlig
-#SERVICE 5002:0:1:579a:54d6:d60f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501c7ea9201e80008bb17b9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park Halloween
-#DESCRIPTION South Park Halloween
-#SERVICE 5002:0:1:3825:380:80df:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63047aae02ed700008d61793-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Halloween for barn
-#DESCRIPTION Pluto TV Halloween for barn
+#SERVICE 5002:0:1:5848:6b59:59a9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/651c22a2a1217e0009435108-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:See Dad Run
+#DESCRIPTION See Dad Run
 #SERVICE 5002:0:1:38e1:b104:4bb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64885ab54cfc2c0008bc3c63-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bubble Guppies
 #DESCRIPTION Bubble Guppies
-#SERVICE 5002:0:1:a7c1:c559:598e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64df511a286f6b00082d9a23-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV EMA
-#DESCRIPTION MTV EMA
-#SERVICE 5002:0:1:4bc8:8b33:332d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6422d93bdbdaaa000858cd2d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
-#DESCRIPTION Yo! MTV Raps Classic
-#SERVICE 5002:0:1:d1a6:602e:2edd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64eca23c9c1e390008524ae6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nordisk krim fra Viaplay
-#DESCRIPTION Nordisk krim fra Viaplay
-#SERVICE 5002:0:1:4f66:71de:de01:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62beb2e62bb1570007c40012-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beverly Hills 90210
-#DESCRIPTION Beverly Hills 90210
-#SERVICE 5002:0:1:4d2f:b7c:7c44:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6202357dea93940007d723ca-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
-#DESCRIPTION Top Gear
-#SERVICE 5002:0:1:2a1b:42d2:d223:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e770b444fe100009c891b9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trucking Hell
-#DESCRIPTION Trucking Hell
-#SERVICE 5002:0:1:264e:6a52:5261:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e7708a44fe100009c89007-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoarders & Dirty Home Rescue
-#DESCRIPTION Hoarders & Dirty Home Rescue
-#SERVICE 5002:0:1:ca6c:6875:7515:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e770614c5ed800081225c4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casualty 24/7
-#DESCRIPTION Casualty 24/7
 #SERVICE 5002:0:1:6d1b:3193:93ec:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/632afc466699570007ed1106-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best of MTV
 #DESCRIPTION Best of MTV
 #SERVICE 5002:0:1:5a48:4023:2307:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61781a52a3638a00078fa57e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Catfish
@@ -3465,8 +3443,8 @@
 #DESCRIPTION NCIS
 #SERVICE 5002:0:1:697b:95f2:f207:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6426900ea3ade70008ffcb20-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Scene Solvers
 #DESCRIPTION Crime Scene Solvers
-#SERVICE 5002:0:1:232c:22fc:fc07:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a1a109d2583200073fc65e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a NY
-#DESCRIPTION CSI: NY
+#SERVICE 5002:0:1:d1a6:602e:2edd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64eca23c9c1e390008524ae6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nordisk krim fra Viaplay
+#DESCRIPTION Nordisk krim fra Viaplay
 #SERVICE 5002:0:1:bde2:3f57:57a7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a1c959d9dd51000825d659-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scorpion
 #DESCRIPTION Scorpion
 #SERVICE 5002:0:1:4ec6:18e:8e8f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cd9f1cda044a00077b8f41-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:On the Case
@@ -3481,6 +3459,8 @@
 #DESCRIPTION FBI Files
 #SERVICE 5002:0:1:9a28:1916:1607:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6181511c1e13690007b143c2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The New Detectives
 #DESCRIPTION The New Detectives
+#SERVICE 5002:0:1:4f66:71de:de01:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62beb2e62bb1570007c40012-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beverly Hills 90210
+#DESCRIPTION Beverly Hills 90210
 #SERVICE 5002:0:1:d0ed:939b:9b3a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63dbe78051f5d000083e9249-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Numb3rs/Shooter
 #DESCRIPTION Numb3rs/Shooter
 #SERVICE 5002:0:1:1d83:511f:1fcc:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/639b4eb4da3fda0008036f6e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mission Impossible
@@ -3499,6 +3479,8 @@
 #DESCRIPTION Dawson's Creek
 #SERVICE 5002:0:1:e2b7:b7d:7d90:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1ddbd0b90cb0007e20d2f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Awkward
 #DESCRIPTION Awkward
+#SERVICE 5002:0:1:4d2f:b7c:7c44:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6202357dea93940007d723ca-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
+#DESCRIPTION Top Gear
 #SERVICE 5002:0:1:42fc:cb53:534b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501ad3a98020f0008503dba-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hundehviskeren
 #DESCRIPTION Hundehviskeren
 #SERVICE 5002:0:1:c56a:25bb:bb11:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62022f7b9fcc3800076f8c26-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hell's Kitchen
@@ -3529,8 +3511,6 @@
 #DESCRIPTION Just for Laughs
 #SERVICE 5002:0:1:4491:c663:63c9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61781077929e930007c194ee-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FailArmy
 #DESCRIPTION FailArmy
-#SERVICE 5002:0:1:1715:e4bd:bd13:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6400c228498393000878a9b7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Trek Movies
-#DESCRIPTION Star Trek Movies
 #SERVICE 5002:0:1:1e0f:ec2e:2e3a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1db0391ddd400073badc5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Star Trek
 #DESCRIPTION Pluto TV Star Trek
 #SERVICE 5002:0:1:c0ed:72a9:a90c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61f957e051cca800076f2358-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
@@ -3553,6 +3533,10 @@
 #DESCRIPTION Forsidefruer
 #SERVICE 5002:0:1:edfd:d6f9:f96a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6464cd7c7cb4b100086c71c9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Next Top Model
 #DESCRIPTION America's Next Top Model
+#SERVICE 5002:0:1:ca6c:6875:7515:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e770614c5ed800081225c4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casualty 24/7
+#DESCRIPTION Casualty 24/7
+#SERVICE 5002:0:1:2a1b:42d2:d223:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e770b444fe100009c891b9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trucking Hell
+#DESCRIPTION Trucking Hell
 #SERVICE 5002:0:1:6588:59dd:dd1c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6440f6e25a0cd500083b1ca4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World of Love Island
 #DESCRIPTION World of Love Island
 #SERVICE 5002:0:1:5672:b005:572:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e1c445b45d0007aad03e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unga Mammor
@@ -3577,6 +3561,8 @@
 #DESCRIPTION Zoey 101
 #SERVICE 5002:0:1:b404:7614:14c2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619e22d81782bd00077f0dbd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Fishing
 #DESCRIPTION Pluto TV Fishing
+#SERVICE 5002:0:1:aef7:197:97ec:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a1ad50f0c55e0007bea864-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bridezillas
+#DESCRIPTION Bridezillas
 #SERVICE 5002:0:1:f79c:b3fd:fd71:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e7ba25be69bc0007b77fdc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jakt är Jakt
 #DESCRIPTION Jakt är Jakt
 #SERVICE 5002:0:1:e7f9:79ad:adac:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c6b0b7a076d20007179b57-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Herlige Hjem
@@ -3591,6 +3577,8 @@
 #DESCRIPTION Luksusfellen Sverige
 #SERVICE 5002:0:1:7b51:c31d:1dff:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1dc21b9587d0007e3fc15-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boligjakten
 #DESCRIPTION Boligjakten
+#SERVICE 5002:0:1:264e:6a52:5261:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e7708a44fe100009c89007-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoarders & Dirty Home Rescue
+#DESCRIPTION Hoarders & Dirty Home Rescue
 #SERVICE 5002:0:1:87ae:2138:3893:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62bd980bc23b400008af5a66-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The F Word
 #DESCRIPTION The F Word
 #SERVICE 5002:0:1:38ab:b3d7:d75c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c95451d3485c0007734f55-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tareq Taylor's Nordic Cookery
@@ -3617,12 +3605,16 @@
 #DESCRIPTION Unsolved Mysteries
 #SERVICE 5002:0:1:fbc:9065:6579:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619e259fd8b672000729b1d7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Dimension
 #DESCRIPTION Ghost Dimension
+#SERVICE 5002:0:1:bf9:64a1:a1b4:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e74354d923000731bf7c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Overnaturlig
+#DESCRIPTION Pluto TV Overnaturlig
 #SERVICE 5002:0:1:d4f6:de51:5120:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62beb44e3afd120007915d1b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Viafree Movies
 #DESCRIPTION Viafree Movies
 #SERVICE 5002:0:1:94d8:bf08:8a7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e1e55deef000075aed0c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Film
 #DESCRIPTION Pluto TV Film
 #SERVICE 5002:0:1:5ddb:1ecd:cdd8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e270489a9c000874d209-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Action
 #DESCRIPTION Pluto TV Action
+#SERVICE 5002:0:1:f54d:a7da:da93:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a19cb7847a090007f230d7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
 #SERVICE 5002:0:1:c58c:d310:10f5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e30f738ecd0008825184-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Spenning
 #DESCRIPTION Pluto TV Spenning
 #SERVICE 5002:0:1:8c04:2d7a:7aa2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1e3a679a4390007c78136-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Komedie
@@ -3637,8 +3629,8 @@
 #DESCRIPTION Motorvision
 #SERVICE 5002:0:1:2681:b830:304b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64773837f77b6100081236a8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten Sports
 #DESCRIPTION Unbeaten Sports
-#SERVICE 5002:0:1:d781:dabf:bf52:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a28340d609b60008ca11a8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women’s Football
-#DESCRIPTION DAZN Women’s Football
+#SERVICE 5002:0:1:679c:bc22:2249:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a28340d609b60008ca11a8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women's Football
+#DESCRIPTION DAZN Women's Football
 #SERVICE 5002:0:1:8cfd:4913:13f7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61781192c87e820007beb3a3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:IGN
 #DESCRIPTION IGN
 #SERVICE 5002:0:1:792b:dee:ee85:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62792d003b8ddc000714f43a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bellator MMA
@@ -3653,6 +3645,8 @@
 #DESCRIPTION World Poker Tour
 #SERVICE 5002:0:1:2fdc:bbc3:c3fa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61eed3a470add10007be73fe-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MinecrafTV
 #DESCRIPTION MinecrafTV
+#SERVICE 5002:0:1:4bc8:8b33:332d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6422d93bdbdaaa000858cd2d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
+#DESCRIPTION Yo! MTV Raps Classic
 #SERVICE 5002:0:1:ad1e:f5df:df97:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63da30b52e477400081ccdf1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Queens of Pop
 #DESCRIPTION MTV Queens of Pop
 #SERVICE 5002:0:1:c0:c92f:2fce:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6492e7e4d2c47c0008432967-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Summer Hits
@@ -3707,34 +3701,12 @@
 #DESCRIPTION Familien Thunderman
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Sweden
 #DESCRIPTION Sweden
-#SERVICE 5002:0:1:f54d:1594:9402:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a19e1b9ab2df0007bef7a7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
-#DESCRIPTION Pluto TV Horror
-#SERVICE 5002:0:1:49ab:c830:302d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b1e4189f5db20007ff03be-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
-#DESCRIPTION Pluto TV Paranormal
-#SERVICE 5002:0:1:579a:7763:633c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501c86dbd341e000829a1cc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park Halloween
-#DESCRIPTION South Park Halloween
-#SERVICE 5002:0:1:b52c:3430:3004:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/630483e5c661f90007677fa2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Halloween för barn
-#DESCRIPTION Pluto TV Halloween för barn
 #SERVICE 5002:0:1:d5ed:431b:1b1f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6523b53b1ad91d00089b3273-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:How to use Pluto TV
 #DESCRIPTION How to use Pluto TV
+#SERVICE 5002:0:1:5848:547c:7cd8:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/651c238e662551000808e2c1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:See Dad Run
+#DESCRIPTION See Dad Run
 #SERVICE 5002:0:1:38e1:6b97:978f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c6aa224faf1c0007b4b45b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bubble Guppies
 #DESCRIPTION Bubble Guppies
-#SERVICE 5002:0:1:a7c1:37a:7ab3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64df50f6286f6b00082d9a03-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV EMA
-#DESCRIPTION MTV EMA
-#SERVICE 5002:0:1:4bc8:add3:d3aa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6422d8c5a3ade70008f519de-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
-#DESCRIPTION Yo! MTV Raps Classic
-#SERVICE 5002:0:1:6e7f:58d8:d88e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501ae4998020f00085040ed-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mannen som talar med hundar
-#DESCRIPTION Mannen som talar med hundar
-#SERVICE 5002:0:1:4f66:4c:4cf0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62beb5903279cb000773500f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beverly Hills 90210
-#DESCRIPTION Beverly Hills 90210
-#SERVICE 5002:0:1:33db:9bb9:b9b5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/646ce0e2e1979c0008983939-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Efterlyst
-#DESCRIPTION Efterlyst
-#SERVICE 5002:0:1:264e:ea41:41f9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e771ac9b414d000841080c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoarders & Dirty Home Rescue
-#DESCRIPTION Hoarders & Dirty Home Rescue
-#SERVICE 5002:0:1:ca6c:a111:11b1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e771819c1e39000848df0c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casualty 24/7
-#DESCRIPTION Casualty 24/7
-#SERVICE 5002:0:1:2a1b:a887:8719:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e771cc28cec7000889ce39-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trucking Hell
-#DESCRIPTION Trucking Hell
 #SERVICE 5002:0:1:4d2f:c93a:3aa0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/620239894757070008d4812d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
 #DESCRIPTION Top Gear
 #SERVICE 5002:0:1:c4bf:2aed:ed20:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c0b627e3ed94000793c18a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park
@@ -3743,8 +3715,6 @@
 #DESCRIPTION Antiques Road Trip
 #SERVICE 5002:0:1:fafe:acc1:c138:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62da7380478a5b0007e610d9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Auction Hunters
 #DESCRIPTION Auction Hunters
-#SERVICE 5002:0:1:cf2e:3067:6795:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c192c1c547920007dbb148-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Undercover Boss USA
-#DESCRIPTION Undercover Boss USA
 #SERVICE 5002:0:1:eb8a:399c:9c74:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c18e1e0cd4cc00076bc4b3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paradise Hotel
 #DESCRIPTION Paradise Hotel
 #SERVICE 5002:0:1:9694:3c62:62e7:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6380c73f76e43f000721f73b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Paradise
@@ -3755,8 +3725,6 @@
 #DESCRIPTION Lyxfällan Danmark
 #SERVICE 5002:0:1:edfd:eed2:d243:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6464cdcaee6a2f000822a7a8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:America's Next Top Model
 #DESCRIPTION America's Next Top Model
-#SERVICE 5002:0:1:9e54:586e:6e9c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1921610d254000727eebd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Svenska Hollywoodfruar
-#DESCRIPTION Svenska Hollywoodfruar
 #SERVICE 5002:0:1:ed63:dd4b:4b5d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/643808dce0789d00084797f6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Skönhetsfällan Danmark
 #DESCRIPTION Skönhetsfällan Danmark
 #SERVICE 5002:0:1:6588:51da:da48:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6440f73ee94c380008ccddc8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World of Love Island
@@ -3777,6 +3745,10 @@
 #DESCRIPTION Judge Judy
 #SERVICE 5002:0:1:54cb:a071:7193:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6464cc01e1979c000889570b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Survivor
 #DESCRIPTION Survivor
+#SERVICE 5002:0:1:ca6c:a111:11b1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e771819c1e39000848df0c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casualty 24/7
+#DESCRIPTION Casualty 24/7
+#SERVICE 5002:0:1:2a1b:a887:8719:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e771cc28cec7000889ce39-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trucking Hell
+#DESCRIPTION Trucking Hell
 #SERVICE 5002:0:1:6d1b:bffa:facd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/632afdf820e83e000710ea12-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best of MTV
 #DESCRIPTION Best of MTV
 #SERVICE 5002:0:1:5a48:aadd:dd09:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61780d4267bf4d00077ddd73-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Catfish
@@ -3813,12 +3785,18 @@
 #DESCRIPTION Svenska Truckers
 #SERVICE 5002:0:1:89af:ecae:ae7c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cdaef300a4b3000739b1bf-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ice Pilots
 #DESCRIPTION Ice Pilots
+#SERVICE 5002:0:1:aef7:af88:887f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a1adeb021d970007388221-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bridezillas
+#DESCRIPTION Bridezillas
 #SERVICE 5002:0:1:e7f9:fc0f:f4d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c6b11dd3485c00076c9717-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Herlige Hjem
 #DESCRIPTION Herlige Hjem
 #SERVICE 5002:0:1:598:164:64d3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/630483153a21200007f1920f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Best of The Drew Barrymore Show
 #DESCRIPTION Best of The Drew Barrymore Show
 #SERVICE 5002:0:1:f79c:35d0:d037:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62e7babea3e6270007f5564a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Jakt är Jakt
 #DESCRIPTION Jakt är Jakt
+#SERVICE 5002:0:1:6e7f:58d8:d88e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501ae4998020f00085040ed-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mannen som talar med hundar
+#DESCRIPTION Mannen som talar med hundar
+#SERVICE 5002:0:1:264e:ea41:41f9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e771ac9b414d000841080c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoarders & Dirty Home Rescue
+#DESCRIPTION Hoarders & Dirty Home Rescue
 #SERVICE 5002:0:1:388c:f302:273:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6391df52d146a40007c265f3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Nanny
 #DESCRIPTION The Nanny
 #SERVICE 5002:0:1:92e8:279f:9f72:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63e38ca4c111bc0008ee6023-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kungen Av Queens
@@ -3833,8 +3811,8 @@
 #DESCRIPTION Rules of Engagement
 #SERVICE 5002:0:1:f9ec:e7e0:e048:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6319dd88a7a76e00078a6bc4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NCIS
 #DESCRIPTION NCIS
-#SERVICE 5002:0:1:5540:9689:890d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a19f5f0847960007542b12-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:CSI%3a Miami
-#DESCRIPTION CSI: Miami
+#SERVICE 5002:0:1:4f66:4c:4cf0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62beb5903279cb000773500f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Beverly Hills 90210
+#DESCRIPTION Beverly Hills 90210
 #SERVICE 5002:0:1:d0ed:6ea9:a949:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63dbe8a1c111bc0008dec8b8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Numb3rs/Shooter
 #DESCRIPTION Numb3rs/Shooter
 #SERVICE 5002:0:1:bde2:8141:4142:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a1c9c2847a090007f248da-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Scorpion
@@ -3863,6 +3841,8 @@
 #DESCRIPTION True crime från Viaplay
 #SERVICE 5002:0:1:ab21:6b83:834f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c0b438244e50000758083b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV True Crime
 #DESCRIPTION Pluto TV True Crime
+#SERVICE 5002:0:1:33db:9bb9:b9b5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/646ce0e2e1979c0008983939-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Efterlyst
+#DESCRIPTION Efterlyst
 #SERVICE 5002:0:1:697b:dd2a:2a47:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64268f52b065d900085eb42b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Crime Scene Solvers
 #DESCRIPTION Crime Scene Solvers
 #SERVICE 5002:0:1:4ec6:758d:8dfd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cdad7b5c38c00007f566c2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:On the Case
@@ -3881,6 +3861,8 @@
 #DESCRIPTION Pluto TV Action
 #SERVICE 5002:0:1:a7a0:3841:414e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c0b36d18447e000717d686-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Komedi
 #DESCRIPTION Pluto TV Komedi
+#SERVICE 5002:0:1:f54d:1594:9402:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a19e1b9ab2df0007bef7a7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
 #SERVICE 5002:0:1:bbe2:5649:492f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63dbe8c8a9957100087798a3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kultfilmer
 #DESCRIPTION Pluto TV Kultfilmer
 #SERVICE 5002:0:1:f12c:4064:6462:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a19da6847a090007f230da-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Romantik
@@ -3905,8 +3887,6 @@
 #DESCRIPTION Just for Laughs
 #SERVICE 5002:0:1:66ef:93ed:ed8d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6458e7c32858cb0008e22e98-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Zoey 101
 #DESCRIPTION Zoey 101
-#SERVICE 5002:0:1:1715:5213:1341:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6400c2a6cb41a40008dbe5bc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Trek Movies
-#DESCRIPTION Star Trek Movies
 #SERVICE 5002:0:1:1e0f:b386:8650:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c18c7610d254000727eeb0-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Star Trek
 #DESCRIPTION Pluto TV Star Trek
 #SERVICE 5002:0:1:c0ed:37f:7f33:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61f9597e78607000074f6c2a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
@@ -3915,6 +3895,8 @@
 #DESCRIPTION Andromeda
 #SERVICE 5002:0:1:4a41:3655:5506:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6181498caf6afc0007de9e72-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
 #DESCRIPTION Unsolved Mysteries
+#SERVICE 5002:0:1:49ab:c830:302d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b1e4189f5db20007ff03be-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
+#DESCRIPTION Pluto TV Paranormal
 #SERVICE 5002:0:1:fbc:4ceb:ebe3:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619e4726b9997a00072a4059-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Dimension
 #DESCRIPTION Ghost Dimension
 #SERVICE 5002:0:1:faf3:4c98:9898:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b1e2498261390007f25c98-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Dokumentär
@@ -3927,8 +3909,8 @@
 #DESCRIPTION Nature Time
 #SERVICE 5002:0:1:40c1:2e48:4852:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62cd74e38f6f0d000798cd93-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sport
 #DESCRIPTION Pluto TV Sport
-#SERVICE 5002:0:1:d781:6fb1:b1ac:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a283c6aab9ce0008cff278-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women’s Football
-#DESCRIPTION DAZN Women’s Football
+#SERVICE 5002:0:1:679c:f6a4:a435:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a283c6aab9ce0008cff278-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women's Football
+#DESCRIPTION DAZN Women's Football
 #SERVICE 5002:0:1:2681:7a3f:3ff9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6477387b4f5ba500086f0649-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten Sports
 #DESCRIPTION Unbeaten Sports
 #SERVICE 5002:0:1:792b:6028:28b9:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62792dbd5e237b0007f84642-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bellator MMA
@@ -3955,6 +3937,8 @@
 #DESCRIPTION Hell's Kitchen
 #SERVICE 5002:0:1:87ae:c73c:3cdd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62bd9aaa58cb95000782075a-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The F Word
 #DESCRIPTION The F Word
+#SERVICE 5002:0:1:4bc8:add3:d3aa:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6422d8c5a3ade70008f519de-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
+#DESCRIPTION Yo! MTV Raps Classic
 #SERVICE 5002:0:1:c0:664e:4e7c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6492e8f04c014a0008394773-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Summer Hits
 #DESCRIPTION MTV Summer Hits
 #SERVICE 5002:0:1:ad1e:d7f:7fb5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63da31c1c111bc0008d920d6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Queens of Pop
@@ -4015,30 +3999,12 @@
 #DESCRIPTION Familjen Thunderman
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Denmark
 #DESCRIPTION Denmark
-#SERVICE 5002:0:1:f54d:b3f8:f844:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a1c9790cc44a0007dc8857-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
-#DESCRIPTION Pluto TV Horror
-#SERVICE 5002:0:1:49ab:487f:7f36:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b30beb81f89900071fc7b9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
-#DESCRIPTION Pluto TV Paranormal
-#SERVICE 5002:0:1:579a:16b1:b1e0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501c8c76625510008cbe20f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park Halloween
-#DESCRIPTION South Park Halloween
-#SERVICE 5002:0:1:bba8:29e8:e8fb:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63048082a6a2670007b842b3-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Halloween for børn
-#DESCRIPTION Pluto TV Halloween for børn
+#SERVICE 5002:0:1:d5ed:9705:595:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/652517826208700008c62fb7-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:How to use Pluto TV
+#DESCRIPTION How to use Pluto TV
+#SERVICE 5002:0:1:5848:5924:2451:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6512edd9473a540008599969-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:See Dad Run
+#DESCRIPTION See Dad Run
 #SERVICE 5002:0:1:38e1:8607:7db:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64885c128e3c0a0008eb46dd-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bubble Guppies
 #DESCRIPTION Bubble Guppies
-#SERVICE 5002:0:1:a7c1:6fd5:d5dd:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64df50c76b1fdb0008e24f65-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV EMA
-#DESCRIPTION MTV EMA
-#SERVICE 5002:0:1:4bc8:78c2:c28c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6448e7482858cb0008bed214-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
-#DESCRIPTION Yo! MTV Raps Classic
-#SERVICE 5002:0:1:42fc:34e2:e2a0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501af923a0d700008b71b53-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hundehviskeren
-#DESCRIPTION Hundehviskeren
-#SERVICE 5002:0:1:264e:ec1a:1aac:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e87ce528cec700088cec55-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoarders & Dirty Home Rescue
-#DESCRIPTION Hoarders & Dirty Home Rescue
-#SERVICE 5002:0:1:ca6c:cd6:d6b2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e87cc644fe100009ccad13-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casualty 24/7
-#DESCRIPTION Casualty 24/7
-#SERVICE 5002:0:1:c814:ffbd:bd3f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6478aacf76a19300086c9050-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Cribs
-#DESCRIPTION MTV Cribs
-#SERVICE 5002:0:1:2a1b:887a:7a8e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e87d090f73a800080e9ca5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trucking Hell
-#DESCRIPTION Trucking Hell
 #SERVICE 5002:0:1:4d2f:6b1f:1fcf:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/620234d766314700075cac86-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Top Gear
 #DESCRIPTION Top Gear
 #SERVICE 5002:0:1:c4bf:1f93:9373:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c098df897b9d00070375c8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:South Park
@@ -4065,6 +4031,10 @@
 #DESCRIPTION America's Next Top Model
 #SERVICE 5002:0:1:eb04:97d6:d6e1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c19dcefbb4b50007d242e1-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Forsidefruer
 #DESCRIPTION Forsidefruer
+#SERVICE 5002:0:1:ca6c:cd6:d6b2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e87cc644fe100009ccad13-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Casualty 24/7
+#DESCRIPTION Casualty 24/7
+#SERVICE 5002:0:1:2a1b:887a:7a8e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e87d090f73a800080e9ca5-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Trucking Hell
+#DESCRIPTION Trucking Hell
 #SERVICE 5002:0:1:d4ad:3099:997a:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a42df60cc44a0007dd47f8-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Robinson Ekspeditionen
 #DESCRIPTION Robinson Ekspeditionen
 #SERVICE 5002:0:1:54cb:4641:41ed:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6464cb2d939a5900087c5aab-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Survivor
@@ -4099,6 +4069,8 @@
 #DESCRIPTION The Hills
 #SERVICE 5002:0:1:1ea6:c4ea:ea75:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c092157e1b8b0007372a35-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teen Mom
 #DESCRIPTION Teen Mom
+#SERVICE 5002:0:1:c814:ffbd:bd3f:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6478aacf76a19300086c9050-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Cribs
+#DESCRIPTION MTV Cribs
 #SERVICE 5002:0:1:2271:7bf:bf9e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c091c39863900007ac9e8f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Are You The One?
 #DESCRIPTION Are You The One?
 #SERVICE 5002:0:1:9a88:23c:3c54:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6478aa82a51cb80008cb667b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Punk'd
@@ -4107,6 +4079,12 @@
 #DESCRIPTION Skønne ombygninger
 #SERVICE 5002:0:1:abf8:6649:49c5:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c6a27a4faf1c0007b48f7b-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boligkøb i blinde
 #DESCRIPTION Boligkøb i blinde
+#SERVICE 5002:0:1:42fc:34e2:e2a0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6501af923a0d700008b71b53-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hundehviskeren
+#DESCRIPTION Hundehviskeren
+#SERVICE 5002:0:1:aef7:bc4a:4a0b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62a1ad40c23b400008adb1de-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bridezillas
+#DESCRIPTION Bridezillas
+#SERVICE 5002:0:1:264e:ec1a:1aac:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64e87ce528cec700088cec55-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hoarders & Dirty Home Rescue
+#DESCRIPTION Hoarders & Dirty Home Rescue
 #SERVICE 5002:0:1:913e:4e33:33ad:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62bd9d70c23b400008af5a8f-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Tattoo Fixers
 #DESCRIPTION Tattoo Fixers
 #SERVICE 5002:0:1:e7f9:20bf:bf2e:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63c6b00d9820860007a4d35c-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Herlige Hjem
@@ -4171,6 +4149,8 @@
 #DESCRIPTION Pluto TV Action
 #SERVICE 5002:0:1:38aa:8946:46af:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c0974945b45d0007aaa5ac-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Humor
 #DESCRIPTION Pluto TV Humor
+#SERVICE 5002:0:1:f54d:b3f8:f844:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a1c9790cc44a0007dc8857-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Horror
+#DESCRIPTION Pluto TV Horror
 #SERVICE 5002:0:1:8da:1f5c:5c40:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63dbe7ed51f5d000083e9499-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Kultfilm
 #DESCRIPTION Pluto TV Kultfilm
 #SERVICE 5002:0:1:f12c:916a:6ab2:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63a1c954d3897300079fcb12-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Romantik
@@ -4197,8 +4177,6 @@
 #DESCRIPTION The Pet Collective
 #SERVICE 5002:0:1:b639:b243:4385:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6177fd9812fe0c000726f9eb-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Just for Laughs
 #DESCRIPTION Just for Laughs
-#SERVICE 5002:0:1:1715:519f:9f8d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6400c281dff38e00083f59da-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Star Trek Movies
-#DESCRIPTION Star Trek Movies
 #SERVICE 5002:0:1:1e0f:521f:1f2b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c1979dfa307000070bbe4d-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Star Trek
 #DESCRIPTION Pluto TV Star Trek
 #SERVICE 5002:0:1:c0ed:8431:3107:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61f9598588f86000078ee7d6-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sci-Fi
@@ -4207,6 +4185,8 @@
 #DESCRIPTION Andromeda
 #SERVICE 5002:0:1:4a41:e86f:6f66:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61813fbfa19d830007b456c2-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unsolved Mysteries
 #DESCRIPTION Unsolved Mysteries
+#SERVICE 5002:0:1:49ab:487f:7f36:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b30beb81f89900071fc7b9-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Paranormal
+#DESCRIPTION Pluto TV Paranormal
 #SERVICE 5002:0:1:fbc:2844:4485:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/619e1bb3e9af5a0007f235ad-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Ghost Dimension
 #DESCRIPTION Ghost Dimension
 #SERVICE 5002:0:1:5580:fc19:1952:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62b30b0060a9ca0007d628b4-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Dokumentar
@@ -4221,8 +4201,8 @@
 #DESCRIPTION Nature Time
 #SERVICE 5002:0:1:40c1:91a5:a50c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6357f3de3643ba0007bc0b50-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pluto TV Sport
 #DESCRIPTION Pluto TV Sport
-#SERVICE 5002:0:1:d781:5349:49d0:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a282dfaab9ce0008cff18e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women’s Football
-#DESCRIPTION DAZN Women’s Football
+#SERVICE 5002:0:1:679c:cb6a:6ad1:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/64a282dfaab9ce0008cff18e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:DAZN Women's Football
+#DESCRIPTION DAZN Women's Football
 #SERVICE 5002:0:1:820:bfe0:e085:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6405d444d200410008009419-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:BET25 LIVE
 #DESCRIPTION BET25 LIVE
 #SERVICE 5002:0:1:792b:7df9:f981:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/62792f34f3aa05000728841e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bellator MMA
@@ -4253,6 +4233,8 @@
 #DESCRIPTION The F Word
 #SERVICE 5002:0:1:3333:728d:8d1b:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/61c19edbf535220007075c4e-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MasterChef Danmarks største madtalenter
 #DESCRIPTION MasterChef Danmarks største madtalenter
+#SERVICE 5002:0:1:4bc8:78c2:c28c:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6448e7482858cb0008bed214-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Yo! MTV Raps Classic
+#DESCRIPTION Yo! MTV Raps Classic
 #SERVICE 5002:0:1:ad1e:4fb4:b428:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/63da41dba9957100087293fc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Queens of Pop
 #DESCRIPTION MTV Queens of Pop
 #SERVICE 5002:0:1:c0:6cb:cb9d:1010101:0:0:0:https%3a//i.mjh.nz/PlutoTV/6492dd83115d060008b511bc-alt.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTV Summer Hits
