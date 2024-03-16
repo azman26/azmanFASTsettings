@@ -1,257 +1,257 @@
 #NAME Sports TV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
 #DESCRIPTION NoGroup
-#SERVICE 5002:0:1:583c:d65e:5e5c:1010101:0:0:0:https%3a//amg00876-allenmedia-hbcugo-localnow-v0547.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:HBCU Go
+#SERVICE 4097:0:1:583c:d65e:5e5c:1010101:0:0:0:https%3a//amg00876-allenmedia-hbcugo-localnow-v0547.amagi.tv/playlist.m3u8:HBCU Go
 #DESCRIPTION HBCU Go
-#SERVICE 5002:0:1:bf8d:c435:35b8:1010101:0:0:0:https%3a//amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Xtra
+#SERVICE 4097:0:1:bf8d:c435:35b8:1010101:0:0:0:https%3a//amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8:Bein Xtra
 #DESCRIPTION Bein Xtra
-#SERVICE 5002:0:1:ca44:3bfe:fe39:1010101:0:0:0:https%3a//linear-477.frequency.stream/dist/sportstv/477/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bleav
+#SERVICE 4097:0:1:ca44:3bfe:fe39:1010101:0:0:0:https%3a//linear-477.frequency.stream/dist/sportstv/477/hls/master/playlist.m3u8:Bleav
 #DESCRIPTION Bleav
-#SERVICE 5002:0:1:e5da:bc8c:8c07:1010101:0:0:0:https%3a//linear-493.frequency.stream/dist/sportstv/493/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bleav Football
+#SERVICE 4097:0:1:e5da:bc8c:8c07:1010101:0:0:0:https%3a//linear-493.frequency.stream/dist/sportstv/493/hls/master/playlist.m3u8:Bleav Football
 #DESCRIPTION Bleav Football
-#SERVICE 5002:0:1:8c3:c981:81fe:1010101:0:0:0:https%3a//sportsgrid-localnow-us.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sportsgrid (GEO)
+#SERVICE 4097:0:1:8c3:c981:81fe:1010101:0:0:0:https%3a//sportsgrid-localnow-us.amagi.tv/playlist.m3u8:Sportsgrid (GEO)
 #DESCRIPTION Sportsgrid (GEO)
-#SERVICE 5002:0:1:9d0:f1c0:c0dc:1010101:0:0:0:https%3a//1622862207.rsc.cdn77.org/FTF/FTF_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FTF (GEO)
+#SERVICE 4097:0:1:9d0:f1c0:c0dc:1010101:0:0:0:https%3a//1622862207.rsc.cdn77.org/FTF/FTF_SCTE.m3u8:FTF (GEO)
 #DESCRIPTION FTF (GEO)
-#SERVICE 5002:0:1:803b:ef00:3c:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/879cd8f5-5239-4881-b919-095f87e4899d.m3u8?adMethod=3&sessionId=veenglishfootballlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:English Football Channel
+#SERVICE 4097:0:1:803b:ef00:3c:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/879cd8f5-5239-4881-b919-095f87e4899d.m3u8?adMethod=3&sessionId=veenglishfootballlocalnow:English Football Channel
 #DESCRIPTION English Football Channel
-#SERVICE 5002:0:1:89f5:9953:53fe:1010101:0:0:0:https%3a//aa6ac80ce06c44f28dd012eb4413f160.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SportsTV_PerfectGameTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Perfect Game
+#SERVICE 4097:0:1:89f5:9953:53fe:1010101:0:0:0:https%3a//aa6ac80ce06c44f28dd012eb4413f160.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/SportsTV_PerfectGameTV/playlist.m3u8:Perfect Game
 #DESCRIPTION Perfect Game
-#SERVICE 5002:0:1:a0dc:27be:be3d:1010101:0:0:0:https%3a//b285f2adcb1742e99aac4c945ed399aa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_MavTVSelect/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Mav TV Select
+#SERVICE 4097:0:1:a0dc:27be:be3d:1010101:0:0:0:https%3a//b285f2adcb1742e99aac4c945ed399aa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_MavTVSelect/playlist.m3u8:Mav TV Select
 #DESCRIPTION Mav TV Select
-#SERVICE 5002:0:1:98d8:b7a1:a102:1010101:0:0:0:https%3a//1978425394.rsc.cdn77.org/HLS/TRN_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Rugby Network (GEO)
+#SERVICE 4097:0:1:98d8:b7a1:a102:1010101:0:0:0:https%3a//1978425394.rsc.cdn77.org/HLS/TRN_SCTE.m3u8:The Rugby Network (GEO)
 #DESCRIPTION The Rugby Network (GEO)
-#SERVICE 5002:0:1:caef:ffa4:a4ac:1010101:0:0:0:https%3a//amg01416-faststudios-womennetwork-localnow-9rpxa.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Womens Sport Network
+#SERVICE 4097:0:1:caef:ffa4:a4ac:1010101:0:0:0:https%3a//amg01416-faststudios-womennetwork-localnow-9rpxa.amagi.tv/playlist.m3u8:Womens Sport Network
 #DESCRIPTION Womens Sport Network
-#SERVICE 5002:0:1:9a8b:6bf4:f4a1:1010101:0:0:0:https%3a//d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Poker Tour
+#SERVICE 4097:0:1:9a8b:6bf4:f4a1:1010101:0:0:0:https%3a//d3w4n3hhseniak.cloudfront.net/scheduler/scheduleMaster/95.m3u8:World Poker Tour
 #DESCRIPTION World Poker Tour
-#SERVICE 5002:0:1:8c:9acc:ccba:1010101:0:0:0:https%3a//linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Poker Go
+#SERVICE 4097:0:1:8c:9acc:ccba:1010101:0:0:0:https%3a//linear-426.frequency.stream/dist/localnow/426/hls/master/playlist.m3u8:Poker Go
 #DESCRIPTION Poker Go
-#SERVICE 5002:0:1:7d31:7bd1:d171:1010101:0:0:0:https%3a//d2ac29vaob351i.cloudfront.net/scheduler/scheduleMaster/216.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Poker Night America
+#SERVICE 4097:0:1:7d31:7bd1:d171:1010101:0:0:0:https%3a//d2ac29vaob351i.cloudfront.net/scheduler/scheduleMaster/216.m3u8:Poker Night America
 #DESCRIPTION Poker Night America
-#SERVICE 5002:0:1:d541:b4f8:f815:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Xtrem Sports
+#SERVICE 4097:0:1:d541:b4f8:f815:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/dd07c1bf-9b89-4e56-b819-224b2bbcd807_0_HLS/manifest.m3u8:Xtrem Sports
 #DESCRIPTION Xtrem Sports
-#SERVICE 5002:0:1:5c3:f7b4:b4c0:1010101:0:0:0:https%3a//amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:GQ
+#SERVICE 4097:0:1:5c3:f7b4:b4c0:1010101:0:0:0:https%3a//amg00255-condenast-gq-localnow-5sme3.amagi.tv/playlist.m3u8:GQ
 #DESCRIPTION GQ
-#SERVICE 5002:0:1:e764:9a6a:6aea:1010101:0:0:0:https%3a//amg01690-coindeskinc-coindesk-localnow-sojc4.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Coindesk.TV
+#SERVICE 4097:0:1:e764:9a6a:6aea:1010101:0:0:0:https%3a//amg01690-coindeskinc-coindesk-localnow-sojc4.amagi.tv/playlist.m3u8:Coindesk.TV
 #DESCRIPTION Coindesk.TV
-#SERVICE 5002:0:1:f49a:3242:4284:1010101:0:0:0:https%3a//amg00406-tinizinelimited-davincius-localnow-cmjt6.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Davinci
+#SERVICE 4097:0:1:f49a:3242:4284:1010101:0:0:0:https%3a//amg00406-tinizinelimited-davincius-localnow-cmjt6.amagi.tv/playlist.m3u8:Davinci
 #DESCRIPTION Davinci
-#SERVICE 5002:0:1:a7e5:d92a:2a5e:1010101:0:0:0:https%3a//amg01756-newsnet-sportsnewshigh-localnow-am55f.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports News Highlights
+#SERVICE 4097:0:1:a7e5:d92a:2a5e:1010101:0:0:0:https%3a//amg01756-newsnet-sportsnewshigh-localnow-am55f.amagi.tv/playlist.m3u8:Sports News Highlights
 #DESCRIPTION Sports News Highlights
-#SERVICE 5002:0:1:99fb:6cc8:c8b3:1010101:0:0:0:https%3a//unbeaten-localnow.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Unbeaten (GEO)
+#SERVICE 4097:0:1:99fb:6cc8:c8b3:1010101:0:0:0:https%3a//unbeaten-localnow.amagi.tv/playlist.m3u8:Unbeaten (GEO)
 #DESCRIPTION Unbeaten (GEO)
-#SERVICE 5002:0:1:2c6a:bdb6:b699:1010101:0:0:0:https%3a//hls.showfer.com/stream/63dd69e7f516fcaec90a2271/airy.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Whacked out Sports
+#SERVICE 4097:0:1:2c6a:bdb6:b699:1010101:0:0:0:https%3a//hls.showfer.com/stream/63dd69e7f516fcaec90a2271/airy.m3u8:Whacked out Sports
 #DESCRIPTION Whacked out Sports
-#SERVICE 5002:0:1:fb88:c32e:2ebe:1010101:0:0:0:https%3a//amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bein Xtra Espanol
+#SERVICE 4097:0:1:fb88:c32e:2ebe:1010101:0:0:0:https%3a//amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8:Bein Xtra Espanol
 #DESCRIPTION Bein Xtra Espanol
-#SERVICE 5002:0:1:68b6:d48:4800:1010101:0:0:0:https%3a//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/SlopesTV/index-slopestv.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Slopes TV (may be offline)
+#SERVICE 4097:0:1:68b6:d48:4800:1010101:0:0:0:https%3a//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/SlopesTV/index-slopestv.m3u8:Slopes TV (may be offline)
 #DESCRIPTION Slopes TV (may be offline)
-#SERVICE 5002:0:1:d1b2:2750:501f:1010101:0:0:0:https%3a//linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Swerve Sports
+#SERVICE 4097:0:1:d1b2:2750:501f:1010101:0:0:0:https%3a//linear-253.frequency.stream/dist/localnow/253/hls/master/playlist.m3u8:Swerve Sports
 #DESCRIPTION Swerve Sports
-#SERVICE 5002:0:1:948d:e184:84e9:1010101:0:0:0:https%3a//linear-285.frequency.stream/dist/localnow/285/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The American Athlete
+#SERVICE 4097:0:1:948d:e184:84e9:1010101:0:0:0:https%3a//linear-285.frequency.stream/dist/localnow/285/hls/master/playlist.m3u8:The American Athlete
 #DESCRIPTION The American Athlete
-#SERVICE 5002:0:1:1b8e:f9c9:c9c1:1010101:0:0:0:https%3a//linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Campuslore
+#SERVICE 4097:0:1:1b8e:f9c9:c9c1:1010101:0:0:0:https%3a//linear-235.frequency.stream/dist/localnow/235/hls/master/playlist.m3u8:Campuslore
 #DESCRIPTION Campuslore
-#SERVICE 5002:0:1:a5b5:e4b4:b4e8:1010101:0:0:0:https%3a//92652ca9374d45ff8669fa318712ccda.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_WorldBilliardsTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:World Billiards TV
+#SERVICE 4097:0:1:a5b5:e4b4:b4e8:1010101:0:0:0:https%3a//92652ca9374d45ff8669fa318712ccda.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_WorldBilliardsTV/playlist.m3u8:World Billiards TV
 #DESCRIPTION World Billiards TV
-#SERVICE 5002:0:1:c31d:1326:265a:1010101:0:0:0:https%3a//linear-584.frequency.stream/dist/localnow/584/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Byron Allen Presents
+#SERVICE 4097:0:1:c31d:1326:265a:1010101:0:0:0:https%3a//linear-584.frequency.stream/dist/localnow/584/hls/master/playlist.m3u8:Byron Allen Presents
 #DESCRIPTION Byron Allen Presents
-#SERVICE 5002:0:1:e539:8860:6014:1010101:0:0:0:https%3a//kozoom-tv-local-now.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kozoom TV
+#SERVICE 4097:0:1:e539:8860:6014:1010101:0:0:0:https%3a//kozoom-tv-local-now.evrideo.tv/ae60ea81-15c8-4a4a-97e3-fa45c64431d5_0_HLS/manifest.m3u8:Kozoom TV
 #DESCRIPTION Kozoom TV
-#SERVICE 5002:0:1:4b26:2f89:89e1:1010101:0:0:0:https%3a//1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Billiard TV
+#SERVICE 4097:0:1:4b26:2f89:89e1:1010101:0:0:0:https%3a//1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8:Billiard TV
 #DESCRIPTION Billiard TV
-#SERVICE 5002:0:1:6d34:4a16:16d4:1010101:0:0:0:https%3a//1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:LSN Lacrosse TV
+#SERVICE 4097:0:1:6d34:4a16:16d4:1010101:0:0:0:https%3a//1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8:LSN Lacrosse TV
 #DESCRIPTION LSN Lacrosse TV
-#SERVICE 5002:0:1:3558:d0e1:e116:1010101:0:0:0:https%3a//d6wgpvzntti5z.cloudfront.net/scheduler/scheduleMaster/281.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Omstars TV
+#SERVICE 4097:0:1:3558:d0e1:e116:1010101:0:0:0:https%3a//d6wgpvzntti5z.cloudfront.net/scheduler/scheduleMaster/281.m3u8:Omstars TV
 #DESCRIPTION Omstars TV
-#SERVICE 5002:0:1:a92e:ab70:70a7:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/99a6543a-9d90-4412-8576-398aebc882fb_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ITSF TV
+#SERVICE 4097:0:1:a92e:ab70:70a7:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/99a6543a-9d90-4412-8576-398aebc882fb_0_HLS/manifest.m3u8:ITSF TV
 #DESCRIPTION ITSF TV
-#SERVICE 5002:0:1:a139:ca9f:9fef:1010101:0:0:0:https%3a//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/DungeonTV/Index-dungeontv.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Dungeon TV (may be offline)
+#SERVICE 4097:0:1:a139:ca9f:9fef:1010101:0:0:0:https%3a//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/DungeonTV/Index-dungeontv.m3u8:Dungeon TV (may be offline)
 #DESCRIPTION Dungeon TV (may be offline)
-#SERVICE 5002:0:1:f234:5a61:6127:1010101:0:0:0:https%3a//epg-adventure-sports-tv-2-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_64a82d39d6651dc235068ca4_epg-adventure-sports-tv-2-live/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Adventure Sports TV
+#SERVICE 4097:0:1:f234:5a61:6127:1010101:0:0:0:https%3a//epg-adventure-sports-tv-2-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_64a82d39d6651dc235068ca4_epg-adventure-sports-tv-2-live/master.m3u8:Adventure Sports TV
 #DESCRIPTION Adventure Sports TV
-#SERVICE 5002:0:1:46d9:411e:1e04:1010101:0:0:0:https%3a//amg01570-carbontv-carbontv-localnow-i7zkx.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Carbon TV
+#SERVICE 4097:0:1:46d9:411e:1e04:1010101:0:0:0:https%3a//amg01570-carbontv-carbontv-localnow-i7zkx.amagi.tv/playlist.m3u8:Carbon TV
 #DESCRIPTION Carbon TV
-#SERVICE 5002:0:1:1ca:247e:7e46:1010101:0:0:0:https%3a//amg01074-fueltv-fueltvusen-sportstv-fj9t1.amagi.tv/playlist_eng.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fuel TV
+#SERVICE 4097:0:1:1ca:247e:7e46:1010101:0:0:0:https%3a//amg01074-fueltv-fueltvusen-sportstv-fj9t1.amagi.tv/playlist_eng.m3u8:Fuel TV
 #DESCRIPTION Fuel TV
-#SERVICE 5002:0:1:416d:2936:3644:1010101:0:0:0:https%3a//outdooramerica-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_613badcfc8f36f5402024a43_outdooramerica-live-1/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor America (GEO)
+#SERVICE 4097:0:1:416d:2936:3644:1010101:0:0:0:https%3a//outdooramerica-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_613badcfc8f36f5402024a43_outdooramerica-live-1/master.m3u8:Outdoor America (GEO)
 #DESCRIPTION Outdoor America (GEO)
-#SERVICE 5002:0:1:dcfe:fec3:c379:1010101:0:0:0:https%3a//0a8290df61a34f34ac8faa356829259c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_OutdoorAction/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Outdoor Action TV
+#SERVICE 4097:0:1:dcfe:fec3:c379:1010101:0:0:0:https%3a//0a8290df61a34f34ac8faa356829259c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_OutdoorAction/playlist.m3u8:Outdoor Action TV
 #DESCRIPTION Outdoor Action TV
-#SERVICE 5002:0:1:681c:93de:de21:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Explorers
+#SERVICE 4097:0:1:681c:93de:de21:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8:The Explorers
 #DESCRIPTION The Explorers
-#SERVICE 5002:0:1:2650:cd05:5a9:1010101:0:0:0:https%3a//d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Teton Gravity Research TV
+#SERVICE 4097:0:1:2650:cd05:5a9:1010101:0:0:0:https%3a//d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8:Teton Gravity Research TV
 #DESCRIPTION Teton Gravity Research TV
-#SERVICE 5002:0:1:de0:3e2b:2b78:1010101:0:0:0:https%3a//escape-tv-local-now.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Escape TV
+#SERVICE 4097:0:1:de0:3e2b:2b78:1010101:0:0:0:https%3a//escape-tv-local-now.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8:Escape TV
 #DESCRIPTION Escape TV
-#SERVICE 5002:0:1:23dc:ebed:ed68:1010101:0:0:0:https%3a//amg00381-waypointcommuni-waypointtv-localnow-yukrz.amagi.tv/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Waypoint TV
+#SERVICE 4097:0:1:23dc:ebed:ed68:1010101:0:0:0:https%3a//amg00381-waypointcommuni-waypointtv-localnow-yukrz.amagi.tv/master.m3u8:Waypoint TV
 #DESCRIPTION Waypoint TV
-#SERVICE 5002:0:1:21b4:5b1e:1e70:1010101:0:0:0:https%3a//linear-205.frequency.stream/dist/localnow/205/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pursuit Up
+#SERVICE 4097:0:1:21b4:5b1e:1e70:1010101:0:0:0:https%3a//linear-205.frequency.stream/dist/localnow/205/hls/master/playlist.m3u8:Pursuit Up
 #DESCRIPTION Pursuit Up
-#SERVICE 5002:0:1:dbf3:9cb7:b7bc:1010101:0:0:0:https%3a//epg-boscoplus-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_64494c9376de49679e09fa72_epg-boscoplus-live/index.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bosco Plus (may be offline)
+#SERVICE 4097:0:1:dbf3:9cb7:b7bc:1010101:0:0:0:https%3a//epg-boscoplus-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_64494c9376de49679e09fa72_epg-boscoplus-live/index.m3u8:Bosco Plus (may be offline)
 #DESCRIPTION Bosco Plus (may be offline)
-#SERVICE 5002:0:1:7f75:2bc9:c9ac:1010101:0:0:0:https%3a//linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wired2Fish TV
+#SERVICE 4097:0:1:7f75:2bc9:c9ac:1010101:0:0:0:https%3a//linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8:Wired2Fish TV
 #DESCRIPTION Wired2Fish TV
-#SERVICE 5002:0:1:8032:7057:57b2:1010101:0:0:0:https%3a//5fa24d54392444f3b90c875f37db0857.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_LevelUpTV/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Level Up TV
+#SERVICE 4097:0:1:8032:7057:57b2:1010101:0:0:0:https%3a//5fa24d54392444f3b90c875f37db0857.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_LevelUpTV/playlist.m3u8:Level Up TV
 #DESCRIPTION Level Up TV
-#SERVICE 5002:0:1:7fe5:ef37:377b:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Ring TV
+#SERVICE 4097:0:1:7fe5:ef37:377b:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/a1ddb5a6-5a3b-45b0-b09d-c21632782847_0_HLS/manifest.m3u8:The Ring TV
 #DESCRIPTION The Ring TV
-#SERVICE 5002:0:1:d68d:c07b:7b1e:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sport Fishing TV
+#SERVICE 4097:0:1:d68d:c07b:7b1e:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8:Sport Fishing TV
 #DESCRIPTION Sport Fishing TV
-#SERVICE 5002:0:1:c1ab:7244:4469:1010101:0:0:0:https%3a//amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horse and Country
+#SERVICE 4097:0:1:c1ab:7244:4469:1010101:0:0:0:https%3a//amg00810-hctvltd-hncfree-localnow-t4eey.amagi.tv/playlist.m3u8:Horse and Country
 #DESCRIPTION Horse and Country
-#SERVICE 5002:0:1:e6a6:e476:76a9:1010101:0:0:0:https%3a//dy9x7so5g8z3m.cloudfront.net/scheduler/scheduleMaster/276.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Extreme Plus
+#SERVICE 4097:0:1:e6a6:e476:76a9:1010101:0:0:0:https%3a//dy9x7so5g8z3m.cloudfront.net/scheduler/scheduleMaster/276.m3u8:Extreme Plus
 #DESCRIPTION Extreme Plus
-#SERVICE 5002:0:1:7fb0:dbec:ec42:1010101:0:0:0:https%3a//dcicealhbcymw.cloudfront.net/strm/link/horizonsports.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Horizon Sports
+#SERVICE 4097:0:1:7fb0:dbec:ec42:1010101:0:0:0:https%3a//dcicealhbcymw.cloudfront.net/strm/link/horizonsports.m3u8:Horizon Sports
 #DESCRIPTION Horizon Sports
-#SERVICE 5002:0:1:413d:7f2c:2cc1:1010101:0:0:0:https%3a//nitro-tv-local-now.evrideo.tv/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Nitro TV
+#SERVICE 4097:0:1:413d:7f2c:2cc1:1010101:0:0:0:https%3a//nitro-tv-local-now.evrideo.tv/71960d71-216f-47f3-bfe5-5b1386c05760_0_HLS/manifest.m3u8:Nitro TV
 #DESCRIPTION Nitro TV
-#SERVICE 5002:0:1:9810:b749:493b:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/31bec8cf-d869-45a8-b43b-e36c91b2e38a_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Americas Boating Channel
+#SERVICE 4097:0:1:9810:b749:493b:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/31bec8cf-d869-45a8-b43b-e36c91b2e38a_0_HLS/manifest.m3u8:Americas Boating Channel
 #DESCRIPTION Americas Boating Channel
-#SERVICE 5002:0:1:9207:52b6:b6e8:1010101:0:0:0:https%3a//cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Awe Plus
+#SERVICE 4097:0:1:9207:52b6:b6e8:1010101:0:0:0:https%3a//cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore.m3u8:Awe Plus
 #DESCRIPTION Awe Plus
-#SERVICE 5002:0:1:616:40b:b58:1010101:0:0:0:https%3a//d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Channel Fight Masterclass
+#SERVICE 4097:0:1:616:40b:b58:1010101:0:0:0:https%3a//d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8:Channel Fight Masterclass
 #DESCRIPTION Channel Fight Masterclass
-#SERVICE 5002:0:1:551b:790d:d98:1010101:0:0:0:https%3a//d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Spartan TV
+#SERVICE 4097:0:1:551b:790d:d98:1010101:0:0:0:https%3a//d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8:Spartan TV
 #DESCRIPTION Spartan TV
-#SERVICE 5002:0:1:dd90:ea89:8913:1010101:0:0:0:https%3a//1815337252.rsc.cdn77.org/HLS/CORNHOLETV_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ACL Cornhole TV
+#SERVICE 4097:0:1:dd90:ea89:8913:1010101:0:0:0:https%3a//1815337252.rsc.cdn77.org/HLS/CORNHOLETV_SCTE.m3u8:ACL Cornhole TV
 #DESCRIPTION ACL Cornhole TV
-#SERVICE 5002:0:1:88e1:400:73:1010101:0:0:0:https%3a//linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ChopperTown
+#SERVICE 4097:0:1:88e1:400:73:1010101:0:0:0:https%3a//linear-11.frequency.stream/dist/localnow/11/hls/master/playlist.m3u8:ChopperTown
 #DESCRIPTION ChopperTown
-#SERVICE 5002:0:1:14b:953e:3e9e:1010101:0:0:0:https%3a//eyeonesports.com/ES2RA-628g.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:ESR 24x7 Esports Network
+#SERVICE 4097:0:1:14b:953e:3e9e:1010101:0:0:0:https%3a//eyeonesports.com/ES2RA-628g.m3u8:ESR 24x7 Esports Network
 #DESCRIPTION ESR 24x7 Esports Network
-#SERVICE 5002:0:1:f0e9:6f2b:2be6:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/59b8d64d-1d70-4e77-a3de-33e824ead919_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Wai Lana TV
+#SERVICE 4097:0:1:f0e9:6f2b:2be6:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/59b8d64d-1d70-4e77-a3de-33e824ead919_0_HLS/manifest.m3u8:Wai Lana TV
 #DESCRIPTION Wai Lana TV
-#SERVICE 5002:0:1:bc7e:aaeb:eb1b:1010101:0:0:0:https%3a//1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Boxing TV
+#SERVICE 4097:0:1:bc7e:aaeb:eb1b:1010101:0:0:0:https%3a//1180885077.rsc.cdn77.org/HLS/BOXINGTV_SCTE.m3u8:Boxing TV
 #DESCRIPTION Boxing TV
-#SERVICE 5002:0:1:dab0:3985:85cb:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/313fc62f-0109-43fc-85ab-650abfaa9d12_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Prime Fight
+#SERVICE 4097:0:1:dab0:3985:85cb:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/313fc62f-0109-43fc-85ab-650abfaa9d12_0_HLS/manifest.m3u8:Prime Fight
 #DESCRIPTION Prime Fight
-#SERVICE 5002:0:1:14c5:d28c:8c3e:1010101:0:0:0:https%3a//3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Strongman Champions League
+#SERVICE 4097:0:1:14c5:d28c:8c3e:1010101:0:0:0:https%3a//3432e021b91043f0814aa9d377c401d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/SportsTV_StrongmanChampionsLeague/playlist.m3u8:Strongman Champions League
 #DESCRIPTION Strongman Champions League
-#SERVICE 5002:0:1:ce42:11fd:fd38:1010101:0:0:0:https%3a//d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fight Network
+#SERVICE 4097:0:1:ce42:11fd:fd38:1010101:0:0:0:https%3a//d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8:Fight Network
 #DESCRIPTION Fight Network
-#SERVICE 5002:0:1:21bf:8ebf:bfa8:1010101:0:0:0:https%3a//ed7ded3f297b46df98c69334c7822c61.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_FITE247/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fite 24x7
+#SERVICE 4097:0:1:21bf:8ebf:bfa8:1010101:0:0:0:https%3a//ed7ded3f297b46df98c69334c7822c61.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/SportsTV_FITE247/playlist.m3u8:Fite 24x7
 #DESCRIPTION Fite 24x7
-#SERVICE 5002:0:1:6f24:f3a3:a368:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Fight TV
+#SERVICE 4097:0:1:6f24:f3a3:a368:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/2c1b92e0-9ef4-41b1-9713-ba53b562e94c_0_HLS/manifest.m3u8:Fight TV
 #DESCRIPTION Fight TV
-#SERVICE 5002:0:1:e07c:6684:84e7:1010101:0:0:0:https%3a//4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pro Fight League
+#SERVICE 4097:0:1:e07c:6684:84e7:1010101:0:0:0:https%3a//4d362f8e.wurl.com/U3BvcnRzVFZfUEZMTU1BX0hMUw/playlist.m3u8:Pro Fight League
 #DESCRIPTION Pro Fight League
-#SERVICE 5002:0:1:dd4:176b:6bad:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Kung Fu Plus
+#SERVICE 4097:0:1:dd4:176b:6bad:1010101:0:0:0:https%3a//edge-fast.evrideo.tv/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8:Kung Fu Plus
 #DESCRIPTION Kung Fu Plus
-#SERVICE 5002:0:1:84e3:22dc:dc09:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=ptv_pw#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pro Wrestling TV
+#SERVICE 4097:0:1:84e3:22dc:dc09:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=ptv_pw:Pro Wrestling TV
 #DESCRIPTION Pro Wrestling TV
-#SERVICE 5002:0:1:3fba:d786:8643:1010101:0:0:0:https%3a//d15g7z5n3epv7t.cloudfront.net/scheduler/scheduleMaster/236.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Grappling Network
+#SERVICE 4097:0:1:3fba:d786:8643:1010101:0:0:0:https%3a//d15g7z5n3epv7t.cloudfront.net/scheduler/scheduleMaster/236.m3u8:The Grappling Network
 #DESCRIPTION The Grappling Network
-#SERVICE 5002:0:1:876d:f878:784b:1010101:0:0:0:https%3a//d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Impact Wrestling
+#SERVICE 4097:0:1:876d:f878:784b:1010101:0:0:0:https%3a//d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8:Impact Wrestling
 #DESCRIPTION Impact Wrestling
-#SERVICE 5002:0:1:e92b:d920:2003:1010101:0:0:0:https%3a//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:XFC
+#SERVICE 4097:0:1:e92b:d920:2003:1010101:0:0:0:https%3a//b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8:XFC
 #DESCRIPTION XFC
-#SERVICE 5002:0:1:bf23:a4f3:f306:1010101:0:0:0:https%3a//linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Hi YAH!
+#SERVICE 4097:0:1:bf23:a4f3:f306:1010101:0:0:0:https%3a//linear-59.frequency.stream/dist/localnow/59/hls/master/playlist.m3u8:Hi YAH!
 #DESCRIPTION Hi YAH!
-#SERVICE 5002:0:1:320a:313c:3c01:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=prl_nh#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:NHRA Drag Racing
+#SERVICE 4097:0:1:320a:313c:3c01:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=prl_nh:NHRA Drag Racing
 #DESCRIPTION NHRA Drag Racing
-#SERVICE 5002:0:1:7b63:b764:642d:1010101:0:0:0:https%3a//2535b897.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfU3BlZWR2aXNpb25fSExT/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Speedvision
+#SERVICE 4097:0:1:7b63:b764:642d:1010101:0:0:0:https%3a//2535b897.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfU3BlZWR2aXNpb25fSExT/playlist.m3u8:Speedvision
 #DESCRIPTION Speedvision
-#SERVICE 5002:0:1:7862:f294:94e1:1010101:0:0:0:https%3a//racingamerica-localnow.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Racing America (GEO)
+#SERVICE 4097:0:1:7862:f294:94e1:1010101:0:0:0:https%3a//racingamerica-localnow.amagi.tv/playlist.m3u8:Racing America (GEO)
 #DESCRIPTION Racing America (GEO)
-#SERVICE 5002:0:1:718:28:28e9:1010101:0:0:0:http%3a//axp-rp-estv.otteravision.com/ESTV/rpm/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RPM
+#SERVICE 4097:0:1:718:28:28e9:1010101:0:0:0:http%3a//axp-rp-estv.otteravision.com/ESTV/rpm/playlist.m3u8:RPM
 #DESCRIPTION RPM
-#SERVICE 5002:0:1:a8b5:48d2:d286:1010101:0:0:0:https%3a//1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MOTO America
+#SERVICE 4097:0:1:a8b5:48d2:d286:1010101:0:0:0:https%3a//1422977263.rsc.cdn77.org/HLS/MOTOAMERICA_SCTE.m3u8:MOTO America
 #DESCRIPTION MOTO America
-#SERVICE 5002:0:1:abc5:2c34:343e:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Automotion
+#SERVICE 4097:0:1:abc5:2c34:343e:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/manifest.m3u8:Automotion
 #DESCRIPTION Automotion
-#SERVICE 5002:0:1:6acd:9e19:19af:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Drive + Speed
+#SERVICE 4097:0:1:6acd:9e19:19af:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/2f833f43-9e48-4a6e-88a8-8d99c32eb898_0_HLS/manifest.m3u8:Drive + Speed
 #DESCRIPTION Drive + Speed
-#SERVICE 5002:0:1:47a6:cb06:610:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/2516e6dc-178a-4ad5-9b52-a90c8895968f_0_HLS/manifest.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chrono
+#SERVICE 4097:0:1:47a6:cb06:610:1010101:0:0:0:https%3a//edge-fast2.evrideo.tv/2516e6dc-178a-4ad5-9b52-a90c8895968f_0_HLS/manifest.m3u8:Chrono
 #DESCRIPTION Chrono
-#SERVICE 5002:0:1:f01a:bd08:8f7:1010101:0:0:0:https%3a//5b4d3a97.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfTW90b3JTcG9ydHR2X0hMUw/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorsport.tv
+#SERVICE 4097:0:1:f01a:bd08:8f7:1010101:0:0:0:https%3a//5b4d3a97.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVFZfTW90b3JTcG9ydHR2X0hMUw/playlist.m3u8:Motorsport.tv
 #DESCRIPTION Motorsport.tv
-#SERVICE 5002:0:1:8d9a:24b8:b8ee:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=mvg_mv#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorvision.tv
+#SERVICE 4097:0:1:8d9a:24b8:b8ee:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=mvg_mv:Motorvision.tv
 #DESCRIPTION Motorvision.tv
-#SERVICE 5002:0:1:13d9:bcb9:b98e:1010101:0:0:0:https%3a//dcicealhbcymw.cloudfront.net/strm/link/motorracing.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Motorracing
+#SERVICE 4097:0:1:13d9:bcb9:b98e:1010101:0:0:0:https%3a//dcicealhbcymw.cloudfront.net/strm/link/motorracing.m3u8:Motorracing
 #DESCRIPTION Motorracing
-#SERVICE 5002:0:1:3feb:16ba:ba46:1010101:0:0:0:http%3a//axp-sc-estv.otteravision.com/ESTV/sportsconnect/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports Connect
+#SERVICE 4097:0:1:3feb:16ba:ba46:1010101:0:0:0:http%3a//axp-sc-estv.otteravision.com/ESTV/sportsconnect/playlist.m3u8:Sports Connect
 #DESCRIPTION Sports Connect
-#SERVICE 5002:0:1:e61c:4ad7:d787:1010101:0:0:0:https%3a//linear-280.frequency.stream/dist/sportstv/280/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sports.tv Flix
+#SERVICE 4097:0:1:e61c:4ad7:d787:1010101:0:0:0:https%3a//linear-280.frequency.stream/dist/sportstv/280/hls/master/playlist.m3u8:Sports.tv Flix
 #DESCRIPTION Sports.tv Flix
-#SERVICE 5002:0:1:a405:ff2a:2ad5:1010101:0:0:0:https%3a//linear-282.frequency.stream/dist/localnow/282/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Sport.tv Doc
+#SERVICE 4097:0:1:a405:ff2a:2ad5:1010101:0:0:0:https%3a//linear-282.frequency.stream/dist/localnow/282/hls/master/playlist.m3u8:Sport.tv Doc
 #DESCRIPTION Sport.tv Doc
-#SERVICE 5002:0:1:4c21:c3e9:e9e7:1010101:0:0:0:https%3a//the-chukker-channel-tv-local-now.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Chukker
+#SERVICE 4097:0:1:4c21:c3e9:e9e7:1010101:0:0:0:https%3a//the-chukker-channel-tv-local-now.evrideo.tv/ee1f7251-f83f-4a8e-b132-6da0d79f8d34_1000014578_HLS/master.m3u8:Chukker
 #DESCRIPTION Chukker
-#SERVICE 5002:0:1:2c3d:87ff:ff0f:1010101:0:0:0:https%3a//na.linear.zype.com/b8d724a2-491d-462f-87e1-80e3a0d07a85/8c5c9ea4-3ab4-4e56-b3a4-8ff9dd2291eb-local-now/live.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FRN
+#SERVICE 4097:0:1:2c3d:87ff:ff0f:1010101:0:0:0:https%3a//na.linear.zype.com/b8d724a2-491d-462f-87e1-80e3a0d07a85/8c5c9ea4-3ab4-4e56-b3a4-8ff9dd2291eb-local-now/live.m3u8:FRN
 #DESCRIPTION FRN
-#SERVICE 5002:0:1:1c19:8b:8b6c:1010101:0:0:0:https%3a//bloomberg-originals-2-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_642c3da2c998bab08e064a23_bloomberg-originals-2-live/origin-contribution-m1-bloomberg-quicktake-localnow.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Originals
+#SERVICE 4097:0:1:1c19:8b:8b6c:1010101:0:0:0:https%3a//bloomberg-originals-2-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_642c3da2c998bab08e064a23_bloomberg-originals-2-live/origin-contribution-m1-bloomberg-quicktake-localnow.m3u8:Bloomberg Originals
 #DESCRIPTION Bloomberg Originals
-#SERVICE 5002:0:1:6303:27:27d8:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/4eb188de-4a5b-4268-9b4d-82eb16031f3b.m3u8?adMethod=3&sessionId=lvrjsportslocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RJ Sport
+#SERVICE 4097:0:1:6303:27:27d8:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/4eb188de-4a5b-4268-9b4d-82eb16031f3b.m3u8?adMethod=3&sessionId=lvrjsportslocalnow:RJ Sport
 #DESCRIPTION RJ Sport
-#SERVICE 5002:0:1:e617:3b67:676b:1010101:0:0:0:https%3a//fueltools-prod01-v1-fast.fuelmedia.io/mrss?ChId=f0dba201-6674-47f3-9d3d-cde18cba5b32&maxItems=50&ContentType=epg#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Video Elephant Sports (may be offline)
+#SERVICE 4097:0:1:e617:3b67:676b:1010101:0:0:0:https%3a//fueltools-prod01-v1-fast.fuelmedia.io/mrss?ChId=f0dba201-6674-47f3-9d3d-cde18cba5b32&maxItems=50&ContentType=epg:Video Elephant Sports (may be offline)
 #DESCRIPTION Video Elephant Sports (may be offline)
-#SERVICE 5002:0:1:303c:75b8:b85d:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8?adMethod=3&sessionId=lvrjnewslocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:RJ
+#SERVICE 4097:0:1:303c:75b8:b85d:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/2c5f4430-fec6-44ed-accf-32103c019a73.m3u8?adMethod=3&sessionId=lvrjnewslocalnow:RJ
 #DESCRIPTION RJ
-#SERVICE 5002:0:1:3bf2:4591:91f0:1010101:0:0:0:https%3a//cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Oan Plus
+#SERVICE 4097:0:1:3bf2:4591:91f0:1010101:0:0:0:https%3a//cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8:Oan Plus
 #DESCRIPTION Oan Plus
-#SERVICE 5002:0:1:837f:7f7:f73e:1010101:0:0:0:https%3a//linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Pattrn
+#SERVICE 4097:0:1:837f:7f7:f73e:1010101:0:0:0:https%3a//linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8:Pattrn
 #DESCRIPTION Pattrn
-#SERVICE 5002:0:1:f2f2:e676:7679:1010101:0:0:0:https%3a//d3l7dafcu55vvf.cloudfront.net/out/v1/70c49418b07348f08cdc17cf94e5b3f0/index.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:The Weather Channel En Espanol
+#SERVICE 4097:0:1:f2f2:e676:7679:1010101:0:0:0:https%3a//d3l7dafcu55vvf.cloudfront.net/out/v1/70c49418b07348f08cdc17cf94e5b3f0/index.m3u8:The Weather Channel En Espanol
 #DESCRIPTION The Weather Channel En Espanol
-#SERVICE 5002:0:1:c62a:bcf4:f463:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KHQ NBC News 6
+#SERVICE 4097:0:1:c62a:bcf4:f463:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/96ef92fd-36df-43e5-b434-ed10cc615742.m3u8?adMethod=3&sessionId=khqlocalnow:KHQ NBC News 6
 #DESCRIPTION KHQ NBC News 6
-#SERVICE 5002:0:1:6b5:ab8a:8afa:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KTMF ABC News 23
+#SERVICE 4097:0:1:6b5:ab8a:8afa:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/af0f7e66-d5cc-4d60-8795-ebddc983e1ae.m3u8?adMethod=3&sessionId=ktmflocalnow:KTMF ABC News 23
 #DESCRIPTION KTMF ABC News 23
-#SERVICE 5002:0:1:7a9c:5d1c:1c56:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KULR NBC News 8
+#SERVICE 4097:0:1:7a9c:5d1c:1c56:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/ff1112f8-7ffe-494d-8cce-7954b4487f48.m3u8?adMethod=3&sessioinId=kurllocalnow:KULR NBC News 8
 #DESCRIPTION KULR NBC News 8
-#SERVICE 5002:0:1:85e8:44b3:b37f:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KWYB ABC News 5
+#SERVICE 4097:0:1:85e8:44b3:b37f:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kwyblocalnow:KWYB ABC News 5
 #DESCRIPTION KWYB ABC News 5
-#SERVICE 5002:0:1:46d6:7201:18d:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kfbblocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KFBB ABC News 25
+#SERVICE 4097:0:1:46d6:7201:18d:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/1e4f79b1-fb5e-458c-b617-d3ac5d21564e.m3u8?adMethod=3&sessionId=kfbblocalnow:KFBB ABC News 25
 #DESCRIPTION KFBB ABC News 25
-#SERVICE 5002:0:1:8789:45a3:a3bb:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/8bc71947-0aa6-4849-b31e-1c4e0c5e0e2c.m3u8?adMethod=3&sessionId=kndulocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KNDU NBC News 25
+#SERVICE 4097:0:1:8789:45a3:a3bb:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/8bc71947-0aa6-4849-b31e-1c4e0c5e0e2c.m3u8?adMethod=3&sessionId=kndulocalnow:KNDU NBC News 25
 #DESCRIPTION KNDU NBC News 25
-#SERVICE 5002:0:1:a82a:317e:7e5e:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/68c81515-3f51-423e-b813-c2371e68630a.m3u8?adMethod=3&sessionId=kezilocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KEZI ABC News 9
+#SERVICE 4097:0:1:a82a:317e:7e5e:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/68c81515-3f51-423e-b813-c2371e68630a.m3u8?adMethod=3&sessionId=kezilocalnow:KEZI ABC News 9
 #DESCRIPTION KEZI ABC News 9
-#SERVICE 5002:0:1:2bcc:1b93:93a1:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/61905b40-556c-4306-8367-336da5853890.m3u8?adMethod=3&sessionId=kimtlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KIMT CBD News 3
+#SERVICE 4097:0:1:2bcc:1b93:93a1:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/61905b40-556c-4306-8367-336da5853890.m3u8?adMethod=3&sessionId=kimtlocalnow:KIMT CBD News 3
 #DESCRIPTION KIMT CBD News 3
-#SERVICE 5002:0:1:fb5:29fb:fbe8:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/1672aee1-19c6-43d3-88c9-972e8fd8c41c.m3u8?adMethod=3&sessionId=wevvlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WEVV CBS News 44
+#SERVICE 4097:0:1:fb5:29fb:fbe8:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/1672aee1-19c6-43d3-88c9-972e8fd8c41c.m3u8?adMethod=3&sessionId=wevvlocalnow:WEVV CBS News 44
 #DESCRIPTION WEVV CBS News 44
-#SERVICE 5002:0:1:14ca:84be:be94:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/bd34df05-e619-4325-839b-c535b3711666.m3u8?adMethod=3&sessionId=wfftlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WFFT Fox News 55
+#SERVICE 4097:0:1:14ca:84be:be94:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/bd34df05-e619-4325-839b-c535b3711666.m3u8?adMethod=3&sessionId=wfftlocalnow:WFFT Fox News 55
 #DESCRIPTION WFFT Fox News 55
-#SERVICE 5002:0:1:bfdc:dabd:bdd4:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/f96442b0-078f-4620-93bc-e5dfa990c572.m3u8?adMethod=3&sessionId=kdrvlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KDRV ABC News 12
+#SERVICE 4097:0:1:bfdc:dabd:bdd4:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/f96442b0-078f-4620-93bc-e5dfa990c572.m3u8?adMethod=3&sessionId=kdrvlocalnow:KDRV ABC News 12
 #DESCRIPTION KDRV ABC News 12
-#SERVICE 5002:0:1:d8dd:afdf:df4f:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6c184b88-1133-416d-8b43-3c54d0167535.m3u8?adMethod=3&sessionId=whtilocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTHI CBS News 10
+#SERVICE 4097:0:1:d8dd:afdf:df4f:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6c184b88-1133-416d-8b43-3c54d0167535.m3u8?adMethod=3&sessionId=whtilocalnow:WTHI CBS News 10
 #DESCRIPTION WTHI CBS News 10
-#SERVICE 5002:0:1:e9e4:3a0:a01b:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6cd278c0-3af5-4964-98e0-16487642b91a.m3u8?adMethod=3&sessionId=wtvalocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WTVA NBC News 9
+#SERVICE 4097:0:1:e9e4:3a0:a01b:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6cd278c0-3af5-4964-98e0-16487642b91a.m3u8?adMethod=3&sessionId=wtvalocalnow:WTVA NBC News 9
 #DESCRIPTION WTVA NBC News 9
-#SERVICE 5002:0:1:8a52:a8ba:baa3:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/9c6a431c-7560-4a86-b659-fb1dfa3ef17c.m3u8?adMethod=3&sessionId=wlfilocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WLFI CBS News 16
+#SERVICE 4097:0:1:8a52:a8ba:baa3:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/9c6a431c-7560-4a86-b659-fb1dfa3ef17c.m3u8?adMethod=3&sessionId=wlfilocalnow:WLFI CBS News 16
 #DESCRIPTION WLFI CBS News 16
-#SERVICE 5002:0:1:d207:efa1:a105:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/564982d0-5d6b-4f08-92fb-27d9f72ca6dd.m3u8?adMethod=3&sessionId=kadnlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KADN FOX News 15
+#SERVICE 4097:0:1:d207:efa1:a105:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/564982d0-5d6b-4f08-92fb-27d9f72ca6dd.m3u8?adMethod=3&sessionId=kadnlocalnow:KADN FOX News 15
 #DESCRIPTION KADN FOX News 15
-#SERVICE 5002:0:1:418b:accc:ccab:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6cedb338-4fa7-419b-be37-4cc8e7008d9b.m3u8?adMethod=3&sessionId=wjrtlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WJRT ABC News 12
+#SERVICE 4097:0:1:418b:accc:ccab:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6cedb338-4fa7-419b-be37-4cc8e7008d9b.m3u8?adMethod=3&sessionId=wjrtlocalnow:WJRT ABC News 12
 #DESCRIPTION WJRT ABC News 12
-#SERVICE 5002:0:1:88cc:3b97:975e:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/9bb1377e-32c7-4ec2-a906-9e00c6360cd1.m3u8?adMethod=3&sessionId=khsllocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KHSL CBS News 12
+#SERVICE 4097:0:1:88cc:3b97:975e:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/9bb1377e-32c7-4ec2-a906-9e00c6360cd1.m3u8?adMethod=3&sessionId=khsllocalnow:KHSL CBS News 12
 #DESCRIPTION KHSL CBS News 12
-#SERVICE 5002:0:1:ebb8:863d:3df8:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/c7ed2016-ab63-46cf-b881-0e05f02918cb.m3u8?adMethod=3&sessionId=kitvlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KITV ABC News 4
+#SERVICE 4097:0:1:ebb8:863d:3df8:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/c7ed2016-ab63-46cf-b881-0e05f02918cb.m3u8?adMethod=3&sessionId=kitvlocalnow:KITV ABC News 4
 #DESCRIPTION KITV ABC News 4
-#SERVICE 5002:0:1:11fe:79c9:c9df:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/02a758bd-6764-49df-8199-d26aaf6ab3e3.m3u8?adMethod=3&sessionId=kvoalocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KVOA NBC 4
+#SERVICE 4097:0:1:11fe:79c9:c9df:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/02a758bd-6764-49df-8199-d26aaf6ab3e3.m3u8?adMethod=3&sessionId=kvoalocalnow:KVOA NBC 4
 #DESCRIPTION KVOA NBC 4
-#SERVICE 5002:0:1:171c:3676:76cf:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6b3399b8-0ab2-48ee-b0c7-8d69722a6a29.m3u8?adMethod=3&sessionId=waaylocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WAAY ABC News 31
+#SERVICE 4097:0:1:171c:3676:76cf:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/6b3399b8-0ab2-48ee-b0c7-8d69722a6a29.m3u8?adMethod=3&sessionId=waaylocalnow:WAAY ABC News 31
 #DESCRIPTION WAAY ABC News 31
-#SERVICE 5002:0:1:a6e8:f71:71d7:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e20ea4ed-ca87-430a-a8c4-92cfa8fd33cf.m3u8?adMethod=3&sessionId=kwwllocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:KWWL NBC 7
+#SERVICE 4097:0:1:a6e8:f71:71d7:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e20ea4ed-ca87-430a-a8c4-92cfa8fd33cf.m3u8?adMethod=3&sessionId=kwwllocalnow:KWWL NBC 7
 #DESCRIPTION KWWL NBC 7
-#SERVICE 5002:0:1:3f66:df0c:c29:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/27e09272-cc4f-4160-8c3f-c6c8ef924add.m3u8?adMethod=3&sessionId=wkowlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WKOW ABC 27
+#SERVICE 4097:0:1:3f66:df0c:c29:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/27e09272-cc4f-4160-8c3f-c6c8ef924add.m3u8?adMethod=3&sessionId=wkowlocalnow:WKOW ABC 27
 #DESCRIPTION WKOW ABC 27
-#SERVICE 5002:0:1:590a:8883:83ea:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e4268c24-9778-40ea-9cd9-63643de892b2.m3u8?adMethod=3&sessionId=waowlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WAOW ABC 19
+#SERVICE 4097:0:1:590a:8883:83ea:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e4268c24-9778-40ea-9cd9-63643de892b2.m3u8?adMethod=3&sessionId=waowlocalnow:WAOW ABC 19
 #DESCRIPTION WAOW ABC 19
-#SERVICE 5002:0:1:8dec:ecda:dab1:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e697653b-af00-416a-9553-ab7f1fbcadfe.m3u8?adMethod=3&sessionId=wqowlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WQOQ ABC 18
+#SERVICE 4097:0:1:8dec:ecda:dab1:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e697653b-af00-416a-9553-ab7f1fbcadfe.m3u8?adMethod=3&sessionId=wqowlocalnow:WQOQ ABC 18
 #DESCRIPTION WQOQ ABC 18
-#SERVICE 5002:0:1:728a:27a9:a930:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e988bce8-93e4-45f7-84fe-6ca7f841fff9.m3u8?adMethod=3&sessionId=wxowlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WXOW ABC 19
+#SERVICE 4097:0:1:728a:27a9:a930:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/e988bce8-93e4-45f7-84fe-6ca7f841fff9.m3u8?adMethod=3&sessionId=wxowlocalnow:WXOW ABC 19
 #DESCRIPTION WXOW ABC 19
-#SERVICE 5002:0:1:922b:6d20:20e5:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/84c07322-892b-4007-bccb-1a63239eac13.m3u8?adMethod=3&sessionId=wrexlocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WREX NBC 13
+#SERVICE 4097:0:1:922b:6d20:20e5:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/84c07322-892b-4007-bccb-1a63239eac13.m3u8?adMethod=3&sessionId=wrexlocalnow:WREX NBC 13
 #DESCRIPTION WREX NBC 13
-#SERVICE 5002:0:1:d77:e029:29c7:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/a4b9b881-cdf4-4859-b809-0f2abe62486d.m3u8?adMethod=3&sessionId=wsillocalnow#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:WSIL ABC 3
+#SERVICE 4097:0:1:d77:e029:29c7:1010101:0:0:0:https%3a//fuel-streaming-prod01.fuelmedia.io/v1/sem/a4b9b881-cdf4-4859-b809-0f2abe62486d.m3u8?adMethod=3&sessionId=wsillocalnow:WSIL ABC 3
 #DESCRIPTION WSIL ABC 3
-#SERVICE 5002:0:1:d025:b1c9:c948:1010101:0:0:0:https%3a//amg02104-imagicommcommun-whbqbreaking-newson-46m1s.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FOX 13 Memphis NOW
+#SERVICE 4097:0:1:d025:b1c9:c948:1010101:0:0:0:https%3a//amg02104-imagicommcommun-whbqbreaking-newson-46m1s.amagi.tv/playlist.m3u8:FOX 13 Memphis NOW
 #DESCRIPTION FOX 13 Memphis NOW
-#SERVICE 5002:0:1:30bd:7545:4567:1010101:0:0:0:https%3a//amg02104-imagicommcommun-kokibreaking-newson-7i1e1.amagi.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:FOX 23 Tulsa NOW
+#SERVICE 4097:0:1:30bd:7545:4567:1010101:0:0:0:https%3a//amg02104-imagicommcommun-kokibreaking-newson-7i1e1.amagi.tv/playlist.m3u8:FOX 23 Tulsa NOW
 #DESCRIPTION FOX 23 Tulsa NOW
-#SERVICE 5002:0:1:2c04:cdf8:f8c7:1010101:0:0:0:https%3a//m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-localnow.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Bloomberg Television
+#SERVICE 4097:0:1:2c04:cdf8:f8c7:1010101:0:0:0:https%3a//m113640-fcdn.mp.lura.live/live/origin-contribution-m1-btv-plus-localnow.m3u8:Bloomberg Television
 #DESCRIPTION Bloomberg Television
