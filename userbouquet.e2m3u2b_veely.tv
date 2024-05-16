@@ -1,0 +1,17 @@
+#NAME Veely
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Veely
+#DESCRIPTION Veely
+#SERVICE 4097:0:1:bac1:7595:95c4:1010101:0:0:0:https%3a//lds-realfamilies-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-real-families-simplestream/CDN/master.m3u8:Real Life
+#DESCRIPTION Real Life
+#SERVICE 4097:0:1:1560:e8ca:ca5c:1010101:0:0:0:https%3a//lds-realstories-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realstoriessimplestream/CDN/master.m3u8:Real Stories
+#DESCRIPTION Real Stories
+#SERVICE 4097:0:1:ae42:3bea:ea99:1010101:0:0:0:https%3a//lds-realwild-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realwild-simplestream/CDN/master.m3u8:Real Wild
+#DESCRIPTION Real Wild
+#SERVICE 4097:0:1:9739:64a0:a04a:1010101:0:0:0:https%3a//lds-timeline-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-timelinesimplestream/CDN/master.m3u8:Timeline
+#DESCRIPTION Timeline
+#SERVICE 4097:0:1:f947:da04:477:1010101:0:0:0:https%3a//lds-wonder-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-wondorsimplestream/CDN/master.m3u8:Wonder
+#DESCRIPTION Wonder
+#SERVICE 4097:0:1:6aa1:4cd1:d150:1010101:0:0:0:https%3a//lds-realcrime-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-realcrime-simplestream/CDN/master.m3u8:Real Crime
+#DESCRIPTION Real Crime
+#SERVICE 4097:0:1:2476:8be0:e0c9:1010101:0:0:0:https%3a//lds-donttellbride-simplestream.amagi.tv/hls/amagi_hls_data_ldsAAAAAA-donttellthebride-simplestream/CDN/master.m3u8:Don't Tell The Bride
+#DESCRIPTION Don't Tell The Bride
