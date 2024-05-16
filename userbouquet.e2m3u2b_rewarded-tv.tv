@@ -1,0 +1,123 @@
+#NAME Rewarded TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 4097:0:1:3ef3:29cb:cb12:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-coindesk-tv-rewardedtv/playlist.m3u8:Coindesk TV
+#DESCRIPTION Coindesk TV
+#SERVICE 4097:0:1:367b:f9f:9fd0:1010101:0:0:0:https%3a//watchmojo-1-us.rewardedtv.wurl.tv/playlist.m3u8:Watch Mojo
+#DESCRIPTION Watch Mojo
+#SERVICE 4097:0:1:2b2f:120c:c9a:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00375-fusemedia-shadesofblack-rewardedtv/playlist.m3u8:Shades of Black
+#DESCRIPTION Shades of Black
+#SERVICE 4097:0:1:52f5:a035:355e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeus-rewardedtv/playlist.m3u8:Mytime Movie Network US
+#DESCRIPTION Mytime Movie Network US
+#SERVICE 4097:0:1:6f91:50e0:e0d0:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeusspanish-rewardedtv/playlist.m3u8:Mytime Movie Network US Spanish
+#DESCRIPTION Mytime Movie Network US Spanish
+#SERVICE 4097:0:1:98ae:9346:46df:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-mobtv-rewardedtv/playlist.m3u8:MOB TV
+#DESCRIPTION MOB TV
+#SERVICE 4097:0:1:b78d:4365:659d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-conspiracytv-rewardedtv/playlist.m3u8:Conspiracy TV
+#DESCRIPTION Conspiracy TV
+#SERVICE 4097:0:1:eb0d:de7d:7d25:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01324-infamousmedia-thrillertv-rewardedtv/playlist.m3u8:Thriller TV
+#DESCRIPTION Thriller TV
+#SERVICE 4097:0:1:8cd3:8bf4:f402:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00450-herringnetwork-awe-rewardedtv/playlist.m3u8:AWE Plus
+#DESCRIPTION AWE Plus
+#SERVICE 4097:0:1:2014:6998:982f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelatvrewardedtv-rewardedtv/playlist.m3u8:Canela TV
+#DESCRIPTION Canela TV
+#SERVICE 4097:0:1:e6e0:b8ad:ad95:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canela-cinema-rewardedtv/playlist.m3u8:Canela Cinema
+#DESCRIPTION Canela Cinema
+#SERVICE 4097:0:1:c17d:5762:6266:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelaclasicos-rewardedtv/playlist.m3u8:Canela Clasicos
+#DESCRIPTION Canela Clasicos
+#SERVICE 4097:0:1:405c:51c0:c06e:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-caneladeportes-rewardedtv/playlist.m3u8:Canela Deportes
+#DESCRIPTION Canela Deportes
+#SERVICE 4097:0:1:9c0b:f9b4:b4d6:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatina-rewardedtv/playlist.m3u8:Trace Latina
+#DESCRIPTION Trace Latina
+#SERVICE 4097:0:1:9bec:9442:42a1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00143-younghollywood-younghollywood-rewardedtv/playlist.m3u8:Young Hollywood
+#DESCRIPTION Young Hollywood
+#SERVICE 4097:0:1:6daa:ff74:7409:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00495-uptv-aspiretvlife-rewardedtv/playlist.m3u8:Aspire TV Life
+#DESCRIPTION Aspire TV Life
+#SERVICE 4097:0:1:839d:a52f:2f60:1010101:0:0:0:https%3a//srpdigital-xplorationstation-1-us.rewardedtv.wurl.tv/playlist.m3u8:Xplorestation
+#DESCRIPTION Xplorestation
+#SERVICE 4097:0:1:c6f:44bb:bbec:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-revoltmixtape-rewardedtv/playlist.m3u8:Revolt Mix tape
+#DESCRIPTION Revolt Mix tape
+#SERVICE 4097:0:1:b245:2034:347c:1010101:0:0:0:https%3a//topic-crimeandthrillers-1-us.rewardedtv.wurl.tv/playlist.m3u8:Topic Crime and Thrillers
+#DESCRIPTION Topic Crime and Thrillers
+#SERVICE 4097:0:1:486f:afee:ee3c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-rewardedtv/playlist.m3u8:Sportsgrid
+#DESCRIPTION Sportsgrid
+#SERVICE 4097:0:1:a7bf:d7c4:c45f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01391-addigital-jovempanus-rewardedtv/playlist..m3u8:Jovempan News
+#DESCRIPTION Jovempan News
+#SERVICE 4097:0:1:aafc:e5a5:a535:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01756-newsnet-sportsnewshigh-rewardedtv/playlist.m3u8:Sports News High TV
+#DESCRIPTION Sports News High TV
+#SERVICE 4097:0:1:c0d1:1989:893d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedobigdocs-rewardedtv/playlist.m3u8:Wedo Big Docs
+#DESCRIPTION Wedo Big Docs
+#SERVICE 4097:0:1:4cf3:bf91:9144:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/63c8cbde28fcc49ecd5c700f/playlist.m3u8:Wedo Big Stories
+#DESCRIPTION Wedo Big Stories
+#SERVICE 4097:0:1:2635:9950:50f5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayo-rewardedtv/playlist.m3u8:Tayo +
+#DESCRIPTION Tayo +
+#SERVICE 4097:0:1:1b8e:2043:433d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01786-themeateater-meateater-rewardedtv/playlist.m3u8:Meateater TV
+#DESCRIPTION Meateater TV
+#SERVICE 4097:0:1:ff22:c721:2176:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01529-defiancetv-defiancemedia-rewardedtv/playlist.m3u8:Defiance TV
+#DESCRIPTION Defiance TV
+#SERVICE 4097:0:1:e023:5157:57fe:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-carbontvrewardedtv-rewardedtv/playlist.m3u8:Carbon TV
+#DESCRIPTION Carbon TV
+#SERVICE 4097:0:1:48a3:597c:7c02:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-floucine-rewardedtv/playlist.m3u8:Flou Cine
+#DESCRIPTION Flou Cine
+#SERVICE 4097:0:1:e2ce:a4f4:f40b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amgx0019-amagicontentplu-wildearth-rewardedtv/playlist.m3u8:Wild Earth
+#DESCRIPTION Wild Earth
+#SERVICE 4097:0:1:b50:471e:1e04:1010101:0:0:0:https%3a//memphisstudios-dittytv-1-us.rewardedtv.wurl.tv/playlist.m3u8:Ditty TV
+#DESCRIPTION Ditty TV
+#SERVICE 4097:0:1:6dcd:8800:f3:1010101:0:0:0:https%3a//distributionsjustepourrire-justforlaughsgags-1-eu.rewardedtv.wurl.tv/playlist.m3u8:Just for Laughs Gags
+#DESCRIPTION Just for Laughs Gags
+#SERVICE 4097:0:1:d4f6:f31f:1fb2:1010101:0:0:0:https%3a//bold-tv-corp-pecan-tv-1-eu.rewardedtv.wurl.tv/playlist.m3u8:Pecan
+#DESCRIPTION Pecan
+#SERVICE 4097:0:1:4111:627a:7a37:1010101:0:0:0:https%3a//extremeinternational-unreel-1-us.rewardedtv.wurl.tv/playlist.m3u8:Unreel
+#DESCRIPTION Unreel
+#SERVICE 4097:0:1:e33a:5d62:6277:1010101:0:0:0:https%3a//amogonetworx-charlie-1-eu.rewardedtv.wurl.tv/playlist.m3u8:Charlie
+#DESCRIPTION Charlie
+#SERVICE 4097:0:1:6b43:2d05:5fe:1010101:0:0:0:https%3a//previewchannel-previewchannel-1-us.rewardedtv.wurl.tv/playlist.m3u8:Preview Channel
+#DESCRIPTION Preview Channel
+#SERVICE 4097:0:1:89ef:770d:d27:1010101:0:0:0:https%3a//twistedmirror-twistedmirrorcomedy-2-us.rewardedtv.wurl.tv/playlist.m3u8:Twisted Mirror Comedy
+#DESCRIPTION Twisted Mirror Comedy
+#SERVICE 4097:0:1:8f12:91ec:eca2:1010101:0:0:0:https%3a//amg01681-beondtv-amg01681c1-rewardedtv-us-330.playouts.now.amagi.tv/playlist/amg01681-beondtv-beondtv-rewardedtvus/playlist.m3u8:BeondTV
+#DESCRIPTION BeondTV
+#SERVICE 4097:0:1:b770:b3b4:b453:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/6438503135a24cb7287b17f7/playlist.m3u8:Bollywood Prime
+#DESCRIPTION Bollywood Prime
+#SERVICE 4097:0:1:1283:daca:ca8d:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/6438512735a24cb7287b17f9/playlist.m3u8:India TV
+#DESCRIPTION India TV
+#SERVICE 4097:0:1:358e:c331:3161:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/64384eed79cd3b7d4c054e10/playlist.m3u8:9XM
+#DESCRIPTION 9XM
+#SERVICE 4097:0:1:bd39:55f9:f9e3:1010101:0:0:0:https%3a//extremeinternational-autoallstars-1-us.rewardedtv.wurl.tv/playlist.m3u8:Auto Allstars
+#DESCRIPTION Auto Allstars
+#SERVICE 4097:0:1:cd8b:5dc:dc3f:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d9d1d79cd3b7d4c054f71/335.m3u8:MTRSPRT1
+#DESCRIPTION MTRSPRT1
+#SERVICE 4097:0:1:5e18:a6c9:c94b:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643da07e35a24cb7287b1913/193.m3u8:Ski TV
+#DESCRIPTION Ski TV
+#SERVICE 4097:0:1:740f:69c0:c09e:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a8948c4403c3f21b811d3/195.m3u8:Level Up
+#DESCRIPTION Level Up
+#SERVICE 4097:0:1:ba97:65c:5c3a:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/63f7f73f392510cd2d1e9f24/playlist.m3u8:Cityline
+#DESCRIPTION Cityline
+#SERVICE 4097:0:1:3568:5dbe:be16:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643da27035a24cb7287b1914/255.m3u8:Evrgrn
+#DESCRIPTION Evrgrn
+#SERVICE 4097:0:1:7d02:c731:314b:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/63911999c3c26323ed4e150b/playlist.m3u8:FlixFling Now
+#DESCRIPTION FlixFling Now
+#SERVICE 4097:0:1:50b7:ac28:28f0:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/639119d0c3c26323ed4e150c/playlist.m3u8:Dailywire Now
+#DESCRIPTION Dailywire Now
+#SERVICE 4097:0:1:c953:3a7c:7c26:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/6425d17579cd3b7d4c0549b2/playlist.m3u8:ESTV
+#DESCRIPTION ESTV
+#SERVICE 4097:0:1:ac11:326d:6d39:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a88fac4403c3f21b811d0/master.m3u8:Poker Night in America
+#DESCRIPTION Poker Night in America
+#SERVICE 4097:0:1:5016:2ed4:d4f1:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a8917c4403c3f21b811d1/121.m3u8:Hard Knocks
+#DESCRIPTION Hard Knocks
+#SERVICE 4097:0:1:2019:d0e7:e705:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/6425ce2e35a24cb7287b1376/playlist.m3u8:Horse and Country
+#DESCRIPTION Horse and Country
+#SERVICE 4097:0:1:2bfc:2cca:ca22:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d985979cd3b7d4c054f6b/263.m3u8:Fite 24x7
+#DESCRIPTION Fite 24x7
+#SERVICE 4097:0:1:982c:37ff:ffe5:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d995f79cd3b7d4c054f6d/266.m3u8:Channel Fight Masterclass
+#DESCRIPTION Channel Fight Masterclass
+#SERVICE 4097:0:1:563c:2a50:50ea:1010101:0:0:0:https%3a//dtpj9n6sutxcl.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/RewardedTV-MuxIP-TheGrapplingNetwork/236.m3u8:The Grappling Network
+#DESCRIPTION The Grappling Network
+#SERVICE 4097:0:1:249a:53da:da02:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/639a892ac4403c3f21b811d2/152.m3u8:Humor Mill
+#DESCRIPTION Humor Mill
+#SERVICE 4097:0:1:e661:ae2e:2e90:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/6425d01835a24cb7287b1379/playlist.m3u8:CMC
+#DESCRIPTION CMC
+#SERVICE 4097:0:1:8b2e:9806:670:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643d9a3b35a24cb7287b190f/258.m3u8:Baeble Music
+#DESCRIPTION Baeble Music
+#SERVICE 4097:0:1:d1f7:e778:78f9:1010101:0:0:0:https%3a//api-wrapper-tracking.imaginereplay.com/api/v1/stream/643da01835a24cb7287b1911/340.m3u8?externalUserId=[USER_ID]&provider=powr&deviceId=[DEVICE_ID]&externalAssetId=643d9e8a260714000ba9ea3b&ads.w=1920&ads.h=720&ads.cb=[CACHEBUSTER]&ads.ip=[IP]&ads.ua=[USER_AGENT]&ads.ic=IAB1-5&ads.app_bundle=watch.rewarded.tv&ads.app_name=RewardedTV&ads.app_store_url=https%3a//watch.rewarded.tv&url=https%3a//watch.rewarded.tv&ads.content_series=BLK%20Cinema%20Network&ads.content_genre=Entertainment&ads.rating=TV-14&ads.channel_name=BLK%20Cinema%20Network&ads.us_privacy=[LAT]&ads.did=[DEVICE_ID]:Blk Cinema Network
+#DESCRIPTION Blk Cinema Network
