@@ -1,0 +1,93 @@
+#NAME Zeasn
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 4097:0:1:4305:29df:dfe8:1010101:0:0:0:https%3a//euronews-euronews-world-1-eu.zeasn.wurl.tv/playlist.m3u8:Euronews World (EU)
+#DESCRIPTION Euronews World (EU)
+#SERVICE 4097:0:1:812f:1375:75aa:1010101:0:0:0:https%3a//euronews-euronews-german-4-eu.zeasn.wurl.tv/playlist.m3u8:Euronews German (EU)
+#DESCRIPTION Euronews German (EU)
+#SERVICE 4097:0:1:65f3:e4a0:a02f:1010101:0:0:0:https%3a//bloomberg-bloombergtv-3-eu.zeasn.wurl.tv/playlist.m3u8:Bloomberg TV (EU)
+#DESCRIPTION Bloomberg TV (EU)
+#SERVICE 4097:0:1:61ce:75d0:d01b:1010101:0:0:0:https%3a//bloomberg-quicktake-1-eu.zeasn.wurl.tv/playlist.m3u8:Bloomberg Originals (EU)
+#DESCRIPTION Bloomberg Originals (EU)
+#SERVICE 4097:0:1:8d81:3a21:2181:1010101:0:0:0:https%3a//newidco-billiardstv-1-eu.zeasn.wurl.tv/playlist.m3u8:Billiards TV (EU)
+#DESCRIPTION Billiards TV (EU)
+#SERVICE 4097:0:1:7705:d111:113f:1010101:0:0:0:https%3a//telecine-pelimex-1-eu.zeasn.wurl.tv/playlist.m3u8:Pelimex (EU)
+#DESCRIPTION Pelimex (EU)
+#SERVICE 4097:0:1:3216:fe31:31a4:1010101:0:0:0:https%3a//distributionsjustepourrire-justforlaughsgags-1-eu.zeasn.wurl.tv/playlist.m3u8:Just for laughs Gags (EU)
+#DESCRIPTION Just for laughs Gags (EU)
+#SERVICE 4097:0:1:eb78:449a:9a4d:1010101:0:0:0:https%3a//distributionsjustepourrire-justforlaughstv-1-eu.zeasn.wurl.tv/playlist.m3u8:Just for Laughs TV (EU)
+#DESCRIPTION Just for Laughs TV (EU)
+#SERVICE 4097:0:1:876f:903a:3add:1010101:0:0:0:https%3a//answermedia-theredgreenshow-2-eu.zeasn.wurl.tv/playlist.m3u8:The Red Green Show (EU)
+#DESCRIPTION The Red Green Show (EU)
+#SERVICE 4097:0:1:24a2:8bea:eab2:1010101:0:0:0:https%3a//newidco-ygtv-1-eu.zeasn.wurl.tv/playlist.m3u8:YGTV (EU)
+#DESCRIPTION YGTV (EU)
+#SERVICE 4097:0:1:6062:2655:55ae:1010101:0:0:0:https%3a//brandusa-gousa-1-eu.zeasn.wurl.tv/playlist.m3u8:Go USA (EU)
+#DESCRIPTION Go USA (EU)
+#SERVICE 4097:0:1:1af9:a7e:7e1d:1010101:0:0:0:https%3a//chili-chili-alta-tensione-1-eu.zeasn.wurl.tv/playlist.m3u8:Chili Alta Tensione (EU)
+#DESCRIPTION Chili Alta Tensione (EU)
+#SERVICE 4097:0:1:2888:6e06:6c1:1010101:0:0:0:https%3a//chili-chiliindimenticabili-1-eu.zeasn.wurl.tv/playlist.m3u8:Chili Indimenticabli (EU)
+#DESCRIPTION Chili Indimenticabli (EU)
+#SERVICE 4097:0:1:34ac:a78c:8ccb:1010101:0:0:0:https%3a//chili-chilivelvet-1-eu.zeasn.wurl.tv/playlist.m3u8:Chili Velvet (EU)
+#DESCRIPTION Chili Velvet (EU)
+#SERVICE 4097:0:1:8de4:98da:da9b:1010101:0:0:0:https%3a//chili-film-sorrisi-1-eu.zeasn.wurl.tv/playlist.m3u8:Chile Film Sorrisi (EU)
+#DESCRIPTION Chile Film Sorrisi (EU)
+#SERVICE 4097:0:1:86f4:b0c1:c154:1010101:0:0:0:https%3a//chili-chilibuonumore-1-eu.zeasn.wurl.tv/playlist.m3u8:Chili Chilibounumore (EU)
+#DESCRIPTION Chili Chilibounumore (EU)
+#SERVICE 4097:0:1:c6ed:24bb:bbf7:1010101:0:0:0:https%3a//fashiontv-fashiontv-5-eu.zeasn.wurl.tv/playlist.m3u8:Fashion TV (EU)
+#DESCRIPTION Fashion TV (EU)
+#SERVICE 4097:0:1:3f67:c28f:8f5a:1010101:0:0:0:https%3a//tedconferences-ted-1-eu.zeasn.wurl.tv/playlist.m3u8:TED Conferences (EU)
+#DESCRIPTION TED Conferences (EU)
+#SERVICE 4097:0:1:9e6b:6fa9:a95d:1010101:0:0:0:https%3a//newidco-sbs-1-eu.zeasn.wurl.tv/playlist.m3u8:SBS (EU)
+#DESCRIPTION SBS (EU)
+#SERVICE 4097:0:1:5a6a:591f:1f35:1010101:0:0:0:https%3a//newidco-newkid-1-eu.zeasn.wurl.tv/playlist.m3u8:New Kid (EU)
+#DESCRIPTION New Kid (EU)
+#SERVICE 4097:0:1:6b23:65a1:a11c:1010101:0:0:0:https%3a//airvuz-dronetv-1-eu.zeasn.wurl.tv/playlist.m3u8:Drone TV (EU)
+#DESCRIPTION Drone TV (EU)
+#SERVICE 4097:0:1:70b2:6bad:ad64:1010101:0:0:0:https%3a//watchmojo-1-eu.zeasn.wurl.tv/playlist.m3u8:Watch Mojo (EU)
+#DESCRIPTION Watch Mojo (EU)
+#SERVICE 4097:0:1:dcab:21e9:e9f3:1010101:0:0:0:https%3a//gfcomnimedia-globalfashionchannel-1-eu.zeasn.wurl.tv/playlist.m3u8:Global Fashion Channel (EU)
+#DESCRIPTION Global Fashion Channel (EU)
+#SERVICE 4097:0:1:4591:cf6e:6eef:1010101:0:0:0:https%3a//newidco-newkfood-1-eu.zeasn.wurl.tv/playlist.m3u8:New K Food (EU)
+#DESCRIPTION New K Food (EU)
+#SERVICE 4097:0:1:c93e:1e20:208c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gusto-zeasn/playlist.m3u8:Gusto (EU)
+#DESCRIPTION Gusto (EU)
+#SERVICE 4097:0:1:8eae:7463:63d5:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00217-newsmax-newsmax-zeasn/playlist.m3u8:Newsmax (EU)
+#DESCRIPTION Newsmax (EU)
+#SERVICE 4097:0:1:13c8:a568:689a:1010101:0:0:0:https%3a//filmzie-filmzie-1-eu.zeasn.wurl.tv/playlist.m3u8:Filmzie (EU)
+#DESCRIPTION Filmzie (EU)
+#SERVICE 4097:0:1:6056:981:811a:1010101:0:0:0:https%3a//filmzie-filmzie-3-us.zeasn.wurl.tv/playlist.m3u8:Filmzie (US)
+#DESCRIPTION Filmzie (US)
+#SERVICE 4097:0:1:339:1f:1f82:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-watch4-zeasn-zeasn/playlist.m3u8:Wedo Movies
+#DESCRIPTION Wedo Movies
+#SERVICE 4097:0:1:bacd:84f0:f0a6:1010101:0:0:0:https%3a//minerva-cinemasegreto-1-it.zeasn.wurl.tv/playlist.m3u8:Cinema Segretto (IT)
+#DESCRIPTION Cinema Segretto (IT)
+#SERVICE 4097:0:1:fa5b:29f9:f9d2:1010101:0:0:0:https%3a//minerva-fullmoon-1-it.zeasn.wurl.tv/playlist.m3u8:Fullmoon (IT)
+#DESCRIPTION Fullmoon (IT)
+#SERVICE 4097:0:1:ac42:c17d:7dd3:1010101:0:0:0:https%3a//sasuprimetv-etv-1-eu.zeasn.wurl.tv/playlist.m3u8:ETV (EU)
+#DESCRIPTION ETV (EU)
+#SERVICE 4097:0:1:6294:d0e2:e2b1:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00350-bratstudio-brattv-zeasn/playlist.m3u8:Brat
+#DESCRIPTION Brat
+#SERVICE 4097:0:1:2b38:65bf:bf5c:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00609-palatinmediafil-cractiontv-zeasn/playlist.m3u8:Craction TV
+#DESCRIPTION Craction TV
+#SERVICE 4097:0:1:ef7d:29b5:b593:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwest-qwestjazz-zeasn/playlist.m3u8:Qwest Jazz (Geo)
+#DESCRIPTION Qwest Jazz (Geo)
+#SERVICE 4097:0:1:b8cd:d308:82c:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00447-qwest-qwestclassic-zeasn/playlist.m3u8:Qwest Classic (Geo)
+#DESCRIPTION Qwest Classic (Geo)
+#SERVICE 4097:0:1:8ca9:991c:1cf5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00398-zeasneuropebv-traceurban-zeasn/playlist.m3u8:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:64a5:7b6b:6b10:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-zeasn/playlist.m3u8:Moviedome Family
+#DESCRIPTION Moviedome Family
+#SERVICE 4097:0:1:8291:1880:8094:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadegermany-zeasn/playlist.m3u8:Tastemade Germany
+#DESCRIPTION Tastemade Germany
+#SERVICE 4097:0:1:8f6e:97f3:f36a:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-w4movies-zeasn-zeasn/playlist.m3u8:W4 Movies
+#DESCRIPTION W4 Movies
+#SERVICE 4097:0:1:5fee:614b:4bec:1010101:0:0:0:https%3a//cdn-ue1-prod.tsv2.amagi.tv/linear/amg00315-sportsgrid-sportsgrid-zeasn/playlist.m3u8:Sportsgrid
+#DESCRIPTION Sportsgrid
+#SERVICE 4097:0:1:d24:9ea4:a48d:1010101:0:0:0:https%3a//travelxp-travelxp-1-eu.zeasn.wurl.tv/playlist.m3u8:Travel XP (EU)
+#DESCRIPTION Travel XP (EU)
+#SERVICE 4097:0:1:21ae:c11c:1c41:1010101:0:0:0:https%3a//travelxp-travelxp-3-eu.zeasn.wurl.tv/playlist.m3u8:Travel XP (EU) alt1
+#DESCRIPTION Travel XP (EU) alt1
+#SERVICE 4097:0:1:2d52:d028:28bf:1010101:0:0:0:https%3a//travelxp-travelxp-4-eu.zeasn.wurl.tv/playlist.m3u8:Travel XP (EU) alt2
+#DESCRIPTION Travel XP (EU) alt2
+#SERVICE 4097:0:1:6802:6e58:5882:1010101:0:0:0:https%3a//travelxp-travelxp-5-eu.zeasn.wurl.tv/playlist.m3u8:Travel XP (EU) alt3
+#DESCRIPTION Travel XP (EU) alt3
