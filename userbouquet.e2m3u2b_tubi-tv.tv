@@ -19,6 +19,8 @@
 #DESCRIPTION The Grio
 #SERVICE 4097:0:1:5228:18d2:d21b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Scripps-News.m3u8:Scripps News
 #DESCRIPTION Scripps News
+#SERVICE 4097:0:1:80c:6001:167:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-News.m3u8:Estrella News
+#DESCRIPTION Estrella News
 #SERVICE 4097:0:1:ca52:4c8:c8ae:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Relative.m3u8:Bloomberg TV
 #DESCRIPTION Bloomberg TV
 #SERVICE 4097:0:1:315:f14:14da:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bloomberg-Originals.m3u8:Bloomberg Originals
@@ -197,6 +199,10 @@
 #DESCRIPTION Wanted Dead or Alive
 #SERVICE 4097:0:1:4dea:4287:8753:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Caught-In-Providence.m3u8:Caught in Providence
 #DESCRIPTION Caught in Providence
+#SERVICE 4097:0:1:3c6:fbf4:f406:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,American-Pickers.m3u8:American Pickers Channel
+#DESCRIPTION American Pickers Channel
+#SERVICE 4097:0:1:3990:530e:e92:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Property-Brothers.m3u8:Property Brothers Channel
+#DESCRIPTION Property Brothers Channel
 #SERVICE 4097:0:1:71ae:d5c4:c4f6:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Biggest-Loser.m3u8:The Biggest Loser
 #DESCRIPTION The Biggest Loser
 #SERVICE 4097:0:1:52e6:3ecf:cfdb:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,My-Time.m3u8:Mytime Movie Network (Geo)
@@ -257,10 +263,12 @@
 #DESCRIPTION Nosey (Geo)
 #SERVICE 4097:0:1:15e2:dbf:bf44:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HistoryTime.m3u8:History Time (Canada)
 #DESCRIPTION History Time (Canada)
-#SERVICE 4097:0:1:4da4:e07:733:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV-Canada.m3u8:FilmRise Black TV (Canada)
-#DESCRIPTION FilmRise Black TV (Canada)
 #SERVICE 4097:0:1:49fe:86b8:b8bf:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Horror-Canada.m3u8:FilmRise Horror (Canada)
 #DESCRIPTION FilmRise Horror (Canada)
+#SERVICE 4097:0:1:8742:8f05:57a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-Western-Canada2.m3u8:FilmRise Western (Canada)
+#DESCRIPTION FilmRise Western (Canada)
+#SERVICE 4097:0:1:4da4:e07:733:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-BlackTV-Canada.m3u8:FilmRise Black TV (Canada)
+#DESCRIPTION FilmRise Black TV (Canada)
 #SERVICE 4097:0:1:9e67:db4f:4f56:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,FilmRise-True-Crime-Canada.m3u8:FilmRise True Crime (Canada)
 #DESCRIPTION FilmRise True Crime (Canada)
 #SERVICE 4097:0:1:751e:e163:63ad:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,CrimeTime-Canada.m3u8:Crime Time (Canada)
@@ -279,18 +287,36 @@
 #DESCRIPTION TWN Elements (Canada)
 #SERVICE 4097:0:1:8e7c:92bb:bb2e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,HauntTV-Canada.m3u8:Haunt TV (Canada)
 #DESCRIPTION Haunt TV (Canada)
+#SERVICE 4097:0:1:a9f8:ea98:9806:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MovieSphere-Canada2.m3u8:MovieSphere (Canada)
+#DESCRIPTION MovieSphere (Canada)
+#SERVICE 4097:0:1:45f:43d:3d5c:1010101:0:0:0:https%3a//live-manifest.production-public.tubi.io/live/dazntv-canada/h264/playlist.m3u8:Dazn TV (Canada)
+#DESCRIPTION Dazn TV (Canada)
+#SERVICE 4097:0:1:9b12:192a:2abf:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Womens-Sports-Network-Canada.m3u8:Womens Sports Network (Canada)
+#DESCRIPTION Womens Sports Network (Canada)
+#SERVICE 4097:0:1:858a:d48:48a8:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8:Womens Sports Network
+#DESCRIPTION Womens Sports Network
 #SERVICE 4097:0:1:bdb:dc94:9448:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports2.m3u8:Fox Sports on Tubi (Geo)
 #DESCRIPTION Fox Sports on Tubi (Geo)
+#SERVICE 4097:0:1:8bbc:f70b:bc9:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Womens-Football.m3u8:Dazn Womens Football
+#DESCRIPTION Dazn Womens Football
+#SERVICE 4097:0:1:d1e:38f8:f816:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Dazn-Ringside.m3u8:Dazn Ringside
+#DESCRIPTION Dazn Ringside
+#SERVICE 4097:0:1:da3f:939b:9bec:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,PGA.m3u8:PGA TOUR
+#DESCRIPTION PGA TOUR
+#SERVICE 4097:0:1:b22a:2cde:de56:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NHL.m3u8:NHL
+#DESCRIPTION NHL
+#SERVICE 4097:0:1:7ee1:5e1:e19a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WBD-HBO-Boxing.m3u8:WBTV HBO Boxing (Geo)
+#DESCRIPTION WBTV HBO Boxing (Geo)
+#SERVICE 4097:0:1:8e32:a817:17cf:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8:MLB
+#DESCRIPTION MLB
+#SERVICE 4097:0:1:ccfb:4e31:31c5:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB3.m3u8:MLB other?
+#DESCRIPTION MLB other?
+#SERVICE 4097:0:1:6d8b:b8af:af28:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8:Fubo Sports Network (Geo)
+#DESCRIPTION Fubo Sports Network (Geo)
 #SERVICE 4097:0:1:5ab9:3587:8709:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NBA-G.m3u8:NBA G-League (Geo)
 #DESCRIPTION NBA G-League (Geo)
 #SERVICE 4097:0:1:63d7:8a68:6830:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,NFL2.m3u8:NFL
 #DESCRIPTION NFL
-#SERVICE 4097:0:1:8e32:a817:17cf:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,MLB2.m3u8:MLB
-#DESCRIPTION MLB
-#SERVICE 4097:0:1:da3f:939b:9bec:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,PGA.m3u8:PGA TOUR
-#DESCRIPTION PGA TOUR
-#SERVICE 4097:0:1:6d8b:b8af:af28:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fubo.m3u8:Fubo Sports Network (Geo)
-#DESCRIPTION Fubo Sports Network (Geo)
 #SERVICE 4097:0:1:2fea:f5e3:e315:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Top-Rank.m3u8:Top Rank Classics
 #DESCRIPTION Top Rank Classics
 #SERVICE 4097:0:1:7e48:9453:53f9:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Motortrend2.m3u8:MotorTrend FAST TV
@@ -309,22 +335,22 @@
 #DESCRIPTION Racing America
 #SERVICE 4097:0:1:e8db:c60b:b05:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,NHRA.m3u8:NHRA TV
 #DESCRIPTION NHRA TV
+#SERVICE 4097:0:1:858a:d48:48a8:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fast-Studios-Womens-Sports.m3u8:Womens Sports Network
+#DESCRIPTION Womens Sports Network
+#SERVICE 4097:0:1:683:5e01:10d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8:Fox Sports en Espanol (Geo)
+#DESCRIPTION Fox Sports en Espanol (Geo)
 #SERVICE 4097:0:1:1f9b:4eea:ea75:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN.m3u8:Bein Sports XTRA (Geo)
 #DESCRIPTION Bein Sports XTRA (Geo)
 #SERVICE 4097:0:1:3eb5:5610:10c5:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Pac12.m3u8:PAC-12 Insider (Geo)
 #DESCRIPTION PAC-12 Insider (Geo)
 #SERVICE 4097:0:1:8b1e:fd60:601b:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Real-Madrid.m3u8:Real Madrid TV (Geo)
 #DESCRIPTION Real Madrid TV (Geo)
-#SERVICE 4097:0:1:bef5:bc98:98d5:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ACCDN.m3u8:ACCDN (Geo)
-#DESCRIPTION ACCDN (Geo)
-#SERVICE 4097:0:1:683:5e01:10d:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8:Fox Sports en Espanol (Geo)
-#DESCRIPTION Fox Sports en Espanol (Geo)
-#SERVICE 4097:0:1:80c:6001:167:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-News.m3u8:Estrella News
-#DESCRIPTION Estrella News
-#SERVICE 4097:0:1:294a:3950:50ab:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-Games.m3u8:Estrella Games
-#DESCRIPTION Estrella Games
 #SERVICE 4097:0:1:a0c3:631e:1ea3:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,beIN-Espanol.m3u8:Bein Sports Xtra En Espanol (Geo)
 #DESCRIPTION Bein Sports Xtra En Espanol (Geo)
+#SERVICE 4097:0:1:bef5:bc98:98d5:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,ACCDN.m3u8:ACCDN (Geo)
+#DESCRIPTION ACCDN (Geo)
+#SERVICE 4097:0:1:294a:3950:50ab:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Estrella-Games.m3u8:Estrella Games
+#DESCRIPTION Estrella Games
 #SERVICE 4097:0:1:816c:db99:999b:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Anger-Management-Espanol.m3u8:Anger Management en Espanol
 #DESCRIPTION Anger Management en Espanol
 #SERVICE 4097:0:1:fdae:54ad:ade2:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cine-Estrella.m3u8:Cine Estrella
@@ -373,8 +399,8 @@
 #DESCRIPTION KPNX NBC 12 Phoenix (broken)
 #SERVICE 4097:0:1:68e7:7559:5913:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KCPQ.m3u8:KCPQ Fox 13 Seattle
 #DESCRIPTION KCPQ Fox 13 Seattle
-#SERVICE 4097:0:1:85aa:e792:9209:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KING.m3u8:KING NBC 5 Seattle (broken)
-#DESCRIPTION KING NBC 5 Seattle (broken)
+#SERVICE 4097:0:1:8b46:5811:111e:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KING.m3u8:KING NBC 5 Seattle (Geo)
+#DESCRIPTION KING NBC 5 Seattle (Geo)
 #SERVICE 4097:0:1:bd57:2364:643a:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KIRO.m3u8:KIRO CBS 7 Seattle (broken)
 #DESCRIPTION KIRO CBS 7 Seattle (broken)
 #SERVICE 4097:0:1:39ff:4d60:60da:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WTVT.m3u8:WTVT Fox 13 Tampa Bay
@@ -417,8 +443,8 @@
 #DESCRIPTION KGW NBC 8 Portland Oregon
 #SERVICE 4097:0:1:91dc:7414:14e1:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,KSDK.m3u8:KSDK NBC 5 St Louis (broken)
 #DESCRIPTION KSDK NBC 5 St Louis (broken)
-#SERVICE 4097:0:1:df9d:e4ac:ac32:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WSOC.m3u8:WSOC ABC 9 Charlotte (broken)
-#DESCRIPTION WSOC ABC 9 Charlotte (broken)
+#SERVICE 4097:0:1:a8c1:8d04:4e2:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,WSOC.m3u8:WSOC ABC 9 Charlotte (Geo)
+#DESCRIPTION WSOC ABC 9 Charlotte (Geo)
 #SERVICE 4097:0:1:1bd0:f401:106:1010101:0:0:0:https%3a//live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,WPXI2.m3u8:WPXI NBC 11 Pittsburgh (broken)
 #DESCRIPTION WPXI NBC 11 Pittsburgh (broken)
 #SERVICE 4097:0:1:4593:de5b:5ba2:1010101:0:0:0:https%3a//csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8:Very Pittsburgh by WTAE
