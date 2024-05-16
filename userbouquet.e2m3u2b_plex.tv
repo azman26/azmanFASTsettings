@@ -15,6 +15,8 @@
 #DESCRIPTION 4UV
 #SERVICE 4097:0:1:67e6:7709:932:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8:5-Minute Crafts
 #DESCRIPTION 5-Minute Crafts
+#SERVICE 4097:0:1:e7cc:d2f6:f6ca:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8:80's Sitcom Flashback
+#DESCRIPTION 80's Sitcom Flashback
 #SERVICE 4097:0:1:22e0:f53f:3fbb:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1.m3u8:ACCDN
 #DESCRIPTION ACCDN
 #SERVICE 4097:0:1:903a:f11a:1a10:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01.m3u8:ACL Cornhole TV
@@ -27,8 +29,6 @@
 #DESCRIPTION ALF
 #SERVICE 4097:0:1:f8de:116d:6dc0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-628bb0eafcb403aa62d2317d.m3u8:ALLBLK Gems
 #DESCRIPTION ALLBLK Gems
-#SERVICE 4097:0:1:47c4:d709:985:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60bfd0907c60b7002c9765de.m3u8:ALTRD.TV
-#DESCRIPTION ALTRD.TV
 #SERVICE 4097:0:1:d850:3872:7261:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8:AMC Thrillers
 #DESCRIPTION AMC Thrillers
 #SERVICE 4097:0:1:12b9:d9a4:a48c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62d1efa6c33948ea4ceedbcf.m3u8:AMC en Español
@@ -43,8 +43,6 @@
 #DESCRIPTION AXS TV NOW
 #SERVICE 4097:0:1:65fb:975:75b2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8:AccuWeather NOW
 #DESCRIPTION AccuWeather NOW
-#SERVICE 4097:0:1:34b9:151c:1c35:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a4c0c68d91e31d4cc86a.m3u8:Action News Jax
-#DESCRIPTION Action News Jax
 #SERVICE 4097:0:1:328d:2ae1:e193:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8:AfroLandTV
 #DESCRIPTION AfroLandTV
 #SERVICE 4097:0:1:37c8:e438:38bd:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6f799a9e88ee909e7ee21.m3u8:Alien Nation by DUST
@@ -121,18 +119,12 @@
 #DESCRIPTION BikeMag
 #SERVICE 4097:0:1:f959:b22c:2c11:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6334a8e48a7b2a349d903b8c.m3u8:Billiard TV
 #DESCRIPTION Billiard TV
-#SERVICE 4097:0:1:30a6:ea45:45e4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64a353a864e8e3dc0a29524f.m3u8:Black Star Network
-#DESCRIPTION Black Star Network
 #SERVICE 4097:0:1:601b:e8c9:c99b:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8:BlackPix
 #DESCRIPTION BlackPix
 #SERVICE 4097:0:1:d2fc:d72c:2c72:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518.m3u8:Bloomberg Originals
 #DESCRIPTION Bloomberg Originals
 #SERVICE 4097:0:1:6460:3d52:5294:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516.m3u8:Bloomberg TV
 #DESCRIPTION Bloomberg TV
-#SERVICE 4097:0:1:931f:6085:85f0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6334bd648a7b2a349d903bc3.m3u8:Boonie Cubs TV
-#DESCRIPTION Boonie Cubs TV
-#SERVICE 4097:0:1:218:1a0a:ab9:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a37f43ec158c3a3eb292.m3u8:Boston 25 News
-#DESCRIPTION Boston 25 News
 #SERVICE 4097:0:1:477a:7cd4:d488:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a.m3u8:Bounce XL
 #DESCRIPTION Bounce XL
 #SERVICE 4097:0:1:5120:a5d7:d798:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d6f6c5a9e88ee909e7ee1f.m3u8:Brat TV
@@ -145,8 +137,14 @@
 #DESCRIPTION C4 en Alerta
 #SERVICE 4097:0:1:f33a:57dc:dc67:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64c91830ea7db2f52688c52c.m3u8:CBC News International
 #DESCRIPTION CBC News International
+#SERVICE 4097:0:1:a993:1bb4:b476:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6571f43a1d2aae780d597196.m3u8:CBS News
+#DESCRIPTION CBS News
 #SERVICE 4097:0:1:f7:abb1:b133:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65970654fca6056ca69e3e41.m3u8:CBS News Los Angeles
 #DESCRIPTION CBS News Los Angeles
+#SERVICE 4097:0:1:b555:6392:92cd:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd.m3u8:CBS Sports Golazo Network
+#DESCRIPTION CBS Sports Golazo Network
+#SERVICE 4097:0:1:9008:c4b:4bba:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-657107dc56226238740fcc2d.m3u8:CBS Sports HQ
+#DESCRIPTION CBS Sports HQ
 #SERVICE 4097:0:1:9c7e:3f93:93b2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6.m3u8:CINEPRIDE
 #DESCRIPTION CINEPRIDE
 #SERVICE 4097:0:1:81c:47ac:ac84:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-618adcbb6769b2b0bcc4c17f.m3u8:COMMUNE
@@ -165,6 +163,8 @@
 #DESCRIPTION Canela TV
 #SERVICE 4097:0:1:6996:d71f:1f64:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e6df6e4a5e9b4cedc6d529.m3u8:Canela Telenovelas
 #DESCRIPTION Canela Telenovelas
+#SERVICE 4097:0:1:ec6c:5d6d:6dc4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6605be856b034eec533c49ee.m3u8:Car Chase
+#DESCRIPTION Car Chase
 #SERVICE 4097:0:1:5c3d:7dc7:c7d4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61ddcdc03c12aa1e5d320aaf.m3u8:Caught in Providence
 #DESCRIPTION Caught in Providence
 #SERVICE 4097:0:1:e609:f77f:7f0d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e.m3u8:Celebrity Name Game
@@ -183,12 +183,12 @@
 #DESCRIPTION Christmas Classics
 #SERVICE 4097:0:1:31ab:ad04:408:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fb8ec0214cf8b3b54b5ec8.m3u8:Cine EstrellaTV
 #DESCRIPTION Cine EstrellaTV
-#SERVICE 4097:0:1:3897:b638:38ac:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-645d848363c2c64203aa48fc.m3u8:Cine Premium Plus
-#DESCRIPTION Cine Premium Plus
 #SERVICE 4097:0:1:90bd:19c4:c455:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e6e2f04a5e9b4cedc6d52b.m3u8:Cine de Horror
 #DESCRIPTION Cine de Horror
 #SERVICE 4097:0:1:db74:ef68:68d3:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64e6e46f27a915f9b5184e9a.m3u8:Cine en Español
 #DESCRIPTION Cine en Español
+#SERVICE 4097:0:1:1d21:a55:55e8:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65f0e049046e6131ecc31847.m3u8:Cine y Series
+#DESCRIPTION Cine y Series
 #SERVICE 4097:0:1:2630:cf44:44e6:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa.m3u8:CineLife
 #DESCRIPTION CineLife
 #SERVICE 4097:0:1:c299:6e7c:7c66:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64695233f73356567a64ce90.m3u8:Cinema
@@ -237,6 +237,8 @@
 #DESCRIPTION Crime & Justice
 #SERVICE 4097:0:1:e4ed:55ab:ab5c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41.m3u8:Crime 360
 #DESCRIPTION Crime 360
+#SERVICE 4097:0:1:8c51:91f9:f986:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099c.m3u8:Crime Scene TV
+#DESCRIPTION Crime Scene TV
 #SERVICE 4097:0:1:60f9:599a:9a1f:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c97b45187b3c9f3581fdfb.m3u8:Crime ThrillHer
 #DESCRIPTION Crime ThrillHer
 #SERVICE 4097:0:1:48a9:c79a:9ab4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c97410187b3c9f3581fdf4.m3u8:Crimes Cults Killers
@@ -277,6 +279,8 @@
 #DESCRIPTION Dungeon TV
 #SERVICE 4097:0:1:be4:4ac7:c7f9:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-653d9d28d3e2e30d889226be.m3u8:Dungeons & Dragons Adventures
 #DESCRIPTION Dungeons & Dragons Adventures
+#SERVICE 4097:0:1:a754:edaf:afaa:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65f0cae2046e6131ecc3183f.m3u8:EarthXtra
+#DESCRIPTION EarthXtra
 #SERVICE 4097:0:1:ffb1:e41:4162:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ee76b5271f393d2d9f709a.m3u8:Easy Listening
 #DESCRIPTION Easy Listening
 #SERVICE 4097:0:1:bfaf:f0dc:dc9e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65960dd6af3795f8bc3ef2f7.m3u8:Eater
@@ -285,8 +289,6 @@
 #DESCRIPTION Ebony TV by Lionsgate
 #SERVICE 4097:0:1:6d33:34c2:c221:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-618ab1f175913b296fbe56db.m3u8:Eddie's Wonderland
 #DESCRIPTION Eddie's Wonderland
-#SERVICE 4097:0:1:db93:e94c:4cc0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8:Edge Sport
-#DESCRIPTION Edge Sport
 #SERVICE 4097:0:1:a09f:2f58:58ba:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8:El Conflicto TV
 #DESCRIPTION El Conflicto TV
 #SERVICE 4097:0:1:6652:e12e:2ef5:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6335ad3170dc93c71ab5ce09.m3u8:El Rey Rebel
@@ -297,6 +299,8 @@
 #DESCRIPTION ElectricNOW en Español
 #SERVICE 4097:0:1:bdb8:53e0:e0d9:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c1db220aa23f984207af80.m3u8:Emergency!
 #DESCRIPTION Emergency!
+#SERVICE 4097:0:1:347a:2d72:723c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6578bb741a12778a8550d158.m3u8:Entertainment Tonight
+#DESCRIPTION Entertainment Tonight
 #SERVICE 4097:0:1:1b88:47cc:cc61:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ba4c6bf663580a7238f329.m3u8:Entrepreneur TV
 #DESCRIPTION Entrepreneur TV
 #SERVICE 4097:0:1:a43f:867a:7a33:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64fb9149bb3e0baa5dcc0944.m3u8:Estrella Games
@@ -381,8 +385,6 @@
 #DESCRIPTION Forensic Files
 #SERVICE 4097:0:1:9dd:a4a3:a3a3:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6529ad9dc8221fe0db66c0b3.m3u8:Fork & Flight
 #DESCRIPTION Fork & Flight
-#SERVICE 4097:0:1:88d3:2815:15f8:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8:Free Movies Plus
-#DESCRIPTION Free Movies Plus
 #SERVICE 4097:0:1:b14d:9ab3:b381:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60240f58676235002df19f4b.m3u8:FreeTV Acción
 #DESCRIPTION FreeTV Acción
 #SERVICE 4097:0:1:4792:7144:4456:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d94f1e137315d10db2c80b.m3u8:FreeTV Action
@@ -423,8 +425,6 @@
 #DESCRIPTION Fubo Sports Network
 #SERVICE 4097:0:1:60e1:2ae3:e3d8:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63d08694ab0965e49583e3b2.m3u8:Funny Or Die, Inc.
 #DESCRIPTION Funny Or Die, Inc.
-#SERVICE 4097:0:1:5e99:f7b2:b22d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc6f3a92b6f7b002e77ffad.m3u8:GFN TV
-#DESCRIPTION GFN TV
 #SERVICE 4097:0:1:32d3:14ad:ad9a:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8:GLORY Kickboxing
 #DESCRIPTION GLORY Kickboxing
 #SERVICE 4097:0:1:7328:2c51:519f:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8:GUSTOTV
@@ -441,6 +441,8 @@
 #DESCRIPTION Ghost Hunters Channel
 #SERVICE 4097:0:1:47e4:f9eb:eb14:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc76d.m3u8:Glewed TV
 #DESCRIPTION Glewed TV
+#SERVICE 4097:0:1:424c:fd6:d633:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615360a8423b8d7e61a099b.m3u8:Go Wild
+#DESCRIPTION Go Wild
 #SERVICE 4097:0:1:98f8:90e8:e807:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc2.m3u8:GoTraveler
 #DESCRIPTION GoTraveler
 #SERVICE 4097:0:1:ed68:68a2:a21d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-654d5db7ff9919cc3e31e961.m3u8:GoUSA TV
@@ -465,8 +467,6 @@
 #DESCRIPTION Hallmark Movies & More
 #SERVICE 4097:0:1:b164:5aa1:a1dd:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65d7b3d2278ed4498289c34b.m3u8:Hallmark en Español
 #DESCRIPTION Hallmark en Español
-#SERVICE 4097:0:1:fc29:68b1:b17d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-623171af5995505c86629208.m3u8:HappiTV
-#DESCRIPTION HappiTV
 #SERVICE 4097:0:1:1c07:2e27:27fb:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8:Hard Knocks
 #DESCRIPTION Hard Knocks
 #SERVICE 4097:0:1:ed92:b4b7:b7e2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806.m3u8:Heartland
@@ -531,8 +531,6 @@
 #DESCRIPTION Judge Nosey
 #SERVICE 4097:0:1:2bac:b5eb:eb04:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64704954e536e0faaf10be9f.m3u8:Just For Laughs Gags
 #DESCRIPTION Just For Laughs Gags
-#SERVICE 4097:0:1:a6f5:dec:ec7d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a1f5c68d91e31d4cc864.m3u8:KIRO 7 Seattle
-#DESCRIPTION KIRO 7 Seattle
 #SERVICE 4097:0:1:d0ec:5aab:ab17:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8:Kidoodle TV
 #DESCRIPTION Kidoodle TV
 #SERVICE 4097:0:1:58e4:d46a:6ae2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc797.m3u8:KidsFlix
@@ -575,6 +573,8 @@
 #DESCRIPTION MAVTV Select
 #SERVICE 4097:0:1:1a46:d633:33ee:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-611152a48f945c002c40021a.m3u8:MHz Now
 #DESCRIPTION MHz Now
+#SERVICE 4097:0:1:33fd:4f1f:1f0d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65fee252a398630d5911337d.m3u8:MLB
+#DESCRIPTION MLB
 #SERVICE 4097:0:1:cce6:5e51:517b:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fb84bc1b7ad2d002dcb735f.m3u8:MOVIESPHERE
 #DESCRIPTION MOVIESPHERE
 #SERVICE 4097:0:1:d7bb:c06:668:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63b5df3f27159bc9de3062aa.m3u8:MSG SportsZone
@@ -617,6 +617,8 @@
 #DESCRIPTION Moconomy - Economía y Finanzas
 #SERVICE 4097:0:1:63cb:e631:3142:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c97da7187b3c9f3581fdfd.m3u8:Modern Marvels by History
 #DESCRIPTION Modern Marvels by History
+#SERVICE 4097:0:1:6614:8771:712d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615885e1eabecf2c9d56495.m3u8:Monster Jam
+#DESCRIPTION Monster Jam
 #SERVICE 4097:0:1:a9c2:842d:2df0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6112a9139894c8002c6cb87f.m3u8:More U
 #DESCRIPTION More U
 #SERVICE 4097:0:1:a338:b651:5114:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6373bfe48e2036e4410ddb82.m3u8:MotorTrend FAST TV
@@ -629,6 +631,8 @@
 #DESCRIPTION Motorvision TV
 #SERVICE 4097:0:1:eb1f:5b0d:dab:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63c1e47ef0f132afc3afbab2.m3u8:Movie Favorites by Lifetime
 #DESCRIPTION Movie Favorites by Lifetime
+#SERVICE 4097:0:1:18b8:f083:8300:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65d90ec99c7a6da8c3ce57eb.m3u8:Movieitaly Channel
+#DESCRIPTION Movieitaly Channel
 #SERVICE 4097:0:1:ba12:6618:1841:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8:Music Legends
 #DESCRIPTION Music Legends
 #SERVICE 4097:0:1:b870:db6a:6a5d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-644875d7af92c31f4a190bc2.m3u8:MyTime Movie Network
@@ -643,6 +647,8 @@
 #DESCRIPTION NEW K-POP
 #SERVICE 4097:0:1:af98:4e4b:4bad:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4eddab2fdec002c141131.m3u8:NEW K.MOVIES
 #DESCRIPTION NEW K.MOVIES
+#SERVICE 4097:0:1:5356:5e03:3c0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61e805952502a7a6fa84d70f.m3u8:NFL Channel
+#DESCRIPTION NFL Channel
 #SERVICE 4097:0:1:bc77:4503:323:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12323.m3u8:NHRA TV
 #DESCRIPTION NHRA TV
 #SERVICE 4097:0:1:6756:e660:604f:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6087ff3ae99ff1002ce1465b.m3u8:Nashville
@@ -673,8 +679,6 @@
 #DESCRIPTION Operation Repo
 #SERVICE 4097:0:1:a677:ef63:63b9:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64f0db77c2bc9b9001d46eaa.m3u8:Oro TV
 #DESCRIPTION Oro TV
-#SERVICE 4097:0:1:e134:2b06:67b:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6dd.m3u8:Outdoor America
-#DESCRIPTION Outdoor America
 #SERVICE 4097:0:1:31e:7094:94cd:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-641496bf238e21f260e7844a.m3u8:OuterSphere by Lionsgate
 #DESCRIPTION OuterSphere by Lionsgate
 #SERVICE 4097:0:1:7740:56de:de71:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-629e522ed1bc5f1b16c6b98d.m3u8:Outside
@@ -687,6 +691,8 @@
 #DESCRIPTION PBS Food
 #SERVICE 4097:0:1:74cd:b585:853e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63506e7747b2355a27e76e7f.m3u8:PBS Nature
 #DESCRIPTION PBS Nature
+#SERVICE 4097:0:1:1ff7:eaae:ae7e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65fb337f00433c8a0799ce98.m3u8:PBS Retro
+#DESCRIPTION PBS Retro
 #SERVICE 4097:0:1:607a:a8fd:fdeb:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01.m3u8:PFL MMA
 #DESCRIPTION PFL MMA
 #SERVICE 4097:0:1:5170:6ed8:d884:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f7f.m3u8:PW Kids
@@ -709,6 +715,8 @@
 #DESCRIPTION Pitufo TV
 #SERVICE 4097:0:1:7b2a:a28c:8c5b:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64b7139c8ec13d5dcb7e6bb2.m3u8:Places & Spaces
 #DESCRIPTION Places & Spaces
+#SERVICE 4097:0:1:50e1:ad7e:7e2f:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-66180428e06c9878b6d9d76c.m3u8:Plex24
+#DESCRIPTION Plex24
 #SERVICE 4097:0:1:d80:6722:2239:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60afc726623f2f002c5bb49f.m3u8:Poker Night TV
 #DESCRIPTION Poker Night TV
 #SERVICE 4097:0:1:f270:c40d:d27:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64ac687b4192b4e1bab96279.m3u8:PokerGO
@@ -819,12 +827,16 @@
 #DESCRIPTION So... Real
 #SERVICE 4097:0:1:b7e6:2eee:ee8e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327.m3u8:Sonic TV
 #DESCRIPTION Sonic TV
+#SERVICE 4097:0:1:721f:a814:1430:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df60.m3u8:Sonic The Hedgehog
+#DESCRIPTION Sonic The Hedgehog
 #SERVICE 4097:0:1:6b74:a56a:6a0f:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61aaa17a784a2161d3caf801.m3u8:Soul Storm
 #DESCRIPTION Soul Storm
 #SERVICE 4097:0:1:eb27:9583:831a:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-63616d4c9fdbf7808e22baee.m3u8:Space Science Now
 #DESCRIPTION Space Science Now
 #SERVICE 4097:0:1:f5e6:8076:767c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-614a11bfa6f839154ee3306d.m3u8:Spark TV Light & Love
 #DESCRIPTION Spark TV Light & Love
+#SERVICE 4097:0:1:44a1:9dc8:c8a2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-661d6a8db518ef381a85ed60.m3u8:Spark TV Luz y Amor
+#DESCRIPTION Spark TV Luz y Amor
 #SERVICE 4097:0:1:ef9f:319c:9cbd:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef11485d33ab9004048a1ca.m3u8:SportsGrid
 #DESCRIPTION SportsGrid
 #SERVICE 4097:0:1:6991:7776:76d5:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92.m3u8:Stadium
@@ -845,6 +857,8 @@
 #DESCRIPTION Stingray Naturescape
 #SERVICE 4097:0:1:d004:18fa:faf4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f3ba.m3u8:Stories by AMC
 #DESCRIPTION Stories by AMC
+#SERVICE 4097:0:1:f85:f755:55b8:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df62.m3u8:Strawberry Shortcake
+#DESCRIPTION Strawberry Shortcake
 #SERVICE 4097:0:1:3002:dbc7:c7be:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8:Strongman Champions
 #DESCRIPTION Strongman Champions
 #SERVICE 4097:0:1:a50:300e:eb8:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64b719768ec13d5dcb7e6bb4.m3u8:Supermarket Sweep
@@ -881,8 +895,12 @@
 #DESCRIPTION TVB Pearl Drama
 #SERVICE 4097:0:1:6e6b:cf1c:1c84:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5ef51c802ddee5003f1c0225.m3u8:Tastemade
 #DESCRIPTION Tastemade
+#SERVICE 4097:0:1:4ad3:6c14:1432:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6615522e50e81fa51eb0df61.m3u8:Teletubbies
+#DESCRIPTION Teletubbies
 #SERVICE 4097:0:1:31b4:4df7:f7ff:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a0.m3u8:The Archive
 #DESCRIPTION The Archive
+#SERVICE 4097:0:1:31d4:8404:4dd:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6627ab12580825e8a7bc4f04.m3u8:The Asylum
+#DESCRIPTION The Asylum
 #SERVICE 4097:0:1:8420:eff6:f652:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6515ff231fc969615e69d170.m3u8:The Biggest Loser
 #DESCRIPTION The Biggest Loser
 #SERVICE 4097:0:1:aa56:6944:44f0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8:The Boat Show
@@ -923,9 +941,9 @@
 #DESCRIPTION The Spa
 #SERVICE 4097:0:1:1d35:da27:2701:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bce.m3u8:The Walking Dead Universe
 #DESCRIPTION The Walking Dead Universe
-#SERVICE 4097:0:1:b5af:c560:60ec:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415.m3u8:The World Poker Tour
-#DESCRIPTION The World Poker Tour
 #SERVICE 4097:0:1:b5af:c560:60ec:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8:The World Poker Tour
+#DESCRIPTION The World Poker Tour
+#SERVICE 4097:0:1:b5af:c560:60ec:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-656fa24bdbcce28c3a417415.m3u8:The World Poker Tour
 #DESCRIPTION The World Poker Tour
 #SERVICE 4097:0:1:833c:49e:9eab:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62e3232ca105dea9c400e9fe.m3u8:This Old House
 #DESCRIPTION This Old House
@@ -1005,18 +1023,8 @@
 #DESCRIPTION Vice News
 #SERVICE 4097:0:1:da8:4533:33d2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a.m3u8:Vivaldi
 #DESCRIPTION Vivaldi
-#SERVICE 4097:0:1:bb19:2206:6bb:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a2bfc68d91e31d4cc866.m3u8:WFTV 9 Orlando
-#DESCRIPTION WFTV 9 Orlando
-#SERVICE 4097:0:1:4835:e084:84f4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a3ffc68d91e31d4cc868.m3u8:WHIO Dayton
-#DESCRIPTION WHIO Dayton
 #SERVICE 4097:0:1:b06f:4a89:895d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6490d0a03b3ce9e1aaad95c0.m3u8:WITZ-Comedy TV
 #DESCRIPTION WITZ-Comedy TV
-#SERVICE 4097:0:1:f012:5217:170c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a57443ec158c3a3eb294.m3u8:WPXI Now Pittsburgh
-#DESCRIPTION WPXI Now Pittsburgh
-#SERVICE 4097:0:1:f955:7849:49ed:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a611c68d91e31d4cc86c.m3u8:WSB Now Atlanta
-#DESCRIPTION WSB Now Atlanta
-#SERVICE 4097:0:1:ea:9504:481:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61f9a6aec68d91e31d4cc86e.m3u8:WSOC Channel 9
-#DESCRIPTION WSOC Channel 9
 #SERVICE 4097:0:1:7ac8:cdfa:faad:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61ddcc6023daf618ed44c29f.m3u8:Wanted%3a Dead or Alive
 #DESCRIPTION Wanted: Dead or Alive
 #SERVICE 4097:0:1:ec25:7807:7af:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64bf5ed5fa25ad1c59ae7472.m3u8:Washington Post Television
@@ -1031,6 +1039,8 @@
 #DESCRIPTION Weather Channel Español
 #SERVICE 4097:0:1:6e60:eb27:279f:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f0ff266d71dcb00449ec030.m3u8:WeatherSpy
 #DESCRIPTION WeatherSpy
+#SERVICE 4097:0:1:fe21:fa47:478e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-660df9e0e7dcb14697880bfb.m3u8:Wild West TV
+#DESCRIPTION Wild West TV
 #SERVICE 4097:0:1:786e:6f86:86e3:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60d4edddb2fdec002c141135.m3u8:WildEarth
 #DESCRIPTION WildEarth
 #SERVICE 4097:0:1:b31f:63e3:e384:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6515fb621fc969615e69d16e.m3u8:WipeoutXtra
@@ -1059,6 +1069,8 @@
 #DESCRIPTION YG TV
 #SERVICE 4097:0:1:123:a308:89d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-5f170f01b898490041b49dd1.m3u8:Yahoo Finance
 #DESCRIPTION Yahoo Finance
+#SERVICE 4097:0:1:d16f:3415:1529:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65f0da6f046e6131ecc31841.m3u8:Zona Investigación
+#DESCRIPTION Zona Investigación
 #SERVICE 4097:0:1:5ee5:9cd:cd6e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8:beIN SPORTS XTRA
 #DESCRIPTION beIN SPORTS XTRA
 #SERVICE 4097:0:1:19af:4fb5:b5ea:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-64a8903d273b89c4e7396553.m3u8:beIN Sports Xtra en Español
@@ -1073,6 +1085,8 @@
 #DESCRIPTION pocket.watch
 #SERVICE 4097:0:1:7850:9373:7308:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-62efba6588a16bb7d6b6fb58.m3u8:Éxitos del Momento
 #DESCRIPTION Éxitos del Momento
+#SERVICE 4097:0:1:b503:9935:3563:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65f0de01046e6131ecc31845.m3u8:ÚN TV
+#DESCRIPTION ÚN TV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Mexico
 #DESCRIPTION Mexico
 #SERVICE 4097:0:1:1aa0:c358:58c6:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8:AZTECA UNO -1 hora
@@ -1085,6 +1099,8 @@
 #DESCRIPTION COPS
 #SERVICE 4097:0:1:db25:b56e:6e14:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65b14f4752aa31b8f64da062.m3u8:Canal 6 CDMX
 #DESCRIPTION Canal 6 CDMX
+#SERVICE 4097:0:1:1d21:c048:48bf:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0df2a926fdb0e3f8d68b6.m3u8:Cine y Series
+#DESCRIPTION Cine y Series
 #SERVICE 4097:0:1:ec5:97f1:f1c5:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-614e286b2bac097ffd6fd6ab.m3u8:Documentary+
 #DESCRIPTION Documentary+
 #SERVICE 4097:0:1:6d33:5e3a:3adb:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-618ab2f275913b296fbe56dd.m3u8:Eddie's Wonderland
@@ -1093,6 +1109,8 @@
 #DESCRIPTION FUEL TV
 #SERVICE 4097:0:1:22f2:958d:8d97:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f170d62b898490041b4936e.m3u8:FailArmy
 #DESCRIPTION FailArmy
+#SERVICE 4097:0:1:79eb:22c6:c6f0:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65e9d0ad8fe4ef7053c3c869.m3u8:FilmRise Series Gratis
+#DESCRIPTION FilmRise Series Gratis
 #SERVICE 4097:0:1:b14d:9e11:11b4:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7094a09205002da4f291.m3u8:FreeTV Acción
 #DESCRIPTION FreeTV Acción
 #SERVICE 4097:0:1:1608:7fa2:a216:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8:FreeTV Drama
@@ -1105,6 +1123,8 @@
 #DESCRIPTION INFAST
 #SERVICE 4097:0:1:d32d:1614:140c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-5f90ebc726350a002d40b136.m3u8:MAVTV Motorsports Network
 #DESCRIPTION MAVTV Motorsports Network
+#SERVICE 4097:0:1:cce6:8434:346b:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6623c8ffed4918437ed56ec4.m3u8:MOVIESPHERE
+#DESCRIPTION MOVIESPHERE
 #SERVICE 4097:0:1:e854:9226:26ab:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-636abc6d4cbc0319a0bd49c0.m3u8:MagellanTV NOW
 #DESCRIPTION MagellanTV NOW
 #SERVICE 4097:0:1:8e61:b068:6854:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-657221540c7d9b1f1ebc515b.m3u8:MasterChef Mexico
@@ -1117,6 +1137,8 @@
 #DESCRIPTION SKWAD
 #SERVICE 4097:0:1:7142:8e19:1998:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-639b8d803f4612cc150a5721.m3u8:Smurf TV
 #DESCRIPTION Smurf TV
+#SERVICE 4097:0:1:44a1:3d83:83b7:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a.m3u8:Spark TV Luz y Amor
+#DESCRIPTION Spark TV Luz y Amor
 #SERVICE 4097:0:1:9d78:96ad:ad9a:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62f156b1ed056a1db9ef3d67.m3u8:Stingray Karaoke
 #DESCRIPTION Stingray Karaoke
 #SERVICE 4097:0:1:989b:c554:5446:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-62fbf52c1567211fdb82e922.m3u8:Stingray Naturescape
@@ -1133,6 +1155,10 @@
 #DESCRIPTION Toon Goggles
 #SERVICE 4097:0:1:2eca:cd17:1743:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-6041643175c115002dc51259.m3u8:Toon Goggles en Español
 #DESCRIPTION Toon Goggles en Español
+#SERVICE 4097:0:1:d16f:757c:7c31:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0dbeb046e6131ecc31843.m3u8:Zona Investigación
+#DESCRIPTION Zona Investigación
+#SERVICE 4097:0:1:b503:b361:61aa:1010101:0:0:0:https%3a//i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-65f0dd1c926fdb0e3f8d68b4.m3u8:ÚN TV
+#DESCRIPTION ÚN TV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Spain
 #DESCRIPTION Spain
 #SERVICE 4097:0:1:a531:1fdd:dd2d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/643054b1fc3be59477853717-627ad8d5448f0c9d080141f7.m3u8:Acción - Rakuten TV
@@ -1153,6 +1179,8 @@
 #DESCRIPTION Documentales - Rakuten TV
 #SERVICE 4097:0:1:58b0:404:4c1:1010101:0:0:0:https%3a//i.mjh.nz/Plex/643054b1fc3be59477853717-62990665171ca654f77b1e6c.m3u8:Familiares - Rakuten TV
 #DESCRIPTION Familiares - Rakuten TV
+#SERVICE 4097:0:1:2296:77af:afe1:1010101:0:0:0:https%3a//i.mjh.nz/Plex/643054b1fc3be59477853717-65e9d0ad8fe4ef7053c3c872.m3u8:FilmRise Sci-Fi
+#DESCRIPTION FilmRise Sci-Fi
 #SERVICE 4097:0:1:a34f:a945:4501:1010101:0:0:0:https%3a//i.mjh.nz/Plex/643054b1fc3be59477853717-631bbf79a273cc38add9e5e3.m3u8:FreeTV Estelar
 #DESCRIPTION FreeTV Estelar
 #SERVICE 4097:0:1:b870:e611:1159:1010101:0:0:0:https%3a//i.mjh.nz/Plex/643054b1fc3be59477853717-64487696af92c31f4a190bc4.m3u8:MyTime Movie Network
@@ -1215,6 +1243,10 @@
 #DESCRIPTION FilmRise Horror
 #SERVICE 4097:0:1:621b:d774:74b6:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65e9d0ad8fe4ef7053c3c873.m3u8:FilmRise Made In Canada
 #DESCRIPTION FilmRise Made In Canada
+#SERVICE 4097:0:1:2296:e324:2475:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f06.m3u8:FilmRise Sci-Fi
+#DESCRIPTION FilmRise Sci-Fi
+#SERVICE 4097:0:1:3695:be16:1669:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6627ab12580825e8a7bc4f05.m3u8:FilmRise Western
+#DESCRIPTION FilmRise Western
 #SERVICE 4097:0:1:627b:ce5:e503:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65de8ca640b20047b79df1c9.m3u8:Fresh Movies
 #DESCRIPTION Fresh Movies
 #SERVICE 4097:0:1:c296:c891:91f2:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-5fc705f0c8d56d002e06f721.m3u8:GINX ESPORTS TV CANADA
@@ -1249,6 +1281,10 @@
 #DESCRIPTION Super Channel Uncovered
 #SERVICE 4097:0:1:adeb:7fb4:b48d:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-65e89d8b982674772f6f1a55.m3u8:Survivorman on Plex
 #DESCRIPTION Survivorman on Plex
+#SERVICE 4097:0:1:6e6b:ec9b:9bcb:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-66311d1a707bae70101ec757.m3u8:Tastemade
+#DESCRIPTION Tastemade
+#SERVICE 4097:0:1:e311:b327:2704:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6623c335ed4918437ed56ec0.m3u8:The Wicked Tuna Channel
+#DESCRIPTION The Wicked Tuna Channel
 #SERVICE 4097:0:1:b485:8939:393c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-64e43b37200cd2f67473e0d4.m3u8:True Crime Now
 #DESCRIPTION True Crime Now
 #SERVICE 4097:0:1:cafe:8d19:196e:1010101:0:0:0:https%3a//i.mjh.nz/Plex/647f8d22a2fc3fadb4721685-6227e0765e753e6288a86f2f.m3u8:Unidentified
@@ -1259,10 +1295,16 @@
 #DESCRIPTION Adventure Earth
 #SERVICE 4097:0:1:5e29:be29:29f6:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65d907f49c7a6da8c3ce57e9.m3u8:Antiques Road Trip
 #DESCRIPTION Antiques Road Trip
+#SERVICE 4097:0:1:6130:fec0:c092:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6616cbcc0360e123d9f3f366.m3u8:Highway Thru Hell
+#DESCRIPTION Highway Thru Hell
 #SERVICE 4097:0:1:958c:6307:71c:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-650b6194c01ccc8eb7956734.m3u8:History & Warfare Now
 #DESCRIPTION History & Warfare Now
+#SERVICE 4097:0:1:cce6:2a27:2785:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-6623c78128a167c6e5b3079c.m3u8:MOVIESPHERE
+#DESCRIPTION MOVIESPHERE
 #SERVICE 4097:0:1:d476:12d3:d3e5:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65cd278697fb4731f54ecae5.m3u8:Mythbusters
 #DESCRIPTION Mythbusters
+#SERVICE 4097:0:1:21ab:a136:3635:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-66173ae27105ca5aacb0685d.m3u8:OUTtv Proud
+#DESCRIPTION OUTtv Proud
 #SERVICE 4097:0:1:4f06:eda2:a2de:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65721f23b10e9d22a882bde0.m3u8:PBS History
 #DESCRIPTION PBS History
 #SERVICE 4097:0:1:2e66:4516:1679:1010101:0:0:0:https%3a//i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-65a061008b6d8fe79ee1ddc9.m3u8:PBS KIDS
