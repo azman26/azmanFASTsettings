@@ -1,0 +1,49 @@
+#NAME Cineverse
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 4097:0:1:2ebc:ca8d:8dc8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8:Qwest Jazz
+#DESCRIPTION Qwest Jazz
+#SERVICE 4097:0:1:2b23:417a:7a09:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-cineverse/playlist.m3u8:Gustotv
+#DESCRIPTION Gustotv
+#SERVICE 4097:0:1:71de:40c6:c651:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8:Asiancrush
+#DESCRIPTION Asiancrush
+#SERVICE 4097:0:1:6cea:9b14:14da:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8:Dove Channel
+#DESCRIPTION Dove Channel
+#SERVICE 4097:0:1:d586:9d66:66c9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8:The Bob Ross Channel
+#DESCRIPTION The Bob Ross Channel
+#SERVICE 4097:0:1:dfaf:7d91:910f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8:Retro Crush
+#DESCRIPTION Retro Crush
+#SERVICE 4097:0:1:9205:37e3:e307:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-midnightpulp-cineverse/playlist.m3u8:Midnight Pulp
+#DESCRIPTION Midnight Pulp
+#SERVICE 4097:0:1:7e20:9530:3033:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-tokushoutsu-dmr/playlist.m3u8:Tokushoutsu
+#DESCRIPTION Tokushoutsu
+#SERVICE 4097:0:1:2711:ce9d:9db7:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-crimehunters-cineverse/playlist.m3u8:Crime Hunters
+#DESCRIPTION Crime Hunters
+#SERVICE 4097:0:1:66a1:d23a:3a72:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-cineverse/playlist.m3u8:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 4097:0:1:ffff:9813:1344:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8:Screambox TV
+#DESCRIPTION Screambox TV
+#SERVICE 4097:0:1:cd35:ea4d:4d54:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-realmadrid-cineverse/playlist.m3u8:Realmadrid TV
+#DESCRIPTION Realmadrid TV
+#SERVICE 4097:0:1:61e3:7c78:782c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-filmdetective-cineverse/playlist.m3u8:The Film Detective
+#DESCRIPTION The Film Detective
+#SERVICE 4097:0:1:800d:3ce3:e3f5:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-lonestar-cineverse/playlist.m3u8:Lonestar
+#DESCRIPTION Lonestar
+#SERVICE 4097:0:1:6174:79f0:f0cd:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-docurama-cineverse/playlist.m3u8:Docurama
+#DESCRIPTION Docurama
+#SERVICE 4097:0:1:9e17:f938:38a1:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elrey-cineverse/playlist.m3u8:El Rey Network
+#DESCRIPTION El Rey Network
+#SERVICE 4097:0:1:8e00:1029:296d:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-elvis-cineverse/playlist.m3u8:The Elvis Presley Channel
+#DESCRIPTION The Elvis Presley Channel
+#SERVICE 4097:0:1:7983:25a5:a52c:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-countrynetwork-cineverse/playlist.m3u8:Country Network
+#DESCRIPTION Country Network
+#SERVICE 4097:0:1:e566:b700:5f:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-shoutfactory-dmr/playlist.m3u8:Shout Factory TV
+#DESCRIPTION Shout Factory TV
+#SERVICE 4097:0:1:13b4:e792:92c6:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-carolburnett-dmr/playlist.m3u8:The Carol Burnett Show
+#DESCRIPTION The Carol Burnett Show
+#SERVICE 4097:0:1:6614:512c:2cc9:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-johnnycarson-dmr/playlist.m3u8:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 4097:0:1:ec00:1d78:7857:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00163-shoutfactory-mst3k-dmr/playlist.m3u8:MST3K
+#DESCRIPTION MST3K
+#SERVICE 4097:0:1:7302:c740:40b8:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-soreal-cineverse/playlist.m3u8:So... Real
+#DESCRIPTION So... Real
