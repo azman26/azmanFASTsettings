@@ -1,0 +1,83 @@
+#NAME BumbleBee TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::NoGroup
+#DESCRIPTION NoGroup
+#SERVICE 4097:0:1:b359:e684:84c6:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8:Now You Know DEAD
+#DESCRIPTION Now You Know DEAD
+#SERVICE 4097:0:1:d755:2e0:e0b9:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c9537b8932c837b49397343/playlist.m3u8:Animals Live DEAD
+#DESCRIPTION Animals Live DEAD
+#SERVICE 4097:0:1:3fdb:931f:1fca:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c953819932c837b49397345/playlist.m3u8:Aurora Live
+#DESCRIPTION Aurora Live
+#SERVICE 4097:0:1:70da:65d3:d35c:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8:Forests Live
+#DESCRIPTION Forests Live
+#SERVICE 4097:0:1:30f0:b461:61d7:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8:Lakes Live
+#DESCRIPTION Lakes Live
+#SERVICE 4097:0:1:53dd:f9ea:eafb:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8:Mountains Live
+#DESCRIPTION Mountains Live
+#SERVICE 4097:0:1:5204:6ae7:e7ac:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8:Rivers Live
+#DESCRIPTION Rivers Live
+#SERVICE 4097:0:1:9a72:8bf2:f2dd:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95388f932c837b4939735a/playlist.m3u8:Sunsets Live
+#DESCRIPTION Sunsets Live
+#SERVICE 4097:0:1:7460:3d61:61bd:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8:Beaches Live
+#DESCRIPTION Beaches Live
+#SERVICE 4097:0:1:ce92:1c2c:2c87:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8:Tropics Live
+#DESCRIPTION Tropics Live
+#SERVICE 4097:0:1:820e:5e85:85ca:1010101:0:0:0:https%3a//95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8:Waterfalls Live
+#DESCRIPTION Waterfalls Live
+#SERVICE 4097:0:1:fc00:9145:459d:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf225aed5eeee0f5a4094bd/playlist.m3u8:Country Boy Kid Videos
+#DESCRIPTION Country Boy Kid Videos
+#SERVICE 4097:0:1:30f7:b2af:af5c:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22518d5eeee0f5a409486/playlist.m3u8:Cute Zone
+#DESCRIPTION Cute Zone
+#SERVICE 4097:0:1:a444:2f6e:6e0d:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22526d5eeee0f5a4094b8/playlist.m3u8:Giggle Zone
+#DESCRIPTION Giggle Zone
+#SERVICE 4097:0:1:65fb:32e0:e09a:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8:Lego Toons
+#DESCRIPTION Lego Toons
+#SERVICE 4097:0:1:7b4:b088:88c8:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2256ed5eeee0f5a4094bb/playlist.m3u8:Master Builders
+#DESCRIPTION Master Builders
+#SERVICE 4097:0:1:515:6c5:c53a:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22491932c8304fc4533e4/playlist.m3u8:Toy Zone
+#DESCRIPTION Toy Zone
+#SERVICE 4097:0:1:f108:a81d:1d03:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625030145130f25474622/playlist.m3u8:Fun Zone
+#DESCRIPTION Fun Zone
+#SERVICE 4097:0:1:9cb5:d96d:6d1a:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22681932c8304fc453418/playlist.m3u8:Lifebae
+#DESCRIPTION Lifebae
+#SERVICE 4097:0:1:e2cb:8954:54f8:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5e2624990145130f25474620/playlist.m3u8:FGTV & Funnelvision
+#DESCRIPTION FGTV & Funnelvision
+#SERVICE 4097:0:1:dc7a:f600:29:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5af61f59d5eeee7af3d1db8f/playlist.m3u8:Crafty Panda DEAD
+#DESCRIPTION Crafty Panda DEAD
+#SERVICE 4097:0:1:eb73:b378:78df:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node01.powr.com/live/5afc810e932c833522744733/playlist.m3u8:Thinknoodles
+#DESCRIPTION Thinknoodles
+#SERVICE 4097:0:1:ac54:b8f0:f0e4:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625700145130f25474624/playlist.m3u8:Let's Play Minecraft
+#DESCRIPTION Let's Play Minecraft
+#SERVICE 4097:0:1:fd9a:c858:58e1:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5e2625af5748670f12a3bee9/playlist.m3u8:Smosh
+#DESCRIPTION Smosh
+#SERVICE 4097:0:1:173b:df7f:7f94:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node01.powr.com/live/5bf220fad5eeee0f5a40941a/playlist.m3u8:Automoto
+#DESCRIPTION Automoto
+#SERVICE 4097:0:1:860c:4d83:8382:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf2218bd5eeee0f5a40941b/playlist.m3u8:Motorcyclist DEAD
+#DESCRIPTION Motorcyclist DEAD
+#SERVICE 4097:0:1:b646:3ac0:c09c:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c7dff0f932c8368bdbfd5fd/playlist.m3u8:Recoil TV
+#DESCRIPTION Recoil TV
+#SERVICE 4097:0:1:68e5:b605:536:1010101:0:0:0:https%3a//d2h2fyavn9bij8.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/MeTV-XCorps/a7998774-5101-43b9-8f81-24653cca1f8b/0.m3u8:Xcorps DEAD
+#DESCRIPTION Xcorps DEAD
+#SERVICE 4097:0:1:53e8:d469:6938:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8:Popcorn Flix Action DEAD
+#DESCRIPTION Popcorn Flix Action DEAD
+#SERVICE 4097:0:1:aa0:6ae8:e878:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5e2626030145130f25474626/playlist.m3u8:Trinity & Beyond
+#DESCRIPTION Trinity & Beyond
+#SERVICE 4097:0:1:ac42:8a31:3149:1010101:0:0:0:https%3a//b29da26d9a17436eafe339c08e488f33.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609010d552957bf5aa546/playlist.m3u8:Shorts Channel
+#DESCRIPTION Shorts Channel
+#SERVICE 4097:0:1:c6b5:27ed:ed6e:1010101:0:0:0:https%3a//0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8:Docs Channel
+#DESCRIPTION Docs Channel
+#SERVICE 4097:0:1:47d7:ea18:1888:1010101:0:0:0:https%3a//b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f86075a0d552957bf5aa4dd/playlist.m3u8:Classics Channel
+#DESCRIPTION Classics Channel
+#SERVICE 4097:0:1:5a3b:c714:1485:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node05.powr.com/live/60f881602da3a5575eceb854/playlist.m3u8:Classics Channel 2
+#DESCRIPTION Classics Channel 2
+#SERVICE 4097:0:1:d2a5:b150:5044:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22225d5eeee0f5a40941d/playlist.m3u8:Epic Makes Misses & Mayhem
+#DESCRIPTION Epic Makes Misses & Mayhem
+#SERVICE 4097:0:1:19e1:2215:1520:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5e7559e8a46b495a2283c5e8/playlist.m3u8:Coronavirus.gov
+#DESCRIPTION Coronavirus.gov
+#SERVICE 4097:0:1:16e5:d55f:5f32:1010101:0:0:0:https%3a//2459f78c2f5d42c996bb24407b76877a.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_60f88620abf1e257404a9250/playlist.m3u8:Thinknoodles Test for Bitcentral
+#DESCRIPTION Thinknoodles Test for Bitcentral
+#SERVICE 4097:0:1:7d43:9b8e:8ee7:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2783932c8368bdbfd8a5/playlist.m3u8:Slimo
+#DESCRIPTION Slimo
+#SERVICE 4097:0:1:2a3:4c8c:8c9d:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2531932c8368bdbfd87c/playlist.m3u8:Civilized
+#DESCRIPTION Civilized
+#SERVICE 4097:0:1:4cae:58d8:d894:1010101:0:0:0:https%3a//stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8:High Times TV
+#DESCRIPTION High Times TV
