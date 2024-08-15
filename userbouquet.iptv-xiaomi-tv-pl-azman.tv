@@ -7,7 +7,7 @@
 #DESCRIPTION Danger Vision
 #SERVICE 5002:0:1:E086:2C37:EC:0:0:0:0:https%3a//outer-vision-tv-xiamoi.evrideo.tv/cdef8956-d9c3-4278-b596-f35b9649692d_1000014575_HLS/master.m3u8:Outer Vision Channel
 #DESCRIPTION Outer Vision Channel
-#SERVICE 5002:0:1:9773:5B38:EC:0:0:0:0:https%3a//amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Charlie
+#SERVICE 5002:0:1:9773:5B38:EC:0:0:0:0:https%3a//amogonetworx-charlie-1-eu.xiaomi.wurl.tv/playlist.m3u8:Charlie
 #DESCRIPTION Charlie
 #SERVICE 5002:0:1:1F8:A11A:2268:0:0:0:0:https%3a//newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8:Rakuten Viki
 #DESCRIPTION Rakuten Viki
@@ -23,15 +23,17 @@
 #DESCRIPTION DocuBay
 #SERVICE 5002:0:1:BE3A:88B7:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/znOljgluSSeoYrXfiYc2VA/master.m3u8:Quietude 4K
 #DESCRIPTION Quietude 4K
-#SERVICE 5002:0:1:2DF4:D31B:EC:0:0:0:0:https%3a//escapes-escapes-1-eu.xiaomi.wurl.tv/playlist.m3u8:Escape TV
+#SERVICE 5002:0:1:2DF4:D31B:EC:0:0:0:0:https%3a//escape-tv-xiamoi.evrideo.tv/fda7b95a-29b9-497a-b783-5dda1e7234c5_1000014752_HLS/master.m3u8:Escape TV
 #DESCRIPTION Escape TV
 #SERVICE 5002:0:1:966A:1CFD:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3082:Go Traveler
 #DESCRIPTION Go Traveler
+#SERVICE 4097:0:1:9DA1:2C3B:3B38:1010101:0:0:0:https%3a//heritage-plus-xiamoi.evrideo.tv/05c9af40-9d2b-445b-ab20-5e46889877ce_1000010996_HLS/master.m3u8:Heritage Plus
+#DESCRIPTION Heritage Plus
 #SERVICE 5002:0:1:F88F:CE67:EC:0:0:0:0:https%3a//heritage-tourism-xiamoi.evrideo.tv/292237b5-da55-43ca-9668-1a46be327705_1000012278_HLS/master.m3u8:Heritage Tourism
 #DESCRIPTION Heritage Tourism
 #SERVICE 5002:0:1:8536:4381:EC:0:0:0:0:https%3a//dai.google.com/linear/hls/event/TgkXUZUMTBW5tkd-vZ5v9w/master.m3u8:Volty
 #DESCRIPTION Volty
-#SERVICE 5002:0:1:6884:B6D1:D153:1010101:0:0:0:https%3a//newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Whoa That Was Wild
+#SERVICE 5002:0:1:6884:B6D1:D153:1010101:0:0:0:https%3a//newsflare-whoathatwaswild-1-eu.xiaomi.wurl.tv/playlist.m3u8:Whoa That Was Wild
 #DESCRIPTION Whoa That Was Wild
 #SERVICE 5002:0:1:B568:6504:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=4167#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Minute Shorts
 #DESCRIPTION Minute Shorts
@@ -45,7 +47,7 @@
 #DESCRIPTION HeartFelt TV
 #SERVICE 5002:0:1:46B9:7CA5:EC:0:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=3408#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Love 2 Hate
 #DESCRIPTION Love 2 Hate
-#SERVICE 5002:0:1:5D28:2CE9:EC:0:0:0:0:https%3a//shadeiqllc-shadetv-1-eu.xiaomi.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Shade Tv
+#SERVICE 5002:0:1:5D28:2CE9:EC:0:0:0:0:https%3a//shadeiqllc-shadetv-1-eu.xiaomi.wurl.tv/playlist.m3u8:Shade Tv
 #DESCRIPTION Shade Tv
 #SERVICE 5002:0:1:3610:67D2:D2E4:1010101:0:0:0:https%3a//epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=EHqAJBKorDViQdhFGThq#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:Cooking Panda
 #DESCRIPTION Cooking Panda
@@ -55,7 +57,7 @@
 #DESCRIPTION OSC+
 #SERVICE 5002:0:1:BC77:4503:323:1010101:0:0:0:https%3a//ov.ottera.tv/live/master.m3u8?channel=prl_nh:NHRA TV
 #DESCRIPTION NHRA TV
-#SERVICE 5002:0:1:C755:AA0:A06E:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:MTRSPT 1
+#SERVICE 5002:0:1:C755:AA0:A06E:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-xiaomi/playlist.m3u8:MTRSPT 1
 #DESCRIPTION MTRSPT 1
 #SERVICE 5002:0:1:8C44:6166:EC:0:0:0:0:https%3a//rtmtv-powernationenespanol-1-us.tcl.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1:PowerNation en Espanol
 #DESCRIPTION PowerNation en Espanol
