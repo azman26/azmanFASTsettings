@@ -337,16 +337,28 @@
 #DESCRIPTION Brightside Spanish (PE)
 #SERVICE 4097:0:1:6d38:b010:10af:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-buzzr-lgus/playlist.m3u8:Buzzr (US)
 #DESCRIPTION Buzzr (US)
-#SERVICE 4097:0:1:1f02:4039:395c:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10935:Canal Anime Onegai 1
-#DESCRIPTION Canal Anime Onegai 1
-#SERVICE 4097:0:1:67b3:c67b:7bc8:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10934:Canal Anime Onegai 2
-#DESCRIPTION Canal Anime Onegai 2
-#SERVICE 4097:0:1:4fff:1c95:95a8:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10933:Canal Anime Onegai 3
-#DESCRIPTION Canal Anime Onegai 3
-#SERVICE 4097:0:1:db63:c431:310d:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10932:Canal Anime Onegai 4
-#DESCRIPTION Canal Anime Onegai 4
-#SERVICE 4097:0:1:313a:4b6c:6cc3:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10931:Canal Anime Onegai 5
-#DESCRIPTION Canal Anime Onegai 5
+#SERVICE 4097:0:1:2184:e2ee:eecf:1010101:0:0:0:https%3a//gsn-crunchyroll-1-us.anoki.wurl.tv/playlist.m3u8:Crunchyroll (temp alt source)
+#DESCRIPTION Crunchyroll (temp alt source)
+#SERVICE 4097:0:1:363:8a67:674f:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=11777:Canal Anime Onegai 1 Portuguese (BR)
+#DESCRIPTION Canal Anime Onegai 1 Portuguese (BR)
+#SERVICE 4097:0:1:8272:89b0:b04b:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=11776:Canal Anime Onegai 2 Portuguese (BR)
+#DESCRIPTION Canal Anime Onegai 2 Portuguese (BR)
+#SERVICE 4097:0:1:39d7:c7cc:cc93:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=11775:Canal Anime Onegai 3 Portuguese (BR)
+#DESCRIPTION Canal Anime Onegai 3 Portuguese (BR)
+#SERVICE 4097:0:1:2205:3eb9:b90d:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=11774:Canal Anime Onegai 4 Portuguese (BR)
+#DESCRIPTION Canal Anime Onegai 4 Portuguese (BR)
+#SERVICE 4097:0:1:f365:415f:5f85:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=11773 :Canal Anime Onegai 5 Portuguese (BR)
+#DESCRIPTION Canal Anime Onegai 5 Portuguese (BR)
+#SERVICE 4097:0:1:c3e3:693a:3a23:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10935:Canal Anime Onegai 1 (ES)
+#DESCRIPTION Canal Anime Onegai 1 (ES)
+#SERVICE 4097:0:1:f924:30dd:dd06:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10934:Canal Anime Onegai 2 Portuguese (ES)
+#DESCRIPTION Canal Anime Onegai 2 Portuguese (ES)
+#SERVICE 4097:0:1:15ae:c7f4:f4e6:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10933:Canal Anime Onegai 3 Portuguese (ES)
+#DESCRIPTION Canal Anime Onegai 3 Portuguese (ES)
+#SERVICE 4097:0:1:9981:b0f1:f1ad:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10932:Canal Anime Onegai Sport Portuguese (ES)
+#DESCRIPTION Canal Anime Onegai Sport Portuguese (ES)
+#SERVICE 4097:0:1:c3d1:ddde:de6a:1010101:0:0:0:https%3a//stream.ads.ottera.tv/playlist.m3u8?network_id=10931:Canal Anime Onegai 5 (ES)
+#DESCRIPTION Canal Anime Onegai 5 (ES)
 #SERVICE 4097:0:1:5984:ec33:338b:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgar/playlist.m3u8:Canela Cinema (AR)
 #DESCRIPTION Canela Cinema (AR)
 #SERVICE 4097:0:1:d810:9d05:582:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg00658-canelamediainc-canelacinema-lgcl/playlist.m3u8:Canela Cinema (CL)
@@ -2107,6 +2119,18 @@
 #DESCRIPTION Risateallitaliana (IT)
 #SERVICE 4097:0:1:7858:dc6f:6f86:1010101:0:0:0:https%3a//cinedigm-rmtv-lg.amagi.tv/playlist.m3u8:RMTV
 #DESCRIPTION RMTV
+#SERVICE 4097:0:1:ac40:b0fa:fad7:1010101:0:0:0:https%3a//run-ro-br-lgchannels.otteravision.com/run/ro_br/ro_br.m3u8:Runtime Romance Portuguese (BR)
+#DESCRIPTION Runtime Romance Portuguese (BR)
+#SERVICE 4097:0:1:f3d2:c953:5384:1010101:0:0:0:https%3a//run-rufb-lgchannels.otteravision.com/run/rufb/rufb.m3u8:Runtime Familia Portuguese (BR)
+#DESCRIPTION Runtime Familia Portuguese (BR)
+#SERVICE 4097:0:1:d8ae:cb83:8368:1010101:0:0:0:https%3a//run-th-br-lgchannels.otteravision.com/run/th_br/th_br.m3u8:Runtime TV Cine Espanto (BR)
+#DESCRIPTION Runtime TV Cine Espanto (BR)
+#SERVICE 4097:0:1:aa6b:a5c5:c572:1010101:0:0:0:https%3a//run-cr-br-lgchannels.otteravision.com/run/cr_br/cr_br.m3u8:Runtime Crime Portuguese (BR)
+#DESCRIPTION Runtime Crime Portuguese (BR)
+#SERVICE 4097:0:1:cf84:8299:998d:1010101:0:0:0:https%3a//run-rc-br-lgchannels.otteravision.com/run/rc_br/rc_br.m3u8:Runtime Comedia Portuguese (BR)
+#DESCRIPTION Runtime Comedia Portuguese (BR)
+#SERVICE 4097:0:1:515a:de5d:5deb:1010101:0:0:0:https%3a//run-rt-ra-lgchannels.otteravision.com/run/rt_ra/rt_ra.m3u8 :Runtime Ação Portuguese (BR)
+#DESCRIPTION Runtime Ação Portuguese (BR)
 #SERVICE 4097:0:1:ea97:3918:18b4:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-sabermaspe-lgpe/playlist.m3u8:Sabermas (PE)
 #DESCRIPTION Sabermas (PE)
 #SERVICE 4097:0:1:d979:3c0:c0da:1010101:0:0:0:https%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01024-olympusat-saberrmascl-lgcl/playlist.m3u8:Sabermas (CL)
