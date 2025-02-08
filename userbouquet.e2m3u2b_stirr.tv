@@ -1,0 +1,177 @@
+#NAME Stirr
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Comedy Live
+#DESCRIPTION Comedy Live
+#SERVICE 4097:0:1:d811:9b81:81be:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5442.m3u8:Always Funny
+#DESCRIPTION Always Funny
+#SERVICE 4097:0:1:5da5:c752:52bc:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6207.m3u8:Always Funny%3a Pranks & Fails
+#DESCRIPTION Always Funny: Pranks & Fails
+#SERVICE 4097:0:1:e6ab:3a6b:6b7d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5302.m3u8:Humor Mill TV
+#DESCRIPTION Humor Mill TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::News Live
+#DESCRIPTION News Live
+#SERVICE 4097:0:1:5d4a:828d:8dd5:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6208.m3u8:Law & Crime
+#DESCRIPTION Law & Crime
+#SERVICE 4097:0:1:f7eb:cd38:3833:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5288.m3u8:OAN plus
+#DESCRIPTION OAN plus
+#SERVICE 4097:0:1:dcba:8a1:a1bc:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5720.m3u8:VOA (Voice of America)
+#DESCRIPTION VOA (Voice of America)
+#SERVICE 4097:0:1:f762:7c50:5098:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5716.m3u8:EuroNews
+#DESCRIPTION EuroNews
+#SERVICE 4097:0:1:3da4:f45f:5f4d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5888.m3u8:Biz Talk Today TV
+#DESCRIPTION Biz Talk Today TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Entertainment Live
+#DESCRIPTION Entertainment Live
+#SERVICE 4097:0:1:9234:37c1:c11d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5430.m3u8:RightNow TV
+#DESCRIPTION RightNow TV
+#SERVICE 4097:0:1:a650:5cc9:c93e:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5746.m3u8:ENCORE+
+#DESCRIPTION ENCORE+
+#SERVICE 4097:0:1:1a30:abd1:d143:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5309.m3u8:Electric Now
+#DESCRIPTION Electric Now
+#SERVICE 4097:0:1:1ba3:fe3e:3e02:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5735.m3u8:Just for Laughs
+#DESCRIPTION Just for Laughs
+#SERVICE 4097:0:1:d12c:e042:4278:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5741.m3u8:Beani TV
+#DESCRIPTION Beani TV
+#SERVICE 4097:0:1:df94:cdf5:f518:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5748.m3u8:KIDDO+
+#DESCRIPTION KIDDO+
+#SERVICE 4097:0:1:e364:1a47:47ad:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5740.m3u8:Ace TV
+#DESCRIPTION Ace TV
+#SERVICE 4097:0:1:950c:3502:2cd:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5747.m3u8:Hunt Fish TV
+#DESCRIPTION Hunt Fish TV
+#SERVICE 4097:0:1:d90e:6730:304e:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5289.m3u8:AWE plus
+#DESCRIPTION AWE plus
+#SERVICE 4097:0:1:ee57:f91a:1a28:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5307.m3u8:Stellar TV
+#DESCRIPTION Stellar TV
+#SERVICE 4097:0:1:b038:2c52:52a5:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5455.m3u8:Family Time
+#DESCRIPTION Family Time
+#SERVICE 4097:0:1:7e88:1e5e:5ea1:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5428.m3u8:JLTV
+#DESCRIPTION JLTV
+#SERVICE 4097:0:1:b8dc:f935:35d2:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5299.m3u8:Freebie TV
+#DESCRIPTION Freebie TV
+#SERVICE 4097:0:1:8441:9a7e:7e11:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5739.m3u8:Docu Vision
+#DESCRIPTION Docu Vision
+#SERVICE 4097:0:1:db5c:7e29:29d8:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5436.m3u8:Popstar! TV
+#DESCRIPTION Popstar! TV
+#SERVICE 4097:0:1:f931:e3ac:ac8f:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5292.m3u8:24 Hour Free Movies
+#DESCRIPTION 24 Hour Free Movies
+#SERVICE 4097:0:1:6500:dd54:5454:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5441.m3u8:TBN
+#DESCRIPTION TBN
+#SERVICE 4097:0:1:f0bd:d9c4:c481:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5745.m3u8:Cowboy Movie Channel
+#DESCRIPTION Cowboy Movie Channel
+#SERVICE 4097:0:1:8156:f69f:9faf:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5308.m3u8:Zoomer TV
+#DESCRIPTION Zoomer TV
+#SERVICE 4097:0:1:84e:7303:339:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5298.m3u8:Feva TV
+#DESCRIPTION Feva TV
+#SERVICE 4097:0:1:7acf:a2c3:c3f2:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5296.m3u8:EVRGRN TV
+#DESCRIPTION EVRGRN TV
+#SERVICE 4097:0:1:760:3e2f:2f9f:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6403.m3u8:Unexplained TV
+#DESCRIPTION Unexplained TV
+#SERVICE 4097:0:1:bd43:bd1f:1f57:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5273.m3u8:CrimeFlix
+#DESCRIPTION CrimeFlix
+#SERVICE 4097:0:1:80e6:17c3:c39d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5752.m3u8:MERCURY+
+#DESCRIPTION MERCURY+
+#SERVICE 4097:0:1:ea8e:aee8:e8bd:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5454.m3u8:Hipstr
+#DESCRIPTION Hipstr
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Entertainment Live;Default Category
+#DESCRIPTION Entertainment Live;Default Category
+#SERVICE 4097:0:1:d560:50c5:c558:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6408.m3u8:Dark Matters TV
+#DESCRIPTION Dark Matters TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::News Live;Default Category
+#DESCRIPTION News Live;Default Category
+#SERVICE 4097:0:1:bc5c:74fb:fb79:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6414.m3u8:NTD
+#DESCRIPTION NTD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sports Live
+#DESCRIPTION Sports Live
+#SERVICE 4097:0:1:409d:8862:628b:1010101:0:0:0:https%3a//jmp2.uk/Stirr/771.m3u8:FITE 24/7
+#DESCRIPTION FITE 24/7
+#SERVICE 4097:0:1:a6e:8560:603e:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6425.m3u8:TRACE Sportstar
+#DESCRIPTION TRACE Sportstar
+#SERVICE 4097:0:1:aabb:880d:d4f:1010101:0:0:0:https%3a//jmp2.uk/Stirr/1072.m3u8:Channel Fight
+#DESCRIPTION Channel Fight
+#SERVICE 4097:0:1:3da6:510e:e13:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5721.m3u8:Automotions
+#DESCRIPTION Automotions
+#SERVICE 4097:0:1:c927:a043:434b:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5274.m3u8:SWERVE TV
+#DESCRIPTION SWERVE TV
+#SERVICE 4097:0:1:fa5d:58d0:d088:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5300.m3u8:The Grappling Network
+#DESCRIPTION The Grappling Network
+#SERVICE 4097:0:1:123c:e8d0:d0e4:1010101:0:0:0:https%3a//jmp2.uk/Stirr/1549.m3u8:Extreme+
+#DESCRIPTION Extreme+
+#SERVICE 4097:0:1:81e:503b:3b8f:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5887.m3u8:Surfing Plus
+#DESCRIPTION Surfing Plus
+#SERVICE 4097:0:1:33cd:971f:1fa1:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5306.m3u8:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 4097:0:1:d593:89bc:bcc5:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5730.m3u8:Nitro TV
+#DESCRIPTION Nitro TV
+#SERVICE 4097:0:1:3765:26:2653:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5304.m3u8:Poker Night in America
+#DESCRIPTION Poker Night in America
+#SERVICE 4097:0:1:b865:4d7b:7b1d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5294.m3u8:Cricket Gold
+#DESCRIPTION Cricket Gold
+#SERVICE 4097:0:1:bdca:5787:87ae:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5293.m3u8:Adventure Sports TV
+#DESCRIPTION Adventure Sports TV
+#SERVICE 4097:0:1:e4d8:624e:4ec2:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5295.m3u8:Equus TV
+#DESCRIPTION Equus TV
+#SERVICE 4097:0:1:f418:eaa:aa3e:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5726.m3u8:Nautical Channel
+#DESCRIPTION Nautical Channel
+#SERVICE 4097:0:1:5f61:139c:9cdc:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5407.m3u8:Drone TV
+#DESCRIPTION Drone TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sports Live;Entertainment Live;Default Category;Travel Live
+#DESCRIPTION Sports Live;Entertainment Live;Default Category;Travel Live
+#SERVICE 4097:0:1:fc25:4cb7:b7a7:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6409.m3u8:Teton Gravity Research
+#DESCRIPTION Teton Gravity Research
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Default Category
+#DESCRIPTION Default Category
+#SERVICE 4097:0:1:1d5a:9150:5012:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6424.m3u8:SPEED SPORT 1
+#DESCRIPTION SPEED SPORT 1
+#SERVICE 4097:0:1:32be:47e7:e779:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6412.m3u8:Crafty Panda
+#DESCRIPTION Crafty Panda
+#SERVICE 4097:0:1:3f07:cf21:211d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6413.m3u8:Craftsy
+#DESCRIPTION Craftsy
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Sports Live;Entertainment Live;Default Category
+#DESCRIPTION Sports Live;Entertainment Live;Default Category
+#SERVICE 4097:0:1:cb:b8dd:dd07:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6411.m3u8:Fuel TV
+#DESCRIPTION Fuel TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::News Live;Sports Live
+#DESCRIPTION News Live;Sports Live
+#SERVICE 4097:0:1:44ff:ee37:3761:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5305.m3u8:Sports First
+#DESCRIPTION Sports First
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Shopping Live
+#DESCRIPTION Shopping Live
+#SERVICE 4097:0:1:ec17:877e:7e9d:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5421.m3u8:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:e025:a5cc:cc3e:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5395.m3u8:ONTV4U
+#DESCRIPTION ONTV4U
+#SERVICE 4097:0:1:3560:c79c:9c41:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5291.m3u8:HSN
+#DESCRIPTION HSN
+#SERVICE 4097:0:1:228a:6139:3946:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5417.m3u8:Shop LC
+#DESCRIPTION Shop LC
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Travel Live
+#DESCRIPTION Travel Live
+#SERVICE 4097:0:1:e97c:7b23:2366:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5453.m3u8:Gotraveler
+#DESCRIPTION Gotraveler
+#SERVICE 4097:0:1:f3b6:6dd3:d3ce:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5734.m3u8:4K Travel TV
+#DESCRIPTION 4K Travel TV
+#SERVICE 4097:0:1:e8c4:5c0f:f9a:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5456.m3u8:Travelxp
+#DESCRIPTION Travelxp
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Food and Fitness Live
+#DESCRIPTION Food and Fitness Live
+#SERVICE 4097:0:1:dcfc:50d2:d293:1010101:0:0:0:https%3a//jmp2.uk/Stirr/3353.m3u8:Omstars
+#DESCRIPTION Omstars
+#SERVICE 4097:0:1:79be:9922:22a8:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5290.m3u8:The Big Dish Channel
+#DESCRIPTION The Big Dish Channel
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Music Live
+#DESCRIPTION Music Live
+#SERVICE 4097:0:1:3151:1241:41d1:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6426.m3u8:TRACE Urban
+#DESCRIPTION TRACE Urban
+#SERVICE 4097:0:1:c83:df9:f9f2:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6427.m3u8:TRACE UK
+#DESCRIPTION TRACE UK
+#SERVICE 4097:0:1:5faa:8ad5:d5e8:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6428.m3u8:TRACE Latina
+#DESCRIPTION TRACE Latina
+#SERVICE 4097:0:1:3795:3d88:88a5:1010101:0:0:0:https%3a//jmp2.uk/Stirr/6429.m3u8:TRACE Brazuca
+#DESCRIPTION TRACE Brazuca
+#SERVICE 4097:0:1:bb58:25ae:ae7a:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5297.m3u8:Feva Music
+#DESCRIPTION Feva Music
+#SERVICE 4097:0:1:212b:b4b8:b826:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5303.m3u8:Plymouth Rock TV
+#DESCRIPTION Plymouth Rock TV
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Entertainment Live;Travel Live
+#DESCRIPTION Entertainment Live;Travel Live
+#SERVICE 4097:0:1:5f15:f624:2498:1010101:0:0:0:https%3a//jmp2.uk/Stirr/5408.m3u8:RVTV
+#DESCRIPTION RVTV
