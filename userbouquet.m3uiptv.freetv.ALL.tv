@@ -1,0 +1,171 @@
+#NAME FREE TV
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:freetv%3a//TickerNews (Geo):TickerNews (Geo)
+#DESCRIPTION TickerNews (Geo)
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:freetv%3a//Newsnet:Newsnet
+#DESCRIPTION Newsnet
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:freetv%3a//Young Hollywood (Geo):Young Hollywood (Geo)
+#DESCRIPTION Young Hollywood (Geo)
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:freetv%3a//Carol Burnett:Carol Burnett
+#DESCRIPTION Carol Burnett
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:freetv%3a//Johnny Carson:Johnny Carson
+#DESCRIPTION Johnny Carson
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:freetv%3a//Mst3k:Mst3k
+#DESCRIPTION Mst3k
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:freetv%3a//Shout TV:Shout TV
+#DESCRIPTION Shout TV
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:freetv%3a//Sportsgrid (Geo):Sportsgrid (Geo)
+#DESCRIPTION Sportsgrid (Geo)
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:freetv%3a//Sportsnews Highlights:Sportsnews Highlights
+#DESCRIPTION Sportsnews Highlights
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:freetv%3a//XFC TV:XFC TV
+#DESCRIPTION XFC TV
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:freetv%3a//Fight Network:Fight Network
+#DESCRIPTION Fight Network
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:freetv%3a//Impact Wrestling:Impact Wrestling
+#DESCRIPTION Impact Wrestling
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:freetv%3a//Awe Plus (Geo):Awe Plus (Geo)
+#DESCRIPTION Awe Plus (Geo)
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:freetv%3a//OAN Plus (Geo):OAN Plus (Geo)
+#DESCRIPTION OAN Plus (Geo)
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:freetv%3a//Destination Action:Destination Action
+#DESCRIPTION Destination Action
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:freetv%3a//Drama Vault:Drama Vault
+#DESCRIPTION Drama Vault
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:freetv%3a//FlixFling Now:FlixFling Now
+#DESCRIPTION FlixFling Now
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:freetv%3a//Lonestar:Lonestar
+#DESCRIPTION Lonestar
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:freetv%3a//The Film Detective:The Film Detective
+#DESCRIPTION The Film Detective
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:freetv%3a//Popcorn Flix (Geo):Popcorn Flix (Geo)
+#DESCRIPTION Popcorn Flix (Geo)
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:freetv%3a//Mytime Movies UK (Geo):Mytime Movies UK (Geo)
+#DESCRIPTION Mytime Movies UK (Geo)
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:freetv%3a//Nosey (Geo):Nosey (Geo)
+#DESCRIPTION Nosey (Geo)
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:freetv%3a//Judge Nosey (Geo):Judge Nosey (Geo)
+#DESCRIPTION Judge Nosey (Geo)
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:freetv%3a//Crimetime:Crimetime
+#DESCRIPTION Crimetime
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:freetv%3a//Chicken Soup for the Soul (Geo):Chicken Soup for the Soul (Geo)
+#DESCRIPTION Chicken Soup for the Soul (Geo)
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:freetv%3a//Crackle Classics (Geo):Crackle Classics (Geo)
+#DESCRIPTION Crackle Classics (Geo)
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:freetv%3a//Crackle (Geo):Crackle (Geo)
+#DESCRIPTION Crackle (Geo)
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:freetv%3a//Family Tree:Family Tree
+#DESCRIPTION Family Tree
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:freetv%3a//Dove Channel:Dove Channel
+#DESCRIPTION Dove Channel
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:freetv%3a//Da Vinci (Geo):Da Vinci (Geo)
+#DESCRIPTION Da Vinci (Geo)
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:freetv%3a//5 Minute Crafts (Geo):5 Minute Crafts (Geo)
+#DESCRIPTION 5 Minute Crafts (Geo)
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:freetv%3a//Teen Vee (Geo):Teen Vee (Geo)
+#DESCRIPTION Teen Vee (Geo)
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:freetv%3a//Slick Slime Sam (Geo):Slick Slime Sam (Geo)
+#DESCRIPTION Slick Slime Sam (Geo)
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:freetv%3a//Watch it .Kid:Watch it .Kid
+#DESCRIPTION Watch it .Kid
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:freetv%3a//Adventures of Sonic the Hedgehog Channel:Adventures of Sonic the Hedgehog Channel
+#DESCRIPTION Adventures of Sonic the Hedgehog Channel
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:freetv%3a//ESTV (Geo):ESTV (Geo)
+#DESCRIPTION ESTV (Geo)
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:freetv%3a//123 GO! (Geo):123 GO! (Geo)
+#DESCRIPTION 123 GO! (Geo)
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:freetv%3a//Brightside (Geo):Brightside (Geo)
+#DESCRIPTION Brightside (Geo)
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:freetv%3a//La La Life (Geo):La La Life (Geo)
+#DESCRIPTION La La Life (Geo)
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:freetv%3a//AXSTV Now:AXSTV Now
+#DESCRIPTION AXSTV Now
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:freetv%3a//Homeful U.S (Geo):Homeful U.S (Geo)
+#DESCRIPTION Homeful U.S (Geo)
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:freetv%3a//Beond TV:Beond TV
+#DESCRIPTION Beond TV
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:freetv%3a//Docurama:Docurama
+#DESCRIPTION Docurama
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:freetv%3a//Cine Pride:Cine Pride
+#DESCRIPTION Cine Pride
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:freetv%3a//Brat TV (Geo):Brat TV (Geo)
+#DESCRIPTION Brat TV (Geo)
+#SERVICE 4097:0:1:415:1:1:CCCC0000:0:0:0:freetv%3a//Lovenature (Geo):Lovenature (Geo)
+#DESCRIPTION Lovenature (Geo)
+#SERVICE 4097:0:1:416:1:1:CCCC0000:0:0:0:freetv%3a//Haunt TV (Geo):Haunt TV (Geo)
+#DESCRIPTION Haunt TV (Geo)
+#SERVICE 4097:0:1:417:1:1:CCCC0000:0:0:0:freetv%3a//Fright Flix:Fright Flix
+#DESCRIPTION Fright Flix
+#SERVICE 4097:0:1:418:1:1:CCCC0000:0:0:0:freetv%3a//Watch It Scream:Watch It Scream
+#DESCRIPTION Watch It Scream
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:freetv%3a//Screambox TV:Screambox TV
+#DESCRIPTION Screambox TV
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:freetv%3a//Horrorfy:Horrorfy
+#DESCRIPTION Horrorfy
+#SERVICE 4097:0:1:41B:1:1:CCCC0000:0:0:0:freetv%3a//Dungeon:Dungeon
+#DESCRIPTION Dungeon
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:freetv%3a//Mystify:Mystify
+#DESCRIPTION Mystify
+#SERVICE 4097:0:1:41D:1:1:CCCC0000:0:0:0:freetv%3a//Totalcrime (Geo):Totalcrime (Geo)
+#DESCRIPTION Totalcrime (Geo)
+#SERVICE 4097:0:1:41E:1:1:CCCC0000:0:0:0:freetv%3a//Gusto (Geo):Gusto (Geo)
+#DESCRIPTION Gusto (Geo)
+#SERVICE 4097:0:1:41F:1:1:CCCC0000:0:0:0:freetv%3a//The Meateater:The Meateater
+#DESCRIPTION The Meateater
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:freetv%3a//Trace Urban:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:freetv%3a//Trace Sports Stars:Trace Sports Stars
+#DESCRIPTION Trace Sports Stars
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:freetv%3a//Indistry:Indistry
+#DESCRIPTION Indistry
+#SERVICE 4097:0:1:423:1:1:CCCC0000:0:0:0:freetv%3a//Entrepreneur TV:Entrepreneur TV
+#DESCRIPTION Entrepreneur TV
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:freetv%3a//The Palm Beaches TV:The Palm Beaches TV
+#DESCRIPTION The Palm Beaches TV
+#SERVICE 4097:0:1:425:1:1:CCCC0000:0:0:0:freetv%3a//QVC:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:freetv%3a//HSN:HSN
+#DESCRIPTION HSN
+#SERVICE 4097:0:1:427:1:1:CCCC0000:0:0:0:freetv%3a//Hororfy Spanish:Hororfy Spanish
+#DESCRIPTION Hororfy Spanish
+#SERVICE 4097:0:1:428:1:1:CCCC0000:0:0:0:freetv%3a//TU Cine:TU Cine
+#DESCRIPTION TU Cine
+#SERVICE 4097:0:1:429:1:1:CCCC0000:0:0:0:freetv%3a//Top Cine:Top Cine
+#DESCRIPTION Top Cine
+#SERVICE 4097:0:1:42A:1:1:CCCC0000:0:0:0:freetv%3a//Juntos:Juntos
+#DESCRIPTION Juntos
+#SERVICE 4097:0:1:42B:1:1:CCCC0000:0:0:0:freetv%3a//Flash:Flash
+#DESCRIPTION Flash
+#SERVICE 4097:0:1:42C:1:1:CCCC0000:0:0:0:freetv%3a//Saber Mas:Saber Mas
+#DESCRIPTION Saber Mas
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:freetv%3a//MMC:MMC
+#DESCRIPTION MMC
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:freetv%3a//Cine Sureno:Cine Sureno
+#DESCRIPTION Cine Sureno
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:freetv%3a//Cine Real:Cine Real
+#DESCRIPTION Cine Real
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:freetv%3a//Canela.TV:Canela.TV
+#DESCRIPTION Canela.TV
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:freetv%3a//Chiquilines:Chiquilines
+#DESCRIPTION Chiquilines
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:freetv%3a//Canelas Telenovelas:Canelas Telenovelas
+#DESCRIPTION Canelas Telenovelas
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:freetv%3a//Canela Deportes:Canela Deportes
+#DESCRIPTION Canela Deportes
+#SERVICE 4097:0:1:434:1:1:CCCC0000:0:0:0:freetv%3a//Canela Clasicos:Canela Clasicos
+#DESCRIPTION Canela Clasicos
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:freetv%3a//Canela Cinema:Canela Cinema
+#DESCRIPTION Canela Cinema
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:freetv%3a//Zas:Zas
+#DESCRIPTION Zas
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:freetv%3a//El Conflicto Spanish:El Conflicto Spanish
+#DESCRIPTION El Conflicto Spanish
+#SERVICE 4097:0:1:438:1:1:CCCC0000:0:0:0:freetv%3a//Mytime Movies U.S Spanish (Geo):Mytime Movies U.S Spanish (Geo)
+#DESCRIPTION Mytime Movies U.S Spanish (Geo)
+#SERVICE 4097:0:1:439:1:1:CCCC0000:0:0:0:freetv%3a//Lovenature Spain (Geo):Lovenature Spain (Geo)
+#DESCRIPTION Lovenature Spain (Geo)
+#SERVICE 4097:0:1:43A:1:1:CCCC0000:0:0:0:freetv%3a//Lovenatureus Spanish (Geo):Lovenatureus Spanish (Geo)
+#DESCRIPTION Lovenatureus Spanish (Geo)
+#SERVICE 4097:0:1:43B:1:1:CCCC0000:0:0:0:freetv%3a//Ideas En 5 Minutos (Geo):Ideas En 5 Minutos (Geo)
+#DESCRIPTION Ideas En 5 Minutos (Geo)
+#SERVICE 4097:0:1:43C:1:1:CCCC0000:0:0:0:freetv%3a//Genial (Geo):Genial (Geo)
+#DESCRIPTION Genial (Geo)

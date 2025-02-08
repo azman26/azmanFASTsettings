@@ -1,0 +1,61 @@
+#NAME CINEVERSE
+#SERVICE 4097:0:1:3E8:2:1:CCCC0000:0:0:0:cineverse%3a//Asiancrush:Asiancrush
+#DESCRIPTION Asiancrush
+#SERVICE 4097:0:1:3E9:2:1:CCCC0000:0:0:0:cineverse%3a//Midnight Pulp:Midnight Pulp
+#DESCRIPTION Midnight Pulp
+#SERVICE 4097:0:1:3EA:2:1:CCCC0000:0:0:0:cineverse%3a//Comedy Dynamics:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 4097:0:1:3EB:2:1:CCCC0000:0:0:0:cineverse%3a//The Film Detective:The Film Detective
+#DESCRIPTION The Film Detective
+#SERVICE 4097:0:1:3EC:2:1:CCCC0000:0:0:0:cineverse%3a//Retro Crushhhttps%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8:Retro Crushhhttps%3a//cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+#DESCRIPTION Retro Crushhhttps://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-cineverse/playlist.m3u8
+#SERVICE 4097:0:1:3ED:2:1:CCCC0000:0:0:0:cineverse%3a//Dove Channel:Dove Channel
+#DESCRIPTION Dove Channel
+#SERVICE 4097:0:1:3EE:2:1:CCCC0000:0:0:0:cineverse%3a//Screambox TV:Screambox TV
+#DESCRIPTION Screambox TV
+#SERVICE 4097:0:1:3EF:2:1:CCCC0000:0:0:0:cineverse%3a//Realmadrid TV:Realmadrid TV
+#DESCRIPTION Realmadrid TV
+#SERVICE 4097:0:1:3F0:2:1:CCCC0000:0:0:0:cineverse%3a//Crime Hunters:Crime Hunters
+#DESCRIPTION Crime Hunters
+#SERVICE 4097:0:1:3F1:2:1:CCCC0000:0:0:0:cineverse%3a//The Dog Whisperer with Cesar Millan (Geo):The Dog Whisperer with Cesar Millan (Geo)
+#DESCRIPTION The Dog Whisperer with Cesar Millan (Geo)
+#SERVICE 4097:0:1:3F2:2:1:CCCC0000:0:0:0:cineverse%3a//Lonestar:Lonestar
+#DESCRIPTION Lonestar
+#SERVICE 4097:0:1:3F3:2:1:CCCC0000:0:0:0:cineverse%3a//The Bob Ross Channel:The Bob Ross Channel
+#DESCRIPTION The Bob Ross Channel
+#SERVICE 4097:0:1:3F4:2:1:CCCC0000:0:0:0:cineverse%3a//INWONDER (Geo):INWONDER (Geo)
+#DESCRIPTION INWONDER (Geo)
+#SERVICE 4097:0:1:3F5:2:1:CCCC0000:0:0:0:cineverse%3a//INFAST (Geo):INFAST (Geo)
+#DESCRIPTION INFAST (Geo)
+#SERVICE 4097:0:1:3F6:2:1:CCCC0000:0:0:0:cineverse%3a//INTROUBLE (Geo):INTROUBLE (Geo)
+#DESCRIPTION INTROUBLE (Geo)
+#SERVICE 4097:0:1:3F7:2:1:CCCC0000:0:0:0:cineverse%3a//Qwest Jazz:Qwest Jazz
+#DESCRIPTION Qwest Jazz
+#SERVICE 4097:0:1:3F8:2:1:CCCC0000:0:0:0:cineverse%3a//Meateater:Meateater
+#DESCRIPTION Meateater
+#SERVICE 4097:0:1:3F9:2:1:CCCC0000:0:0:0:cineverse%3a//INFAMOUS TV (Geo):INFAMOUS TV (Geo)
+#DESCRIPTION INFAMOUS TV (Geo)
+#SERVICE 4097:0:1:3FA:2:1:CCCC0000:0:0:0:cineverse%3a//Young Hollywood (Geo):Young Hollywood (Geo)
+#DESCRIPTION Young Hollywood (Geo)
+#SERVICE 4097:0:1:3FB:2:1:CCCC0000:0:0:0:cineverse%3a//Entrepreneur TV (Geo):Entrepreneur TV (Geo)
+#DESCRIPTION Entrepreneur TV (Geo)
+#SERVICE 4097:0:1:3FC:2:1:CCCC0000:0:0:0:cineverse%3a//Nosey:Nosey
+#DESCRIPTION Nosey
+#SERVICE 4097:0:1:3FD:2:1:CCCC0000:0:0:0:cineverse%3a//Judge Nosey:Judge Nosey
+#DESCRIPTION Judge Nosey
+#SERVICE 4097:0:1:3FE:2:1:CCCC0000:0:0:0:cineverse%3a//So... Real:So... Real
+#DESCRIPTION So... Real
+#SERVICE 4097:0:1:3FF:2:1:CCCC0000:0:0:0:cineverse%3a//Nolly Africa (Geo):Nolly Africa (Geo)
+#DESCRIPTION Nolly Africa (Geo)
+#SERVICE 4097:0:1:400:2:1:CCCC0000:0:0:0:cineverse%3a//Circle Country (Geo):Circle Country (Geo)
+#DESCRIPTION Circle Country (Geo)
+#SERVICE 4097:0:1:401:2:1:CCCC0000:0:0:0:cineverse%3a//LNTN (Geo):LNTN (Geo)
+#DESCRIPTION LNTN (Geo)
+#SERVICE 4097:0:1:402:2:1:CCCC0000:0:0:0:cineverse%3a//California Music Channel:California Music Channel
+#DESCRIPTION California Music Channel
+#SERVICE 4097:0:1:403:2:1:CCCC0000:0:0:0:cineverse%3a//Tastemade Food and More (Geo):Tastemade Food and More (Geo)
+#DESCRIPTION Tastemade Food and More (Geo)
+#SERVICE 4097:0:1:404:2:1:CCCC0000:0:0:0:cineverse%3a//Tastemade Home (Geo):Tastemade Home (Geo)
+#DESCRIPTION Tastemade Home (Geo)
+#SERVICE 4097:0:1:405:2:1:CCCC0000:0:0:0:cineverse%3a//Tastemade Travel (Geo):Tastemade Travel (Geo)
+#DESCRIPTION Tastemade Travel (Geo)

@@ -1,0 +1,29 @@
+#NAME 10 PLAY
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:10fast%3a//This list is undergoing maintenance:This list is undergoing maintenance
+#DESCRIPTION This list is undergoing maintenance
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:10fast%3a//Survivor:Survivor
+#DESCRIPTION Survivor
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:10fast%3a//Masterchef:Masterchef
+#DESCRIPTION Masterchef
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:10fast%3a//Little Kids:Little Kids
+#DESCRIPTION Little Kids
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:10fast%3a//Retro Cartoons:Retro Cartoons
+#DESCRIPTION Retro Cartoons
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:10fast%3a//Christmas Movies:Christmas Movies
+#DESCRIPTION Christmas Movies
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:10fast%3a//Wipeout Xtra:Wipeout Xtra
+#DESCRIPTION Wipeout Xtra
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:10fast%3a//Aussie Drama:Aussie Drama
+#DESCRIPTION Aussie Drama
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:10fast%3a//Prisoner:Prisoner
+#DESCRIPTION Prisoner
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:10fast%3a//Baywatch:Baywatch
+#DESCRIPTION Baywatch
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:10fast%3a//Action and Adventure:Action and Adventure
+#DESCRIPTION Action and Adventure
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:10fast%3a//The Wicked Tuna Channel:The Wicked Tuna Channel
+#DESCRIPTION The Wicked Tuna Channel
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:10fast%3a//True Stories:True Stories
+#DESCRIPTION True Stories
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:10fast%3a//Moviesphere:Moviesphere
+#DESCRIPTION Moviesphere

@@ -1,0 +1,91 @@
+#NAME ZEASN
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:zeasn%3a//Euronews World (EU):Euronews World (EU)
+#DESCRIPTION Euronews World (EU)
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:zeasn%3a//Euronews German (EU):Euronews German (EU)
+#DESCRIPTION Euronews German (EU)
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:zeasn%3a//Bloomberg TV (EU):Bloomberg TV (EU)
+#DESCRIPTION Bloomberg TV (EU)
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:zeasn%3a//Bloomberg Originals (EU):Bloomberg Originals (EU)
+#DESCRIPTION Bloomberg Originals (EU)
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:zeasn%3a//Billiards TV (EU):Billiards TV (EU)
+#DESCRIPTION Billiards TV (EU)
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:zeasn%3a//Pelimex (EU):Pelimex (EU)
+#DESCRIPTION Pelimex (EU)
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:zeasn%3a//Just for laughs Gags (EU):Just for laughs Gags (EU)
+#DESCRIPTION Just for laughs Gags (EU)
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:zeasn%3a//Just for Laughs TV (EU):Just for Laughs TV (EU)
+#DESCRIPTION Just for Laughs TV (EU)
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:zeasn%3a//The Red Green Show (EU):The Red Green Show (EU)
+#DESCRIPTION The Red Green Show (EU)
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:zeasn%3a//YGTV (EU):YGTV (EU)
+#DESCRIPTION YGTV (EU)
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:zeasn%3a//Go USA (EU):Go USA (EU)
+#DESCRIPTION Go USA (EU)
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:zeasn%3a//Chili Alta Tensione (EU):Chili Alta Tensione (EU)
+#DESCRIPTION Chili Alta Tensione (EU)
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:zeasn%3a//Chili Indimenticabli (EU):Chili Indimenticabli (EU)
+#DESCRIPTION Chili Indimenticabli (EU)
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:zeasn%3a//Chili Velvet (EU):Chili Velvet (EU)
+#DESCRIPTION Chili Velvet (EU)
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:zeasn%3a//Chile Film Sorrisi (EU):Chile Film Sorrisi (EU)
+#DESCRIPTION Chile Film Sorrisi (EU)
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:zeasn%3a//Chili Chilibounumore (EU):Chili Chilibounumore (EU)
+#DESCRIPTION Chili Chilibounumore (EU)
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:zeasn%3a//Fashion TV (EU):Fashion TV (EU)
+#DESCRIPTION Fashion TV (EU)
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:zeasn%3a//TED Conferences (EU):TED Conferences (EU)
+#DESCRIPTION TED Conferences (EU)
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:zeasn%3a//SBS (EU):SBS (EU)
+#DESCRIPTION SBS (EU)
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:zeasn%3a//New Kid (EU):New Kid (EU)
+#DESCRIPTION New Kid (EU)
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:zeasn%3a//Drone TV (EU):Drone TV (EU)
+#DESCRIPTION Drone TV (EU)
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:zeasn%3a//Watch Mojo (EU):Watch Mojo (EU)
+#DESCRIPTION Watch Mojo (EU)
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:zeasn%3a//Global Fashion Channel (EU):Global Fashion Channel (EU)
+#DESCRIPTION Global Fashion Channel (EU)
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:zeasn%3a//New K Food (EU):New K Food (EU)
+#DESCRIPTION New K Food (EU)
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:zeasn%3a//Gusto (EU):Gusto (EU)
+#DESCRIPTION Gusto (EU)
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:zeasn%3a//Newsmax (EU):Newsmax (EU)
+#DESCRIPTION Newsmax (EU)
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:zeasn%3a//Filmzie (EU):Filmzie (EU)
+#DESCRIPTION Filmzie (EU)
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:zeasn%3a//Filmzie (US):Filmzie (US)
+#DESCRIPTION Filmzie (US)
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:zeasn%3a//Wedo Movies:Wedo Movies
+#DESCRIPTION Wedo Movies
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:zeasn%3a//Cinema Segretto (IT):Cinema Segretto (IT)
+#DESCRIPTION Cinema Segretto (IT)
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:zeasn%3a//Fullmoon (IT):Fullmoon (IT)
+#DESCRIPTION Fullmoon (IT)
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:zeasn%3a//ETV (EU):ETV (EU)
+#DESCRIPTION ETV (EU)
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:zeasn%3a//Brat:Brat
+#DESCRIPTION Brat
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:zeasn%3a//Craction TV:Craction TV
+#DESCRIPTION Craction TV
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:zeasn%3a//Qwest Jazz (Geo):Qwest Jazz (Geo)
+#DESCRIPTION Qwest Jazz (Geo)
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:zeasn%3a//Qwest Classic (Geo):Qwest Classic (Geo)
+#DESCRIPTION Qwest Classic (Geo)
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:zeasn%3a//Trace Urban:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:zeasn%3a//Moviedome Family:Moviedome Family
+#DESCRIPTION Moviedome Family
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:zeasn%3a//Tastemade Germany:Tastemade Germany
+#DESCRIPTION Tastemade Germany
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:zeasn%3a//W4 Movies:W4 Movies
+#DESCRIPTION W4 Movies
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:zeasn%3a//Sportsgrid:Sportsgrid
+#DESCRIPTION Sportsgrid
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:zeasn%3a//Travel XP (EU):Travel XP (EU)
+#DESCRIPTION Travel XP (EU)
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:zeasn%3a//Travel XP (EU) alt1:Travel XP (EU) alt1
+#DESCRIPTION Travel XP (EU) alt1
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:zeasn%3a//Travel XP (EU) alt2:Travel XP (EU) alt2
+#DESCRIPTION Travel XP (EU) alt2
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:zeasn%3a//Travel XP (EU) alt3:Travel XP (EU) alt3
+#DESCRIPTION Travel XP (EU) alt3

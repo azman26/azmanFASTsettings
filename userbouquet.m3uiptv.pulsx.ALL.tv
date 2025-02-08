@@ -1,0 +1,907 @@
+#NAME PULS X
+#SERVICE 4097:0:19:3E8:1:1:CCCC0000:0:0:0:pulsx%3a//13 Ulica?catchuptype=default&catchupdays=10&catchupstype=4097:13 Ulica HD
+#DESCRIPTION 13 Ulica HD
+#SERVICE 4097:0:19:3E9:1:1:CCCC0000:0:0:0:pulsx%3a//13.TV?catchuptype=default&catchupdays=10&catchupstype=4097:13TV HD
+#DESCRIPTION 13TV HD
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:pulsx%3a//4FUN DANCE?catchuptype=default&catchupdays=10&catchupstype=4097:4FUN DANCE
+#DESCRIPTION 4FUN DANCE
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:pulsx%3a//4FUN KIDS?catchuptype=default&catchupdays=10&catchupstype=4097:4FUN KIDS
+#DESCRIPTION 4FUN KIDS
+#SERVICE 4097:0:19:3EC:1:1:CCCC0000:0:0:0:pulsx%3a//2x2?catchuptype=default&catchupdays=10&catchupstype=4097:2x2 HD
+#DESCRIPTION 2x2 HD
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:pulsx%3a//4FUN TV?catchuptype=default&catchupdays=10&catchupstype=4097:4FUN TV
+#DESCRIPTION 4FUN TV
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:pulsx%3a//Antena?catchuptype=default&catchupdays=10&catchupstype=4097:Antena
+#DESCRIPTION Antena
+#SERVICE 4097:0:19:3EF:1:1:CCCC0000:0:0:0:pulsx%3a//AMC?catchuptype=default&catchupdays=10&catchupstype=4097:AMC HD
+#DESCRIPTION AMC HD
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:pulsx%3a//AXN Black?catchuptype=default&catchupdays=10&catchupstype=4097:AXN Black
+#DESCRIPTION AXN Black
+#SERVICE 4097:0:19:3F1:1:1:CCCC0000:0:0:0:pulsx%3a//AXN?catchuptype=default&catchupdays=10&catchupstype=4097:AXN HD
+#DESCRIPTION AXN HD
+#SERVICE 4097:0:19:3F2:1:1:CCCC0000:0:0:0:pulsx%3a//AXN Spin?catchuptype=default&catchupdays=10&catchupstype=4097:AXN Spin HD
+#DESCRIPTION AXN Spin HD
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:pulsx%3a//AXN White?catchuptype=default&catchupdays=10&catchupstype=4097:AXN White
+#DESCRIPTION AXN White
+#SERVICE 4097:0:19:3F4:1:1:CCCC0000:0:0:0:pulsx%3a//Adventure?catchuptype=default&catchupdays=10&catchupstype=4097:Adventure HD
+#DESCRIPTION Adventure HD
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:pulsx%3a//ActiveFamily.pl?catchuptype=default&catchupdays=10&catchupstype=4097:Active Family
+#DESCRIPTION Active Family
+#SERVICE 4097:0:19:3F6:1:1:CCCC0000:0:0:0:pulsx%3a//Ale Kino+?catchuptype=default&catchupdays=10&catchupstype=4097:Ale Kino+ HD
+#DESCRIPTION Ale Kino+ HD
+#SERVICE 4097:0:19:3F7:1:1:CCCC0000:0:0:0:pulsx%3a//Animal Planet?catchuptype=default&catchupdays=10&catchupstype=4097:Animal Planet HD
+#DESCRIPTION Animal Planet HD
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:pulsx%3a//HOME TV?catchuptype=default&catchupdays=10&catchupstype=4097:Home TV
+#DESCRIPTION Home TV
+#SERVICE 4097:0:19:3F9:1:1:CCCC0000:0:0:0:pulsx%3a//BBC Brit?catchuptype=default&catchupdays=10&catchupstype=4097:BBC Brit HD
+#DESCRIPTION BBC Brit HD
+#SERVICE 4097:0:19:3FA:1:1:CCCC0000:0:0:0:pulsx%3a//BBC Earth?catchuptype=default&catchupdays=10&catchupstype=4097:BBC Earth HD
+#DESCRIPTION BBC Earth HD
+#SERVICE 4097:0:19:3FB:1:1:CCCC0000:0:0:0:pulsx%3a//BBC First?catchuptype=default&catchupdays=10&catchupstype=4097:BBC First HD
+#DESCRIPTION BBC First HD
+#SERVICE 4097:0:19:3FC:1:1:CCCC0000:0:0:0:pulsx%3a//BBC Lifestyle?catchuptype=default&catchupdays=10&catchupstype=4097:BBC Lifestyle HD
+#DESCRIPTION BBC Lifestyle HD
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:pulsx%3a//BBC CBeebies?catchuptype=default&catchupdays=10&catchupstype=4097:BBC CBeebies
+#DESCRIPTION BBC CBeebies
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:pulsx%3a//Baby TV?catchuptype=default&catchupdays=10&catchupstype=4097:Baby TV
+#DESCRIPTION Baby TV
+#SERVICE 4097:0:19:3FF:1:1:CCCC0000:0:0:0:pulsx%3a//CARTOONITO?catchuptype=default&catchupdays=5&catchupstype=4097:Cartoonito HD
+#DESCRIPTION Cartoonito HD
+#SERVICE 4097:0:19:400:1:1:CCCC0000:0:0:0:pulsx%3a//Biznes 24?catchuptype=default&catchupdays=10&catchupstype=4097:Biznes 24 HD
+#DESCRIPTION Biznes 24 HD
+#SERVICE 4097:0:19:401:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Dokument?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Dokument HD
+#DESCRIPTION Canal+ Dokument HD
+#SERVICE 4097:0:19:402:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Film?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Film HD
+#DESCRIPTION Canal+ Film HD
+#SERVICE 4097:0:19:403:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Premium?catchuptype=default&catchupdays=10&catchupstype=4097:CANAL+ Premium HD
+#DESCRIPTION CANAL+ Premium HD
+#SERVICE 4097:0:19:404:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Now?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Now HD
+#DESCRIPTION Canal+ Now HD
+#SERVICE 4097:0:19:405:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Seriale?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Seriale HD
+#DESCRIPTION Canal+ Seriale HD
+#SERVICE 4097:0:19:406:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Sport?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Sport HD
+#DESCRIPTION Canal+ Sport HD
+#SERVICE 4097:0:19:407:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Sport 2?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Sport 2 HD
+#DESCRIPTION Canal+ Sport 2 HD
+#SERVICE 4097:0:19:408:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Sport 3?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Sport 3 HD
+#DESCRIPTION Canal+ Sport 3 HD
+#SERVICE 4097:0:19:409:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Sport 4?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Sport 4 HD
+#DESCRIPTION Canal+ Sport 4 HD
+#SERVICE 4097:0:19:40A:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Sport 5?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Sport 5 HD
+#DESCRIPTION Canal+ Sport 5 HD
+#SERVICE 4097:0:19:40B:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ 1?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ 1 HD
+#DESCRIPTION Canal+ 1 HD
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:pulsx%3a//Film Cafe?catchuptype=default&catchupdays=10&catchupstype=4097:Film Cafe
+#DESCRIPTION Film Cafe
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:pulsx%3a//CBS REALITY?catchuptype=default&catchupdays=10&catchupstype=4097:CBS Reality
+#DESCRIPTION CBS Reality
+#SERVICE 4097:0:19:40E:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Comedy Central Extra?catchuptype=default&catchupdays=10&catchupstype=4097:Comedy Central Extra HD
+#DESCRIPTION Comedy Central Extra HD
+#SERVICE 4097:0:19:40F:1:1:CCCC0000:0:0:0:pulsx%3a//Cartoon Network?catchuptype=default&catchupdays=10&catchupstype=4097:Cartoon Network HD
+#DESCRIPTION Cartoon Network HD
+#SERVICE 4097:0:19:410:1:1:CCCC0000:0:0:0:pulsx%3a//Bollywood HD?catchuptype=default&catchupdays=10&catchupstype=4097:Bollywood HD
+#DESCRIPTION Bollywood HD
+#SERVICE 4097:0:19:411:1:1:CCCC0000:0:0:0:pulsx%3a//FILMAX?catchuptype=default&catchupdays=10&catchupstype=4097:FilMax HD
+#DESCRIPTION FilMax HD
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:pulsx%3a//ViDoc TV?catchuptype=default&catchupdays=10&catchupstype=4097:ViDoc TV
+#DESCRIPTION ViDoc TV
+#SERVICE 4097:0:19:413:1:1:CCCC0000:0:0:0:pulsx%3a//Cinemax?catchuptype=default&catchupdays=10&catchupstype=4097:Cinemax HD
+#DESCRIPTION Cinemax HD
+#SERVICE 4097:0:19:414:1:1:CCCC0000:0:0:0:pulsx%3a//Cinemax 2?catchuptype=default&catchupdays=10&catchupstype=4097:Cinemax 2 HD
+#DESCRIPTION Cinemax 2 HD
+#SERVICE 4097:0:19:415:1:1:CCCC0000:0:0:0:pulsx%3a//Comedy Central?catchuptype=default&catchupdays=10&catchupstype=4097:Comedy Central HD
+#DESCRIPTION Comedy Central HD
+#SERVICE 4097:0:19:416:1:1:CCCC0000:0:0:0:pulsx%3a//CI Polsat HD?catchuptype=default&catchupdays=10&catchupstype=4097:CI Polsat HD
+#DESCRIPTION CI Polsat HD
+#SERVICE 4097:0:19:417:1:1:CCCC0000:0:0:0:pulsx%3a//DTX?catchuptype=default&catchupdays=10&catchupstype=4097:DTX HD
+#DESCRIPTION DTX HD
+#SERVICE 4097:0:19:418:1:1:CCCC0000:0:0:0:pulsx%3a//DOCUBOX?catchuptype=default&catchupdays=10&catchupstype=4097:DocuBox HD
+#DESCRIPTION DocuBox HD
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:pulsx%3a//Da Vinci Learning?catchuptype=default&catchupdays=10&catchupstype=4097:Da Vinci
+#DESCRIPTION Da Vinci
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:pulsx%3a//Disco Polo Music?catchuptype=default&catchupdays=10&catchupstype=4097:Disco Polo Music
+#DESCRIPTION Disco Polo Music
+#SERVICE 4097:0:19:41B:1:1:CCCC0000:0:0:0:pulsx%3a//Discovery Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Discovery Channel HD
+#DESCRIPTION Discovery Channel HD
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:pulsx%3a//Discovery Historia?catchuptype=default&catchupdays=10&catchupstype=4097:Discovery Historia
+#DESCRIPTION Discovery Historia
+#SERVICE 4097:0:19:41D:1:1:CCCC0000:0:0:0:pulsx%3a//Discovery Life?catchuptype=default&catchupdays=10&catchupstype=4097:Discovery Life HD
+#DESCRIPTION Discovery Life HD
+#SERVICE 4097:0:19:41E:1:1:CCCC0000:0:0:0:pulsx%3a//Discovery Science?catchuptype=default&catchupdays=10&catchupstype=4097:Discovery Science HD
+#DESCRIPTION Discovery Science HD
+#SERVICE 4097:0:19:41F:1:1:CCCC0000:0:0:0:pulsx%3a//Disney Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Disney Channel HD
+#DESCRIPTION Disney Channel HD
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:pulsx%3a//Disney Junior?catchuptype=default&catchupdays=10&catchupstype=4097:Disney Junior
+#DESCRIPTION Disney Junior
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:pulsx%3a//Disney XD?catchuptype=default&catchupdays=10&catchupstype=4097:Disney XD
+#DESCRIPTION Disney XD
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:pulsx%3a//Duck TV?catchuptype=default&catchupdays=10&catchupstype=4097:Duck TV
+#DESCRIPTION Duck TV
+#SERVICE 4097:0:19:423:1:1:CCCC0000:0:0:0:pulsx%3a//DuckTV Plus?catchuptype=default&catchupdays=10&catchupstype=4097:DuckTV Plus HD
+#DESCRIPTION DuckTV Plus HD
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:pulsx%3a//TeenNick?catchuptype=default&catchupdays=10&catchupstype=4097:TeenNick
+#DESCRIPTION TeenNick
+#SERVICE 4097:0:19:425:1:1:CCCC0000:0:0:0:pulsx%3a//CANAL+ DOMO HD?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Domo HD
+#DESCRIPTION Canal+ Domo HD
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:pulsx%3a//Dla Ciebie TV?catchuptype=default&catchupdays=10&catchupstype=4097:Dla Ciebie TV
+#DESCRIPTION Dla Ciebie TV
+#SERVICE 4097:0:19:427:1:1:CCCC0000:0:0:0:pulsx%3a//E! Entertainment?catchuptype=default&catchupdays=10&catchupstype=4097:E! Entertainment HD
+#DESCRIPTION E! Entertainment HD
+#SERVICE 4097:0:1F:428:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports 1?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports 1 4K
+#DESCRIPTION Eleven Sports 1 4K
+#SERVICE 4097:0:19:429:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports 1?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports 1 HD
+#DESCRIPTION Eleven Sports 1 HD
+#SERVICE 4097:0:19:42A:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports 2?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports 2 HD
+#DESCRIPTION Eleven Sports 2 HD
+#SERVICE 4097:0:19:42B:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports 3?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports 3 HD
+#DESCRIPTION Eleven Sports 3 HD
+#SERVICE 4097:0:19:42C:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports 4?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports 4 HD
+#DESCRIPTION Eleven Sports 4 HD
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports Online 1?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports Online 1
+#DESCRIPTION Eleven Sports Online 1
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports Online 2?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports Online 2
+#DESCRIPTION Eleven Sports Online 2
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports Online 3?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports Online 3
+#DESCRIPTION Eleven Sports Online 3
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports Online 4?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports Online 4
+#DESCRIPTION Eleven Sports Online 4
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports Online 5?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports Online 5
+#DESCRIPTION Eleven Sports Online 5
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:pulsx%3a//Eleven Sports Online 6?catchuptype=default&catchupdays=10&catchupstype=4097:Eleven Sports Online 6
+#DESCRIPTION Eleven Sports Online 6
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:pulsx%3a//Pogoda24 TV?catchuptype=default&catchupdays=10&catchupstype=4097:Pogoda24 TV
+#DESCRIPTION Pogoda24 TV
+#SERVICE 4097:0:19:434:1:1:CCCC0000:0:0:0:pulsx%3a//Epic Drama?catchuptype=default&catchupdays=10&catchupstype=4097:Epic Drama HD
+#DESCRIPTION Epic Drama HD
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:pulsx%3a//Eska TV?catchuptype=default&catchupdays=10&catchupstype=4097:Eska TV
+#DESCRIPTION Eska TV
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:pulsx%3a//Eska TV Extra?catchuptype=default&catchupdays=10&catchupstype=4097:Eska TV Extra
+#DESCRIPTION Eska TV Extra
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:pulsx%3a//Eska Rock TV?catchuptype=default&catchupdays=10&catchupstype=4097:Eska Rock TV
+#DESCRIPTION Eska Rock TV
+#SERVICE 4097:0:19:438:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport 1 HD
+#DESCRIPTION Eurosport 1 HD
+#SERVICE 4097:0:19:439:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport 2?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport 2 HD
+#DESCRIPTION Eurosport 2 HD
+#SERVICE 4097:0:19:43A:1:1:CCCC0000:0:0:0:pulsx%3a//Extreme Sports Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Extreme Sports HD
+#DESCRIPTION Extreme Sports HD
+#SERVICE 4097:0:19:43B:1:1:CCCC0000:0:0:0:pulsx%3a//Sportklub?catchuptype=default&catchupdays=10&catchupstype=4097:SportKlub HD
+#DESCRIPTION SportKlub HD
+#SERVICE 4097:0:19:43C:1:1:CCCC0000:0:0:0:pulsx%3a//FIGHTKLUB?catchuptype=default&catchupdays=10&catchupstype=4097:FightKlub HD
+#DESCRIPTION FightKlub HD
+#SERVICE 4097:0:19:43D:1:1:CCCC0000:0:0:0:pulsx%3a//FightBox?catchuptype=default&catchupdays=10&catchupstype=4097:FightBox HD
+#DESCRIPTION FightBox HD
+#SERVICE 4097:0:1:43E:1:1:CCCC0000:0:0:0:pulsx%3a//Novelas+1?catchuptype=default&catchupdays=10&catchupstype=4097:Novelas+1
+#DESCRIPTION Novelas+1
+#SERVICE 4097:0:1:43F:1:1:CCCC0000:0:0:0:pulsx%3a//Filmbox Family?catchuptype=default&catchupdays=10&catchupstype=4097:Filmbox Family
+#DESCRIPTION Filmbox Family
+#SERVICE 4097:0:1:440:1:1:CCCC0000:0:0:0:pulsx%3a//FilmBox Action?catchuptype=default&catchupdays=10&catchupstype=4097:Filmbox Action
+#DESCRIPTION Filmbox Action
+#SERVICE 4097:0:1:441:1:1:CCCC0000:0:0:0:pulsx%3a//Filmbox Arthouse?catchuptype=default&catchupdays=10&catchupstype=4097:Filmbox Arthouse
+#DESCRIPTION Filmbox Arthouse
+#SERVICE 4097:0:1:442:1:1:CCCC0000:0:0:0:pulsx%3a//Filmbox Extra HD?catchuptype=default&catchupdays=10&catchupstype=4097:Filmbox Extra
+#DESCRIPTION Filmbox Extra
+#SERVICE 4097:0:19:443:1:1:CCCC0000:0:0:0:pulsx%3a//Filmbox Premium HD?catchuptype=default&catchupdays=10&catchupstype=4097:Filmbox Premium HD
+#DESCRIPTION Filmbox Premium HD
+#SERVICE 4097:0:1:444:1:1:CCCC0000:0:0:0:pulsx%3a//Fokus TV?catchuptype=default&catchupdays=10&catchupstype=4097:Fokus TV
+#DESCRIPTION Fokus TV
+#SERVICE 4097:0:19:445:1:1:CCCC0000:0:0:0:pulsx%3a//Food Network?catchuptype=default&catchupdays=10&catchupstype=4097:Food Network HD
+#DESCRIPTION Food Network HD
+#SERVICE 4097:0:19:446:1:1:CCCC0000:0:0:0:pulsx%3a//FOX Comedy?catchuptype=default&catchupdays=10&catchupstype=4097:FX Comedy HD
+#DESCRIPTION FX Comedy HD
+#SERVICE 4097:0:19:447:1:1:CCCC0000:0:0:0:pulsx%3a//FOX?catchuptype=default&catchupdays=10&catchupstype=4097:FX HD
+#DESCRIPTION FX HD
+#SERVICE 4097:0:19:448:1:1:CCCC0000:0:0:0:pulsx%3a//Golf Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Golf Channel HD
+#DESCRIPTION Golf Channel HD
+#SERVICE 4097:0:19:449:1:1:CCCC0000:0:0:0:pulsx%3a//History 2?catchuptype=default&catchupdays=10&catchupstype=4097:H2 HD
+#DESCRIPTION H2 HD
+#SERVICE 4097:0:19:44A:1:1:CCCC0000:0:0:0:pulsx%3a//HBO?catchuptype=default&catchupdays=10&catchupstype=4097:HBO HD
+#DESCRIPTION HBO HD
+#SERVICE 4097:0:19:44B:1:1:CCCC0000:0:0:0:pulsx%3a//HBO 2?catchuptype=default&catchupdays=10&catchupstype=4097:HBO 2 HD
+#DESCRIPTION HBO 2 HD
+#SERVICE 4097:0:19:44C:1:1:CCCC0000:0:0:0:pulsx%3a//HBO 3?catchuptype=default&catchupdays=10&catchupstype=4097:HBO 3 HD
+#DESCRIPTION HBO 3 HD
+#SERVICE 4097:0:19:44D:1:1:CCCC0000:0:0:0:pulsx%3a//HGTV?catchuptype=default&catchupdays=10&catchupstype=4097:HGTV HD
+#DESCRIPTION HGTV HD
+#SERVICE 4097:0:19:44E:1:1:CCCC0000:0:0:0:pulsx%3a//HISTORY?catchuptype=default&catchupdays=10&catchupstype=4097:History HD
+#DESCRIPTION History HD
+#SERVICE 4097:0:19:44F:1:1:CCCC0000:0:0:0:pulsx%3a//ID?catchuptype=default&catchupdays=10&catchupstype=4097:ID HD
+#DESCRIPTION ID HD
+#SERVICE 4097:0:19:450:1:1:CCCC0000:0:0:0:pulsx%3a//EU Music HD?catchuptype=default&catchupdays=10&catchupstype=4097:EU Music HD
+#DESCRIPTION EU Music HD
+#SERVICE 4097:0:1:451:1:1:CCCC0000:0:0:0:pulsx%3a//Music Box Classic?catchuptype=default&catchupdays=10&catchupstype=4097:Music Box Classic
+#DESCRIPTION Music Box Classic
+#SERVICE 4097:0:1:452:1:1:CCCC0000:0:0:0:pulsx%3a//Kino Polska Muzyka?catchuptype=default&catchupdays=10&catchupstype=4097:Kino Polska Muzyka
+#DESCRIPTION Kino Polska Muzyka
+#SERVICE 4097:0:19:453:1:1:CCCC0000:0:0:0:pulsx%3a//Kino Polska?catchuptype=default&catchupdays=10&catchupstype=4097:Kino Polska HD
+#DESCRIPTION Kino Polska HD
+#SERVICE 4097:0:1:454:1:1:CCCC0000:0:0:0:pulsx%3a//Kino TV?catchuptype=default&catchupdays=10&catchupstype=4097:Kino TV
+#DESCRIPTION Kino TV
+#SERVICE 4097:0:19:455:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Kuchnia?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Kuchnia HD
+#DESCRIPTION Canal+ Kuchnia HD
+#SERVICE 4097:0:1:456:1:1:CCCC0000:0:0:0:pulsx%3a//Sportowa.TV?catchuptype=default&catchupdays=10&catchupstype=4097:Sportowa.TV
+#DESCRIPTION Sportowa.TV
+#SERVICE 4097:0:19:457:1:1:CCCC0000:0:0:0:pulsx%3a//Motowizja?catchuptype=default&catchupdays=10&catchupstype=4097:Motowizja HD
+#DESCRIPTION Motowizja HD
+#SERVICE 4097:0:19:458:1:1:CCCC0000:0:0:0:pulsx%3a//MixTape HD?catchuptype=default&catchupdays=10&catchupstype=4097:MixTape HD
+#DESCRIPTION MixTape HD
+#SERVICE 4097:0:19:459:1:1:CCCC0000:0:0:0:pulsx%3a//Deluxe Music?catchuptype=default&catchupdays=10&catchupstype=4097:Deluxe Music HD
+#DESCRIPTION Deluxe Music HD
+#SERVICE 4097:0:19:45A:1:1:CCCC0000:0:0:0:pulsx%3a//deejay?catchuptype=default&catchupdays=10&catchupstype=4097:DeeJay HD
+#DESCRIPTION DeeJay HD
+#SERVICE 4097:0:19:45B:1:1:CCCC0000:0:0:0:pulsx%3a//MTV Live HD?catchuptype=default&catchupdays=10&catchupstype=4097:MTV Live HD
+#DESCRIPTION MTV Live HD
+#SERVICE 4097:0:1:45C:1:1:CCCC0000:0:0:0:pulsx%3a//MTV 00S?catchuptype=default&catchupdays=10&catchupstype=4097:MTV 00s
+#DESCRIPTION MTV 00s
+#SERVICE 4097:0:1:45D:1:1:CCCC0000:0:0:0:pulsx%3a//MTV 90S?catchuptype=default&catchupdays=10&catchupstype=4097:MTV 90s
+#DESCRIPTION MTV 90s
+#SERVICE 4097:0:1:45E:1:1:CCCC0000:0:0:0:pulsx%3a//MTV 80S?catchuptype=default&catchupdays=10&catchupstype=4097:MTV 80s
+#DESCRIPTION MTV 80s
+#SERVICE 4097:0:1:45F:1:1:CCCC0000:0:0:0:pulsx%3a//MTV Hits?catchuptype=default&catchupdays=10&catchupstype=4097:MTV Hits
+#DESCRIPTION MTV Hits
+#SERVICE 4097:0:1:460:1:1:CCCC0000:0:0:0:pulsx%3a//CLUB MTV?catchuptype=default&catchupdays=10&catchupstype=4097:MTV Club
+#DESCRIPTION MTV Club
+#SERVICE 4097:0:19:461:1:1:CCCC0000:0:0:0:pulsx%3a//360 TUNEBOX?catchuptype=default&catchupdays=10&catchupstype=4097:360 TUNEBOX HD
+#DESCRIPTION 360 TUNEBOX HD
+#SERVICE 4097:0:19:462:1:1:CCCC0000:0:0:0:pulsx%3a//MTV Polska?catchuptype=default&catchupdays=10&catchupstype=4097:MTV Polska HD
+#DESCRIPTION MTV Polska HD
+#SERVICE 4097:0:19:463:1:1:CCCC0000:0:0:0:pulsx%3a//fast-n-funbox-hd?catchuptype=default&catchupdays=10&catchupstype=4097:Fast&Fun Box HD
+#DESCRIPTION Fast&Fun Box HD
+#SERVICE 4097:0:1:464:1:1:CCCC0000:0:0:0:pulsx%3a//Vox Music TV?catchuptype=default&catchupdays=10&catchupstype=4097:VOX Music TV
+#DESCRIPTION VOX Music TV
+#SERVICE 4097:0:19:465:1:1:CCCC0000:0:0:0:pulsx%3a//Jazz HD?catchuptype=default&catchupdays=10&catchupstype=4097:Jazz HD
+#DESCRIPTION Jazz HD
+#SERVICE 4097:0:1:466:1:1:CCCC0000:0:0:0:pulsx%3a//METRO?catchuptype=default&catchupdays=10&catchupstype=4097:Metro
+#DESCRIPTION Metro
+#SERVICE 4097:0:19:467:1:1:CCCC0000:0:0:0:pulsx%3a//Minimini+?catchuptype=default&catchupdays=10&catchupstype=4097:MiniMini+ HD
+#DESCRIPTION MiniMini+ HD
+#SERVICE 4097:0:1:468:1:1:CCCC0000:0:0:0:pulsx%3a//TVC?catchuptype=default&catchupdays=10&catchupstype=4097:TVC
+#DESCRIPTION TVC
+#SERVICE 4097:0:19:469:1:1:CCCC0000:0:0:0:pulsx%3a//Nat Geo People?catchuptype=default&catchupdays=10&catchupstype=4097:Nat Geo People HD
+#DESCRIPTION Nat Geo People HD
+#SERVICE 4097:0:19:46A:1:1:CCCC0000:0:0:0:pulsx%3a//National Geographic Wild?catchuptype=default&catchupdays=10&catchupstype=4097:Nat Geo Wild HD
+#DESCRIPTION Nat Geo Wild HD
+#SERVICE 4097:0:19:46B:1:1:CCCC0000:0:0:0:pulsx%3a//National Geographic Channel?catchuptype=default&catchupdays=10&catchupstype=4097:National Geographic HD
+#DESCRIPTION National Geographic HD
+#SERVICE 4097:0:19:46C:1:1:CCCC0000:0:0:0:pulsx%3a//TOP KIDS JR?catchuptype=default&catchupdays=10&catchupstype=4097:Junior Music HD
+#DESCRIPTION Junior Music HD
+#SERVICE 4097:0:1:46D:1:1:CCCC0000:0:0:0:pulsx%3a//Junior Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Junior Channel
+#DESCRIPTION Junior Channel
+#SERVICE 4097:0:1:46E:1:1:CCCC0000:0:0:0:pulsx%3a//Nick Jr.?catchuptype=default&catchupdays=10&catchupstype=4097:Nick Jr
+#DESCRIPTION Nick Jr
+#SERVICE 4097:0:19:46F:1:1:CCCC0000:0:0:0:pulsx%3a//Nicktoons?catchuptype=default&catchupdays=10&catchupstype=4097:Nicktoons HD
+#DESCRIPTION Nicktoons HD
+#SERVICE 4097:0:1:470:1:1:CCCC0000:0:0:0:pulsx%3a//Nickelodeon?catchuptype=default&catchupdays=10&catchupstype=4097:Nickelodeon
+#DESCRIPTION Nickelodeon
+#SERVICE 4097:0:1:471:1:1:CCCC0000:0:0:0:pulsx%3a//NICKMUSIC?catchuptype=default&catchupdays=10&catchupstype=4097:NickMusic
+#DESCRIPTION NickMusic
+#SERVICE 4097:0:1:472:1:1:CCCC0000:0:0:0:pulsx%3a//Nuta TV?catchuptype=default&catchupdays=10&catchupstype=4097:Nuta TV
+#DESCRIPTION Nuta TV
+#SERVICE 4097:0:19:473:1:1:CCCC0000:0:0:0:pulsx%3a//Nuta Gold?catchuptype=default&catchupdays=10&catchupstype=4097:Nuta Gold HD
+#DESCRIPTION Nuta Gold HD
+#SERVICE 4097:0:1:474:1:1:CCCC0000:0:0:0:pulsx%3a//NOWA TV?catchuptype=default&catchupdays=10&catchupstype=4097:Nowa TV
+#DESCRIPTION Nowa TV
+#SERVICE 4097:0:1:475:1:1:CCCC0000:0:0:0:pulsx%3a//Novelas+?catchuptype=default&catchupdays=10&catchupstype=4097:Novelas+
+#DESCRIPTION Novelas+
+#SERVICE 4097:0:19:476:1:1:CCCC0000:0:0:0:pulsx%3a//Paramount Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Paramount Channel HD
+#DESCRIPTION Paramount Channel HD
+#SERVICE 4097:0:1:477:1:1:CCCC0000:0:0:0:pulsx%3a//NOVELA TV?catchuptype=default&catchupdays=10&catchupstype=4097:Novela TV
+#DESCRIPTION Novela TV
+#SERVICE 4097:0:19:478:1:1:CCCC0000:0:0:0:pulsx%3a//Planete+?catchuptype=default&catchupdays=10&catchupstype=4097:Planete+ HD
+#DESCRIPTION Planete+ HD
+#SERVICE 4097:0:1:479:1:1:CCCC0000:0:0:0:pulsx%3a//Polo TV?catchuptype=default&catchupdays=10&catchupstype=4097:Polo TV
+#DESCRIPTION Polo TV
+#SERVICE 4097:0:19:47A:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Rodzina?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Rodzina HD
+#DESCRIPTION Polsat Rodzina HD
+#SERVICE 4097:0:19:47B:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Games?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Games HD
+#DESCRIPTION Polsat Games HD
+#SERVICE 4097:0:19:47C:1:1:CCCC0000:0:0:0:pulsx%3a//Gametoon?catchuptype=default&catchupdays=10&catchupstype=4097:Gametoon HD
+#DESCRIPTION Gametoon HD
+#SERVICE 4097:0:19:47D:1:1:CCCC0000:0:0:0:pulsx%3a//Ginx TV?catchuptype=default&catchupdays=10&catchupstype=4097:Ginx Esports TV HD
+#DESCRIPTION Ginx Esports TV HD
+#SERVICE 4097:0:1:47E:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat 1?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat 1
+#DESCRIPTION Polsat 1
+#SERVICE 4097:0:19:47F:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat 2?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat 2 HD
+#DESCRIPTION Polsat 2 HD
+#SERVICE 4097:0:19:480:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Café?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Cafe HD
+#DESCRIPTION Polsat Cafe HD
+#SERVICE 4097:0:19:481:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Doku?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Doku HD
+#DESCRIPTION Polsat Doku HD
+#SERVICE 4097:0:19:482:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Film?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Film HD
+#DESCRIPTION Polsat Film HD
+#SERVICE 4097:0:19:483:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat HD
+#DESCRIPTION Polsat HD
+#SERVICE 4097:0:1:484:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat JimJam?catchuptype=default&catchupdays=10&catchupstype=4097:JimJam Polsat
+#DESCRIPTION JimJam Polsat
+#SERVICE 4097:0:19:485:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Music?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Music HD
+#DESCRIPTION Polsat Music HD
+#SERVICE 4097:0:19:486:1:1:CCCC0000:0:0:0:pulsx%3a//News24?catchuptype=default&catchupdays=10&catchupstype=4097:News24 HD
+#DESCRIPTION News24 HD
+#SERVICE 4097:0:19:487:1:1:CCCC0000:0:0:0:pulsx%3a//TV echo 24?catchuptype=default&catchupdays=10&catchupstype=4097:Echo24 HD
+#DESCRIPTION Echo24 HD
+#SERVICE 4097:0:1:488:1:1:CCCC0000:0:0:0:pulsx%3a//POLSAT NEWS 2?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat News 2
+#DESCRIPTION Polsat News 2
+#SERVICE 4097:0:19:489:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat News?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat News HD
+#DESCRIPTION Polsat News HD
+#SERVICE 4097:0:19:48A:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Play?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Play HD
+#DESCRIPTION Polsat Play HD
+#SERVICE 4097:0:19:48B:1:1:CCCC0000:0:0:0:pulsx%3a//POLSAT ROMANS?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Seriale HD
+#DESCRIPTION Polsat Seriale HD
+#SERVICE 4097:0:19:48C:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Fight?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Fight HD
+#DESCRIPTION Polsat Sport Fight HD
+#SERVICE 4097:0:19:48D:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport 1?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport 1 HD
+#DESCRIPTION Polsat Sport 1 HD
+#SERVICE 4097:0:19:48E:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport 2?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport 2 HD
+#DESCRIPTION Polsat Sport 2 HD
+#SERVICE 4097:0:19:48F:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport 3?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport 3 HD
+#DESCRIPTION Polsat Sport 3 HD
+#SERVICE 4097:0:19:490:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Premium 1?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Premium 1 HD
+#DESCRIPTION Polsat Sport Premium 1 HD
+#SERVICE 4097:0:19:491:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Premium 2?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Premium 2 HD
+#DESCRIPTION Polsat Sport Premium 2 HD
+#SERVICE 4097:0:19:492:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Premium 3?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Premium 3 HD
+#DESCRIPTION Polsat Sport Premium 3 HD
+#SERVICE 4097:0:19:493:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Premium 4?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Premium 4 HD
+#DESCRIPTION Polsat Sport Premium 4 HD
+#SERVICE 4097:0:19:494:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Premium 5?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Premium 5 HD
+#DESCRIPTION Polsat Sport Premium 5 HD
+#SERVICE 4097:0:19:495:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Sport Premium 6?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Sport Premium 6 HD
+#DESCRIPTION Polsat Sport Premium 6 HD
+#SERVICE 4097:0:19:496:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Viasat History?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Viasat History HD
+#DESCRIPTION Polsat Viasat History HD
+#SERVICE 4097:0:19:497:1:1:CCCC0000:0:0:0:pulsx%3a//POLSAT Viasat Explore?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Viasat Explore HD
+#DESCRIPTION Polsat Viasat Explore HD
+#SERVICE 4097:0:19:498:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat Viasat Nature?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat Viasat Nature HD
+#DESCRIPTION Polsat Viasat Nature HD
+#SERVICE 4097:0:19:499:1:1:CCCC0000:0:0:0:pulsx%3a//Viasat Explore Classic?catchuptype=default&catchupdays=10&catchupstype=4097:Viasat Explore Classic HD
+#DESCRIPTION Viasat Explore Classic HD
+#SERVICE 4097:0:1:49A:1:1:CCCC0000:0:0:0:pulsx%3a//POWER TV?catchuptype=default&catchupdays=10&catchupstype=4097:Power TV
+#DESCRIPTION Power TV
+#SERVICE 4097:0:1:49B:1:1:CCCC0000:0:0:0:pulsx%3a//Polonia 1?catchuptype=default&catchupdays=10&catchupstype=4097:Polonia 1
+#DESCRIPTION Polonia 1
+#SERVICE 4097:0:1:49C:1:1:CCCC0000:0:0:0:pulsx%3a//Puls 2?catchuptype=default&catchupdays=10&catchupstype=4097:Puls 2
+#DESCRIPTION Puls 2
+#SERVICE 4097:0:1:49D:1:1:CCCC0000:0:0:0:pulsx%3a//Red Carpet TV?catchuptype=default&catchupdays=10&catchupstype=4097:Red Carpet TV
+#DESCRIPTION Red Carpet TV
+#SERVICE 4097:0:19:49E:1:1:CCCC0000:0:0:0:pulsx%3a//ROMANCE TV?catchuptype=default&catchupdays=10&catchupstype=4097:Romance TV HD
+#DESCRIPTION Romance TV HD
+#SERVICE 4097:0:19:49F:1:1:CCCC0000:0:0:0:pulsx%3a//SCI FI?catchuptype=default&catchupdays=10&catchupstype=4097:SciFi HD
+#DESCRIPTION SciFi HD
+#SERVICE 4097:0:1:4A0:1:1:CCCC0000:0:0:0:pulsx%3a//Stars TV?catchuptype=default&catchupdays=10&catchupstype=4097:Stars TV
+#DESCRIPTION Stars TV
+#SERVICE 4097:0:1:4A1:1:1:CCCC0000:0:0:0:pulsx%3a//Stopklatka TV?catchuptype=default&catchupdays=10&catchupstype=4097:Stopklatka TV
+#DESCRIPTION Stopklatka TV
+#SERVICE 4097:0:1:4A2:1:1:CCCC0000:0:0:0:pulsx%3a//SkyShowtime 1?catchuptype=default&catchupdays=10&catchupstype=4097:SkyShowtime 1
+#DESCRIPTION SkyShowtime 1
+#SERVICE 4097:0:1:4A3:1:1:CCCC0000:0:0:0:pulsx%3a//SkyShowtime 2?catchuptype=default&catchupdays=10&catchupstype=4097:SkyShowtime 2
+#DESCRIPTION SkyShowtime 2
+#SERVICE 4097:0:19:4A4:1:1:CCCC0000:0:0:0:pulsx%3a//Sundance TV?catchuptype=default&catchupdays=10&catchupstype=4097:Sundance TV HD
+#DESCRIPTION Sundance TV HD
+#SERVICE 4097:0:19:4A5:1:1:CCCC0000:0:0:0:pulsx%3a//Super Polsat?catchuptype=default&catchupdays=10&catchupstype=4097:Super Polsat HD
+#DESCRIPTION Super Polsat HD
+#SERVICE 4097:0:1:4A6:1:1:CCCC0000:0:0:0:pulsx%3a//StudioMed TV?catchuptype=default&catchupdays=10&catchupstype=4097:StudioMed TV
+#DESCRIPTION StudioMed TV
+#SERVICE 4097:0:19:4A7:1:1:CCCC0000:0:0:0:pulsx%3a//Teletoon?catchuptype=default&catchupdays=10&catchupstype=4097:Teletoon+ HD
+#DESCRIPTION Teletoon+ HD
+#SERVICE 4097:0:19:4A8:1:1:CCCC0000:0:0:0:pulsx%3a//TLC?catchuptype=default&catchupdays=10&catchupstype=4097:TLC HD
+#DESCRIPTION TLC HD
+#SERVICE 4097:0:1:4A9:1:1:CCCC0000:0:0:0:pulsx%3a//Tele 5?catchuptype=default&catchupdays=10&catchupstype=4097:Tele 5
+#DESCRIPTION Tele 5
+#SERVICE 4097:0:19:4AA:1:1:CCCC0000:0:0:0:pulsx%3a//Warner TV?catchuptype=default&catchupdays=10&catchupstype=4097:WB HD
+#DESCRIPTION WB HD
+#SERVICE 4097:0:19:4AB:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Fabuła?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Fabula HD
+#DESCRIPTION TVN Fabula HD
+#SERVICE 4097:0:1:4AC:1:1:CCCC0000:0:0:0:pulsx%3a//FighTime?catchuptype=default&catchupdays=10&catchupstype=4097:FighTime.pl
+#DESCRIPTION FighTime.pl
+#SERVICE 4097:0:1:4AD:1:1:CCCC0000:0:0:0:pulsx%3a//Stingray iConcerts?catchuptype=default&catchupdays=10&catchupstype=4097:Stingray iConcerts
+#DESCRIPTION Stingray iConcerts
+#SERVICE 4097:0:1:4AE:1:1:CCCC0000:0:0:0:pulsx%3a//4ever music HD?catchuptype=default&catchupdays=10&catchupstype=4097:4ever music
+#DESCRIPTION 4ever music
+#SERVICE 4097:0:1:4AF:1:1:CCCC0000:0:0:0:pulsx%3a//Vevo 80s?catchuptype=default&catchupdays=10&catchupstype=4097:Vevo 80s
+#DESCRIPTION Vevo 80s
+#SERVICE 4097:0:1:4B0:1:1:CCCC0000:0:0:0:pulsx%3a//Vevo 90s?catchuptype=default&catchupdays=10&catchupstype=4097:Vevo 90s
+#DESCRIPTION Vevo 90s
+#SERVICE 4097:0:1:4B1:1:1:CCCC0000:0:0:0:pulsx%3a//Vevo Country?catchuptype=default&catchupdays=10&catchupstype=4097:Vevo Country
+#DESCRIPTION Vevo Country
+#SERVICE 4097:0:1:4B2:1:1:CCCC0000:0:0:0:pulsx%3a//Vevo Features?catchuptype=default&catchupdays=10&catchupstype=4097:Vevo Features
+#DESCRIPTION Vevo Features
+#SERVICE 4097:0:1:4B3:1:1:CCCC0000:0:0:0:pulsx%3a//Vevo Hip-Hop?catchuptype=default&catchupdays=10&catchupstype=4097:Vevo Hip-Hop
+#DESCRIPTION Vevo Hip-Hop
+#SERVICE 4097:0:1:4B4:1:1:CCCC0000:0:0:0:pulsx%3a//Vevo Pop?catchuptype=default&catchupdays=10&catchupstype=4097:Vevo Pop
+#DESCRIPTION Vevo Pop
+#SERVICE 4097:0:1:4B5:1:1:CCCC0000:0:0:0:pulsx%3a//Trace Urban?catchuptype=default&catchupdays=10&catchupstype=4097:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:4B6:1:1:CCCC0000:0:0:0:pulsx%3a//Clubbing TV 1?catchuptype=default&catchupdays=10&catchupstype=4097:Clubbing TV
+#DESCRIPTION Clubbing TV
+#SERVICE 4097:0:19:4B7:1:1:CCCC0000:0:0:0:pulsx%3a//PMC HD?catchuptype=default&catchupdays=10&catchupstype=4097:PMC HD
+#DESCRIPTION PMC HD
+#SERVICE 4097:0:1:4B8:1:1:CCCC0000:0:0:0:pulsx%3a//MUSIC BOX?catchuptype=default&catchupdays=10&catchupstype=4097:Music Box Polska
+#DESCRIPTION Music Box Polska
+#SERVICE 4097:0:19:4B9:1:1:CCCC0000:0:0:0:pulsx%3a//TTV?catchuptype=default&catchupdays=10&catchupstype=4097:TTV HD
+#DESCRIPTION TTV HD
+#SERVICE 4097:0:1:4BA:1:1:CCCC0000:0:0:0:pulsx%3a//Outdoor TV?catchuptype=default&catchupdays=10&catchupstype=4097:Outdoor TV
+#DESCRIPTION Outdoor TV
+#SERVICE 4097:0:19:4BB:1:1:CCCC0000:0:0:0:pulsx%3a//TV Puls?catchuptype=default&catchupdays=10&catchupstype=4097:TV Puls HD
+#DESCRIPTION TV Puls HD
+#SERVICE 4097:0:1:4BC:1:1:CCCC0000:0:0:0:pulsx%3a//TV Republika?catchuptype=default&catchupdays=10&catchupstype=4097:TV Republika
+#DESCRIPTION TV Republika
+#SERVICE 4097:0:1:4BD:1:1:CCCC0000:0:0:0:pulsx%3a//Polsat News Polityka?catchuptype=default&catchupdays=10&catchupstype=4097:Polsat News Polityka
+#DESCRIPTION Polsat News Polityka
+#SERVICE 4097:0:19:4BE:1:1:CCCC0000:0:0:0:pulsx%3a//TV 4?catchuptype=default&catchupdays=10&catchupstype=4097:TV 4 HD
+#DESCRIPTION TV 4 HD
+#SERVICE 4097:0:19:4BF:1:1:CCCC0000:0:0:0:pulsx%3a//TV 6?catchuptype=default&catchupdays=10&catchupstype=4097:TV 6 HD
+#DESCRIPTION TV 6 HD
+#SERVICE 4097:0:19:4C0:1:1:CCCC0000:0:0:0:pulsx%3a//TVN 24?catchuptype=default&catchupdays=10&catchupstype=4097:TVN 24 HD
+#DESCRIPTION TVN 24 HD
+#SERVICE 4097:0:19:4C1:1:1:CCCC0000:0:0:0:pulsx%3a//TVN 24 BiS?catchuptype=default&catchupdays=10&catchupstype=4097:TVN 24 BiS HD
+#DESCRIPTION TVN 24 BiS HD
+#SERVICE 4097:0:19:4C2:1:1:CCCC0000:0:0:0:pulsx%3a//TVN 7?catchuptype=default&catchupdays=10&catchupstype=4097:TVN 7 HD
+#DESCRIPTION TVN 7 HD
+#SERVICE 4097:0:19:4C3:1:1:CCCC0000:0:0:0:pulsx%3a//TVN?catchuptype=default&catchupdays=10&catchupstype=4097:TVN HD
+#DESCRIPTION TVN HD
+#SERVICE 4097:0:19:4C4:1:1:CCCC0000:0:0:0:pulsx%3a//iTVN?catchuptype=default&catchupdays=10&catchupstype=4097:iTVN HD
+#DESCRIPTION iTVN HD
+#SERVICE 4097:0:19:4C5:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Kobieta?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Kobieta HD
+#DESCRIPTION TVP Kobieta HD
+#SERVICE 4097:0:19:4C6:1:1:CCCC0000:0:0:0:pulsx%3a//iTVN extra?catchuptype=default&catchupdays=10&catchupstype=4097:iTVN Extra HD
+#DESCRIPTION iTVN Extra HD
+#SERVICE 4097:0:19:4C7:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Style?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Style HD
+#DESCRIPTION TVN Style HD
+#SERVICE 4097:0:1:4C8:1:1:CCCC0000:0:0:0:pulsx%3a//Kabaret TV?catchuptype=default&catchupdays=10&catchupstype=4097:Kabaret TV
+#DESCRIPTION Kabaret TV
+#SERVICE 4097:0:1:4C9:1:1:CCCC0000:0:0:0:pulsx%3a//TV ASTA?catchuptype=default&catchupdays=10&catchupstype=4097:TV ASTA
+#DESCRIPTION TV ASTA
+#SERVICE 4097:0:1:4CA:1:1:CCCC0000:0:0:0:pulsx%3a//Viasat True Crime?catchuptype=default&catchupdays=10&catchupstype=4097:Viasat True Crime
+#DESCRIPTION Viasat True Crime
+#SERVICE 4097:0:19:4CB:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Turbo?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Turbo HD
+#DESCRIPTION TVN Turbo HD
+#SERVICE 4097:0:19:4CC:1:1:CCCC0000:0:0:0:pulsx%3a//TVP HD?catchuptype=default&catchupdays=10&catchupstype=4097:TVP HD
+#DESCRIPTION TVP HD
+#SERVICE 4097:0:19:4CD:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 1?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 1 HD
+#DESCRIPTION TVP 1 HD
+#SERVICE 4097:0:19:4CE:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 2?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 2 HD
+#DESCRIPTION TVP 2 HD
+#SERVICE 4097:0:19:4CF:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 HD Warszawa
+#DESCRIPTION TVP 3 HD Warszawa
+#SERVICE 4097:0:1:4D0:1:1:CCCC0000:0:0:0:pulsx%3a//TVP World?catchuptype=default&catchupdays=10&catchupstype=4097:TVP World
+#DESCRIPTION TVP World
+#SERVICE 4097:0:1:4D1:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Białystok
+#DESCRIPTION TVP 3 Białystok
+#SERVICE 4097:0:1:4D2:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Bydgoszcz
+#DESCRIPTION TVP 3 Bydgoszcz
+#SERVICE 4097:0:1:4D3:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Gdańsk
+#DESCRIPTION TVP 3 Gdańsk
+#SERVICE 4097:0:1:4D4:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Gorzów Wielkopolski
+#DESCRIPTION TVP 3 Gorzów Wielkopolski
+#SERVICE 4097:0:1:4D5:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Katowice
+#DESCRIPTION TVP 3 Katowice
+#SERVICE 4097:0:1:4D6:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Kielce
+#DESCRIPTION TVP 3 Kielce
+#SERVICE 4097:0:1:4D7:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Kraków
+#DESCRIPTION TVP 3 Kraków
+#SERVICE 4097:0:1:4D8:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Lublin
+#DESCRIPTION TVP 3 Lublin
+#SERVICE 4097:0:1:4D9:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Łódź
+#DESCRIPTION TVP 3 Łódź
+#SERVICE 4097:0:1:4DA:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Olsztyn
+#DESCRIPTION TVP 3 Olsztyn
+#SERVICE 4097:0:1:4DB:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Opole
+#DESCRIPTION TVP 3 Opole
+#SERVICE 4097:0:1:4DC:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Poznań
+#DESCRIPTION TVP 3 Poznań
+#SERVICE 4097:0:1:4DD:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Rzeszów
+#DESCRIPTION TVP 3 Rzeszów
+#SERVICE 4097:0:1:4DE:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Szczecin
+#DESCRIPTION TVP 3 Szczecin
+#SERVICE 4097:0:1:4DF:1:1:CCCC0000:0:0:0:pulsx%3a//TVP 3?catchuptype=default&catchupdays=10&catchupstype=4097:TVP 3 Wrocław
+#DESCRIPTION TVP 3 Wrocław
+#SERVICE 4097:0:1:4E0:1:1:CCCC0000:0:0:0:pulsx%3a//TVN W Domu Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN w Domu
+#DESCRIPTION TVN w Domu
+#SERVICE 4097:0:1:4E1:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Moto Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Moto
+#DESCRIPTION TVN Moto
+#SERVICE 4097:0:1:4E2:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Kultowe Seriale Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Kultowe Seriale
+#DESCRIPTION TVN Kultowe Seriale
+#SERVICE 4097:0:1:4E3:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Życie Jak w Bajce Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Życie Jak w Bajce
+#DESCRIPTION TVN Życie Jak w Bajce
+#SERVICE 4097:0:1:4E4:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Kryminalnie Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Kryminalnie
+#DESCRIPTION TVN Kryminalnie
+#SERVICE 4097:0:1:4E5:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Momenty Prawdy Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Momenty Prawdy
+#DESCRIPTION TVN Momenty Prawdy
+#SERVICE 4097:0:1:4E6:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Prawo i Życie Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Prawo i Życie
+#DESCRIPTION TVN Prawo i Życie
+#SERVICE 4097:0:1:4E7:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Rajska Miłość Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Rajska Miłość
+#DESCRIPTION TVN Rajska Miłość
+#SERVICE 4097:0:1:4E8:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Rewolucje w Kuchni Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Rewolucje w Kuchni
+#DESCRIPTION TVN Rewolucje w Kuchni
+#SERVICE 4097:0:1:4E9:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Seriale o Kobietach Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Seriale o Kobietach
+#DESCRIPTION TVN Seriale o Kobietach
+#SERVICE 4097:0:1:4EA:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Szkoła Życia Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Szkoła Życia
+#DESCRIPTION TVN Szkoła Życia
+#SERVICE 4097:0:1:4EB:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Szpitalne Historie Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Szpitalne Historie
+#DESCRIPTION TVN Szpitalne Historie
+#SERVICE 4097:0:1:4EC:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Talk Show Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Talk Show
+#DESCRIPTION TVN Talk Show
+#SERVICE 4097:0:1:4ED:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Telenowele Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Telenowele
+#DESCRIPTION TVN Telenowele
+#SERVICE 4097:0:1:4EE:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Usterka Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Usterka
+#DESCRIPTION TVN Usterka
+#SERVICE 4097:0:1:4EF:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Czas na Ślub Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Czas na Ślub
+#DESCRIPTION TVN Czas na Ślub
+#SERVICE 4097:0:1:4F0:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Kulinarne Podróże Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Kulinarne Podróże
+#DESCRIPTION TVN Kulinarne Podróże
+#SERVICE 4097:0:1:4F1:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Patrol Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Patrol
+#DESCRIPTION TVN Patrol
+#SERVICE 4097:0:19:4F2:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Dokument?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Dokument HD
+#DESCRIPTION TVP Dokument HD
+#SERVICE 4097:0:1:4F3:1:1:CCCC0000:0:0:0:pulsx%3a//TVP ABC?catchuptype=default&catchupdays=10&catchupstype=4097:TVP ABC
+#DESCRIPTION TVP ABC
+#SERVICE 4097:0:1:4F4:1:1:CCCC0000:0:0:0:pulsx%3a//TVP ABC 2?catchuptype=default&catchupdays=10&catchupstype=4097:TVP ABC 2
+#DESCRIPTION TVP ABC 2
+#SERVICE 4097:0:1:4F5:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Alfa?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Alfa
+#DESCRIPTION TVP Alfa
+#SERVICE 4097:0:19:4F6:1:1:CCCC0000:0:0:0:pulsx%3a//TOP KIDS?catchuptype=default&catchupdays=10&catchupstype=4097:Top Kids HD
+#DESCRIPTION Top Kids HD
+#SERVICE 4097:0:1:4F7:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Historia?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Historia
+#DESCRIPTION TVP Historia
+#SERVICE 4097:0:1:4F8:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Historia 2?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Historia2
+#DESCRIPTION TVP Historia2
+#SERVICE 4097:0:19:4F9:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Info?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Info HD
+#DESCRIPTION TVP Info HD
+#SERVICE 4097:0:1:4FA:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Kultura?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Kultura
+#DESCRIPTION TVP Kultura
+#SERVICE 4097:0:1:4FB:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Kultura 2?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Kultura 2
+#DESCRIPTION TVP Kultura 2
+#SERVICE 4097:0:1:4FC:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Polonia?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Polonia
+#DESCRIPTION TVP Polonia
+#SERVICE 4097:0:1:4FD:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Rozrywka?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Rozrywka
+#DESCRIPTION TVP Rozrywka
+#SERVICE 4097:0:1:4FE:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Nauka?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Nauka
+#DESCRIPTION TVP Nauka
+#SERVICE 4097:0:1:4FF:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Seriale?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Seriale
+#DESCRIPTION TVP Seriale
+#SERVICE 4097:0:19:500:1:1:CCCC0000:0:0:0:pulsx%3a//TV TORUŃ?catchuptype=default&catchupdays=10&catchupstype=4097:Toruń TV HD
+#DESCRIPTION Toruń TV HD
+#SERVICE 4097:0:19:501:1:1:CCCC0000:0:0:0:pulsx%3a//TBN Polska?catchuptype=default&catchupdays=10&catchupstype=4097:TBN Polska HD
+#DESCRIPTION TBN Polska HD
+#SERVICE 4097:0:19:502:1:1:CCCC0000:0:0:0:pulsx%3a//TWOJA TV?catchuptype=default&catchupdays=10&catchupstype=4097:Twoja.TV HD
+#DESCRIPTION Twoja.TV HD
+#SERVICE 4097:0:19:503:1:1:CCCC0000:0:0:0:pulsx%3a//TV Regio?catchuptype=default&catchupdays=10&catchupstype=4097:TV Regio HD
+#DESCRIPTION TV Regio HD
+#SERVICE 4097:0:19:504:1:1:CCCC0000:0:0:0:pulsx%3a//TVT?catchuptype=default&catchupdays=10&catchupstype=4097:TVT HD
+#DESCRIPTION TVT HD
+#SERVICE 4097:0:19:505:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Wilno?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Wilno HD
+#DESCRIPTION TVP Wilno HD
+#SERVICE 4097:0:19:506:1:1:CCCC0000:0:0:0:pulsx%3a//TVP Sport?catchuptype=default&catchupdays=10&catchupstype=4097:TVP Sport HD
+#DESCRIPTION TVP Sport HD
+#SERVICE 4097:0:1:507:1:1:CCCC0000:0:0:0:pulsx%3a//FAN Klub?catchuptype=default&catchupdays=10&catchupstype=4097:FAN Klub
+#DESCRIPTION FAN Klub
+#SERVICE 4097:0:1:508:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ 360?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ 360
+#DESCRIPTION Canal+ 360
+#SERVICE 4097:0:19:509:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 1?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 1 HD
+#DESCRIPTION Canal+ Extra 1 HD
+#SERVICE 4097:0:19:50A:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 2?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 2 HD
+#DESCRIPTION Canal+ Extra 2 HD
+#SERVICE 4097:0:19:50B:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 3?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 3 HD
+#DESCRIPTION Canal+ Extra 3 HD
+#SERVICE 4097:0:19:50C:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 4?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 4 HD
+#DESCRIPTION Canal+ Extra 4 HD
+#SERVICE 4097:0:19:50D:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 5?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 5 HD
+#DESCRIPTION Canal+ Extra 5 HD
+#SERVICE 4097:0:19:50E:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 6?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 6 HD
+#DESCRIPTION Canal+ Extra 6 HD
+#SERVICE 4097:0:19:50F:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Extra 7?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Extra 7 HD
+#DESCRIPTION Canal+ Extra 7 HD
+#SERVICE 4097:0:19:510:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Live 1?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Live 1 HD
+#DESCRIPTION Canal+ Live 1 HD
+#SERVICE 4097:0:19:511:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Live 2?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Live 2 HD
+#DESCRIPTION Canal+ Live 2 HD
+#SERVICE 4097:0:19:512:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Live 3?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Live 3 HD
+#DESCRIPTION Canal+ Live 3 HD
+#SERVICE 4097:0:19:513:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Live 4?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Live 4 HD
+#DESCRIPTION Canal+ Live 4 HD
+#SERVICE 4097:0:19:514:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Live 5?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Live 5 HD
+#DESCRIPTION Canal+ Live 5 HD
+#SERVICE 4097:0:1:515:1:1:CCCC0000:0:0:0:pulsx%3a//UFC Fight Pass?catchuptype=default&catchupdays=10&catchupstype=4097:UFC Fight Pass
+#DESCRIPTION UFC Fight Pass
+#SERVICE 4097:0:1:516:1:1:CCCC0000:0:0:0:pulsx%3a//TV TRWAM?catchuptype=default&catchupdays=10&catchupstype=4097:TV Trwam
+#DESCRIPTION TV Trwam
+#SERVICE 4097:0:19:517:1:1:CCCC0000:0:0:0:pulsx%3a//MEZOO LIVE?catchuptype=default&catchupdays=10&catchupstype=4097:Mezzo Live HD
+#DESCRIPTION Mezzo Live HD
+#SERVICE 4097:0:1:518:1:1:CCCC0000:0:0:0:pulsx%3a//TVS?catchuptype=default&catchupdays=10&catchupstype=4097:TVS
+#DESCRIPTION TVS
+#SERVICE 4097:0:19:519:1:1:CCCC0000:0:0:0:pulsx%3a//Travel Channel?catchuptype=default&catchupdays=10&catchupstype=4097:Travel Channel HD
+#DESCRIPTION Travel Channel HD
+#SERVICE 4097:0:1:51A:1:1:CCCC0000:0:0:0:pulsx%3a//WP?catchuptype=default&catchupdays=10&catchupstype=4097:WP
+#DESCRIPTION WP
+#SERVICE 4097:0:1:51B:1:1:CCCC0000:0:0:0:pulsx%3a//wPolsce.pl?catchuptype=default&catchupdays=10&catchupstype=4097:wPolsce.pl
+#DESCRIPTION wPolsce.pl
+#SERVICE 4097:0:1:51C:1:1:CCCC0000:0:0:0:pulsx%3a//Wydarzenia 24?catchuptype=default&catchupdays=10&catchupstype=4097:Wydarzenia 24
+#DESCRIPTION Wydarzenia 24
+#SERVICE 4097:0:1:51D:1:1:CCCC0000:0:0:0:pulsx%3a//WTK?catchuptype=default&catchupdays=10&catchupstype=4097:WTK
+#DESCRIPTION WTK
+#SERVICE 4097:0:1:51E:1:1:CCCC0000:0:0:0:pulsx%3a//WATER PLANET?catchuptype=default&catchupdays=10&catchupstype=4097:Water Planet
+#DESCRIPTION Water Planet
+#SERVICE 4097:0:1:51F:1:1:CCCC0000:0:0:0:pulsx%3a//ZOOM TV?catchuptype=default&catchupdays=10&catchupstype=4097:Zoom TV
+#DESCRIPTION Zoom TV
+#SERVICE 4097:0:1F:520:1:1:CCCC0000:0:0:0:pulsx%3a//Canalplus4K.pl?catchuptype=default&catchupdays=10&catchupstype=4097:CANAL+ 4K Ultra HD
+#DESCRIPTION CANAL+ 4K Ultra HD
+#SERVICE 4097:0:1F:521:1:1:CCCC0000:0:0:0:pulsx%3a//Love Nature 4K?catchuptype=default&catchupdays=10&catchupstype=4097:Love Nature 4K
+#DESCRIPTION Love Nature 4K
+#SERVICE 4097:0:1F:522:1:1:CCCC0000:0:0:0:pulsx%3a//Museum UHD?catchuptype=default&catchupdays=10&catchupstype=4097:Museum 4K
+#DESCRIPTION Museum 4K
+#SERVICE 4097:0:1F:523:1:1:CCCC0000:0:0:0:pulsx%3a//MYZEN.TV?catchuptype=default&catchupdays=10&catchupstype=4097:MyZen 4K
+#DESCRIPTION MyZen 4K
+#SERVICE 4097:0:1F:524:1:1:CCCC0000:0:0:0:pulsx%3a//InUltra?catchuptype=default&catchupdays=10&catchupstype=4097:Insight UHD
+#DESCRIPTION Insight UHD
+#SERVICE 4097:0:1F:525:1:1:CCCC0000:0:0:0:pulsx%3a//Travelxp 4K?catchuptype=default&catchupdays=10&catchupstype=4097:Travelxp 4K
+#DESCRIPTION Travelxp 4K
+#SERVICE 4097:0:1:526:1:1:CCCC0000:0:0:0:pulsx%3a//FILMAX?catchuptype=default&catchupdays=10&catchupstype=4097:FilMax 4k
+#DESCRIPTION FilMax 4k
+#SERVICE 4097:0:1:527:1:1:CCCC0000:0:0:0:pulsx%3a//ULTRA TV 4K?catchuptype=default&catchupdays=10&catchupstype=4097:Ultra TV 4k
+#DESCRIPTION Ultra TV 4k
+#SERVICE 4097:0:1:528:1:1:CCCC0000:0:0:0:pulsx%3a//ViDocTV 4k?catchuptype=default&catchupdays=10&catchupstype=4097:ViDocTV 4k
+#DESCRIPTION ViDocTV 4k
+#SERVICE 4097:0:1:529:1:1:CCCC0000:0:0:0:pulsx%3a//wPolsce.pl?catchuptype=default&catchupdays=10&catchupstype=4097:wPolsce24
+#DESCRIPTION wPolsce24
+#SERVICE 4097:0:1F:52A:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Main Event?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Main Event UHD
+#DESCRIPTION Sky Sports Main Event UHD
+#SERVICE 4097:0:1F:52B:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports F1?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports F1 UHD
+#DESCRIPTION Sky Sports F1 UHD
+#SERVICE 4097:0:1F:52C:1:1:CCCC0000:0:0:0:pulsx%3a//Astro Sports UHD?catchuptype=default&catchupdays=10&catchupstype=4097:Astro Sports UHD
+#DESCRIPTION Astro Sports UHD
+#SERVICE 4097:0:1:52D:1:1:CCCC0000:0:0:0:pulsx%3a//TSN 4k?catchuptype=default&catchupdays=10&catchupstype=4097:TSN 4k
+#DESCRIPTION TSN 4k
+#SERVICE 4097:0:1F:52E:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ Foot?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Foot UHD
+#DESCRIPTION Canal+ Foot UHD
+#SERVICE 4097:0:1F:52F:1:1:CCCC0000:0:0:0:pulsx%3a//Canal+ UHD FR?catchuptype=default&catchupdays=10&catchupstype=4097:CANAL+ UHD
+#DESCRIPTION CANAL+ UHD
+#SERVICE 4097:0:1F:530:1:1:CCCC0000:0:0:0:pulsx%3a//vsportuhd?catchuptype=default&catchupdays=10&catchupstype=4097:Vsport UHD
+#DESCRIPTION Vsport UHD
+#SERVICE 4097:0:1F:531:1:1:CCCC0000:0:0:0:pulsx%3a//FUN BOX?catchuptype=default&catchupdays=10&catchupstype=4097:FunBox UHD
+#DESCRIPTION FunBox UHD
+#SERVICE 4097:0:1F:532:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sport Bundesliga UHD?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport Bundesliga UHD
+#DESCRIPTION Sky Sport Bundesliga UHD
+#SERVICE 4097:0:1F:533:1:1:CCCC0000:0:0:0:pulsx%3a//TNT Sports Ultimate UHD?catchuptype=default&catchupdays=10&catchupstype=4097:TNT Sports Ultimate UHD
+#DESCRIPTION TNT Sports Ultimate UHD
+#SERVICE 4097:0:1F:534:1:1:CCCC0000:0:0:0:pulsx%3a//Quadro 4K?catchuptype=default&catchupdays=10&catchupstype=4097:Quadro 4K
+#DESCRIPTION Quadro 4K
+#SERVICE 4097:0:1F:535:1:1:CCCC0000:0:0:0:pulsx%3a//FashionTV4K.eu?catchuptype=default&catchupdays=10&catchupstype=4097:FashionTV 4K
+#DESCRIPTION FashionTV 4K
+#SERVICE 4097:0:1F:536:1:1:CCCC0000:0:0:0:pulsx%3a//home4k?catchuptype=default&catchupdays=10&catchupstype=4097:Home 4K
+#DESCRIPTION Home 4K
+#SERVICE 4097:0:1:537:1:1:CCCC0000:0:0:0:pulsx%3a//TVC Super?catchuptype=default&catchupdays=10&catchupstype=4097:TVC Super
+#DESCRIPTION TVC Super
+#SERVICE 4097:0:1:538:1:1:CCCC0000:0:0:0:pulsx%3a//Szlagier TV?catchuptype=default&catchupdays=10&catchupstype=4097:Szlagier TV
+#DESCRIPTION Szlagier TV
+#SERVICE 4097:0:1:539:1:1:CCCC0000:0:0:0:pulsx%3a//VOD 202?catchuptype=default&catchupdays=10&catchupstype=4097:VOD 202
+#DESCRIPTION VOD 202
+#SERVICE 4097:0:1:53A:1:1:CCCC0000:0:0:0:pulsx%3a//VOD 203?catchuptype=default&catchupdays=10&catchupstype=4097:VOD 203
+#DESCRIPTION VOD 203
+#SERVICE 4097:0:1:53B:1:1:CCCC0000:0:0:0:pulsx%3a//VOD 204?catchuptype=default&catchupdays=10&catchupstype=4097:VOD 204
+#DESCRIPTION VOD 204
+#SERVICE 4097:0:1:53C:1:1:CCCC0000:0:0:0:pulsx%3a//VOD 207?catchuptype=default&catchupdays=10&catchupstype=4097:VOD 207
+#DESCRIPTION VOD 207
+#SERVICE 4097:0:1:53D:1:1:CCCC0000:0:0:0:pulsx%3a//VOD 208?catchuptype=default&catchupdays=10&catchupstype=4097:VOD 208
+#DESCRIPTION VOD 208
+#SERVICE 4097:0:1:53E:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 1?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 1
+#DESCRIPTION Dazn Event 1
+#SERVICE 4097:0:1:53F:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 2?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 2
+#DESCRIPTION Dazn Event 2
+#SERVICE 4097:0:1:540:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 3?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 3
+#DESCRIPTION Dazn Event 3
+#SERVICE 4097:0:1:541:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 4?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 4
+#DESCRIPTION Dazn Event 4
+#SERVICE 4097:0:1:542:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 5?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 5
+#DESCRIPTION Dazn Event 5
+#SERVICE 4097:0:1:543:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 6?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 6
+#DESCRIPTION Dazn Event 6
+#SERVICE 4097:0:1:544:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 7?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 7
+#DESCRIPTION Dazn Event 7
+#SERVICE 4097:0:1:545:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 8?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 8
+#DESCRIPTION Dazn Event 8
+#SERVICE 4097:0:1:546:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 9?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 9
+#DESCRIPTION Dazn Event 9
+#SERVICE 4097:0:1:547:1:1:CCCC0000:0:0:0:pulsx%3a//Dazn Event 10?catchuptype=default&catchupdays=10&catchupstype=4097:Dazn Event 10
+#DESCRIPTION Dazn Event 10
+#SERVICE 4097:0:19:548:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 1?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 1 HD
+#DESCRIPTION Eurosport Extra 1 HD
+#SERVICE 4097:0:19:549:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 2?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 2 HD
+#DESCRIPTION Eurosport Extra 2 HD
+#SERVICE 4097:0:19:54A:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 3?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 3 HD
+#DESCRIPTION Eurosport Extra 3 HD
+#SERVICE 4097:0:19:54B:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 4?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 4 HD
+#DESCRIPTION Eurosport Extra 4 HD
+#SERVICE 4097:0:19:54C:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 5?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 5 HD
+#DESCRIPTION Eurosport Extra 5 HD
+#SERVICE 4097:0:19:54D:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 6?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 6 HD
+#DESCRIPTION Eurosport Extra 6 HD
+#SERVICE 4097:0:19:54E:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 7?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 7 HD
+#DESCRIPTION Eurosport Extra 7 HD
+#SERVICE 4097:0:19:54F:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 8?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 8 HD
+#DESCRIPTION Eurosport Extra 8 HD
+#SERVICE 4097:0:19:550:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 9?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 9 HD
+#DESCRIPTION Eurosport Extra 9 HD
+#SERVICE 4097:0:19:551:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 10?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 10 HD
+#DESCRIPTION Eurosport Extra 10 HD
+#SERVICE 4097:0:19:552:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 11?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 11 HD
+#DESCRIPTION Eurosport Extra 11 HD
+#SERVICE 4097:0:19:553:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 12?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 12 HD
+#DESCRIPTION Eurosport Extra 12 HD
+#SERVICE 4097:0:19:554:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 13?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 13 HD
+#DESCRIPTION Eurosport Extra 13 HD
+#SERVICE 4097:0:19:555:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 14?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 14 HD
+#DESCRIPTION Eurosport Extra 14 HD
+#SERVICE 4097:0:19:556:1:1:CCCC0000:0:0:0:pulsx%3a//Eurosport Extra 15?catchuptype=default&catchupdays=10&catchupstype=4097:Eurosport Extra 15 HD
+#DESCRIPTION Eurosport Extra 15 HD
+#SERVICE 4097:0:19:557:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 1 HD
+#DESCRIPTION ViaPlay 1 HD
+#SERVICE 4097:0:19:558:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 2 HD
+#DESCRIPTION ViaPlay 2 HD
+#SERVICE 4097:0:19:559:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 3 HD
+#DESCRIPTION ViaPlay 3 HD
+#SERVICE 4097:0:19:55A:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 4 HD
+#DESCRIPTION ViaPlay 4 HD
+#SERVICE 4097:0:19:55B:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 5 HD
+#DESCRIPTION ViaPlay 5 HD
+#SERVICE 4097:0:19:55C:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 6 HD
+#DESCRIPTION ViaPlay 6 HD
+#SERVICE 4097:0:19:55D:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 7 HD
+#DESCRIPTION ViaPlay 7 HD
+#SERVICE 4097:0:19:55E:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 8 HD
+#DESCRIPTION ViaPlay 8 HD
+#SERVICE 4097:0:19:55F:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 9 HD
+#DESCRIPTION ViaPlay 9 HD
+#SERVICE 4097:0:19:560:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 10 HD
+#DESCRIPTION ViaPlay 10 HD
+#SERVICE 4097:0:19:561:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 11 HD
+#DESCRIPTION ViaPlay 11 HD
+#SERVICE 4097:0:19:562:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 12 HD
+#DESCRIPTION ViaPlay 12 HD
+#SERVICE 4097:0:19:563:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 13 HD
+#DESCRIPTION ViaPlay 13 HD
+#SERVICE 4097:0:19:564:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 14 HD
+#DESCRIPTION ViaPlay 14 HD
+#SERVICE 4097:0:19:565:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 15 HD
+#DESCRIPTION ViaPlay 15 HD
+#SERVICE 4097:0:19:566:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 16 HD
+#DESCRIPTION ViaPlay 16 HD
+#SERVICE 4097:0:19:567:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 17 HD
+#DESCRIPTION ViaPlay 17 HD
+#SERVICE 4097:0:19:568:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 18 HD
+#DESCRIPTION ViaPlay 18 HD
+#SERVICE 4097:0:19:569:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 19 HD
+#DESCRIPTION ViaPlay 19 HD
+#SERVICE 4097:0:19:56A:1:1:CCCC0000:0:0:0:pulsx%3a//viaplay?catchuptype=default&catchupdays=10&catchupstype=4097:ViaPlay 20 HD
+#DESCRIPTION ViaPlay 20 HD
+#SERVICE 4097:0:1:56B:1:1:CCCC0000:0:0:0:pulsx%3a//BBC World News?catchuptype=default&catchupdays=10&catchupstype=4097:BBC News
+#DESCRIPTION BBC News
+#SERVICE 4097:0:1:56C:1:1:CCCC0000:0:0:0:pulsx%3a//Sky News?catchuptype=default&catchupdays=10&catchupstype=4097:Sky News
+#DESCRIPTION Sky News
+#SERVICE 4097:0:1:56D:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Pora na Show Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Pora na Show
+#DESCRIPTION TVN Pora na Show
+#SERVICE 4097:0:1:56E:1:1:CCCC0000:0:0:0:pulsx%3a//NFL Network?catchuptype=default&catchupdays=10&catchupstype=4097:NFL Network
+#DESCRIPTION NFL Network
+#SERVICE 4097:0:1:56F:1:1:CCCC0000:0:0:0:pulsx%3a//ESPN?catchuptype=default&catchupdays=10&catchupstype=4097:ESPN
+#DESCRIPTION ESPN
+#SERVICE 4097:0:1:570:1:1:CCCC0000:0:0:0:pulsx%3a//ESPN 2?catchuptype=default&catchupdays=10&catchupstype=4097:ESPN 2
+#DESCRIPTION ESPN 2
+#SERVICE 4097:0:1:571:1:1:CCCC0000:0:0:0:pulsx%3a//ESPNU?catchuptype=default&catchupdays=10&catchupstype=4097:ESPNU
+#DESCRIPTION ESPNU
+#SERVICE 4097:0:1:572:1:1:CCCC0000:0:0:0:pulsx%3a//FS1?catchuptype=default&catchupdays=10&catchupstype=4097:FS1
+#DESCRIPTION FS1
+#SERVICE 4097:0:1:573:1:1:CCCC0000:0:0:0:pulsx%3a//FS2?catchuptype=default&catchupdays=10&catchupstype=4097:FS2
+#DESCRIPTION FS2
+#SERVICE 4097:0:1:574:1:1:CCCC0000:0:0:0:pulsx%3a//SkySportF1.de?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport F1
+#DESCRIPTION Sky Sport F1
+#SERVICE 4097:0:1:575:1:1:CCCC0000:0:0:0:pulsx%3a//SkySportPremierLeague.de?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport Premier League
+#DESCRIPTION Sky Sport Premier League
+#SERVICE 4097:0:1:576:1:1:CCCC0000:0:0:0:pulsx%3a//SkySportGolf.de?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport Golf
+#DESCRIPTION Sky Sport Golf
+#SERVICE 4097:0:1:577:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sport Bundesliga?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport Bundesliga
+#DESCRIPTION Sky Sport Bundesliga
+#SERVICE 4097:0:1:578:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sport Top Event?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport Top Event
+#DESCRIPTION Sky Sport Top Event
+#SERVICE 4097:0:1:579:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sport MIX?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport MIX
+#DESCRIPTION Sky Sport MIX
+#SERVICE 4097:0:1:57A:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sport Tennis?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sport Tennis
+#DESCRIPTION Sky Sport Tennis
+#SERVICE 4097:0:1:57B:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV 1?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV 1
+#DESCRIPTION Sport TV 1
+#SERVICE 4097:0:1:57C:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV 2?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV 2
+#DESCRIPTION Sport TV 2
+#SERVICE 4097:0:1:57D:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV 3?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV 3
+#DESCRIPTION Sport TV 3
+#SERVICE 4097:0:1:57E:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV 4?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV 4
+#DESCRIPTION Sport TV 4
+#SERVICE 4097:0:1:57F:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV 5?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV 5
+#DESCRIPTION Sport TV 5
+#SERVICE 4097:0:1:580:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV 6?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV 6
+#DESCRIPTION Sport TV 6
+#SERVICE 4097:0:1:581:1:1:CCCC0000:0:0:0:pulsx%3a//Sport TV +?catchuptype=default&catchupdays=10&catchupstype=4097:Sport TV +
+#DESCRIPTION Sport TV +
+#SERVICE 4097:0:1:582:1:1:CCCC0000:0:0:0:pulsx%3a//NBA?catchuptype=default&catchupdays=10&catchupstype=4097:NBA
+#DESCRIPTION NBA
+#SERVICE 4097:0:1:583:1:1:CCCC0000:0:0:0:pulsx%3a//CanalPlusSport360.fr?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ 360 sport
+#DESCRIPTION Canal+ 360 sport
+#SERVICE 4097:0:1:584:1:1:CCCC0000:0:0:0:pulsx%3a//beinSports1.fr?catchuptype=default&catchupdays=10&catchupstype=4097:Bein Sports 1
+#DESCRIPTION Bein Sports 1
+#SERVICE 4097:0:1:585:1:1:CCCC0000:0:0:0:pulsx%3a//beinSports2.fr?catchuptype=default&catchupdays=10&catchupstype=4097:Bein Sports 2
+#DESCRIPTION Bein Sports 2
+#SERVICE 4097:0:1:586:1:1:CCCC0000:0:0:0:pulsx%3a//beinSports3.fr?catchuptype=default&catchupdays=10&catchupstype=4097:Bein Sports 3
+#DESCRIPTION Bein Sports 3
+#SERVICE 4097:0:1:587:1:1:CCCC0000:0:0:0:pulsx%3a//CanalPlusFoot.fr?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Foot
+#DESCRIPTION Canal+ Foot
+#SERVICE 4097:0:1:588:1:1:CCCC0000:0:0:0:pulsx%3a//CANALplusSPORT.fr?catchuptype=default&catchupdays=10&catchupstype=4097:Canal+ Sport FR
+#DESCRIPTION Canal+ Sport FR
+#SERVICE 4097:0:1:589:1:1:CCCC0000:0:0:0:pulsx%3a//PremierSports.uk?catchuptype=default&catchupdays=10&catchupstype=4097:Premier Sports 1
+#DESCRIPTION Premier Sports 1
+#SERVICE 4097:0:1:58A:1:1:CCCC0000:0:0:0:pulsx%3a//Premier Sports 2?catchuptype=default&catchupdays=10&catchupstype=4097:Premier Sports 2
+#DESCRIPTION Premier Sports 2
+#SERVICE 4097:0:1:58B:1:1:CCCC0000:0:0:0:pulsx%3a//LaLiga TV?catchuptype=default&catchupdays=10&catchupstype=4097:LaLiga TV
+#DESCRIPTION LaLiga TV
+#SERVICE 4097:0:1:58C:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Premier League?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Premier League
+#DESCRIPTION Sky Sports Premier League
+#SERVICE 4097:0:1:58D:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports +?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports +
+#DESCRIPTION Sky Sports +
+#SERVICE 4097:0:1:58E:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Cricket?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Cricket
+#DESCRIPTION Sky Sports Cricket
+#SERVICE 4097:0:1:58F:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports F1?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports F1
+#DESCRIPTION Sky Sports F1
+#SERVICE 4097:0:1:590:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Football?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Football
+#DESCRIPTION Sky Sports Football
+#SERVICE 4097:0:1:591:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Golf?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Golf
+#DESCRIPTION Sky Sports Golf
+#SERVICE 4097:0:1:592:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Main Event?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Main Event
+#DESCRIPTION Sky Sports Main Event
+#SERVICE 4097:0:1:593:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Mix?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Mix
+#DESCRIPTION Sky Sports Mix
+#SERVICE 4097:0:1:594:1:1:CCCC0000:0:0:0:pulsx%3a//SkySpNews.uk?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports News
+#DESCRIPTION Sky Sports News
+#SERVICE 4097:0:1:595:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Action?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Action
+#DESCRIPTION Sky Sports Action
+#SERVICE 4097:0:1:596:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Racing?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Racing
+#DESCRIPTION Sky Sports Racing
+#SERVICE 4097:0:1:597:1:1:CCCC0000:0:0:0:pulsx%3a//Sky Sports Tennis?catchuptype=default&catchupdays=10&catchupstype=4097:Sky Sports Tennis
+#DESCRIPTION Sky Sports Tennis
+#SERVICE 4097:0:1:598:1:1:CCCC0000:0:0:0:pulsx%3a//TNTSport1.uk?catchuptype=default&catchupdays=10&catchupstype=4097:TNT Sports 1
+#DESCRIPTION TNT Sports 1
+#SERVICE 4097:0:1:599:1:1:CCCC0000:0:0:0:pulsx%3a//TNTSport2.uk?catchuptype=default&catchupdays=10&catchupstype=4097:TNT Sports 2
+#DESCRIPTION TNT Sports 2
+#SERVICE 4097:0:1:59A:1:1:CCCC0000:0:0:0:pulsx%3a//TNTSport3.uk?catchuptype=default&catchupdays=10&catchupstype=4097:TNT Sports 3
+#DESCRIPTION TNT Sports 3
+#SERVICE 4097:0:1:59B:1:1:CCCC0000:0:0:0:pulsx%3a//TNTSport4.uk?catchuptype=default&catchupdays=10&catchupstype=4097:TNT Sports 4
+#DESCRIPTION TNT Sports 4
+#SERVICE 4097:0:1:59C:1:1:CCCC0000:0:0:0:pulsx%3a//TSN1?catchuptype=default&catchupdays=10&catchupstype=4097:TSN 1
+#DESCRIPTION TSN 1
+#SERVICE 4097:0:1:59D:1:1:CCCC0000:0:0:0:pulsx%3a//TSN2?catchuptype=default&catchupdays=10&catchupstype=4097:TSN 2
+#DESCRIPTION TSN 2
+#SERVICE 4097:0:1:59E:1:1:CCCC0000:0:0:0:pulsx%3a//TSN3?catchuptype=default&catchupdays=10&catchupstype=4097:TSN 3
+#DESCRIPTION TSN 3
+#SERVICE 4097:0:1:59F:1:1:CCCC0000:0:0:0:pulsx%3a//TSN4?catchuptype=default&catchupdays=10&catchupstype=4097:TSN 4
+#DESCRIPTION TSN 4
+#SERVICE 4097:0:1:5A0:1:1:CCCC0000:0:0:0:pulsx%3a//TSN5?catchuptype=default&catchupdays=10&catchupstype=4097:TSN 5
+#DESCRIPTION TSN 5
+#SERVICE 4097:0:1:5A1:1:1:CCCC0000:0:0:0:pulsx%3a//TVN Milionerzy Online?catchuptype=default&catchupdays=10&catchupstype=4097:TVN Milionerzy
+#DESCRIPTION TVN Milionerzy
+#SERVICE 4097:0:19:5A2:1:1:CCCC0000:0:0:0:pulsx%3a//VSport 1 HD?catchuptype=default&catchupdays=10&catchupstype=4097:VSport 1 HD
+#DESCRIPTION VSport 1 HD
+#SERVICE 4097:0:19:5A3:1:1:CCCC0000:0:0:0:pulsx%3a//VSport Vinter HD?catchuptype=default&catchupdays=10&catchupstype=4097:VSport Vinter HD
+#DESCRIPTION VSport Vinter HD
+#SERVICE 4097:0:19:5A4:1:1:CCCC0000:0:0:0:pulsx%3a//VSport Extra HD?catchuptype=default&catchupdays=10&catchupstype=4097:VSport Extra HD
+#DESCRIPTION VSport Extra HD
+#SERVICE 4097:0:1:5A5:1:1:CCCC0000:0:0:0:pulsx%3a//Super Express?catchuptype=default&catchupdays=10&catchupstype=4097:Super Express
+#DESCRIPTION Super Express
+#SERVICE 4097:0:1:5A6:1:1:CCCC0000:0:0:0:pulsx%3a//E-SPORT?catchuptype=default&catchupdays=10&catchupstype=4097:E-SPORT
+#DESCRIPTION E-SPORT
+#SERVICE 4097:0:19:5A7:1:1:CCCC0000:0:0:0:pulsx%3a//KSW?catchuptype=default&catchupdays=10&catchupstype=4097:PPV Event Fight 1 HD
+#DESCRIPTION PPV Event Fight 1 HD
+#SERVICE 4097:0:19:5A8:1:1:CCCC0000:0:0:0:pulsx%3a//Fightevent?catchuptype=default&catchupdays=10&catchupstype=4097:PPV Event Fight 2 HD
+#DESCRIPTION PPV Event Fight 2 HD
+#SERVICE 4097:0:19:5A9:1:1:CCCC0000:0:0:0:pulsx%3a//CNN?catchuptype=default&catchupdays=10&catchupstype=4097:CNN HD
+#DESCRIPTION CNN HD
+#SERVICE 4097:0:19:5AA:1:1:CCCC0000:0:0:0:pulsx%3a//CNBC?catchuptype=default&catchupdays=10&catchupstype=4097:CNBC HD
+#DESCRIPTION CNBC HD
+#SERVICE 4097:0:19:5AB:1:1:CCCC0000:0:0:0:pulsx%3a//FOXNewsChannel.us?catchuptype=default&catchupdays=10&catchupstype=4097:FOX News Channel HD
+#DESCRIPTION FOX News Channel HD
+#SERVICE 4097:0:19:5AC:1:1:CCCC0000:0:0:0:pulsx%3a//1+1?catchuptype=default&catchupdays=10&catchupstype=4097:1+1 HD
+#DESCRIPTION 1+1 HD

@@ -1,0 +1,255 @@
+#NAME SPORTS TV
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:sportstv%3a//HBCU Go:HBCU Go
+#DESCRIPTION HBCU Go
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:sportstv%3a//Bein Xtra:Bein Xtra
+#DESCRIPTION Bein Xtra
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:sportstv%3a//Bleav:Bleav
+#DESCRIPTION Bleav
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:sportstv%3a//Bleav Football:Bleav Football
+#DESCRIPTION Bleav Football
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:sportstv%3a//Sportsgrid (GEO):Sportsgrid (GEO)
+#DESCRIPTION Sportsgrid (GEO)
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:sportstv%3a//FTF (GEO):FTF (GEO)
+#DESCRIPTION FTF (GEO)
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:sportstv%3a//English Football Channel:English Football Channel
+#DESCRIPTION English Football Channel
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:sportstv%3a//Perfect Game:Perfect Game
+#DESCRIPTION Perfect Game
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:sportstv%3a//Mav TV Select:Mav TV Select
+#DESCRIPTION Mav TV Select
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:sportstv%3a//The Rugby Network (GEO):The Rugby Network (GEO)
+#DESCRIPTION The Rugby Network (GEO)
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:sportstv%3a//Womens Sport Network:Womens Sport Network
+#DESCRIPTION Womens Sport Network
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:sportstv%3a//World Poker Tour:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:sportstv%3a//Poker Go:Poker Go
+#DESCRIPTION Poker Go
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:sportstv%3a//Poker Night America:Poker Night America
+#DESCRIPTION Poker Night America
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:sportstv%3a//Xtrem Sports:Xtrem Sports
+#DESCRIPTION Xtrem Sports
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:sportstv%3a//GQ:GQ
+#DESCRIPTION GQ
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:sportstv%3a//Coindesk.TV:Coindesk.TV
+#DESCRIPTION Coindesk.TV
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:sportstv%3a//Davinci:Davinci
+#DESCRIPTION Davinci
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:sportstv%3a//Sports News Highlights:Sports News Highlights
+#DESCRIPTION Sports News Highlights
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:sportstv%3a//Unbeaten (GEO):Unbeaten (GEO)
+#DESCRIPTION Unbeaten (GEO)
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:sportstv%3a//Whacked out Sports:Whacked out Sports
+#DESCRIPTION Whacked out Sports
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:sportstv%3a//Bein Xtra Espanol:Bein Xtra Espanol
+#DESCRIPTION Bein Xtra Espanol
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:sportstv%3a//Slopes TV (may be offline):Slopes TV (may be offline)
+#DESCRIPTION Slopes TV (may be offline)
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:sportstv%3a//Swerve Sports:Swerve Sports
+#DESCRIPTION Swerve Sports
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:sportstv%3a//The American Athlete:The American Athlete
+#DESCRIPTION The American Athlete
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:sportstv%3a//Campuslore:Campuslore
+#DESCRIPTION Campuslore
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:sportstv%3a//World Billiards TV:World Billiards TV
+#DESCRIPTION World Billiards TV
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:sportstv%3a//Byron Allen Presents:Byron Allen Presents
+#DESCRIPTION Byron Allen Presents
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:sportstv%3a//Kozoom TV:Kozoom TV
+#DESCRIPTION Kozoom TV
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:sportstv%3a//Billiard TV:Billiard TV
+#DESCRIPTION Billiard TV
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:sportstv%3a//LSN Lacrosse TV:LSN Lacrosse TV
+#DESCRIPTION LSN Lacrosse TV
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:sportstv%3a//Omstars TV:Omstars TV
+#DESCRIPTION Omstars TV
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:sportstv%3a//ITSF TV:ITSF TV
+#DESCRIPTION ITSF TV
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:sportstv%3a//Dungeon TV (may be offline):Dungeon TV (may be offline)
+#DESCRIPTION Dungeon TV (may be offline)
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:sportstv%3a//Adventure Sports TV:Adventure Sports TV
+#DESCRIPTION Adventure Sports TV
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:sportstv%3a//Carbon TV:Carbon TV
+#DESCRIPTION Carbon TV
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:sportstv%3a//Fuel TV:Fuel TV
+#DESCRIPTION Fuel TV
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:sportstv%3a//Outdoor America (GEO):Outdoor America (GEO)
+#DESCRIPTION Outdoor America (GEO)
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:sportstv%3a//Outdoor Action TV:Outdoor Action TV
+#DESCRIPTION Outdoor Action TV
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:sportstv%3a//The Explorers:The Explorers
+#DESCRIPTION The Explorers
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:sportstv%3a//Teton Gravity Research TV:Teton Gravity Research TV
+#DESCRIPTION Teton Gravity Research TV
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:sportstv%3a//Escape TV:Escape TV
+#DESCRIPTION Escape TV
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:sportstv%3a//Waypoint TV:Waypoint TV
+#DESCRIPTION Waypoint TV
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:sportstv%3a//Pursuit Up:Pursuit Up
+#DESCRIPTION Pursuit Up
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:sportstv%3a//Bosco Plus (may be offline):Bosco Plus (may be offline)
+#DESCRIPTION Bosco Plus (may be offline)
+#SERVICE 4097:0:1:415:1:1:CCCC0000:0:0:0:sportstv%3a//Wired2Fish TV:Wired2Fish TV
+#DESCRIPTION Wired2Fish TV
+#SERVICE 4097:0:1:416:1:1:CCCC0000:0:0:0:sportstv%3a//Level Up TV:Level Up TV
+#DESCRIPTION Level Up TV
+#SERVICE 4097:0:1:417:1:1:CCCC0000:0:0:0:sportstv%3a//The Ring TV:The Ring TV
+#DESCRIPTION The Ring TV
+#SERVICE 4097:0:1:418:1:1:CCCC0000:0:0:0:sportstv%3a//Sport Fishing TV:Sport Fishing TV
+#DESCRIPTION Sport Fishing TV
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:sportstv%3a//Horse and Country:Horse and Country
+#DESCRIPTION Horse and Country
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:sportstv%3a//Extreme Plus:Extreme Plus
+#DESCRIPTION Extreme Plus
+#SERVICE 4097:0:1:41B:1:1:CCCC0000:0:0:0:sportstv%3a//Horizon Sports:Horizon Sports
+#DESCRIPTION Horizon Sports
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:sportstv%3a//Nitro TV:Nitro TV
+#DESCRIPTION Nitro TV
+#SERVICE 4097:0:1:41D:1:1:CCCC0000:0:0:0:sportstv%3a//Americas Boating Channel:Americas Boating Channel
+#DESCRIPTION Americas Boating Channel
+#SERVICE 4097:0:1:41E:1:1:CCCC0000:0:0:0:sportstv%3a//Awe Plus:Awe Plus
+#DESCRIPTION Awe Plus
+#SERVICE 4097:0:1:41F:1:1:CCCC0000:0:0:0:sportstv%3a//Channel Fight Masterclass:Channel Fight Masterclass
+#DESCRIPTION Channel Fight Masterclass
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:sportstv%3a//Spartan TV:Spartan TV
+#DESCRIPTION Spartan TV
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:sportstv%3a//ACL Cornhole TV:ACL Cornhole TV
+#DESCRIPTION ACL Cornhole TV
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:sportstv%3a//ChopperTown:ChopperTown
+#DESCRIPTION ChopperTown
+#SERVICE 4097:0:1:423:1:1:CCCC0000:0:0:0:sportstv%3a//ESR 24x7 Esports Network:ESR 24x7 Esports Network
+#DESCRIPTION ESR 24x7 Esports Network
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:sportstv%3a//Wai Lana TV:Wai Lana TV
+#DESCRIPTION Wai Lana TV
+#SERVICE 4097:0:1:425:1:1:CCCC0000:0:0:0:sportstv%3a//Boxing TV:Boxing TV
+#DESCRIPTION Boxing TV
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:sportstv%3a//Prime Fight:Prime Fight
+#DESCRIPTION Prime Fight
+#SERVICE 4097:0:1:427:1:1:CCCC0000:0:0:0:sportstv%3a//Strongman Champions League:Strongman Champions League
+#DESCRIPTION Strongman Champions League
+#SERVICE 4097:0:1:428:1:1:CCCC0000:0:0:0:sportstv%3a//Fight Network:Fight Network
+#DESCRIPTION Fight Network
+#SERVICE 4097:0:1:429:1:1:CCCC0000:0:0:0:sportstv%3a//Fite 24x7:Fite 24x7
+#DESCRIPTION Fite 24x7
+#SERVICE 4097:0:1:42A:1:1:CCCC0000:0:0:0:sportstv%3a//Fight TV:Fight TV
+#DESCRIPTION Fight TV
+#SERVICE 4097:0:1:42B:1:1:CCCC0000:0:0:0:sportstv%3a//Pro Fight League:Pro Fight League
+#DESCRIPTION Pro Fight League
+#SERVICE 4097:0:1:42C:1:1:CCCC0000:0:0:0:sportstv%3a//Kung Fu Plus:Kung Fu Plus
+#DESCRIPTION Kung Fu Plus
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:sportstv%3a//Pro Wrestling TV:Pro Wrestling TV
+#DESCRIPTION Pro Wrestling TV
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:sportstv%3a//The Grappling Network:The Grappling Network
+#DESCRIPTION The Grappling Network
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:sportstv%3a//Impact Wrestling:Impact Wrestling
+#DESCRIPTION Impact Wrestling
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:sportstv%3a//XFC:XFC
+#DESCRIPTION XFC
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:sportstv%3a//Hi YAH!:Hi YAH!
+#DESCRIPTION Hi YAH!
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:sportstv%3a//NHRA Drag Racing:NHRA Drag Racing
+#DESCRIPTION NHRA Drag Racing
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:sportstv%3a//Speedvision:Speedvision
+#DESCRIPTION Speedvision
+#SERVICE 4097:0:1:434:1:1:CCCC0000:0:0:0:sportstv%3a//Racing America (GEO):Racing America (GEO)
+#DESCRIPTION Racing America (GEO)
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:sportstv%3a//RPM:RPM
+#DESCRIPTION RPM
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:sportstv%3a//MOTO America:MOTO America
+#DESCRIPTION MOTO America
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:sportstv%3a//Automotion:Automotion
+#DESCRIPTION Automotion
+#SERVICE 4097:0:1:438:1:1:CCCC0000:0:0:0:sportstv%3a//Drive + Speed:Drive + Speed
+#DESCRIPTION Drive + Speed
+#SERVICE 4097:0:1:439:1:1:CCCC0000:0:0:0:sportstv%3a//Chrono:Chrono
+#DESCRIPTION Chrono
+#SERVICE 4097:0:1:43A:1:1:CCCC0000:0:0:0:sportstv%3a//Motorsport.tv:Motorsport.tv
+#DESCRIPTION Motorsport.tv
+#SERVICE 4097:0:1:43B:1:1:CCCC0000:0:0:0:sportstv%3a//Motorvision.tv:Motorvision.tv
+#DESCRIPTION Motorvision.tv
+#SERVICE 4097:0:1:43C:1:1:CCCC0000:0:0:0:sportstv%3a//Motorracing:Motorracing
+#DESCRIPTION Motorracing
+#SERVICE 4097:0:1:43D:1:1:CCCC0000:0:0:0:sportstv%3a//Sports Connect:Sports Connect
+#DESCRIPTION Sports Connect
+#SERVICE 4097:0:1:43E:1:1:CCCC0000:0:0:0:sportstv%3a//Sports.tv Flix:Sports.tv Flix
+#DESCRIPTION Sports.tv Flix
+#SERVICE 4097:0:1:43F:1:1:CCCC0000:0:0:0:sportstv%3a//Sport.tv Doc:Sport.tv Doc
+#DESCRIPTION Sport.tv Doc
+#SERVICE 4097:0:1:440:1:1:CCCC0000:0:0:0:sportstv%3a//Chukker:Chukker
+#DESCRIPTION Chukker
+#SERVICE 4097:0:1:441:1:1:CCCC0000:0:0:0:sportstv%3a//FRN:FRN
+#DESCRIPTION FRN
+#SERVICE 4097:0:1:442:1:1:CCCC0000:0:0:0:sportstv%3a//Bloomberg Originals:Bloomberg Originals
+#DESCRIPTION Bloomberg Originals
+#SERVICE 4097:0:1:443:1:1:CCCC0000:0:0:0:sportstv%3a//RJ Sport:RJ Sport
+#DESCRIPTION RJ Sport
+#SERVICE 4097:0:1:444:1:1:CCCC0000:0:0:0:sportstv%3a//Video Elephant Sports (may be offline):Video Elephant Sports (may be offline)
+#DESCRIPTION Video Elephant Sports (may be offline)
+#SERVICE 4097:0:1:445:1:1:CCCC0000:0:0:0:sportstv%3a//RJ:RJ
+#DESCRIPTION RJ
+#SERVICE 4097:0:1:446:1:1:CCCC0000:0:0:0:sportstv%3a//Oan Plus:Oan Plus
+#DESCRIPTION Oan Plus
+#SERVICE 4097:0:1:447:1:1:CCCC0000:0:0:0:sportstv%3a//Pattrn:Pattrn
+#DESCRIPTION Pattrn
+#SERVICE 4097:0:1:448:1:1:CCCC0000:0:0:0:sportstv%3a//The Weather Channel En Espanol:The Weather Channel En Espanol
+#DESCRIPTION The Weather Channel En Espanol
+#SERVICE 4097:0:1:449:1:1:CCCC0000:0:0:0:sportstv%3a//KHQ NBC News 6:KHQ NBC News 6
+#DESCRIPTION KHQ NBC News 6
+#SERVICE 4097:0:1:44A:1:1:CCCC0000:0:0:0:sportstv%3a//KTMF ABC News 23:KTMF ABC News 23
+#DESCRIPTION KTMF ABC News 23
+#SERVICE 4097:0:1:44B:1:1:CCCC0000:0:0:0:sportstv%3a//KULR NBC News 8:KULR NBC News 8
+#DESCRIPTION KULR NBC News 8
+#SERVICE 4097:0:1:44C:1:1:CCCC0000:0:0:0:sportstv%3a//KWYB ABC News 5:KWYB ABC News 5
+#DESCRIPTION KWYB ABC News 5
+#SERVICE 4097:0:1:44D:1:1:CCCC0000:0:0:0:sportstv%3a//KFBB ABC News 25:KFBB ABC News 25
+#DESCRIPTION KFBB ABC News 25
+#SERVICE 4097:0:1:44E:1:1:CCCC0000:0:0:0:sportstv%3a//KNDU NBC News 25:KNDU NBC News 25
+#DESCRIPTION KNDU NBC News 25
+#SERVICE 4097:0:1:44F:1:1:CCCC0000:0:0:0:sportstv%3a//KEZI ABC News 9:KEZI ABC News 9
+#DESCRIPTION KEZI ABC News 9
+#SERVICE 4097:0:1:450:1:1:CCCC0000:0:0:0:sportstv%3a//KIMT CBD News 3:KIMT CBD News 3
+#DESCRIPTION KIMT CBD News 3
+#SERVICE 4097:0:1:451:1:1:CCCC0000:0:0:0:sportstv%3a//WEVV CBS News 44:WEVV CBS News 44
+#DESCRIPTION WEVV CBS News 44
+#SERVICE 4097:0:1:452:1:1:CCCC0000:0:0:0:sportstv%3a//WFFT Fox News 55:WFFT Fox News 55
+#DESCRIPTION WFFT Fox News 55
+#SERVICE 4097:0:1:453:1:1:CCCC0000:0:0:0:sportstv%3a//KDRV ABC News 12:KDRV ABC News 12
+#DESCRIPTION KDRV ABC News 12
+#SERVICE 4097:0:1:454:1:1:CCCC0000:0:0:0:sportstv%3a//WTHI CBS News 10:WTHI CBS News 10
+#DESCRIPTION WTHI CBS News 10
+#SERVICE 4097:0:1:455:1:1:CCCC0000:0:0:0:sportstv%3a//WTVA NBC News 9:WTVA NBC News 9
+#DESCRIPTION WTVA NBC News 9
+#SERVICE 4097:0:1:456:1:1:CCCC0000:0:0:0:sportstv%3a//WLFI CBS News 16:WLFI CBS News 16
+#DESCRIPTION WLFI CBS News 16
+#SERVICE 4097:0:1:457:1:1:CCCC0000:0:0:0:sportstv%3a//KADN FOX News 15:KADN FOX News 15
+#DESCRIPTION KADN FOX News 15
+#SERVICE 4097:0:1:458:1:1:CCCC0000:0:0:0:sportstv%3a//WJRT ABC News 12:WJRT ABC News 12
+#DESCRIPTION WJRT ABC News 12
+#SERVICE 4097:0:1:459:1:1:CCCC0000:0:0:0:sportstv%3a//KHSL CBS News 12:KHSL CBS News 12
+#DESCRIPTION KHSL CBS News 12
+#SERVICE 4097:0:1:45A:1:1:CCCC0000:0:0:0:sportstv%3a//KITV ABC News 4:KITV ABC News 4
+#DESCRIPTION KITV ABC News 4
+#SERVICE 4097:0:1:45B:1:1:CCCC0000:0:0:0:sportstv%3a//KVOA NBC 4:KVOA NBC 4
+#DESCRIPTION KVOA NBC 4
+#SERVICE 4097:0:1:45C:1:1:CCCC0000:0:0:0:sportstv%3a//WAAY ABC News 31:WAAY ABC News 31
+#DESCRIPTION WAAY ABC News 31
+#SERVICE 4097:0:1:45D:1:1:CCCC0000:0:0:0:sportstv%3a//KWWL NBC 7:KWWL NBC 7
+#DESCRIPTION KWWL NBC 7
+#SERVICE 4097:0:1:45E:1:1:CCCC0000:0:0:0:sportstv%3a//WKOW ABC 27:WKOW ABC 27
+#DESCRIPTION WKOW ABC 27
+#SERVICE 4097:0:1:45F:1:1:CCCC0000:0:0:0:sportstv%3a//WAOW ABC 19:WAOW ABC 19
+#DESCRIPTION WAOW ABC 19
+#SERVICE 4097:0:1:460:1:1:CCCC0000:0:0:0:sportstv%3a//WQOQ ABC 18:WQOQ ABC 18
+#DESCRIPTION WQOQ ABC 18
+#SERVICE 4097:0:1:461:1:1:CCCC0000:0:0:0:sportstv%3a//WXOW ABC 19:WXOW ABC 19
+#DESCRIPTION WXOW ABC 19
+#SERVICE 4097:0:1:462:1:1:CCCC0000:0:0:0:sportstv%3a//WREX NBC 13:WREX NBC 13
+#DESCRIPTION WREX NBC 13
+#SERVICE 4097:0:1:463:1:1:CCCC0000:0:0:0:sportstv%3a//WSIL ABC 3:WSIL ABC 3
+#DESCRIPTION WSIL ABC 3
+#SERVICE 4097:0:1:464:1:1:CCCC0000:0:0:0:sportstv%3a//FOX 13 Memphis NOW:FOX 13 Memphis NOW
+#DESCRIPTION FOX 13 Memphis NOW
+#SERVICE 4097:0:1:465:1:1:CCCC0000:0:0:0:sportstv%3a//FOX 23 Tulsa NOW:FOX 23 Tulsa NOW
+#DESCRIPTION FOX 23 Tulsa NOW
+#SERVICE 4097:0:1:466:1:1:CCCC0000:0:0:0:sportstv%3a//Bloomberg Television:Bloomberg Television
+#DESCRIPTION Bloomberg Television

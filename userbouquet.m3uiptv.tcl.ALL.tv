@@ -1,0 +1,1181 @@
+#NAME TCL
+#SERVICE 4097:0:1:3E8:2:1:CCCC0000:0:0:0:tcl%3a//OAN Plus -TCL:OAN Plus -TCL
+#DESCRIPTION OAN Plus -TCL
+#SERVICE 4097:0:1:3E9:2:1:CCCC0000:0:0:0:tcl%3a//One America News -TCL (Geo):One America News -TCL (Geo)
+#DESCRIPTION One America News -TCL (Geo)
+#SERVICE 4097:0:1:3EA:2:1:CCCC0000:0:0:0:tcl%3a//Scripps News -TCL:Scripps News -TCL
+#DESCRIPTION Scripps News -TCL
+#SERVICE 4097:0:1:3EB:2:1:CCCC0000:0:0:0:tcl%3a//Scripps News alt -TCL:Scripps News alt -TCL
+#DESCRIPTION Scripps News alt -TCL
+#SERVICE 4097:0:1:3EC:2:1:CCCC0000:0:0:0:tcl%3a//Africa News English .DE -TCL:Africa News English .DE -TCL
+#DESCRIPTION Africa News English .DE -TCL
+#SERVICE 4097:0:1:3ED:2:1:CCCC0000:0:0:0:tcl%3a//Africa News English .FR -TCL:Africa News English .FR -TCL
+#DESCRIPTION Africa News English .FR -TCL
+#SERVICE 4097:0:1:3EE:2:1:CCCC0000:0:0:0:tcl%3a//Africa News English .AU -TCL:Africa News English .AU -TCL
+#DESCRIPTION Africa News English .AU -TCL
+#SERVICE 4097:0:1:3EF:2:1:CCCC0000:0:0:0:tcl%3a//Africa News French .FR -TCL:Africa News French .FR -TCL
+#DESCRIPTION Africa News French .FR -TCL
+#SERVICE 4097:0:1:3F0:2:1:CCCC0000:0:0:0:tcl%3a//Euronews World -TCL:Euronews World -TCL
+#DESCRIPTION Euronews World -TCL
+#SERVICE 4097:0:1:3F1:2:1:CCCC0000:0:0:0:tcl%3a//Euronews World .AU -TCL:Euronews World .AU -TCL
+#DESCRIPTION Euronews World .AU -TCL
+#SERVICE 4097:0:1:3F2:2:1:CCCC0000:0:0:0:tcl%3a//Euronews World .DE -TCL:Euronews World .DE -TCL
+#DESCRIPTION Euronews World .DE -TCL
+#SERVICE 4097:0:1:3F3:2:1:CCCC0000:0:0:0:tcl%3a//Euronews World .MX -TCL:Euronews World .MX -TCL
+#DESCRIPTION Euronews World .MX -TCL
+#SERVICE 4097:0:1:3F4:2:1:CCCC0000:0:0:0:tcl%3a//Euronews World .FR -TCL:Euronews World .FR -TCL
+#DESCRIPTION Euronews World .FR -TCL
+#SERVICE 4097:0:1:3F5:2:1:CCCC0000:0:0:0:tcl%3a//Euronews Portugese .BR -TCL:Euronews Portugese .BR -TCL
+#DESCRIPTION Euronews Portugese .BR -TCL
+#SERVICE 4097:0:1:3F6:2:1:CCCC0000:0:0:0:tcl%3a//Euronews Spanish .MX -TCL:Euronews Spanish .MX -TCL
+#DESCRIPTION Euronews Spanish .MX -TCL
+#SERVICE 4097:0:1:3F7:2:1:CCCC0000:0:0:0:tcl%3a//Euronews Spanish -TCL:Euronews Spanish -TCL
+#DESCRIPTION Euronews Spanish -TCL
+#SERVICE 4097:0:1:3F8:2:1:CCCC0000:0:0:0:tcl%3a//Euronews French .FR -TCL:Euronews French .FR -TCL
+#DESCRIPTION Euronews French .FR -TCL
+#SERVICE 4097:0:1:3F9:2:1:CCCC0000:0:0:0:tcl%3a//Euronews German .DE -TCL:Euronews German .DE -TCL
+#DESCRIPTION Euronews German .DE -TCL
+#SERVICE 4097:0:1:3FA:2:1:CCCC0000:0:0:0:tcl%3a//Moconomy .MX -TCL:Moconomy .MX -TCL
+#DESCRIPTION Moconomy .MX -TCL
+#SERVICE 4097:0:1:3FB:2:1:CCCC0000:0:0:0:tcl%3a//Moconomy .AU -TCL:Moconomy .AU -TCL
+#DESCRIPTION Moconomy .AU -TCL
+#SERVICE 4097:0:1:3FC:2:1:CCCC0000:0:0:0:tcl%3a//Moconomy .CA -TCL:Moconomy .CA -TCL
+#DESCRIPTION Moconomy .CA -TCL
+#SERVICE 4097:0:1:3FD:2:1:CCCC0000:0:0:0:tcl%3a//Moconomy .US -TCL:Moconomy .US -TCL
+#DESCRIPTION Moconomy .US -TCL
+#SERVICE 4097:0:1:3FE:2:1:CCCC0000:0:0:0:tcl%3a//Moconomy .DE -TCL:Moconomy .DE -TCL
+#DESCRIPTION Moconomy .DE -TCL
+#SERVICE 4097:0:1:3FF:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV -TCL:Bloomberg TV -TCL
+#DESCRIPTION Bloomberg TV -TCL
+#SERVICE 4097:0:1:400:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV alt .US -TCL:Bloomberg TV alt .US -TCL
+#DESCRIPTION Bloomberg TV alt .US -TCL
+#SERVICE 4097:0:1:401:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV .CA -TCL:Bloomberg TV .CA -TCL
+#DESCRIPTION Bloomberg TV .CA -TCL
+#SERVICE 4097:0:1:402:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV .MX -TCL:Bloomberg TV .MX -TCL
+#DESCRIPTION Bloomberg TV .MX -TCL
+#SERVICE 4097:0:1:403:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV .BR -TCL:Bloomberg TV .BR -TCL
+#DESCRIPTION Bloomberg TV .BR -TCL
+#SERVICE 4097:0:1:404:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV .DE -TCL:Bloomberg TV .DE -TCL
+#DESCRIPTION Bloomberg TV .DE -TCL
+#SERVICE 4097:0:1:405:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg TV .FR -TCL:Bloomberg TV .FR -TCL
+#DESCRIPTION Bloomberg TV .FR -TCL
+#SERVICE 4097:0:1:406:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals -TCL:Bloomberg Originals -TCL
+#DESCRIPTION Bloomberg Originals -TCL
+#SERVICE 4097:0:1:407:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals alt .US -TCL:Bloomberg Originals alt .US -TCL
+#DESCRIPTION Bloomberg Originals alt .US -TCL
+#SERVICE 4097:0:1:408:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals .CA -TCL:Bloomberg Originals .CA -TCL
+#DESCRIPTION Bloomberg Originals .CA -TCL
+#SERVICE 4097:0:1:409:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals .MX -TCL:Bloomberg Originals .MX -TCL
+#DESCRIPTION Bloomberg Originals .MX -TCL
+#SERVICE 4097:0:1:40A:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals .BR -TCL:Bloomberg Originals .BR -TCL
+#DESCRIPTION Bloomberg Originals .BR -TCL
+#SERVICE 4097:0:1:40B:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals .DE -TCL:Bloomberg Originals .DE -TCL
+#DESCRIPTION Bloomberg Originals .DE -TCL
+#SERVICE 4097:0:1:40C:2:1:CCCC0000:0:0:0:tcl%3a//Bloomberg Originals .FR -TCL:Bloomberg Originals .FR -TCL
+#DESCRIPTION Bloomberg Originals .FR -TCL
+#SERVICE 4097:0:1:40D:2:1:CCCC0000:0:0:0:tcl%3a//Real Americas Voice -TCL:Real Americas Voice -TCL
+#DESCRIPTION Real Americas Voice -TCL
+#SERVICE 4097:0:1:40E:2:1:CCCC0000:0:0:0:tcl%3a//Weather Nation -TCL:Weather Nation -TCL
+#DESCRIPTION Weather Nation -TCL
+#SERVICE 4097:0:1:40F:2:1:CCCC0000:0:0:0:tcl%3a//GB News -TCL:GB News -TCL
+#DESCRIPTION GB News -TCL
+#SERVICE 4097:0:1:410:2:1:CCCC0000:0:0:0:tcl%3a//Newsworld -TCL:Newsworld -TCL
+#DESCRIPTION Newsworld -TCL
+#SERVICE 4097:0:1:411:2:1:CCCC0000:0:0:0:tcl%3a//Newsnet -TCL (Geo):Newsnet -TCL (Geo)
+#DESCRIPTION Newsnet -TCL (Geo)
+#SERVICE 4097:0:1:412:2:1:CCCC0000:0:0:0:tcl%3a//JP News -TCL (Geo):JP News -TCL (Geo)
+#DESCRIPTION JP News -TCL (Geo)
+#SERVICE 4097:0:1:413:2:1:CCCC0000:0:0:0:tcl%3a//Actualidad 360 -TCL (Geo):Actualidad 360 -TCL (Geo)
+#DESCRIPTION Actualidad 360 -TCL (Geo)
+#SERVICE 4097:0:1:414:2:1:CCCC0000:0:0:0:tcl%3a//ROI .US -TCL:ROI .US -TCL
+#DESCRIPTION ROI .US -TCL
+#SERVICE 4097:0:1:415:2:1:CCCC0000:0:0:0:tcl%3a//ROI .AU -TCL:ROI .AU -TCL
+#DESCRIPTION ROI .AU -TCL
+#SERVICE 4097:0:1:416:2:1:CCCC0000:0:0:0:tcl%3a//ROI .BR -TCL:ROI .BR -TCL
+#DESCRIPTION ROI .BR -TCL
+#SERVICE 4097:0:1:417:2:1:CCCC0000:0:0:0:tcl%3a//ROI .CA -TCL:ROI .CA -TCL
+#DESCRIPTION ROI .CA -TCL
+#SERVICE 4097:0:1:418:2:1:CCCC0000:0:0:0:tcl%3a//ROI .DE -TCL:ROI .DE -TCL
+#DESCRIPTION ROI .DE -TCL
+#SERVICE 4097:0:1:419:2:1:CCCC0000:0:0:0:tcl%3a//ROI .FR -TCL:ROI .FR -TCL
+#DESCRIPTION ROI .FR -TCL
+#SERVICE 4097:0:1:41A:2:1:CCCC0000:0:0:0:tcl%3a//ROI .MX -TCL:ROI .MX -TCL
+#DESCRIPTION ROI .MX -TCL
+#SERVICE 4097:0:1:41B:2:1:CCCC0000:0:0:0:tcl%3a//ROI .SA -TCL:ROI .SA -TCL
+#DESCRIPTION ROI .SA -TCL
+#SERVICE 4097:0:1:41C:2:1:CCCC0000:0:0:0:tcl%3a//Royalworld Nobility Destinys .AU -TCL:Royalworld Nobility Destinys .AU -TCL
+#DESCRIPTION Royalworld Nobility Destinys .AU -TCL
+#SERVICE 4097:0:1:41D:2:1:CCCC0000:0:0:0:tcl%3a//Royalworld Nobility Destinys .CA -TCL:Royalworld Nobility Destinys .CA -TCL
+#DESCRIPTION Royalworld Nobility Destinys .CA -TCL
+#SERVICE 4097:0:1:41E:2:1:CCCC0000:0:0:0:tcl%3a//Royalworld Nobility Destinys .US -TCL:Royalworld Nobility Destinys .US -TCL
+#DESCRIPTION Royalworld Nobility Destinys .US -TCL
+#SERVICE 4097:0:1:41F:2:1:CCCC0000:0:0:0:tcl%3a//Royal World .DE -TCL:Royal World .DE -TCL
+#DESCRIPTION Royal World .DE -TCL
+#SERVICE 4097:0:1:420:2:1:CCCC0000:0:0:0:tcl%3a//Royal World .MX -TCL:Royal World .MX -TCL
+#DESCRIPTION Royal World .MX -TCL
+#SERVICE 4097:0:1:421:2:1:CCCC0000:0:0:0:tcl%3a//Pursuit UP -TCL:Pursuit UP -TCL
+#DESCRIPTION Pursuit UP -TCL
+#SERVICE 4097:0:1:422:2:1:CCCC0000:0:0:0:tcl%3a//Craftsy TV -TCL:Craftsy TV -TCL
+#DESCRIPTION Craftsy TV -TCL
+#SERVICE 4097:0:1:423:2:1:CCCC0000:0:0:0:tcl%3a//Hello Inspo -TCL:Hello Inspo -TCL
+#DESCRIPTION Hello Inspo -TCL
+#SERVICE 4097:0:1:424:2:1:CCCC0000:0:0:0:tcl%3a//Flo Racing -TCL:Flo Racing -TCL
+#DESCRIPTION Flo Racing -TCL
+#SERVICE 4097:0:1:425:2:1:CCCC0000:0:0:0:tcl%3a//Butaca TV -TCL:Butaca TV -TCL
+#DESCRIPTION Butaca TV -TCL
+#SERVICE 4097:0:1:426:2:1:CCCC0000:0:0:0:tcl%3a//Saborear TV -TCL:Saborear TV -TCL
+#DESCRIPTION Saborear TV -TCL
+#SERVICE 4097:0:1:427:2:1:CCCC0000:0:0:0:tcl%3a//Judge Faith TV -TCL:Judge Faith TV -TCL
+#DESCRIPTION Judge Faith TV -TCL
+#SERVICE 4097:0:1:428:2:1:CCCC0000:0:0:0:tcl%3a//H2O TV -TCL:H2O TV -TCL
+#DESCRIPTION H2O TV -TCL
+#SERVICE 4097:0:1:429:2:1:CCCC0000:0:0:0:tcl%3a//National Lampoon -TCL:National Lampoon -TCL
+#DESCRIPTION National Lampoon -TCL
+#SERVICE 4097:0:1:42A:2:1:CCCC0000:0:0:0:tcl%3a//Startalk TV -TCL:Startalk TV -TCL
+#DESCRIPTION Startalk TV -TCL
+#SERVICE 4097:0:1:42B:2:1:CCCC0000:0:0:0:tcl%3a//Miramax Movies -TCL:Miramax Movies -TCL
+#DESCRIPTION Miramax Movies -TCL
+#SERVICE 4097:0:1:42C:2:1:CCCC0000:0:0:0:tcl%3a//CW Forever -TCL:CW Forever -TCL
+#DESCRIPTION CW Forever -TCL
+#SERVICE 4097:0:1:42D:2:1:CCCC0000:0:0:0:tcl%3a//CW Gold -TCL:CW Gold -TCL
+#DESCRIPTION CW Gold -TCL
+#SERVICE 4097:0:1:42E:2:1:CCCC0000:0:0:0:tcl%3a//Always Funny -TCL:Always Funny -TCL
+#DESCRIPTION Always Funny -TCL
+#SERVICE 4097:0:1:42F:2:1:CCCC0000:0:0:0:tcl%3a//Always Funny%3a Pranks and Fails -TCL:Always Funny%3a Pranks & Fails -TCL
+#DESCRIPTION Always Funny: Pranks & Fails -TCL
+#SERVICE 4097:0:1:430:2:1:CCCC0000:0:0:0:tcl%3a//Greatest Sports Legends Laughs .AU -TCL:Greatest Sports Legends Laughs .AU -TCL
+#DESCRIPTION Greatest Sports Legends Laughs .AU -TCL
+#SERVICE 4097:0:1:431:2:1:CCCC0000:0:0:0:tcl%3a//Greatest Sports Legends Laughs .BR -TCL:Greatest Sports Legends Laughs .BR -TCL
+#DESCRIPTION Greatest Sports Legends Laughs .BR -TCL
+#SERVICE 4097:0:1:432:2:1:CCCC0000:0:0:0:tcl%3a//Greatest Sports Legends Laughs .MX -TCL:Greatest Sports Legends Laughs .MX -TCL
+#DESCRIPTION Greatest Sports Legends Laughs .MX -TCL
+#SERVICE 4097:0:1:433:2:1:CCCC0000:0:0:0:tcl%3a//Greatest Sports Legends Laughs .FR -TCL:Greatest Sports Legends Laughs .FR -TCL
+#DESCRIPTION Greatest Sports Legends Laughs .FR -TCL
+#SERVICE 4097:0:1:434:2:1:CCCC0000:0:0:0:tcl%3a//Greatest Sports Legends Laughs .US -TCL:Greatest Sports Legends Laughs .US -TCL
+#DESCRIPTION Greatest Sports Legends Laughs .US -TCL
+#SERVICE 4097:0:1:435:2:1:CCCC0000:0:0:0:tcl%3a//BET x Tyler Perry Drama -TCL:BET x Tyler Perry Drama -TCL
+#DESCRIPTION BET x Tyler Perry Drama -TCL
+#SERVICE 4097:0:1:436:2:1:CCCC0000:0:0:0:tcl%3a//BET x Tyler Perry Comedy -TCL:BET x Tyler Perry Comedy -TCL
+#DESCRIPTION BET x Tyler Perry Comedy -TCL
+#SERVICE 4097:0:1:437:2:1:CCCC0000:0:0:0:tcl%3a//Highway Thru Hell -TCL:Highway Thru Hell -TCL
+#DESCRIPTION Highway Thru Hell -TCL
+#SERVICE 4097:0:1:438:2:1:CCCC0000:0:0:0:tcl%3a//Mr Bean Animated .UK -TCL:Mr Bean Animated .UK -TCL
+#DESCRIPTION Mr Bean Animated .UK -TCL
+#SERVICE 4097:0:1:439:2:1:CCCC0000:0:0:0:tcl%3a//Mr Bean Animated .IT -TCL (Geo):Mr Bean Animated .IT -TCL (Geo)
+#DESCRIPTION Mr Bean Animated .IT -TCL (Geo)
+#SERVICE 4097:0:1:43A:2:1:CCCC0000:0:0:0:tcl%3a//Mr Bean Animated .ES -TCL (Geo):Mr Bean Animated .ES -TCL (Geo)
+#DESCRIPTION Mr Bean Animated .ES -TCL (Geo)
+#SERVICE 4097:0:1:43B:2:1:CCCC0000:0:0:0:tcl%3a//Mr Bean Animated .FR -TCL (Geo):Mr Bean Animated .FR -TCL (Geo)
+#DESCRIPTION Mr Bean Animated .FR -TCL (Geo)
+#SERVICE 4097:0:1:43C:2:1:CCCC0000:0:0:0:tcl%3a//Mr Bean Animated .PT -TCL (Geo):Mr Bean Animated .PT -TCL (Geo)
+#DESCRIPTION Mr Bean Animated .PT -TCL (Geo)
+#SERVICE 4097:0:1:43D:2:1:CCCC0000:0:0:0:tcl%3a//Beyblade (Geo) -TCL:Beyblade (Geo) -TCL
+#DESCRIPTION Beyblade (Geo) -TCL
+#SERVICE 4097:0:1:43E:2:1:CCCC0000:0:0:0:tcl%3a//Sports Grid (Geo) -TCL:Sports Grid (Geo) -TCL
+#DESCRIPTION Sports Grid (Geo) -TCL
+#SERVICE 4097:0:1:43F:2:1:CCCC0000:0:0:0:tcl%3a//ION -TCL:ION -TCL
+#DESCRIPTION ION -TCL
+#SERVICE 4097:0:1:440:2:1:CCCC0000:0:0:0:tcl%3a//ION alt -TCL:ION alt -TCL
+#DESCRIPTION ION alt -TCL
+#SERVICE 4097:0:1:441:2:1:CCCC0000:0:0:0:tcl%3a//ION Plus -TCL:ION Plus -TCL
+#DESCRIPTION ION Plus -TCL
+#SERVICE 4097:0:1:442:2:1:CCCC0000:0:0:0:tcl%3a//ION Mystery -TCL:ION Mystery -TCL
+#DESCRIPTION ION Mystery -TCL
+#SERVICE 4097:0:1:443:2:1:CCCC0000:0:0:0:tcl%3a//ION Mystery alt -TCL:ION Mystery alt -TCL
+#DESCRIPTION ION Mystery alt -TCL
+#SERVICE 4097:0:1:444:2:1:CCCC0000:0:0:0:tcl%3a//Bounce XL -TCL:Bounce XL -TCL
+#DESCRIPTION Bounce XL -TCL
+#SERVICE 4097:0:1:445:2:1:CCCC0000:0:0:0:tcl%3a//Bounce XL alt -TCL:Bounce XL alt -TCL
+#DESCRIPTION Bounce XL alt -TCL
+#SERVICE 4097:0:1:446:2:1:CCCC0000:0:0:0:tcl%3a//Grit Xtra -TCL:Grit Xtra -TCL
+#DESCRIPTION Grit Xtra -TCL
+#SERVICE 4097:0:1:447:2:1:CCCC0000:0:0:0:tcl%3a//Grit Xtra alt -TCL:Grit Xtra alt -TCL
+#DESCRIPTION Grit Xtra alt -TCL
+#SERVICE 4097:0:1:448:2:1:CCCC0000:0:0:0:tcl%3a//Craction TV -TCL:Craction TV -TCL
+#DESCRIPTION Craction TV -TCL
+#SERVICE 4097:0:1:449:2:1:CCCC0000:0:0:0:tcl%3a//Conflict .US -TCL:Conflict .US -TCL
+#DESCRIPTION Conflict .US -TCL
+#SERVICE 4097:0:1:44A:2:1:CCCC0000:0:0:0:tcl%3a//Conflict .US alt -TCL:Conflict .US alt -TCL
+#DESCRIPTION Conflict .US alt -TCL
+#SERVICE 4097:0:1:44B:2:1:CCCC0000:0:0:0:tcl%3a//Conflict .CA -TCL:Conflict .CA -TCL
+#DESCRIPTION Conflict .CA -TCL
+#SERVICE 4097:0:1:44C:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .AU -TCL:The Homestyle Channel .AU -TCL
+#DESCRIPTION The Homestyle Channel .AU -TCL
+#SERVICE 4097:0:1:44D:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .US -TCL:The Homestyle Channel .US -TCL
+#DESCRIPTION The Homestyle Channel .US -TCL
+#SERVICE 4097:0:1:44E:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .CA -TCL:The Homestyle Channel .CA -TCL
+#DESCRIPTION The Homestyle Channel .CA -TCL
+#SERVICE 4097:0:1:44F:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .BR -TCL:The Homestyle Channel .BR -TCL
+#DESCRIPTION The Homestyle Channel .BR -TCL
+#SERVICE 4097:0:1:450:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .FR -TCL:The Homestyle Channel .FR -TCL
+#DESCRIPTION The Homestyle Channel .FR -TCL
+#SERVICE 4097:0:1:451:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .DE -TCL:The Homestyle Channel .DE -TCL
+#DESCRIPTION The Homestyle Channel .DE -TCL
+#SERVICE 4097:0:1:452:2:1:CCCC0000:0:0:0:tcl%3a//The Homestyle Channel .MX -TCL:The Homestyle Channel .MX -TCL
+#DESCRIPTION The Homestyle Channel .MX -TCL
+#SERVICE 4097:0:1:453:2:1:CCCC0000:0:0:0:tcl%3a//Strongman Champions League .US -TCL:Strongman Champions League .US -TCL
+#DESCRIPTION Strongman Champions League .US -TCL
+#SERVICE 4097:0:1:454:2:1:CCCC0000:0:0:0:tcl%3a//Strongman Champions League .US alt -TCL:Strongman Champions League .US alt -TCL
+#DESCRIPTION Strongman Champions League .US alt -TCL
+#SERVICE 4097:0:1:455:2:1:CCCC0000:0:0:0:tcl%3a//Strongman Champions League .CA -TCL:Strongman Champions League .CA -TCL
+#DESCRIPTION Strongman Champions League .CA -TCL
+#SERVICE 4097:0:1:456:2:1:CCCC0000:0:0:0:tcl%3a//Strongman Champions League .AU -TCL:Strongman Champions League .AU -TCL
+#DESCRIPTION Strongman Champions League .AU -TCL
+#SERVICE 4097:0:1:457:2:1:CCCC0000:0:0:0:tcl%3a//Screamin -TCL:Screamin -TCL
+#DESCRIPTION Screamin -TCL
+#SERVICE 4097:0:1:458:2:1:CCCC0000:0:0:0:tcl%3a//Nature moments by Love Nature -TCL (Geo):Nature moments by Love Nature -TCL (Geo)
+#DESCRIPTION Nature moments by Love Nature -TCL (Geo)
+#SERVICE 4097:0:1:459:2:1:CCCC0000:0:0:0:tcl%3a//Lovenature Spanish -TCL (Geo):Lovenature Spanish -TCL (Geo)
+#DESCRIPTION Lovenature Spanish -TCL (Geo)
+#SERVICE 4097:0:1:45A:2:1:CCCC0000:0:0:0:tcl%3a//Nature Time Spanish -TCL (Geo):Nature Time Spanish -TCL (Geo)
+#DESCRIPTION Nature Time Spanish -TCL (Geo)
+#SERVICE 4097:0:1:45B:2:1:CCCC0000:0:0:0:tcl%3a//Davinci -TCL:Davinci -TCL
+#DESCRIPTION Davinci -TCL
+#SERVICE 4097:0:1:45C:2:1:CCCC0000:0:0:0:tcl%3a//Davinci alt -TCL (Geo):Davinci alt -TCL (Geo)
+#DESCRIPTION Davinci alt -TCL (Geo)
+#SERVICE 4097:0:1:45D:2:1:CCCC0000:0:0:0:tcl%3a//Family Time -TCL:Family Time -TCL
+#DESCRIPTION Family Time -TCL
+#SERVICE 4097:0:1:45E:2:1:CCCC0000:0:0:0:tcl%3a//Family Time -TCL (Geo):Family Time -TCL (Geo)
+#DESCRIPTION Family Time -TCL (Geo)
+#SERVICE 4097:0:1:45F:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Crime -TCL (Geo):FreeTV Crime -TCL (Geo)
+#DESCRIPTION FreeTV Crime -TCL (Geo)
+#SERVICE 4097:0:1:460:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Family -TCL (Geo):FreeTV Family -TCL (Geo)
+#DESCRIPTION FreeTV Family -TCL (Geo)
+#SERVICE 4097:0:1:461:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Drama Vault -TCL (Geo):FreeTV Drama Vault -TCL (Geo)
+#DESCRIPTION FreeTV Drama Vault -TCL (Geo)
+#SERVICE 4097:0:1:462:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Horror -TCL (Geo):FreeTV Horror -TCL (Geo)
+#DESCRIPTION FreeTV Horror -TCL (Geo)
+#SERVICE 4097:0:1:463:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Action -TCL (Geo):FreeTV Action -TCL (Geo)
+#DESCRIPTION FreeTV Action -TCL (Geo)
+#SERVICE 4097:0:1:464:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Drama -TCL (Geo):FreeTV Drama -TCL (Geo)
+#DESCRIPTION FreeTV Drama -TCL (Geo)
+#SERVICE 4097:0:1:465:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Live -TCL (Geo):FreeTV Live -TCL (Geo)
+#DESCRIPTION FreeTV Live -TCL (Geo)
+#SERVICE 4097:0:1:466:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Estelar -TCL (Geo):FreeTV Estelar -TCL (Geo)
+#DESCRIPTION FreeTV Estelar -TCL (Geo)
+#SERVICE 4097:0:1:467:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Terror -TCL (Geo):FreeTV Terror -TCL (Geo)
+#DESCRIPTION FreeTV Terror -TCL (Geo)
+#SERVICE 4097:0:1:468:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Saber Mas -TCL (Geo):FreeTV Saber Mas -TCL (Geo)
+#DESCRIPTION FreeTV Saber Mas -TCL (Geo)
+#SERVICE 4097:0:1:469:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Banda -TCL (Geo):FreeTV Banda -TCL (Geo)
+#DESCRIPTION FreeTV Banda -TCL (Geo)
+#SERVICE 4097:0:1:46A:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Hits -TCL (Geo):FreeTV Hits -TCL (Geo)
+#DESCRIPTION FreeTV Hits -TCL (Geo)
+#SERVICE 4097:0:1:46B:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Estelar -TCL (Geo):FreeTV Estelar -TCL (Geo)
+#DESCRIPTION FreeTV Estelar -TCL (Geo)
+#SERVICE 4097:0:1:46C:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Clasico -TCL (Geo):FreeTV Clasico -TCL (Geo)
+#DESCRIPTION FreeTV Clasico -TCL (Geo)
+#SERVICE 4097:0:1:46D:2:1:CCCC0000:0:0:0:tcl%3a//Nosey Escandalos .CA -TCL:Nosey Escandalos .CA -TCL
+#DESCRIPTION Nosey Escandalos .CA -TCL
+#SERVICE 4097:0:1:46E:2:1:CCCC0000:0:0:0:tcl%3a//Nosey 3 .AU -TCL:Nosey 3 .AU -TCL
+#DESCRIPTION Nosey 3 .AU -TCL
+#SERVICE 4097:0:1:46F:2:1:CCCC0000:0:0:0:tcl%3a//Nosey 3 .SA -TCL:Nosey 3 .SA -TCL
+#DESCRIPTION Nosey 3 .SA -TCL
+#SERVICE 4097:0:1:470:2:1:CCCC0000:0:0:0:tcl%3a//Nosey 3 .BR -TCL:Nosey 3 .BR -TCL
+#DESCRIPTION Nosey 3 .BR -TCL
+#SERVICE 4097:0:1:471:2:1:CCCC0000:0:0:0:tcl%3a//Nosey 3 .DE -TCL:Nosey 3 .DE -TCL
+#DESCRIPTION Nosey 3 .DE -TCL
+#SERVICE 4097:0:1:472:2:1:CCCC0000:0:0:0:tcl%3a//Nosey 3 .FR -TCL:Nosey 3 .FR -TCL
+#DESCRIPTION Nosey 3 .FR -TCL
+#SERVICE 4097:0:1:473:2:1:CCCC0000:0:0:0:tcl%3a//Nosey 3 .MX -TCL:Nosey 3 .MX -TCL
+#DESCRIPTION Nosey 3 .MX -TCL
+#SERVICE 4097:0:1:474:2:1:CCCC0000:0:0:0:tcl%3a//Filmzie -TCL:Filmzie -TCL
+#DESCRIPTION Filmzie -TCL
+#SERVICE 4097:0:1:475:2:1:CCCC0000:0:0:0:tcl%3a//Mytime Movie Network -TCL:Mytime Movie Network -TCL
+#DESCRIPTION Mytime Movie Network -TCL
+#SERVICE 4097:0:1:476:2:1:CCCC0000:0:0:0:tcl%3a//Mytime Movie Network c2 -TCL (Geo):Mytime Movie Network c2 -TCL (Geo)
+#DESCRIPTION Mytime Movie Network c2 -TCL (Geo)
+#SERVICE 4097:0:1:477:2:1:CCCC0000:0:0:0:tcl%3a//Mytime Movie Network Spanish c3 -TCL (Geo):Mytime Movie Network Spanish c3 -TCL (Geo)
+#DESCRIPTION Mytime Movie Network Spanish c3 -TCL (Geo)
+#SERVICE 4097:0:1:478:2:1:CCCC0000:0:0:0:tcl%3a//Mytime Movie Network Spanish c4 -TCL (Geo):Mytime Movie Network Spanish c4 -TCL (Geo)
+#DESCRIPTION Mytime Movie Network Spanish c4 -TCL (Geo)
+#SERVICE 4097:0:1:479:2:1:CCCC0000:0:0:0:tcl%3a//MyTime Movie Network Spanish c7 -TCL (Geo):MyTime Movie Network Spanish c7 -TCL (Geo)
+#DESCRIPTION MyTime Movie Network Spanish c7 -TCL (Geo)
+#SERVICE 4097:0:1:47A:2:1:CCCC0000:0:0:0:tcl%3a//Mytime Movie Network German -TCL (Geo):Mytime Movie Network German -TCL (Geo)
+#DESCRIPTION Mytime Movie Network German -TCL (Geo)
+#SERVICE 4097:0:1:47B:2:1:CCCC0000:0:0:0:tcl%3a//Mytime Movie Network c6 English text and cc -TCL (Geo):Mytime Movie Network c6 English text and cc -TCL (Geo)
+#DESCRIPTION Mytime Movie Network c6 English text and cc -TCL (Geo)
+#SERVICE 4097:0:1:47C:2:1:CCCC0000:0:0:0:tcl%3a//Soul Cinema -TCL (Geo):Soul Cinema -TCL (Geo)
+#DESCRIPTION Soul Cinema -TCL (Geo)
+#SERVICE 4097:0:1:47D:2:1:CCCC0000:0:0:0:tcl%3a//Freemovies Plus -TCL (Geo):Freemovies Plus -TCL (Geo)
+#DESCRIPTION Freemovies Plus -TCL (Geo)
+#SERVICE 4097:0:1:47E:2:1:CCCC0000:0:0:0:tcl%3a//Moviesphere -TCL (Geo):Moviesphere -TCL (Geo)
+#DESCRIPTION Moviesphere -TCL (Geo)
+#SERVICE 4097:0:1:47F:2:1:CCCC0000:0:0:0:tcl%3a//Moviesphere -TCL c27 (Geo):Moviesphere -TCL c27 (Geo)
+#DESCRIPTION Moviesphere -TCL c27 (Geo)
+#SERVICE 4097:0:1:480:2:1:CCCC0000:0:0:0:tcl%3a//Moviesphere Spanish onscreen subs -TCL (Geo):Moviesphere Spanish onscreen subs -TCL (Geo)
+#DESCRIPTION Moviesphere Spanish onscreen subs -TCL (Geo)
+#SERVICE 4097:0:1:481:2:1:CCCC0000:0:0:0:tcl%3a//Are We There Yet -TCL (Geo):Are We There Yet -TCL (Geo)
+#DESCRIPTION Are We There Yet -TCL (Geo)
+#SERVICE 4097:0:1:482:2:1:CCCC0000:0:0:0:tcl%3a//Maverick Black Cinema -TCL:Maverick Black Cinema -TCL
+#DESCRIPTION Maverick Black Cinema -TCL
+#SERVICE 4097:0:1:483:2:1:CCCC0000:0:0:0:tcl%3a//Maverick Black Cinema .CA -TCL:Maverick Black Cinema .CA -TCL
+#DESCRIPTION Maverick Black Cinema .CA -TCL
+#SERVICE 4097:0:1:484:2:1:CCCC0000:0:0:0:tcl%3a//Star Cinema -TCL:Star Cinema -TCL
+#DESCRIPTION Star Cinema -TCL
+#SERVICE 4097:0:1:485:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .AU -TCL:Charlie .AU -TCL
+#DESCRIPTION Charlie .AU -TCL
+#SERVICE 4097:0:1:486:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .BR -TCL:Charlie .BR -TCL
+#DESCRIPTION Charlie .BR -TCL
+#SERVICE 4097:0:1:487:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .CA -TCL:Charlie .CA -TCL
+#DESCRIPTION Charlie .CA -TCL
+#SERVICE 4097:0:1:488:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .DE -TCL:Charlie .DE -TCL
+#DESCRIPTION Charlie .DE -TCL
+#SERVICE 4097:0:1:489:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .FR -TCL:Charlie .FR -TCL
+#DESCRIPTION Charlie .FR -TCL
+#SERVICE 4097:0:1:48A:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .MX -TCL:Charlie .MX -TCL
+#DESCRIPTION Charlie .MX -TCL
+#SERVICE 4097:0:1:48B:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .SA -TCL:Charlie .SA -TCL
+#DESCRIPTION Charlie .SA -TCL
+#SERVICE 4097:0:1:48C:2:1:CCCC0000:0:0:0:tcl%3a//Charlie .US -TCL:Charlie .US -TCL
+#DESCRIPTION Charlie .US -TCL
+#SERVICE 4097:0:1:48D:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo Films de Western .FR -TCL:Grjngo Films de Western .FR -TCL
+#DESCRIPTION Grjngo Films de Western .FR -TCL
+#SERVICE 4097:0:1:48E:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo .BR -TCL:Grjngo .BR -TCL
+#DESCRIPTION Grjngo .BR -TCL
+#SERVICE 4097:0:1:48F:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo .MX -TCL:Grjngo .MX -TCL
+#DESCRIPTION Grjngo .MX -TCL
+#SERVICE 4097:0:1:490:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo .AU -TCL:Grjngo .AU -TCL
+#DESCRIPTION Grjngo .AU -TCL
+#SERVICE 4097:0:1:491:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo .CA -TCL:Grjngo .CA -TCL
+#DESCRIPTION Grjngo .CA -TCL
+#SERVICE 4097:0:1:492:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo .US -TCL:Grjngo .US -TCL
+#DESCRIPTION Grjngo .US -TCL
+#SERVICE 4097:0:1:493:2:1:CCCC0000:0:0:0:tcl%3a//Grjngo .DE -TCL:Grjngo .DE -TCL
+#DESCRIPTION Grjngo .DE -TCL
+#SERVICE 4097:0:1:494:2:1:CCCC0000:0:0:0:tcl%3a//Artflix .AU -TCL:Artflix .AU -TCL
+#DESCRIPTION Artflix .AU -TCL
+#SERVICE 4097:0:1:495:2:1:CCCC0000:0:0:0:tcl%3a//Artflix .CA -TCL:Artflix .CA -TCL
+#DESCRIPTION Artflix .CA -TCL
+#SERVICE 4097:0:1:496:2:1:CCCC0000:0:0:0:tcl%3a//Artflix .SA -TCL:Artflix .SA -TCL
+#DESCRIPTION Artflix .SA -TCL
+#SERVICE 4097:0:1:497:2:1:CCCC0000:0:0:0:tcl%3a//Artflix .US -TCL:Artflix .US -TCL
+#DESCRIPTION Artflix .US -TCL
+#SERVICE 4097:0:1:498:2:1:CCCC0000:0:0:0:tcl%3a//Artflix .DE -TCL:Artflix .DE -TCL
+#DESCRIPTION Artflix .DE -TCL
+#SERVICE 4097:0:1:499:2:1:CCCC0000:0:0:0:tcl%3a//Artflix .MX -TCL:Artflix .MX -TCL
+#DESCRIPTION Artflix .MX -TCL
+#SERVICE 4097:0:1:49A:2:1:CCCC0000:0:0:0:tcl%3a//Bigtjme .AU -TCL:Bigtjme .AU -TCL
+#DESCRIPTION Bigtjme .AU -TCL
+#SERVICE 4097:0:1:49B:2:1:CCCC0000:0:0:0:tcl%3a//Bigtjme .CA -TCL:Bigtjme .CA -TCL
+#DESCRIPTION Bigtjme .CA -TCL
+#SERVICE 4097:0:1:49C:2:1:CCCC0000:0:0:0:tcl%3a//Bigtjme .US -TCL:Bigtjme .US -TCL
+#DESCRIPTION Bigtjme .US -TCL
+#SERVICE 4097:0:1:49D:2:1:CCCC0000:0:0:0:tcl%3a//Bigtjme .MX -TCL:Bigtjme .MX -TCL
+#DESCRIPTION Bigtjme .MX -TCL
+#SERVICE 4097:0:1:49E:2:1:CCCC0000:0:0:0:tcl%3a//Beyond Paranormal .AU -TCL:Beyond Paranormal .AU -TCL
+#DESCRIPTION Beyond Paranormal .AU -TCL
+#SERVICE 4097:0:1:49F:2:1:CCCC0000:0:0:0:tcl%3a//Beyond Paranormal .CA -TCL:Beyond Paranormal .CA -TCL
+#DESCRIPTION Beyond Paranormal .CA -TCL
+#SERVICE 4097:0:1:4A0:2:1:CCCC0000:0:0:0:tcl%3a//Travel XP .BR -TCL:Travel XP .BR -TCL
+#DESCRIPTION Travel XP .BR -TCL
+#SERVICE 4097:0:1:4A1:2:1:CCCC0000:0:0:0:tcl%3a//Travel XP .CA -TCL:Travel XP .CA -TCL
+#DESCRIPTION Travel XP .CA -TCL
+#SERVICE 4097:0:1:4A2:2:1:CCCC0000:0:0:0:tcl%3a//Travel XP .US -TCL:Travel XP .US -TCL
+#DESCRIPTION Travel XP .US -TCL
+#SERVICE 4097:0:1:4A3:2:1:CCCC0000:0:0:0:tcl%3a//Travel XP .DE -TCL:Travel XP .DE -TCL
+#DESCRIPTION Travel XP .DE -TCL
+#SERVICE 4097:0:1:4A4:2:1:CCCC0000:0:0:0:tcl%3a//Travel Escapes -TCL:Travel Escapes -TCL
+#DESCRIPTION Travel Escapes -TCL
+#SERVICE 4097:0:1:4A5:2:1:CCCC0000:0:0:0:tcl%3a//Travel Escapes .AU -TCL:Travel Escapes .AU -TCL
+#DESCRIPTION Travel Escapes .AU -TCL
+#SERVICE 4097:0:1:4A6:2:1:CCCC0000:0:0:0:tcl%3a//Travel Escapes .CA -TCL:Travel Escapes .CA -TCL
+#DESCRIPTION Travel Escapes .CA -TCL
+#SERVICE 4097:0:1:4A7:2:1:CCCC0000:0:0:0:tcl%3a//Air and Space .US -TCL:Air and Space .US -TCL
+#DESCRIPTION Air and Space .US -TCL
+#SERVICE 4097:0:1:4A8:2:1:CCCC0000:0:0:0:tcl%3a//Air and Space .US alt -TCL:Air and Space .US alt -TCL
+#DESCRIPTION Air and Space .US alt -TCL
+#SERVICE 4097:0:1:4A9:2:1:CCCC0000:0:0:0:tcl%3a//Air and Space .AU -TCL:Air and Space .AU -TCL
+#DESCRIPTION Air and Space .AU -TCL
+#SERVICE 4097:0:1:4AA:2:1:CCCC0000:0:0:0:tcl%3a//Air and Space .CA -TCL:Air and Space .CA -TCL
+#DESCRIPTION Air and Space .CA -TCL
+#SERVICE 4097:0:1:4AB:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Movies -TCL:Wedo Movies -TCL
+#DESCRIPTION Wedo Movies -TCL
+#SERVICE 4097:0:1:4AC:2:1:CCCC0000:0:0:0:tcl%3a//Trailers from Hell -TCL:Trailers from Hell -TCL
+#DESCRIPTION Trailers from Hell -TCL
+#SERVICE 4097:0:1:4AD:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .US -TCL:Watch Mojo .US -TCL
+#DESCRIPTION Watch Mojo .US -TCL
+#SERVICE 4097:0:1:4AE:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .US alt -TCL:Watch Mojo .US alt -TCL
+#DESCRIPTION Watch Mojo .US alt -TCL
+#SERVICE 4097:0:1:4AF:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .CA -TCL:Watch Mojo .CA -TCL
+#DESCRIPTION Watch Mojo .CA -TCL
+#SERVICE 4097:0:1:4B0:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .AU -TCL:Watch Mojo .AU -TCL
+#DESCRIPTION Watch Mojo .AU -TCL
+#SERVICE 4097:0:1:4B1:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .MX -TCL:Watch Mojo .MX -TCL
+#DESCRIPTION Watch Mojo .MX -TCL
+#SERVICE 4097:0:1:4B2:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .BR -TCL:Watch Mojo .BR -TCL
+#DESCRIPTION Watch Mojo .BR -TCL
+#SERVICE 4097:0:1:4B3:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .FR -TCL:Watch Mojo .FR -TCL
+#DESCRIPTION Watch Mojo .FR -TCL
+#SERVICE 4097:0:1:4B4:2:1:CCCC0000:0:0:0:tcl%3a//Watch Mojo .DE -TCL:Watch Mojo .DE -TCL
+#DESCRIPTION Watch Mojo .DE -TCL
+#SERVICE 4097:0:1:4B5:2:1:CCCC0000:0:0:0:tcl%3a//MovieDome Family -TCL:MovieDome Family -TCL
+#DESCRIPTION MovieDome Family -TCL
+#SERVICE 4097:0:1:4B6:2:1:CCCC0000:0:0:0:tcl%3a//Young Hollywood -TCL:Young Hollywood -TCL
+#DESCRIPTION Young Hollywood -TCL
+#SERVICE 4097:0:1:4B7:2:1:CCCC0000:0:0:0:tcl%3a//Made in Hollywood -TCL:Made in Hollywood -TCL
+#DESCRIPTION Made in Hollywood -TCL
+#SERVICE 4097:0:1:4B8:2:1:CCCC0000:0:0:0:tcl%3a//Made in Hollywood .AU -TCL:Made in Hollywood .AU -TCL
+#DESCRIPTION Made in Hollywood .AU -TCL
+#SERVICE 4097:0:1:4B9:2:1:CCCC0000:0:0:0:tcl%3a//Made in Hollywood .BR -TCL:Made in Hollywood .BR -TCL
+#DESCRIPTION Made in Hollywood .BR -TCL
+#SERVICE 4097:0:1:4BA:2:1:CCCC0000:0:0:0:tcl%3a//Made in Hollywood .CA -TCL:Made in Hollywood .CA -TCL
+#DESCRIPTION Made in Hollywood .CA -TCL
+#SERVICE 4097:0:1:4BB:2:1:CCCC0000:0:0:0:tcl%3a//Made in Hollywood .DE -TCL:Made in Hollywood .DE -TCL
+#DESCRIPTION Made in Hollywood .DE -TCL
+#SERVICE 4097:0:1:4BC:2:1:CCCC0000:0:0:0:tcl%3a//Made in Hollywood .MX -TCL:Made in Hollywood .MX -TCL
+#DESCRIPTION Made in Hollywood .MX -TCL
+#SERVICE 4097:0:1:4BD:2:1:CCCC0000:0:0:0:tcl%3a//Cinelife -TCL:Cinelife -TCL
+#DESCRIPTION Cinelife -TCL
+#SERVICE 4097:0:1:4BE:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey -TCL:Real Nosey -TCL
+#DESCRIPTION Real Nosey -TCL
+#SERVICE 4097:0:1:4BF:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey alt -TCL:Real Nosey alt -TCL
+#DESCRIPTION Real Nosey alt -TCL
+#SERVICE 4097:0:1:4C0:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey .AU -TCL:Real Nosey .AU -TCL
+#DESCRIPTION Real Nosey .AU -TCL
+#SERVICE 4097:0:1:4C1:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey .CA -TCL:Real Nosey .CA -TCL
+#DESCRIPTION Real Nosey .CA -TCL
+#SERVICE 4097:0:1:4C2:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey .DE -TCL:Real Nosey .DE -TCL
+#DESCRIPTION Real Nosey .DE -TCL
+#SERVICE 4097:0:1:4C3:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey .FR -TCL:Real Nosey .FR -TCL
+#DESCRIPTION Real Nosey .FR -TCL
+#SERVICE 4097:0:1:4C4:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey .BR -TCL:Real Nosey .BR -TCL
+#DESCRIPTION Real Nosey .BR -TCL
+#SERVICE 4097:0:1:4C5:2:1:CCCC0000:0:0:0:tcl%3a//Real Nosey .SA -TCL:Real Nosey .SA -TCL
+#DESCRIPTION Real Nosey .SA -TCL
+#SERVICE 4097:0:1:4C6:2:1:CCCC0000:0:0:0:tcl%3a//Dont tell the Bride -TCL:Dont tell the Bride -TCL
+#DESCRIPTION Dont tell the Bride -TCL
+#SERVICE 4097:0:19:4C7:2:1:CCCC0000:0:0:0:tcl%3a//Nolly Africa HD -TCL (Geo):Nolly Africa HD -TCL (Geo)
+#DESCRIPTION Nolly Africa HD -TCL (Geo)
+#SERVICE 4097:0:1:4C8:2:1:CCCC0000:0:0:0:tcl%3a//Shades of Black -TCL:Shades of Black -TCL
+#DESCRIPTION Shades of Black -TCL
+#SERVICE 4097:0:1:4C9:2:1:CCCC0000:0:0:0:tcl%3a//Shades of Black -TCL (Geo):Shades of Black -TCL (Geo)
+#DESCRIPTION Shades of Black -TCL (Geo)
+#SERVICE 4097:0:1:4CA:2:1:CCCC0000:0:0:0:tcl%3a//Mansa Mix -TCL:Mansa Mix -TCL
+#DESCRIPTION Mansa Mix -TCL
+#SERVICE 4097:0:1:4CB:2:1:CCCC0000:0:0:0:tcl%3a//Backstage -TCL (Geo):Backstage -TCL (Geo)
+#DESCRIPTION Backstage -TCL (Geo)
+#SERVICE 4097:0:1:4CC:2:1:CCCC0000:0:0:0:tcl%3a//Backstage -TCL (Geo):Backstage -TCL (Geo)
+#DESCRIPTION Backstage -TCL (Geo)
+#SERVICE 4097:0:1:4CD:2:1:CCCC0000:0:0:0:tcl%3a//Trace Sports Stars -TCL:Trace Sports Stars -TCL
+#DESCRIPTION Trace Sports Stars -TCL
+#SERVICE 4097:0:1:4CE:2:1:CCCC0000:0:0:0:tcl%3a//Racing America -TCL (Geo):Racing America -TCL (Geo)
+#DESCRIPTION Racing America -TCL (Geo)
+#SERVICE 4097:0:1:4CF:2:1:CCCC0000:0:0:0:tcl%3a//T2 -TCL (Geo):T2 -TCL (Geo)
+#DESCRIPTION T2 -TCL (Geo)
+#SERVICE 4097:0:1:4D0:2:1:CCCC0000:0:0:0:tcl%3a//PBTV -TCL (Geo):PBTV -TCL (Geo)
+#DESCRIPTION PBTV -TCL (Geo)
+#SERVICE 4097:0:1:4D1:2:1:CCCC0000:0:0:0:tcl%3a//United Fight Alliance .CA -TCL:United Fight Alliance .CA -TCL
+#DESCRIPTION United Fight Alliance .CA -TCL
+#SERVICE 4097:0:1:4D2:2:1:CCCC0000:0:0:0:tcl%3a//United Fight Alliance .US -TCL:United Fight Alliance .US -TCL
+#DESCRIPTION United Fight Alliance .US -TCL
+#SERVICE 4097:0:1:4D3:2:1:CCCC0000:0:0:0:tcl%3a//United Fight Alliance -AU -TCL:United Fight Alliance -AU -TCL
+#DESCRIPTION United Fight Alliance -AU -TCL
+#SERVICE 4097:0:1:4D4:2:1:CCCC0000:0:0:0:tcl%3a//United Fight Alliance -SA -TCL:United Fight Alliance -SA -TCL
+#DESCRIPTION United Fight Alliance -SA -TCL
+#SERVICE 4097:0:1:4D5:2:1:CCCC0000:0:0:0:tcl%3a//Lucha Plus -TCL (Geo):Lucha Plus -TCL (Geo)
+#DESCRIPTION Lucha Plus -TCL (Geo)
+#SERVICE 4097:0:1:4D6:2:1:CCCC0000:0:0:0:tcl%3a//Real Crime -TCL:Real Crime -TCL
+#DESCRIPTION Real Crime -TCL
+#SERVICE 4097:0:1:4D7:2:1:CCCC0000:0:0:0:tcl%3a//Top True Crime -TCL:Top True Crime -TCL
+#DESCRIPTION Top True Crime -TCL
+#SERVICE 4097:0:1:4D8:2:1:CCCC0000:0:0:0:tcl%3a//Crime and Punishment -TCL:Crime and Punishment -TCL
+#DESCRIPTION Crime and Punishment -TCL
+#SERVICE 4097:0:1:4D9:2:1:CCCC0000:0:0:0:tcl%3a//Crime Files .AU -TCL:Crime Files .AU -TCL
+#DESCRIPTION Crime Files .AU -TCL
+#SERVICE 4097:0:1:4DA:2:1:CCCC0000:0:0:0:tcl%3a//Crime Files .CA -TCL:Crime Files .CA -TCL
+#DESCRIPTION Crime Files .CA -TCL
+#SERVICE 4097:0:1:4DB:2:1:CCCC0000:0:0:0:tcl%3a//Crime Files .US -TCL:Crime Files .US -TCL
+#DESCRIPTION Crime Files .US -TCL
+#SERVICE 4097:0:1:4DC:2:1:CCCC0000:0:0:0:tcl%3a//True Crime Now C8 not fully identified -TCL (Geo):True Crime Now C8 not fully identified -TCL (Geo)
+#DESCRIPTION True Crime Now C8 not fully identified -TCL (Geo)
+#SERVICE 4097:0:1:4DD:2:1:CCCC0000:0:0:0:tcl%3a//True Crime Now C9 not fully identified -TCL (Geo):True Crime Now C9 not fully identified -TCL (Geo)
+#DESCRIPTION True Crime Now C9 not fully identified -TCL (Geo)
+#SERVICE 4097:0:1:4DE:2:1:CCCC0000:0:0:0:tcl%3a//Homicide -TCL:Homicide -TCL
+#DESCRIPTION Homicide -TCL
+#SERVICE 4097:0:1:4DF:2:1:CCCC0000:0:0:0:tcl%3a//Witz .US -TCL:Witz .US -TCL
+#DESCRIPTION Witz .US -TCL
+#SERVICE 4097:0:1:4E0:2:1:CCCC0000:0:0:0:tcl%3a//Witz .US alt -TCL:Witz .US alt -TCL
+#DESCRIPTION Witz .US alt -TCL
+#SERVICE 4097:0:1:4E1:2:1:CCCC0000:0:0:0:tcl%3a//Real Stories -TCL:Real Stories -TCL
+#DESCRIPTION Real Stories -TCL
+#SERVICE 4097:0:1:4E2:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV -TCL:Drone TV -TCL
+#DESCRIPTION Drone TV -TCL
+#SERVICE 4097:0:1:4E3:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV .CA -TCL:Drone TV .CA -TCL
+#DESCRIPTION Drone TV .CA -TCL
+#SERVICE 4097:0:1:4E4:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV .AU -TCL:Drone TV .AU -TCL
+#DESCRIPTION Drone TV .AU -TCL
+#SERVICE 4097:0:1:4E5:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV .MX -TCL:Drone TV .MX -TCL
+#DESCRIPTION Drone TV .MX -TCL
+#SERVICE 4097:0:1:4E6:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV .BR -TCL:Drone TV .BR -TCL
+#DESCRIPTION Drone TV .BR -TCL
+#SERVICE 4097:0:1:4E7:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV .DE -TCL:Drone TV .DE -TCL
+#DESCRIPTION Drone TV .DE -TCL
+#SERVICE 4097:0:1:4E8:2:1:CCCC0000:0:0:0:tcl%3a//Drone TV .FR -TCL:Drone TV .FR -TCL
+#DESCRIPTION Drone TV .FR -TCL
+#SERVICE 4097:0:1:4E9:2:1:CCCC0000:0:0:0:tcl%3a//History and Warfare Now -TCL (Geo):History and Warfare Now -TCL (Geo)
+#DESCRIPTION History and Warfare Now -TCL (Geo)
+#SERVICE 4097:0:1:4EA:2:1:CCCC0000:0:0:0:tcl%3a//Space Science Now -TCL (Geo):Space Science Now -TCL (Geo)
+#DESCRIPTION Space Science Now -TCL (Geo)
+#SERVICE 4097:0:1:4EB:2:1:CCCC0000:0:0:0:tcl%3a//Docsville -TCL:Docsville -TCL
+#DESCRIPTION Docsville -TCL
+#SERVICE 4097:0:1:4EC:2:1:CCCC0000:0:0:0:tcl%3a//Docu Plus Spain -TCL:Docu Plus Spain -TCL
+#DESCRIPTION Docu Plus Spain -TCL
+#SERVICE 4097:0:1:4ED:2:1:CCCC0000:0:0:0:tcl%3a//Docu Plus -TCL:Docu Plus -TCL
+#DESCRIPTION Docu Plus -TCL
+#SERVICE 4097:0:1:4EE:2:1:CCCC0000:0:0:0:tcl%3a//Pulse -TCL:Pulse -TCL
+#DESCRIPTION Pulse -TCL
+#SERVICE 4097:0:1:4EF:2:1:CCCC0000:0:0:0:tcl%3a//Xploration Station -TCL:Xploration Station -TCL
+#DESCRIPTION Xploration Station -TCL
+#SERVICE 4097:0:1:4F0:2:1:CCCC0000:0:0:0:tcl%3a//Xploration Station .CA -TCL:Xploration Station .CA -TCL
+#DESCRIPTION Xploration Station .CA -TCL
+#SERVICE 4097:0:1:4F1:2:1:CCCC0000:0:0:0:tcl%3a//Xploration Station .BR -TCL:Xploration Station .BR -TCL
+#DESCRIPTION Xploration Station .BR -TCL
+#SERVICE 4097:0:1:4F2:2:1:CCCC0000:0:0:0:tcl%3a//Xploration Station .FR -TCL:Xploration Station .FR -TCL
+#DESCRIPTION Xploration Station .FR -TCL
+#SERVICE 4097:0:1:4F3:2:1:CCCC0000:0:0:0:tcl%3a//Xploration Station .MX -TCL:Xploration Station .MX -TCL
+#DESCRIPTION Xploration Station .MX -TCL
+#SERVICE 4097:0:1:4F4:2:1:CCCC0000:0:0:0:tcl%3a//Xploration Station .AU -TCL:Xploration Station .AU -TCL
+#DESCRIPTION Xploration Station .AU -TCL
+#SERVICE 4097:0:1:4F5:2:1:CCCC0000:0:0:0:tcl%3a//Escapes -TCL:Escapes -TCL
+#DESCRIPTION Escapes -TCL
+#SERVICE 4097:0:1:4F6:2:1:CCCC0000:0:0:0:tcl%3a//Escapes .BR -TCL:Escapes .BR -TCL
+#DESCRIPTION Escapes .BR -TCL
+#SERVICE 4097:0:1:4F7:2:1:CCCC0000:0:0:0:tcl%3a//Escapes .MX -TCL:Escapes .MX -TCL
+#DESCRIPTION Escapes .MX -TCL
+#SERVICE 4097:0:1:4F8:2:1:CCCC0000:0:0:0:tcl%3a//Escapes .FR -TCL:Escapes .FR -TCL
+#DESCRIPTION Escapes .FR -TCL
+#SERVICE 4097:0:1:4F9:2:1:CCCC0000:0:0:0:tcl%3a//Escapes .AU -TCL:Escapes .AU -TCL
+#DESCRIPTION Escapes .AU -TCL
+#SERVICE 4097:0:1:4FA:2:1:CCCC0000:0:0:0:tcl%3a//Escapes .CA -TCL:Escapes .CA -TCL
+#DESCRIPTION Escapes .CA -TCL
+#SERVICE 4097:0:1:4FB:2:1:CCCC0000:0:0:0:tcl%3a//Escapes .DE -TCL:Escapes .DE -TCL
+#DESCRIPTION Escapes .DE -TCL
+#SERVICE 4097:0:1:4FC:2:1:CCCC0000:0:0:0:tcl%3a//Dread TV -TCL:Dread TV -TCL
+#DESCRIPTION Dread TV -TCL
+#SERVICE 4097:0:1:4FD:2:1:CCCC0000:0:0:0:tcl%3a//Go Traveler -TCL (Geo):Go Traveler -TCL (Geo)
+#DESCRIPTION Go Traveler -TCL (Geo)
+#SERVICE 4097:0:1:4FE:2:1:CCCC0000:0:0:0:tcl%3a//XITE Celebrates -TCL (Geo):XITE Celebrates -TCL (Geo)
+#DESCRIPTION XITE Celebrates -TCL (Geo)
+#SERVICE 4097:0:1:4FF:2:1:CCCC0000:0:0:0:tcl%3a//XITE 60's and 70's Groove -TCL (Geo):XITE 60's and 70's Groove -TCL (Geo)
+#DESCRIPTION XITE 60's and 70's Groove -TCL (Geo)
+#SERVICE 4097:0:1:500:2:1:CCCC0000:0:0:0:tcl%3a//XITE 80s Flashback -TCL (Geo):XITE 80s Flashback -TCL (Geo)
+#DESCRIPTION XITE 80s Flashback -TCL (Geo)
+#SERVICE 4097:0:1:501:2:1:CCCC0000:0:0:0:tcl%3a//XITE 90s Throwback -TCL (Geo):XITE 90s Throwback -TCL (Geo)
+#DESCRIPTION XITE 90s Throwback -TCL (Geo)
+#SERVICE 4097:0:1:502:2:1:CCCC0000:0:0:0:tcl%3a//XITE Rock X Metal -TCL (Geo):XITE Rock X Metal -TCL (Geo)
+#DESCRIPTION XITE Rock X Metal -TCL (Geo)
+#SERVICE 4097:0:1:503:2:1:CCCC0000:0:0:0:tcl%3a//XITE Country Today -TCL (Geo):XITE Country Today -TCL (Geo)
+#DESCRIPTION XITE Country Today -TCL (Geo)
+#SERVICE 4097:0:1:504:2:1:CCCC0000:0:0:0:tcl%3a//XITE Classic Country -TCL (Geo):XITE Classic Country -TCL (Geo)
+#DESCRIPTION XITE Classic Country -TCL (Geo)
+#SERVICE 4097:0:1:505:2:1:CCCC0000:0:0:0:tcl%3a//XITE RandB Classic Jams -TCL (Geo):XITE R&B Classic Jams -TCL (Geo)
+#DESCRIPTION XITE R&B Classic Jams -TCL (Geo)
+#SERVICE 4097:0:1:506:2:1:CCCC0000:0:0:0:tcl%3a//XITE RandB Feels -TCL (Geo):XITE R&B Feels -TCL (Geo)
+#DESCRIPTION XITE R&B Feels -TCL (Geo)
+#SERVICE 4097:0:1:507:2:1:CCCC0000:0:0:0:tcl%3a//XITE Hip-Hop Evolution -TCL (Geo):XITE Hip-Hop Evolution -TCL (Geo)
+#DESCRIPTION XITE Hip-Hop Evolution -TCL (Geo)
+#SERVICE 4097:0:1:508:2:1:CCCC0000:0:0:0:tcl%3a//XITE Rap Game -TCL (Geo):XITE Rap Game -TCL (Geo)
+#DESCRIPTION XITE Rap Game -TCL (Geo)
+#SERVICE 4097:0:1:509:2:1:CCCC0000:0:0:0:tcl%3a//XITE Just Chill -TCL (Geo):XITE Just Chill -TCL (Geo)
+#DESCRIPTION XITE Just Chill -TCL (Geo)
+#SERVICE 4097:0:1:50A:2:1:CCCC0000:0:0:0:tcl%3a//XITE Hits c10 -TCL (Geo):XITE Hits c10 -TCL (Geo)
+#DESCRIPTION XITE Hits c10 -TCL (Geo)
+#SERVICE 4097:0:1:50B:2:1:CCCC0000:0:0:0:tcl%3a//XITE Hits c22 -TCL (Geo):XITE Hits c22 -TCL (Geo)
+#DESCRIPTION XITE Hits c22 -TCL (Geo)
+#SERVICE 4097:0:1:50C:2:1:CCCC0000:0:0:0:tcl%3a//XITE Hits c23 -TCL (Geo):XITE Hits c23 -TCL (Geo)
+#DESCRIPTION XITE Hits c23 -TCL (Geo)
+#SERVICE 4097:0:1:50D:2:1:CCCC0000:0:0:0:tcl%3a//XITE Nuevo Latino -TCL (Geo):XITE Nuevo Latino -TCL (Geo)
+#DESCRIPTION XITE Nuevo Latino -TCL (Geo)
+#SERVICE 4097:0:1:50E:2:1:CCCC0000:0:0:0:tcl%3a//XITE Siempre Latino -TCL (Geo):XITE Siempre Latino -TCL (Geo)
+#DESCRIPTION XITE Siempre Latino -TCL (Geo)
+#SERVICE 4097:0:1:50F:2:1:CCCC0000:0:0:0:tcl%3a//XITE Christian Hits -TCL (Geo):XITE Christian Hits -TCL (Geo)
+#DESCRIPTION XITE Christian Hits -TCL (Geo)
+#SERVICE 4097:0:1:510:2:1:CCCC0000:0:0:0:tcl%3a//XITE Reggae Vibes -TCL (Geo):XITE Reggae Vibes -TCL (Geo)
+#DESCRIPTION XITE Reggae Vibes -TCL (Geo)
+#SERVICE 4097:0:1:511:2:1:CCCC0000:0:0:0:tcl%3a//Now 70s -TCL:Now 70s -TCL
+#DESCRIPTION Now 70s -TCL
+#SERVICE 4097:0:1:512:2:1:CCCC0000:0:0:0:tcl%3a//Now 80s -TCL:Now 80s -TCL
+#DESCRIPTION Now 80s -TCL
+#SERVICE 4097:0:1:513:2:1:CCCC0000:0:0:0:tcl%3a//Now 90s -TCL:Now 90s -TCL
+#DESCRIPTION Now 90s -TCL
+#SERVICE 4097:0:1:514:2:1:CCCC0000:0:0:0:tcl%3a//Qwest Jazz -TCL:Qwest Jazz -TCL
+#DESCRIPTION Qwest Jazz -TCL
+#SERVICE 4097:0:1:515:2:1:CCCC0000:0:0:0:tcl%3a//Trace UK -TCL (Geo):Trace UK -TCL (Geo)
+#DESCRIPTION Trace UK -TCL (Geo)
+#SERVICE 4097:0:1:516:2:1:CCCC0000:0:0:0:tcl%3a//Trace Urban -TCL:Trace Urban -TCL
+#DESCRIPTION Trace Urban -TCL
+#SERVICE 4097:0:1:517:2:1:CCCC0000:0:0:0:tcl%3a//Trace Urban -TCL (Geo):Trace Urban -TCL (Geo)
+#DESCRIPTION Trace Urban -TCL (Geo)
+#SERVICE 4097:0:1:518:2:1:CCCC0000:0:0:0:tcl%3a//Trace Latina -TCL:Trace Latina -TCL
+#DESCRIPTION Trace Latina -TCL
+#SERVICE 4097:0:1:519:2:1:CCCC0000:0:0:0:tcl%3a//Trace Latina -TCL (Geo):Trace Latina -TCL (Geo)
+#DESCRIPTION Trace Latina -TCL (Geo)
+#SERVICE 4097:0:1:51A:2:1:CCCC0000:0:0:0:tcl%3a//Trace Brazuca -TCL:Trace Brazuca -TCL
+#DESCRIPTION Trace Brazuca -TCL
+#SERVICE 4097:0:1:51B:2:1:CCCC0000:0:0:0:tcl%3a//Hipstr -TCL (Geo):Hipstr -TCL (Geo)
+#DESCRIPTION Hipstr -TCL (Geo)
+#SERVICE 4097:0:1:51C:2:1:CCCC0000:0:0:0:tcl%3a//Balle Balle -TCL:Balle Balle -TCL
+#DESCRIPTION Balle Balle -TCL
+#SERVICE 4097:0:1:51D:2:1:CCCC0000:0:0:0:tcl%3a//Outdoor Action TV -TCL:Outdoor Action TV -TCL
+#DESCRIPTION Outdoor Action TV -TCL
+#SERVICE 4097:0:1:51E:2:1:CCCC0000:0:0:0:tcl%3a//Pac 12 -TCL (Geo):Pac 12 -TCL (Geo)
+#DESCRIPTION Pac 12 -TCL (Geo)
+#SERVICE 4097:0:1:51F:2:1:CCCC0000:0:0:0:tcl%3a//Fox Sports -TCL (Geo):Fox Sports -TCL (Geo)
+#DESCRIPTION Fox Sports -TCL (Geo)
+#SERVICE 4097:0:1:520:2:1:CCCC0000:0:0:0:tcl%3a//Motorvision -TCL:Motorvision -TCL
+#DESCRIPTION Motorvision -TCL
+#SERVICE 4097:0:1:521:2:1:CCCC0000:0:0:0:tcl%3a//MTRSPRT 1 -TCL:MTRSPRT 1 -TCL
+#DESCRIPTION MTRSPRT 1 -TCL
+#SERVICE 4097:0:1:522:2:1:CCCC0000:0:0:0:tcl%3a//MTRSPRT 1 -TCL alt:MTRSPRT 1 -TCL alt
+#DESCRIPTION MTRSPRT 1 -TCL alt
+#SERVICE 4097:0:1:523:2:1:CCCC0000:0:0:0:tcl%3a//Mav TV Select -TCL (Geo):Mav TV Select -TCL (Geo)
+#DESCRIPTION Mav TV Select -TCL (Geo)
+#SERVICE 4097:0:1:524:2:1:CCCC0000:0:0:0:tcl%3a//Mav TV Select N.A -TCL (Geo):Mav TV Select N.A -TCL (Geo)
+#DESCRIPTION Mav TV Select N.A -TCL (Geo)
+#SERVICE 4097:0:1:525:2:1:CCCC0000:0:0:0:tcl%3a//Women's Sport Network:Women's Sport Network
+#DESCRIPTION Women's Sport Network
+#SERVICE 4097:0:1:526:2:1:CCCC0000:0:0:0:tcl%3a//North Woods League -TCL:North Woods League -TCL
+#DESCRIPTION North Woods League -TCL
+#SERVICE 4097:0:1:527:2:1:CCCC0000:0:0:0:tcl%3a//Wedotv Sports -TCL:Wedotv Sports -TCL
+#DESCRIPTION Wedotv Sports -TCL
+#SERVICE 4097:0:1:528:2:1:CCCC0000:0:0:0:tcl%3a//Fuel TV -TCL:Fuel TV -TCL
+#DESCRIPTION Fuel TV -TCL
+#SERVICE 4097:0:1:529:2:1:CCCC0000:0:0:0:tcl%3a//Fuel TV .AU -TCL:Fuel TV .AU -TCL
+#DESCRIPTION Fuel TV .AU -TCL
+#SERVICE 4097:0:1:52A:2:1:CCCC0000:0:0:0:tcl%3a//Fuel TV .BR -TCL:Fuel TV .BR -TCL
+#DESCRIPTION Fuel TV .BR -TCL
+#SERVICE 4097:0:1:52B:2:1:CCCC0000:0:0:0:tcl%3a//Fuel TV .DE -TCL:Fuel TV .DE -TCL
+#DESCRIPTION Fuel TV .DE -TCL
+#SERVICE 4097:0:1:52C:2:1:CCCC0000:0:0:0:tcl%3a//Fuel TV .FR -TCL:Fuel TV .FR -TCL
+#DESCRIPTION Fuel TV .FR -TCL
+#SERVICE 4097:0:1:52D:2:1:CCCC0000:0:0:0:tcl%3a//Fuel TV .MX -TCL:Fuel TV .MX -TCL
+#DESCRIPTION Fuel TV .MX -TCL
+#SERVICE 4097:0:1:52E:2:1:CCCC0000:0:0:0:tcl%3a//Beyblade -TCL German French Spanish (Geo):Beyblade -TCL German French Spanish (Geo)
+#DESCRIPTION Beyblade -TCL German French Spanish (Geo)
+#SERVICE 4097:0:1:52F:2:1:CCCC0000:0:0:0:tcl%3a//Cops .CA -TCL:Cops .CA -TCL
+#DESCRIPTION Cops .CA -TCL
+#SERVICE 4097:0:1:530:2:1:CCCC0000:0:0:0:tcl%3a//Cops .CA alt -TCL:Cops .CA alt -TCL
+#DESCRIPTION Cops .CA alt -TCL
+#SERVICE 4097:0:1:531:2:1:CCCC0000:0:0:0:tcl%3a//Cops .Au -TCL:Cops .Au -TCL
+#DESCRIPTION Cops .Au -TCL
+#SERVICE 4097:0:1:532:2:1:CCCC0000:0:0:0:tcl%3a//Tastemade Home -TCL (Geo):Tastemade Home -TCL (Geo)
+#DESCRIPTION Tastemade Home -TCL (Geo)
+#SERVICE 4097:0:1:533:2:1:CCCC0000:0:0:0:tcl%3a//Tastemade Freetv16 -TCL alt:Tastemade Freetv16 -TCL alt
+#DESCRIPTION Tastemade Freetv16 -TCL alt
+#SERVICE 4097:0:1:534:2:1:CCCC0000:0:0:0:tcl%3a//Tastemade 16 INTL -TCL alt:Tastemade 16 INTL -TCL alt
+#DESCRIPTION Tastemade 16 INTL -TCL alt
+#SERVICE 4097:0:1:535:2:1:CCCC0000:0:0:0:tcl%3a//Tastemade Germany -TCL:Tastemade Germany -TCL
+#DESCRIPTION Tastemade Germany -TCL
+#SERVICE 4097:0:1:536:2:1:CCCC0000:0:0:0:tcl%3a//Gusto -TCL (Geo):Gusto -TCL (Geo)
+#DESCRIPTION Gusto -TCL (Geo)
+#SERVICE 4097:0:1:537:2:1:CCCC0000:0:0:0:tcl%3a//Gusto TV -TCL (Geo):Gusto TV -TCL (Geo)
+#DESCRIPTION Gusto TV -TCL (Geo)
+#SERVICE 4097:0:1:538:2:1:CCCC0000:0:0:0:tcl%3a//Real Life -TCL:Real Life -TCL
+#DESCRIPTION Real Life -TCL
+#SERVICE 4097:0:1:539:2:1:CCCC0000:0:0:0:tcl%3a//Go Usa .AU -TCL:Go Usa .AU -TCL
+#DESCRIPTION Go Usa .AU -TCL
+#SERVICE 4097:0:1:53A:2:1:CCCC0000:0:0:0:tcl%3a//Go Usa .BR -TCL:Go Usa .BR -TCL
+#DESCRIPTION Go Usa .BR -TCL
+#SERVICE 4097:0:1:53B:2:1:CCCC0000:0:0:0:tcl%3a//Go Usa .MX -TCL:Go Usa .MX -TCL
+#DESCRIPTION Go Usa .MX -TCL
+#SERVICE 4097:0:1:53C:2:1:CCCC0000:0:0:0:tcl%3a//Go Usa .DE -TCL:Go Usa .DE -TCL
+#DESCRIPTION Go Usa .DE -TCL
+#SERVICE 4097:0:1:53D:2:1:CCCC0000:0:0:0:tcl%3a//Go Usa .FR -TCL:Go Usa .FR -TCL
+#DESCRIPTION Go Usa .FR -TCL
+#SERVICE 4097:0:1:53E:2:1:CCCC0000:0:0:0:tcl%3a//Commune -TCL:Commune -TCL
+#DESCRIPTION Commune -TCL
+#SERVICE 4097:0:1:53F:2:1:CCCC0000:0:0:0:tcl%3a//Baywatch -TCL (Geo):Baywatch -TCL (Geo)
+#DESCRIPTION Baywatch -TCL (Geo)
+#SERVICE 4097:0:1:540:2:1:CCCC0000:0:0:0:tcl%3a//McLeods Daughter's -TCL (Geo):McLeods Daughter's -TCL (Geo)
+#DESCRIPTION McLeods Daughter's -TCL (Geo)
+#SERVICE 4097:0:1:541:2:1:CCCC0000:0:0:0:tcl%3a//Quip -TCL (Geo):Quip -TCL (Geo)
+#DESCRIPTION Quip -TCL (Geo)
+#SERVICE 4097:0:1:542:2:1:CCCC0000:0:0:0:tcl%3a//Deal or no Deal -TCL (Geo):Deal or no Deal -TCL (Geo)
+#DESCRIPTION Deal or no Deal -TCL (Geo)
+#SERVICE 4097:0:1:543:2:1:CCCC0000:0:0:0:tcl%3a//The Biggest Loser -TCL (Geo):The Biggest Loser -TCL (Geo)
+#DESCRIPTION The Biggest Loser -TCL (Geo)
+#SERVICE 4097:0:1:544:2:1:CCCC0000:0:0:0:tcl%3a//Wipeout Xtra -TCL (Geo):Wipeout Xtra -TCL (Geo)
+#DESCRIPTION Wipeout Xtra -TCL (Geo)
+#SERVICE 4097:0:1:545:2:1:CCCC0000:0:0:0:tcl%3a//Fear Factor -TCL (Geo):Fear Factor -TCL (Geo)
+#DESCRIPTION Fear Factor -TCL (Geo)
+#SERVICE 4097:0:1:546:2:1:CCCC0000:0:0:0:tcl%3a//Masterchef Mexico -TCL:Masterchef Mexico -TCL
+#DESCRIPTION Masterchef Mexico -TCL
+#SERVICE 4097:0:1:547:2:1:CCCC0000:0:0:0:tcl%3a//Mr Bean -TCL:Mr Bean -TCL
+#DESCRIPTION Mr Bean -TCL
+#SERVICE 4097:0:1:548:2:1:CCCC0000:0:0:0:tcl%3a//OZ TV -TCL (Geo):OZ TV -TCL (Geo)
+#DESCRIPTION OZ TV -TCL (Geo)
+#SERVICE 4097:0:1:549:2:1:CCCC0000:0:0:0:tcl%3a//Drool -TCL (Geo):Drool -TCL (Geo)
+#DESCRIPTION Drool -TCL (Geo)
+#SERVICE 4097:0:1:54A:2:1:CCCC0000:0:0:0:tcl%3a//The Red Green Show -TCL:The Red Green Show -TCL
+#DESCRIPTION The Red Green Show -TCL
+#SERVICE 4097:0:1:54B:2:1:CCCC0000:0:0:0:tcl%3a//The Red Green Show .CA -TCL:The Red Green Show .CA -TCL
+#DESCRIPTION The Red Green Show .CA -TCL
+#SERVICE 4097:0:1:54C:2:1:CCCC0000:0:0:0:tcl%3a//Myzen Free -TCL:Myzen Free -TCL
+#DESCRIPTION Myzen Free -TCL
+#SERVICE 4097:0:1:54D:2:1:CCCC0000:0:0:0:tcl%3a//Global Fashion Channnel -TCL:Global Fashion Channnel -TCL
+#DESCRIPTION Global Fashion Channnel -TCL
+#SERVICE 4097:0:1:54E:2:1:CCCC0000:0:0:0:tcl%3a//Global Fashion Channnel .AU -TCL:Global Fashion Channnel .AU -TCL
+#DESCRIPTION Global Fashion Channnel .AU -TCL
+#SERVICE 4097:0:1:54F:2:1:CCCC0000:0:0:0:tcl%3a//Global Fashion Channel .CA -TCL:Global Fashion Channel .CA -TCL
+#DESCRIPTION Global Fashion Channel .CA -TCL
+#SERVICE 4097:0:1:550:2:1:CCCC0000:0:0:0:tcl%3a//Global Fashion Channnel .DE -TCL:Global Fashion Channnel .DE -TCL
+#DESCRIPTION Global Fashion Channnel .DE -TCL
+#SERVICE 4097:0:1:551:2:1:CCCC0000:0:0:0:tcl%3a//Global Fashion Channel .FR -TCL:Global Fashion Channel .FR -TCL
+#DESCRIPTION Global Fashion Channel .FR -TCL
+#SERVICE 4097:0:1:552:2:1:CCCC0000:0:0:0:tcl%3a//Global Fashion Channel .MX -TCL:Global Fashion Channel .MX -TCL
+#DESCRIPTION Global Fashion Channel .MX -TCL
+#SERVICE 4097:0:1:553:2:1:CCCC0000:0:0:0:tcl%3a//Petclub -TCL:Petclub -TCL
+#DESCRIPTION Petclub -TCL
+#SERVICE 4097:0:1:554:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV -TCL:Fashion TV -TCL
+#DESCRIPTION Fashion TV -TCL
+#SERVICE 4097:0:1:555:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV .CA -TCL:Fashion TV .CA -TCL
+#DESCRIPTION Fashion TV .CA -TCL
+#SERVICE 4097:0:1:556:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV .AU -TCL:Fashion TV .AU -TCL
+#DESCRIPTION Fashion TV .AU -TCL
+#SERVICE 4097:0:1:557:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV .BR -TCL:Fashion TV .BR -TCL
+#DESCRIPTION Fashion TV .BR -TCL
+#SERVICE 4097:0:1:558:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV .DE -TCL:Fashion TV .DE -TCL
+#DESCRIPTION Fashion TV .DE -TCL
+#SERVICE 4097:0:1:559:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV .FR -TCL:Fashion TV .FR -TCL
+#DESCRIPTION Fashion TV .FR -TCL
+#SERVICE 4097:0:1:55A:2:1:CCCC0000:0:0:0:tcl%3a//Fashion TV .MX -TCL:Fashion TV .MX -TCL
+#DESCRIPTION Fashion TV .MX -TCL
+#SERVICE 4097:0:1:55B:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV -TCL:Lovestories TV -TCL
+#DESCRIPTION Lovestories TV -TCL
+#SERVICE 4097:0:1:55C:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .CA -TCL:Lovestories TV .CA -TCL
+#DESCRIPTION Lovestories TV .CA -TCL
+#SERVICE 4097:0:1:55D:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .AU -TCL:Lovestories TV .AU -TCL
+#DESCRIPTION Lovestories TV .AU -TCL
+#SERVICE 4097:0:1:55E:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .BR -TCL:Lovestories TV .BR -TCL
+#DESCRIPTION Lovestories TV .BR -TCL
+#SERVICE 4097:0:1:55F:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .FR -TCL:Lovestories TV .FR -TCL
+#DESCRIPTION Lovestories TV .FR -TCL
+#SERVICE 4097:0:1:560:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .DE -TCL:Lovestories TV .DE -TCL
+#DESCRIPTION Lovestories TV .DE -TCL
+#SERVICE 4097:0:1:561:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .MX -TCL:Lovestories TV .MX -TCL
+#DESCRIPTION Lovestories TV .MX -TCL
+#SERVICE 4097:0:1:562:2:1:CCCC0000:0:0:0:tcl%3a//Lovestories TV .SA -TCL:Lovestories TV .SA -TCL
+#DESCRIPTION Lovestories TV .SA -TCL
+#SERVICE 4097:0:1:563:2:1:CCCC0000:0:0:0:tcl%3a//Today's Home Owner -TCL:Today's Home Owner -TCL
+#DESCRIPTION Today's Home Owner -TCL
+#SERVICE 4097:0:1:564:2:1:CCCC0000:0:0:0:tcl%3a//HSN -TCL:HSN -TCL
+#DESCRIPTION HSN -TCL
+#SERVICE 4097:0:1:565:2:1:CCCC0000:0:0:0:tcl%3a//QVC -TCL:QVC -TCL
+#DESCRIPTION QVC -TCL
+#SERVICE 4097:0:1:566:2:1:CCCC0000:0:0:0:tcl%3a//MoreU -TCL:MoreU -TCL
+#DESCRIPTION MoreU -TCL
+#SERVICE 4097:0:1:567:2:1:CCCC0000:0:0:0:tcl%3a//Emotional -TCL:Emotional -TCL
+#DESCRIPTION Emotional -TCL
+#SERVICE 4097:0:1:568:2:1:CCCC0000:0:0:0:tcl%3a//Tru Blu -TCL:Tru Blu -TCL
+#DESCRIPTION Tru Blu -TCL
+#SERVICE 4097:0:1:569:2:1:CCCC0000:0:0:0:tcl%3a//The Design Network alt -TCL:The Design Network alt -TCL
+#DESCRIPTION The Design Network alt -TCL
+#SERVICE 4097:0:1:56A:2:1:CCCC0000:0:0:0:tcl%3a//TV Manjaro (Oterra Check):TV Manjaro (Oterra Check)
+#DESCRIPTION TV Manjaro (Oterra Check)
+#SERVICE 4097:0:1:56B:2:1:CCCC0000:0:0:0:tcl%3a//Awe Plus -TCL:Awe Plus -TCL
+#DESCRIPTION Awe Plus -TCL
+#SERVICE 4097:0:1:56C:2:1:CCCC0000:0:0:0:tcl%3a//Real Wild -TCL:Real Wild -TCL
+#DESCRIPTION Real Wild -TCL
+#SERVICE 4097:0:1:56D:2:1:CCCC0000:0:0:0:tcl%3a//Wonder -TCL:Wonder -TCL
+#DESCRIPTION Wonder -TCL
+#SERVICE 4097:0:1:56E:2:1:CCCC0000:0:0:0:tcl%3a//Timeline -TCL:Timeline -TCL
+#DESCRIPTION Timeline -TCL
+#SERVICE 4097:0:1:56F:2:1:CCCC0000:0:0:0:tcl%3a//Demand Africa -TCL:Demand Africa -TCL
+#DESCRIPTION Demand Africa -TCL
+#SERVICE 4097:0:1:570:2:1:CCCC0000:0:0:0:tcl%3a//Bein Sports Xtra -TCL:Bein Sports Xtra -TCL
+#DESCRIPTION Bein Sports Xtra -TCL
+#SERVICE 4097:0:1:571:2:1:CCCC0000:0:0:0:tcl%3a//Dazn Womens Football -TCL:Dazn Womens Football -TCL
+#DESCRIPTION Dazn Womens Football -TCL
+#SERVICE 4097:0:1:572:2:1:CCCC0000:0:0:0:tcl%3a//Unbeaten -TCL:Unbeaten -TCL
+#DESCRIPTION Unbeaten -TCL
+#SERVICE 4097:0:1:573:2:1:CCCC0000:0:0:0:tcl%3a//Sports Grid -TCL:Sports Grid -TCL
+#DESCRIPTION Sports Grid -TCL
+#SERVICE 4097:0:1:574:2:1:CCCC0000:0:0:0:tcl%3a//Sports Grid Network -TCL (Geo):Sports Grid Network -TCL (Geo)
+#DESCRIPTION Sports Grid Network -TCL (Geo)
+#SERVICE 4097:0:1:575:2:1:CCCC0000:0:0:0:tcl%3a//Sports News Highlights -TCL (Geo):Sports News Highlights -TCL (Geo)
+#DESCRIPTION Sports News Highlights -TCL (Geo)
+#SERVICE 4097:0:1:576:2:1:CCCC0000:0:0:0:tcl%3a//The Boat Show .BR -TCL:The Boat Show .BR -TCL
+#DESCRIPTION The Boat Show .BR -TCL
+#SERVICE 4097:0:1:577:2:1:CCCC0000:0:0:0:tcl%3a//The Boat Show .US -TCL:The Boat Show .US -TCL
+#DESCRIPTION The Boat Show .US -TCL
+#SERVICE 4097:0:1:578:2:1:CCCC0000:0:0:0:tcl%3a//PBS Kids -TCL (Geo):PBS Kids -TCL (Geo)
+#DESCRIPTION PBS Kids -TCL (Geo)
+#SERVICE 4097:0:1:579:2:1:CCCC0000:0:0:0:tcl%3a//PBS Food -TCL (Geo):PBS Food -TCL (Geo)
+#DESCRIPTION PBS Food -TCL (Geo)
+#SERVICE 4097:0:1:57A:2:1:CCCC0000:0:0:0:tcl%3a//PBS Nature -TCL (Geo):PBS Nature -TCL (Geo)
+#DESCRIPTION PBS Nature -TCL (Geo)
+#SERVICE 4097:0:1:57B:2:1:CCCC0000:0:0:0:tcl%3a//PBS Antiques Roadshow -TCL (Geo):PBS Antiques Roadshow -TCL (Geo)
+#DESCRIPTION PBS Antiques Roadshow -TCL (Geo)
+#SERVICE 4097:0:1:57C:2:1:CCCC0000:0:0:0:tcl%3a//PBS Antiques Roadshow -TCL (Geo):PBS Antiques Roadshow -TCL (Geo)
+#DESCRIPTION PBS Antiques Roadshow -TCL (Geo)
+#SERVICE 4097:0:1:57D:2:1:CCCC0000:0:0:0:tcl%3a//PBS Antiques Roadshow (AU) -TCL:PBS Antiques Roadshow (AU) -TCL
+#DESCRIPTION PBS Antiques Roadshow (AU) -TCL
+#SERVICE 4097:0:1:57E:2:1:CCCC0000:0:0:0:tcl%3a//PBS History -TCL:PBS History -TCL
+#DESCRIPTION PBS History -TCL
+#SERVICE 4097:0:1:57F:2:1:CCCC0000:0:0:0:tcl%3a//PBS Science (AU) -TCL:PBS Science (AU) -TCL
+#DESCRIPTION PBS Science (AU) -TCL
+#SERVICE 4097:0:19:580:2:1:CCCC0000:0:0:0:tcl%3a//Bollywood HD Classic -TCL:Bollywood HD Classic -TCL
+#DESCRIPTION Bollywood HD Classic -TCL
+#SERVICE 4097:0:1:581:2:1:CCCC0000:0:0:0:tcl%3a//Comedy Dynamics -TCL:Comedy Dynamics -TCL
+#DESCRIPTION Comedy Dynamics -TCL
+#SERVICE 4097:0:1:582:2:1:CCCC0000:0:0:0:tcl%3a//Just for Laughs Gags -TCL:Just for Laughs Gags -TCL
+#DESCRIPTION Just for Laughs Gags -TCL
+#SERVICE 4097:0:1:583:2:1:CCCC0000:0:0:0:tcl%3a//Just for Laughs Gags .AU -TCL:Just for Laughs Gags .AU -TCL
+#DESCRIPTION Just for Laughs Gags .AU -TCL
+#SERVICE 4097:0:1:584:2:1:CCCC0000:0:0:0:tcl%3a//Just for Laughs Gags .DE -TCL:Just for Laughs Gags .DE -TCL
+#DESCRIPTION Just for Laughs Gags .DE -TCL
+#SERVICE 4097:0:1:585:2:1:CCCC0000:0:0:0:tcl%3a//Just for Laughs Gags .FR -TCL:Just for Laughs Gags .FR -TCL
+#DESCRIPTION Just for Laughs Gags .FR -TCL
+#SERVICE 4097:0:1:586:2:1:CCCC0000:0:0:0:tcl%3a//Just for Laughs Gags .MX -TCL:Just for Laughs Gags .MX -TCL
+#DESCRIPTION Just for Laughs Gags .MX -TCL
+#SERVICE 4097:0:1:587:2:1:CCCC0000:0:0:0:tcl%3a//Just for Laughs Gags .SA -TCL:Just for Laughs Gags .SA -TCL
+#DESCRIPTION Just for Laughs Gags .SA -TCL
+#SERVICE 4097:0:1:588:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die -TCL:Funny or Die -TCL
+#DESCRIPTION Funny or Die -TCL
+#SERVICE 4097:0:1:589:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die alt -TCL:Funny or Die alt -TCL
+#DESCRIPTION Funny or Die alt -TCL
+#SERVICE 4097:0:1:58A:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .CA -TCL:Funny or Die .CA -TCL
+#DESCRIPTION Funny or Die .CA -TCL
+#SERVICE 4097:0:1:58B:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .AU -TCL:Funny or Die .AU -TCL
+#DESCRIPTION Funny or Die .AU -TCL
+#SERVICE 4097:0:1:58C:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .BR -TCL:Funny or Die .BR -TCL
+#DESCRIPTION Funny or Die .BR -TCL
+#SERVICE 4097:0:1:58D:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .DE -TCL:Funny or Die .DE -TCL
+#DESCRIPTION Funny or Die .DE -TCL
+#SERVICE 4097:0:1:58E:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .FR -TCL:Funny or Die .FR -TCL
+#DESCRIPTION Funny or Die .FR -TCL
+#SERVICE 4097:0:1:58F:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .MX -TCL:Funny or Die .MX -TCL
+#DESCRIPTION Funny or Die .MX -TCL
+#SERVICE 4097:0:1:590:2:1:CCCC0000:0:0:0:tcl%3a//Funny or Die .SA -TCL:Funny or Die .SA -TCL
+#DESCRIPTION Funny or Die .SA -TCL
+#SERVICE 4097:0:1:591:2:1:CCCC0000:0:0:0:tcl%3a//Fear Factor -TCL:Fear Factor -TCL
+#DESCRIPTION Fear Factor -TCL
+#SERVICE 4097:0:1:592:2:1:CCCC0000:0:0:0:tcl%3a//Deal or No Deal -TCL:Deal or No Deal -TCL
+#DESCRIPTION Deal or No Deal -TCL
+#SERVICE 4097:0:1:593:2:1:CCCC0000:0:0:0:tcl%3a//The Biggest Loser -TCL:The Biggest Loser -TCL
+#DESCRIPTION The Biggest Loser -TCL
+#SERVICE 4097:0:1:594:2:1:CCCC0000:0:0:0:tcl%3a//Love Quest -TCL:Love Quest -TCL
+#DESCRIPTION Love Quest -TCL
+#SERVICE 4097:0:1:595:2:1:CCCC0000:0:0:0:tcl%3a//Wipe Out Xtra -TCL:Wipe Out Xtra -TCL
+#DESCRIPTION Wipe Out Xtra -TCL
+#SERVICE 4097:0:1:596:2:1:CCCC0000:0:0:0:tcl%3a//Hardcore Pawn -TCL:Hardcore Pawn -TCL
+#DESCRIPTION Hardcore Pawn -TCL
+#SERVICE 4097:0:1:597:2:1:CCCC0000:0:0:0:tcl%3a//Cinenanar -TCL:Cinenanar -TCL
+#DESCRIPTION Cinenanar -TCL
+#SERVICE 4097:0:1:598:2:1:CCCC0000:0:0:0:tcl%3a//Yaquelaverite -TCL:Yaquelaverite -TCL
+#DESCRIPTION Yaquelaverite -TCL
+#SERVICE 4097:0:1:599:2:1:CCCC0000:0:0:0:tcl%3a//Dove Now -TCL:Dove Now -TCL
+#DESCRIPTION Dove Now -TCL
+#SERVICE 4097:0:1:59A:2:1:CCCC0000:0:0:0:tcl%3a//Cinesureno -TCL (Geo):Cinesureno -TCL (Geo)
+#DESCRIPTION Cinesureno -TCL (Geo)
+#SERVICE 4097:0:1:59B:2:1:CCCC0000:0:0:0:tcl%3a//Law and Crime -TCL:Law and Crime -TCL
+#DESCRIPTION Law and Crime -TCL
+#SERVICE 4097:0:1:59C:2:1:CCCC0000:0:0:0:tcl%3a//Naruto -TCL:Naruto -TCL
+#DESCRIPTION Naruto -TCL
+#SERVICE 4097:0:1:59D:2:1:CCCC0000:0:0:0:tcl%3a//Kartoon -TCL:Kartoon -TCL
+#DESCRIPTION Kartoon -TCL
+#SERVICE 4097:0:1:59E:2:1:CCCC0000:0:0:0:tcl%3a//Brat TV -TCL:Brat TV -TCL
+#DESCRIPTION Brat TV -TCL
+#SERVICE 4097:0:1:59F:2:1:CCCC0000:0:0:0:tcl%3a//Brat TV alt -TCL (Geo):Brat TV alt -TCL (Geo)
+#DESCRIPTION Brat TV alt -TCL (Geo)
+#SERVICE 4097:0:1:5A0:2:1:CCCC0000:0:0:0:tcl%3a//Brat TV other alt -TCL:Brat TV other alt -TCL
+#DESCRIPTION Brat TV other alt -TCL
+#SERVICE 4097:0:1:5A1:2:1:CCCC0000:0:0:0:tcl%3a//So Real -TCL:So Real -TCL
+#DESCRIPTION So Real -TCL
+#SERVICE 4097:0:1:5A2:2:1:CCCC0000:0:0:0:tcl%3a//Degrassi -TCL:Degrassi -TCL
+#DESCRIPTION Degrassi -TCL
+#SERVICE 4097:0:1:5A3:2:1:CCCC0000:0:0:0:tcl%3a//Darkmatter -TCL:Darkmatter -TCL
+#DESCRIPTION Darkmatter -TCL
+#SERVICE 4097:0:1:5A4:2:1:CCCC0000:0:0:0:tcl%3a//Law and Crime -TCL (Geo):Law and Crime -TCL (Geo)
+#DESCRIPTION Law and Crime -TCL (Geo)
+#SERVICE 4097:0:1:5A5:2:1:CCCC0000:0:0:0:tcl%3a//Spark Light Love -TCL:Spark Light Love -TCL
+#DESCRIPTION Spark Light Love -TCL
+#SERVICE 4097:0:1:5A6:2:1:CCCC0000:0:0:0:tcl%3a//Spark Light Love .BR -TCL:Spark Light Love .BR -TCL
+#DESCRIPTION Spark Light Love .BR -TCL
+#SERVICE 4097:0:1:5A7:2:1:CCCC0000:0:0:0:tcl%3a//Spark Light Love .MX -TCL:Spark Light Love .MX -TCL
+#DESCRIPTION Spark Light Love .MX -TCL
+#SERVICE 4097:0:1:5A8:2:1:CCCC0000:0:0:0:tcl%3a//Sparkle Movies .AU -TCL:Sparkle Movies .AU -TCL
+#DESCRIPTION Sparkle Movies .AU -TCL
+#SERVICE 4097:0:1:5A9:2:1:CCCC0000:0:0:0:tcl%3a//Natureleza Salvaje -TCL (Geo):Natureleza Salvaje -TCL (Geo)
+#DESCRIPTION Natureleza Salvaje -TCL (Geo)
+#SERVICE 4097:0:1:5AA:2:1:CCCC0000:0:0:0:tcl%3a//Finepoint -TCL:Finepoint -TCL
+#DESCRIPTION Finepoint -TCL
+#SERVICE 4097:0:1:5AB:2:1:CCCC0000:0:0:0:tcl%3a//Awe -TCL:Awe -TCL
+#DESCRIPTION Awe -TCL
+#SERVICE 4097:0:1:5AC:2:1:CCCC0000:0:0:0:tcl%3a//Reuters -TCL:Reuters -TCL
+#DESCRIPTION Reuters -TCL
+#SERVICE 4097:0:1:5AD:2:1:CCCC0000:0:0:0:tcl%3a//AnaCarolina .BR -TCL:AnaCarolina .BR -TCL
+#DESCRIPTION AnaCarolina .BR -TCL
+#SERVICE 4097:0:1:5AE:2:1:CCCC0000:0:0:0:tcl%3a//Masterchef Brazil -TCL (Geo):Masterchef Brazil -TCL (Geo)
+#DESCRIPTION Masterchef Brazil -TCL (Geo)
+#SERVICE 4097:0:1:5AF:2:1:CCCC0000:0:0:0:tcl%3a//Mythbusters -TCL:Mythbusters -TCL
+#DESCRIPTION Mythbusters -TCL
+#SERVICE 4097:0:1:5B0:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Movies -TCL:Wedo Movies -TCL
+#DESCRIPTION Wedo Movies -TCL
+#SERVICE 4097:0:1:5B1:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Movies German -TCL:Wedo Movies German -TCL
+#DESCRIPTION Wedo Movies German -TCL
+#SERVICE 4097:0:1:5B2:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Movies French subtitles -TCL:Wedo Movies French subtitles -TCL
+#DESCRIPTION Wedo Movies French subtitles -TCL
+#SERVICE 4097:0:1:5B3:2:1:CCCC0000:0:0:0:tcl%3a//Wedo TV Movies Norwegien subtitles -TCL:Wedo TV Movies Norwegien subtitles -TCL
+#DESCRIPTION Wedo TV Movies Norwegien subtitles -TCL
+#SERVICE 4097:0:1:5B4:2:1:CCCC0000:0:0:0:tcl%3a//Wedo TV Movies Swedish subtitles -TCL:Wedo TV Movies Swedish subtitles -TCL
+#DESCRIPTION Wedo TV Movies Swedish subtitles -TCL
+#SERVICE 4097:0:1:5B5:2:1:CCCC0000:0:0:0:tcl%3a//Arirang Korea Kpop+ Spain -TCL:Arirang Korea Kpop+ Spain -TCL
+#DESCRIPTION Arirang Korea Kpop+ Spain -TCL
+#SERVICE 4097:0:1:5B6:2:1:CCCC0000:0:0:0:tcl%3a//Now 70s -TCL:Now 70s -TCL
+#DESCRIPTION Now 70s -TCL
+#SERVICE 4097:0:1:5B7:2:1:CCCC0000:0:0:0:tcl%3a//Now 80s -TCL:Now 80s -TCL
+#DESCRIPTION Now 80s -TCL
+#SERVICE 4097:0:1:5B8:2:1:CCCC0000:0:0:0:tcl%3a//Now 90s -TCL:Now 90s -TCL
+#DESCRIPTION Now 90s -TCL
+#SERVICE 4097:0:1:5B9:2:1:CCCC0000:0:0:0:tcl%3a//Action Hollywood Movies -TCL:Action Hollywood Movies -TCL
+#DESCRIPTION Action Hollywood Movies -TCL
+#SERVICE 4097:0:1:5BA:2:1:CCCC0000:0:0:0:tcl%3a//NewsWorld -TCL:NewsWorld -TCL
+#DESCRIPTION NewsWorld -TCL
+#SERVICE 4097:0:1:5BB:2:1:CCCC0000:0:0:0:tcl%3a//GB News -TCL:GB News -TCL
+#DESCRIPTION GB News -TCL
+#SERVICE 4097:0:1:5BC:2:1:CCCC0000:0:0:0:tcl%3a//Pulse -TCL:Pulse -TCL
+#DESCRIPTION Pulse -TCL
+#SERVICE 4097:0:1:5BD:2:1:CCCC0000:0:0:0:tcl%3a//Docsville -TCL:Docsville -TCL
+#DESCRIPTION Docsville -TCL
+#SERVICE 4097:0:1:5BE:2:1:CCCC0000:0:0:0:tcl%3a//Cine Friki -TCL (Geo):Cine Friki -TCL (Geo)
+#DESCRIPTION Cine Friki -TCL (Geo)
+#SERVICE 4097:0:1:5BF:2:1:CCCC0000:0:0:0:tcl%3a//Todo Novelas -TCL (Geo):Todo Novelas -TCL (Geo)
+#DESCRIPTION Todo Novelas -TCL (Geo)
+#SERVICE 4097:0:1:5C0:2:1:CCCC0000:0:0:0:tcl%3a//Frequence Novelas -TCL (Geo):Frequence Novelas -TCL (Geo)
+#DESCRIPTION Frequence Novelas -TCL (Geo)
+#SERVICE 4097:0:1:5C1:2:1:CCCC0000:0:0:0:tcl%3a//Cine Western -TCL:Cine Western -TCL
+#DESCRIPTION Cine Western -TCL
+#SERVICE 4097:0:1:5C2:2:1:CCCC0000:0:0:0:tcl%3a//Stash Black Stories -TCL (Geo):Stash Black Stories -TCL (Geo)
+#DESCRIPTION Stash Black Stories -TCL (Geo)
+#SERVICE 4097:0:1:5C3:2:1:CCCC0000:0:0:0:tcl%3a//Stash The Classics -TCL (Geo):Stash The Classics -TCL (Geo)
+#DESCRIPTION Stash The Classics -TCL (Geo)
+#SERVICE 4097:0:1:5C4:2:1:CCCC0000:0:0:0:tcl%3a//Stash Screams and Scares -TCL (Geo):Stash Screams and Scares -TCL (Geo)
+#DESCRIPTION Stash Screams and Scares -TCL (Geo)
+#SERVICE 4097:0:1:5C5:2:1:CCCC0000:0:0:0:tcl%3a//MovieDome UK -TCL:MovieDome UK -TCL
+#DESCRIPTION MovieDome UK -TCL
+#SERVICE 4097:0:1:5C6:2:1:CCCC0000:0:0:0:tcl%3a//MovieDome -TCL:MovieDome -TCL
+#DESCRIPTION MovieDome -TCL
+#SERVICE 4097:0:1:5C7:2:1:CCCC0000:0:0:0:tcl%3a//Movie Fone TV .FR -TCL:Movie Fone TV .FR -TCL
+#DESCRIPTION Movie Fone TV .FR -TCL
+#SERVICE 4097:0:1:5C8:2:1:CCCC0000:0:0:0:tcl%3a//Movie Fone TV .SA -TCL:Movie Fone TV .SA -TCL
+#DESCRIPTION Movie Fone TV .SA -TCL
+#SERVICE 4097:0:1:5C9:2:1:CCCC0000:0:0:0:tcl%3a//Action Hollywood Movies -TCL:Action Hollywood Movies -TCL
+#DESCRIPTION Action Hollywood Movies -TCL
+#SERVICE 4097:0:1:5CA:2:1:CCCC0000:0:0:0:tcl%3a//Filmhub C7 not identified -TCL:Filmhub C7 not identified -TCL
+#DESCRIPTION Filmhub C7 not identified -TCL
+#SERVICE 4097:0:1:5CB:2:1:CCCC0000:0:0:0:tcl%3a//Filmhub C9 not identified -TCL:Filmhub C9 not identified -TCL
+#DESCRIPTION Filmhub C9 not identified -TCL
+#SERVICE 4097:0:1:5CC:2:1:CCCC0000:0:0:0:tcl%3a//Filmhub C10 not identified -TCL:Filmhub C10 not identified -TCL
+#DESCRIPTION Filmhub C10 not identified -TCL
+#SERVICE 4097:0:1:5CD:2:1:CCCC0000:0:0:0:tcl%3a//Love the Planet C10 not identified -TCL (Geo):Love the Planet C10 not identified -TCL (Geo)
+#DESCRIPTION Love the Planet C10 not identified -TCL (Geo)
+#SERVICE 4097:0:1:5CE:2:1:CCCC0000:0:0:0:tcl%3a//Love the Planet C11 not identified -TCL (Geo):Love the Planet C11 not identified -TCL (Geo)
+#DESCRIPTION Love the Planet C11 not identified -TCL (Geo)
+#SERVICE 4097:0:1:5CF:2:1:CCCC0000:0:0:0:tcl%3a//Love the Planet Spanish -TCL (Geo):Love the Planet Spanish -TCL (Geo)
+#DESCRIPTION Love the Planet Spanish -TCL (Geo)
+#SERVICE 4097:0:1:5D0:2:1:CCCC0000:0:0:0:tcl%3a//Court TV -TCL:Court TV -TCL
+#DESCRIPTION Court TV -TCL
+#SERVICE 4097:0:1:5D1:2:1:CCCC0000:0:0:0:tcl%3a//Court TV alt -TCL:Court TV alt -TCL
+#DESCRIPTION Court TV alt -TCL
+#SERVICE 4097:0:1:5D2:2:1:CCCC0000:0:0:0:tcl%3a//Ondemand China -TCL:Ondemand China -TCL
+#DESCRIPTION Ondemand China -TCL
+#SERVICE 4097:0:1:5D3:2:1:CCCC0000:0:0:0:tcl%3a//OnDemand China .US alt -TCL:OnDemand China .US alt -TCL
+#DESCRIPTION OnDemand China .US alt -TCL
+#SERVICE 4097:0:1:5D4:2:1:CCCC0000:0:0:0:tcl%3a//Ondemand China .CA -TCL:Ondemand China .CA -TCL
+#DESCRIPTION Ondemand China .CA -TCL
+#SERVICE 4097:0:1:5D5:2:1:CCCC0000:0:0:0:tcl%3a//Ondemand China .CA alt -TCL:Ondemand China .CA alt -TCL
+#DESCRIPTION Ondemand China .CA alt -TCL
+#SERVICE 4097:0:1:5D6:2:1:CCCC0000:0:0:0:tcl%3a//Danger TV -TCL:Danger TV -TCL
+#DESCRIPTION Danger TV -TCL
+#SERVICE 4097:0:1:5D7:2:1:CCCC0000:0:0:0:tcl%3a//PowerNation -TCL (Geo):PowerNation -TCL (Geo)
+#DESCRIPTION PowerNation -TCL (Geo)
+#SERVICE 4097:0:1:5D8:2:1:CCCC0000:0:0:0:tcl%3a//PowerNation Spanish -TCL (Geo):PowerNation Spanish -TCL (Geo)
+#DESCRIPTION PowerNation Spanish -TCL (Geo)
+#SERVICE 4097:0:1:5D9:2:1:CCCC0000:0:0:0:tcl%3a//TBN -TCL:TBN -TCL
+#DESCRIPTION TBN -TCL
+#SERVICE 4097:0:1:5DA:2:1:CCCC0000:0:0:0:tcl%3a//QVC -TCL (Geo):QVC -TCL (Geo)
+#DESCRIPTION QVC -TCL (Geo)
+#SERVICE 4097:0:1:5DB:2:1:CCCC0000:0:0:0:tcl%3a//Super Simple Songs -TCL:Super Simple Songs -TCL
+#DESCRIPTION Super Simple Songs -TCL
+#SERVICE 4097:0:1:5DC:2:1:CCCC0000:0:0:0:tcl%3a//Sensical 2 UP -TCL:Sensical 2 UP -TCL
+#DESCRIPTION Sensical 2 UP -TCL
+#SERVICE 4097:0:1:5DD:2:1:CCCC0000:0:0:0:tcl%3a//Sensical 5 UP -TCL:Sensical 5 UP -TCL
+#DESCRIPTION Sensical 5 UP -TCL
+#SERVICE 4097:0:1:5DE:2:1:CCCC0000:0:0:0:tcl%3a//Sensical 8 UP -TCL:Sensical 8 UP -TCL
+#DESCRIPTION Sensical 8 UP -TCL
+#SERVICE 4097:0:1:5DF:2:1:CCCC0000:0:0:0:tcl%3a//NewKid .US -TCL:NewKid .US -TCL
+#DESCRIPTION NewKid .US -TCL
+#SERVICE 4097:0:1:5E0:2:1:CCCC0000:0:0:0:tcl%3a//NewKid .US alt -TCL:NewKid .US alt -TCL
+#DESCRIPTION NewKid .US alt -TCL
+#SERVICE 4097:0:1:5E1:2:1:CCCC0000:0:0:0:tcl%3a//NewKid .CA -TCL:NewKid .CA -TCL
+#DESCRIPTION NewKid .CA -TCL
+#SERVICE 4097:0:1:5E2:2:1:CCCC0000:0:0:0:tcl%3a//NewKid .CA alt -TCL:NewKid .CA alt -TCL
+#DESCRIPTION NewKid .CA alt -TCL
+#SERVICE 4097:0:1:5E3:2:1:CCCC0000:0:0:0:tcl%3a//Kids TV -TCL:Kids TV -TCL
+#DESCRIPTION Kids TV -TCL
+#SERVICE 4097:0:1:5E4:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher -TCL:Dennis and Gnasher -TCL
+#DESCRIPTION Dennis and Gnasher -TCL
+#SERVICE 4097:0:1:5E5:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .CA -TCL:Dennis and Gnasher .CA -TCL
+#DESCRIPTION Dennis and Gnasher .CA -TCL
+#SERVICE 4097:0:1:5E6:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .AU -TCL:Dennis and Gnasher .AU -TCL
+#DESCRIPTION Dennis and Gnasher .AU -TCL
+#SERVICE 4097:0:1:5E7:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .BR -TCL:Dennis and Gnasher .BR -TCL
+#DESCRIPTION Dennis and Gnasher .BR -TCL
+#SERVICE 4097:0:1:5E8:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .DE -TCL:Dennis and Gnasher .DE -TCL
+#DESCRIPTION Dennis and Gnasher .DE -TCL
+#SERVICE 4097:0:1:5E9:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .SA -TCL:Dennis and Gnasher .SA -TCL
+#DESCRIPTION Dennis and Gnasher .SA -TCL
+#SERVICE 4097:0:1:5EA:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .FR -TCL:Dennis and Gnasher .FR -TCL
+#DESCRIPTION Dennis and Gnasher .FR -TCL
+#SERVICE 4097:0:1:5EB:2:1:CCCC0000:0:0:0:tcl%3a//Dennis and Gnasher .MX -TCL:Dennis and Gnasher .MX -TCL
+#DESCRIPTION Dennis and Gnasher .MX -TCL
+#SERVICE 4097:0:1:5EC:2:1:CCCC0000:0:0:0:tcl%3a//Jelly Jammy World -TCL:Jelly Jammy World -TCL
+#DESCRIPTION Jelly Jammy World -TCL
+#SERVICE 4097:0:1:5ED:2:1:CCCC0000:0:0:0:tcl%3a//WeDO Movies -TCL:WeDO Movies -TCL
+#DESCRIPTION WeDO Movies -TCL
+#SERVICE 4097:0:1:5EE:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Big Stories c41 not identified -TCL:Wedo Big Stories c41 not identified -TCL
+#DESCRIPTION Wedo Big Stories c41 not identified -TCL
+#SERVICE 4097:0:1:5EF:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Big Stories Italian subtitles -TCL:Wedo Big Stories Italian subtitles -TCL
+#DESCRIPTION Wedo Big Stories Italian subtitles -TCL
+#SERVICE 4097:0:1:5F0:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Big Stories German subtitles -TCL:Wedo Big Stories German subtitles -TCL
+#DESCRIPTION Wedo Big Stories German subtitles -TCL
+#SERVICE 4097:0:1:5F1:2:1:CCCC0000:0:0:0:tcl%3a//Wedo Big Stories Spanish subtitles -TCL:Wedo Big Stories Spanish subtitles -TCL
+#DESCRIPTION Wedo Big Stories Spanish subtitles -TCL
+#SERVICE 4097:0:1:5F2:2:1:CCCC0000:0:0:0:tcl%3a//Wedo TV Amor Spanish -TCL:Wedo TV Amor Spanish -TCL
+#DESCRIPTION Wedo TV Amor Spanish -TCL
+#SERVICE 4097:0:1:5F3:2:1:CCCC0000:0:0:0:tcl%3a//Storie Criminali Italian -TCL (Geo):Storie Criminali Italian -TCL (Geo)
+#DESCRIPTION Storie Criminali Italian -TCL (Geo)
+#SERVICE 4097:0:1:5F4:2:1:CCCC0000:0:0:0:tcl%3a//Lovewine -TCL (Geo):Lovewine -TCL (Geo)
+#DESCRIPTION Lovewine -TCL (Geo)
+#SERVICE 4097:0:1:5F5:2:1:CCCC0000:0:0:0:tcl%3a//Historia Y Vida -TCL (Geo):Historia Y Vida -TCL (Geo)
+#DESCRIPTION Historia Y Vida -TCL (Geo)
+#SERVICE 4097:0:1:5F6:2:1:CCCC0000:0:0:0:tcl%3a//Myzen TV -TCL:Myzen TV -TCL
+#DESCRIPTION Myzen TV -TCL
+#SERVICE 4097:0:1:5F7:2:1:CCCC0000:0:0:0:tcl%3a//Bein Xtra Espanol -TCL:Bein Xtra Espanol -TCL
+#DESCRIPTION Bein Xtra Espanol -TCL
+#SERVICE 4097:0:1:5F8:2:1:CCCC0000:0:0:0:tcl%3a//Magellan TV Now -TCL (Geo):Magellan TV Now -TCL (Geo)
+#DESCRIPTION Magellan TV Now -TCL (Geo)
+#SERVICE 4097:0:1:5F9:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV -TCL:Ditty TV -TCL
+#DESCRIPTION Ditty TV -TCL
+#SERVICE 4097:0:1:5FA:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .CA -TCL:Ditty TV .CA -TCL
+#DESCRIPTION Ditty TV .CA -TCL
+#SERVICE 4097:0:1:5FB:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .AU -TCL:Ditty TV .AU -TCL
+#DESCRIPTION Ditty TV .AU -TCL
+#SERVICE 4097:0:1:5FC:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .BR -TCL:Ditty TV .BR -TCL
+#DESCRIPTION Ditty TV .BR -TCL
+#SERVICE 4097:0:1:5FD:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .MX -TCL:Ditty TV .MX -TCL
+#DESCRIPTION Ditty TV .MX -TCL
+#SERVICE 4097:0:1:5FE:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .Fr -TCL:Ditty TV .Fr -TCL
+#DESCRIPTION Ditty TV .Fr -TCL
+#SERVICE 4097:0:1:5FF:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .DE -TCL:Ditty TV .DE -TCL
+#DESCRIPTION Ditty TV .DE -TCL
+#SERVICE 4097:0:1:600:2:1:CCCC0000:0:0:0:tcl%3a//Ditty TV .SA -TCL:Ditty TV .SA -TCL
+#DESCRIPTION Ditty TV .SA -TCL
+#SERVICE 4097:0:1:601:2:1:CCCC0000:0:0:0:tcl%3a//Circle TV -TCL (Geo):Circle TV -TCL (Geo)
+#DESCRIPTION Circle TV -TCL (Geo)
+#SERVICE 4097:0:1:602:2:1:CCCC0000:0:0:0:tcl%3a//MHZ -TCL:MHZ -TCL
+#DESCRIPTION MHZ -TCL
+#SERVICE 4097:0:1:603:2:1:CCCC0000:0:0:0:tcl%3a//MHZ .CA -TCL:MHZ .CA -TCL
+#DESCRIPTION MHZ .CA -TCL
+#SERVICE 4097:0:1:604:2:1:CCCC0000:0:0:0:tcl%3a//Ted -TCL:Ted -TCL
+#DESCRIPTION Ted -TCL
+#SERVICE 4097:0:1:605:2:1:CCCC0000:0:0:0:tcl%3a//Nosey Escandalos -TCL:Nosey Escandalos -TCL
+#DESCRIPTION Nosey Escandalos -TCL
+#SERVICE 4097:0:1:606:2:1:CCCC0000:0:0:0:tcl%3a//Nosey Escandolas alt -TCL:Nosey Escandolas alt -TCL
+#DESCRIPTION Nosey Escandolas alt -TCL
+#SERVICE 4097:0:1:607:2:1:CCCC0000:0:0:0:tcl%3a//RCN Mas+ -TCL:RCN Mas+ -TCL
+#DESCRIPTION RCN Mas+ -TCL
+#SERVICE 4097:0:1:608:2:1:CCCC0000:0:0:0:tcl%3a//RCN Mas+ .CA -TCL:RCN Mas+ .CA -TCL
+#DESCRIPTION RCN Mas+ .CA -TCL
+#SERVICE 4097:0:1:609:2:1:CCCC0000:0:0:0:tcl%3a//RCN Mas+ .MX -TCL:RCN Mas+ .MX -TCL
+#DESCRIPTION RCN Mas+ .MX -TCL
+#SERVICE 4097:0:1:60A:2:1:CCCC0000:0:0:0:tcl%3a//Pelimex -TCL:Pelimex -TCL
+#DESCRIPTION Pelimex -TCL
+#SERVICE 4097:0:1:60B:2:1:CCCC0000:0:0:0:tcl%3a//Pelimex .MX -TCL:Pelimex .MX -TCL
+#DESCRIPTION Pelimex .MX -TCL
+#SERVICE 4097:0:1:60C:2:1:CCCC0000:0:0:0:tcl%3a//Food -TCL:Food -TCL
+#DESCRIPTION Food -TCL
+#SERVICE 4097:0:1:60D:2:1:CCCC0000:0:0:0:tcl%3a//Intouchplus -TCL (Geo):Intouchplus -TCL (Geo)
+#DESCRIPTION Intouchplus -TCL (Geo)
+#SERVICE 4097:0:1:60E:2:1:CCCC0000:0:0:0:tcl%3a//Sony Kal Hindi -TCL:Sony Kal Hindi -TCL
+#DESCRIPTION Sony Kal Hindi -TCL
+#SERVICE 4097:0:1:60F:2:1:CCCC0000:0:0:0:tcl%3a//Sony Canal Novelas -TCL:Sony Canal Novelas -TCL
+#DESCRIPTION Sony Canal Novelas -TCL
+#SERVICE 4097:0:1:610:2:1:CCCC0000:0:0:0:tcl%3a//Sony Canal Compentencias -TCL:Sony Canal Compentencias -TCL
+#DESCRIPTION Sony Canal Compentencias -TCL
+#SERVICE 4097:0:1:611:2:1:CCCC0000:0:0:0:tcl%3a//Sony Canal Competencias .MX -TCL:Sony Canal Competencias .MX -TCL
+#DESCRIPTION Sony Canal Competencias .MX -TCL
+#SERVICE 4097:0:1:612:2:1:CCCC0000:0:0:0:tcl%3a//Sony One Sharktank .MX -TCL:Sony One Sharktank .MX -TCL
+#DESCRIPTION Sony One Sharktank .MX -TCL
+#SERVICE 4097:0:1:613:2:1:CCCC0000:0:0:0:tcl%3a//Sony One Novelas .MX -TCL:Sony One Novelas .MX -TCL
+#DESCRIPTION Sony One Novelas .MX -TCL
+#SERVICE 4097:0:1:614:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Crime .BR -TCL:FreeTV Crime .BR -TCL
+#DESCRIPTION FreeTV Crime .BR -TCL
+#SERVICE 4097:0:1:615:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Drama .BR -TCL:FreeTV Drama .BR -TCL
+#DESCRIPTION FreeTV Drama .BR -TCL
+#SERVICE 4097:0:1:616:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Sureno -TCL (Geo):FreeTV Sureno -TCL (Geo)
+#DESCRIPTION FreeTV Sureno -TCL (Geo)
+#SERVICE 4097:0:1:617:2:1:CCCC0000:0:0:0:tcl%3a//FreeTV Familia -TCL (Geo):FreeTV Familia -TCL (Geo)
+#DESCRIPTION FreeTV Familia -TCL (Geo)
+#SERVICE 4097:0:1:618:2:1:CCCC0000:0:0:0:tcl%3a//TV Zyn -TCL check:TV Zyn -TCL check
+#DESCRIPTION TV Zyn -TCL check
+#SERVICE 4097:0:1:619:2:1:CCCC0000:0:0:0:tcl%3a//New Brasil -TCL (Geo):New Brasil -TCL (Geo)
+#DESCRIPTION New Brasil -TCL (Geo)
+#SERVICE 4097:0:1:61A:2:1:CCCC0000:0:0:0:tcl%3a//Sabor Arte 2 -TCL (Geo):Sabor Arte 2 -TCL (Geo)
+#DESCRIPTION Sabor Arte 2 -TCL (Geo)
+#SERVICE 4097:0:1:61B:2:1:CCCC0000:0:0:0:tcl%3a//Mav TV Brasil -TCL (Geo):Mav TV Brasil -TCL (Geo)
+#DESCRIPTION Mav TV Brasil -TCL (Geo)
+#SERVICE 4097:0:1:61C:2:1:CCCC0000:0:0:0:tcl%3a//Fitdance -TCL:Fitdance -TCL
+#DESCRIPTION Fitdance -TCL
+#SERVICE 4097:0:1:61D:2:1:CCCC0000:0:0:0:tcl%3a//Manual Do Mundo -TCL:Manual Do Mundo -TCL
+#DESCRIPTION Manual Do Mundo -TCL
+#SERVICE 4097:0:1:61E:2:1:CCCC0000:0:0:0:tcl%3a//WhePlay Plus -TCL (Geo):WhePlay Plus -TCL (Geo)
+#DESCRIPTION WhePlay Plus -TCL (Geo)
+#SERVICE 4097:0:1:61F:2:1:CCCC0000:0:0:0:tcl%3a//Acelerados -TCL (Geo):Acelerados -TCL (Geo)
+#DESCRIPTION Acelerados -TCL (Geo)
+#SERVICE 4097:0:1:620:2:1:CCCC0000:0:0:0:tcl%3a//Dia TV -TCL:Dia TV -TCL
+#DESCRIPTION Dia TV -TCL
+#SERVICE 4097:0:1:621:2:1:CCCC0000:0:0:0:tcl%3a//Buena Onda:Buena Onda
+#DESCRIPTION Buena Onda
+#SERVICE 4097:0:1:622:2:1:CCCC0000:0:0:0:tcl%3a//Estrella Games -TCL (Geo):Estrella Games -TCL (Geo)
+#DESCRIPTION Estrella Games -TCL (Geo)
+#SERVICE 4097:0:1:623:2:1:CCCC0000:0:0:0:tcl%3a//Estrella News -TCL (Geo):Estrella News -TCL (Geo)
+#DESCRIPTION Estrella News -TCL (Geo)
+#SERVICE 4097:0:1:624:2:1:CCCC0000:0:0:0:tcl%3a//Estrella TV -TCL (Geo):Estrella TV -TCL (Geo)
+#DESCRIPTION Estrella TV -TCL (Geo)
+#SERVICE 4097:0:1:625:2:1:CCCC0000:0:0:0:tcl%3a//Canel Cinema -TCL (Geo):Canel Cinema -TCL (Geo)
+#DESCRIPTION Canel Cinema -TCL (Geo)
+#SERVICE 4097:0:1:626:2:1:CCCC0000:0:0:0:tcl%3a//Canela Clasicos -TCL (Geo):Canela Clasicos -TCL (Geo)
+#DESCRIPTION Canela Clasicos -TCL (Geo)
+#SERVICE 4097:0:1:627:2:1:CCCC0000:0:0:0:tcl%3a//Canela Tele Novelas -TCL (Geo):Canela Tele Novelas -TCL (Geo)
+#DESCRIPTION Canela Tele Novelas -TCL (Geo)
+#SERVICE 4097:0:1:628:2:1:CCCC0000:0:0:0:tcl%3a//Canela TV -TCL (Geo):Canela TV -TCL (Geo)
+#DESCRIPTION Canela TV -TCL (Geo)
+#SERVICE 4097:0:1:629:2:1:CCCC0000:0:0:0:tcl%3a//Nuestravision -TCL (Geo):Nuestravision -TCL (Geo)
+#DESCRIPTION Nuestravision -TCL (Geo)
+#SERVICE 4097:0:1:62A:2:1:CCCC0000:0:0:0:tcl%3a//Kanal D Drama -TCL:Kanal D Drama -TCL
+#DESCRIPTION Kanal D Drama -TCL
+#SERVICE 4097:0:1:62B:2:1:CCCC0000:0:0:0:tcl%3a//Univers Cine -TCL (Geo):Univers Cine -TCL (Geo)
+#DESCRIPTION Univers Cine -TCL (Geo)
+#SERVICE 4097:0:1:62C:2:1:CCCC0000:0:0:0:tcl%3a//quiveutgagnerdesmillions -TCL (Geo):quiveutgagnerdesmillions -TCL (Geo)
+#DESCRIPTION quiveutgagnerdesmillions -TCL (Geo)
+#SERVICE 4097:0:1:62D:2:1:CCCC0000:0:0:0:tcl%3a//Le meilleur D'arthur -TCL (Geo):Le meilleur D'arthur -TCL (Geo)
+#DESCRIPTION Le meilleur D'arthur -TCL (Geo)
+#SERVICE 4097:0:1:62E:2:1:CCCC0000:0:0:0:tcl%3a//Les Amours -TCL (Geo):Les Amours -TCL (Geo)
+#DESCRIPTION Les Amours -TCL (Geo)
+#SERVICE 4097:0:1:62F:2:1:CCCC0000:0:0:0:tcl%3a//Le meilleur de la tv Realite -TCL (Geo):Le meilleur de la tv Realite -TCL (Geo)
+#DESCRIPTION Le meilleur de la tv Realite -TCL (Geo)
+#SERVICE 4097:0:1:630:2:1:CCCC0000:0:0:0:tcl%3a//Lesanges -TCL (Geo):Lesanges -TCL (Geo)
+#DESCRIPTION Lesanges -TCL (Geo)
+#SERVICE 4097:0:1:631:2:1:CCCC0000:0:0:0:tcl%3a//Les secrets denos regions -TCL (Geo):Les secrets denos regions -TCL (Geo)
+#DESCRIPTION Les secrets denos regions -TCL (Geo)
+#SERVICE 4097:0:1:632:2:1:CCCC0000:0:0:0:tcl%3a//Out TV Proud -TCL (Geo):Out TV Proud -TCL (Geo)
+#DESCRIPTION Out TV Proud -TCL (Geo)
+#SERVICE 4097:0:1:633:2:1:CCCC0000:0:0:0:tcl%3a//Beond TV -TCL (Geo):Beond TV -TCL (Geo)
+#DESCRIPTION Beond TV -TCL (Geo)
+#SERVICE 4097:0:1:634:2:1:CCCC0000:0:0:0:tcl%3a//Mob TV -TCL (Geo):Mob TV -TCL (Geo)
+#DESCRIPTION Mob TV -TCL (Geo)
+#SERVICE 4097:0:1:635:2:1:CCCC0000:0:0:0:tcl%3a//123 Go English -TCL (Geo):123 Go English -TCL (Geo)
+#DESCRIPTION 123 Go English -TCL (Geo)

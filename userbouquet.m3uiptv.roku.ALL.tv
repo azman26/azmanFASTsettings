@@ -1,0 +1,645 @@
+#NAME ROKU
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:roku%3a//NBC News Now:NBC News Now
+#DESCRIPTION NBC News Now
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:roku%3a//LiveNOW from FOX (Geo):LiveNOW from FOX (Geo)
+#DESCRIPTION LiveNOW from FOX (Geo)
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:roku%3a//AccuWeather Now (Geo):AccuWeather Now (Geo)
+#DESCRIPTION AccuWeather Now (Geo)
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:roku%3a//WeatherNation (Geo):WeatherNation (Geo)
+#DESCRIPTION WeatherNation (Geo)
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:roku%3a//WeatherNation TV alt (Geo):WeatherNation TV alt (Geo)
+#DESCRIPTION WeatherNation TV alt (Geo)
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:roku%3a//FOX Weather (Geo):FOX Weather (Geo)
+#DESCRIPTION FOX Weather (Geo)
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:roku%3a//Scripps News (Geo):Scripps News (Geo)
+#DESCRIPTION Scripps News (Geo)
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:roku%3a//Scripps News Alt:Scripps News Alt
+#DESCRIPTION Scripps News Alt
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:roku%3a//USA Today (Geo):USA Today (Geo)
+#DESCRIPTION USA Today (Geo)
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:roku%3a//Cheddar News (Geo):Cheddar News (Geo)
+#DESCRIPTION Cheddar News (Geo)
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:roku%3a//Cheddar News alt:Cheddar News alt
+#DESCRIPTION Cheddar News alt
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:roku%3a//Yahoo Finance (Geo):Yahoo Finance (Geo)
+#DESCRIPTION Yahoo Finance (Geo)
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:roku%3a//The Hill TV (Geo):The Hill TV (Geo)
+#DESCRIPTION The Hill TV (Geo)
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:roku%3a//NewsMax TV (Geo):NewsMax TV (Geo)
+#DESCRIPTION NewsMax TV (Geo)
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:roku%3a//TYT GO (Geo):TYT GO (Geo)
+#DESCRIPTION TYT GO (Geo)
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:roku%3a//TYT Go alt (Geo):TYT Go alt (Geo)
+#DESCRIPTION TYT Go alt (Geo)
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:roku%3a//Oan Plus (Geo):Oan Plus (Geo)
+#DESCRIPTION Oan Plus (Geo)
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:roku%3a//Euronews News World alt:Euronews News World alt
+#DESCRIPTION Euronews News World alt
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:roku%3a//Bloomberg Quicktake (Geo):Bloomberg Quicktake (Geo)
+#DESCRIPTION Bloomberg Quicktake (Geo)
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:roku%3a//Reuters:Reuters
+#DESCRIPTION Reuters
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:roku%3a//Golfpass (Geo):Golfpass (Geo)
+#DESCRIPTION Golfpass (Geo)
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:roku%3a//Dazn Ringside (Geo):Dazn Ringside (Geo)
+#DESCRIPTION Dazn Ringside (Geo)
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:roku%3a//Fox Sports (Geo):Fox Sports (Geo)
+#DESCRIPTION Fox Sports (Geo)
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:roku%3a//Womens Sports Network (Geo):Womens Sports Network (Geo)
+#DESCRIPTION Womens Sports Network (Geo)
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:roku%3a//Impact Wrestling (Geo):Impact Wrestling (Geo)
+#DESCRIPTION Impact Wrestling (Geo)
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:roku%3a//Fite 24x7 by Triller (Geo):Fite 24x7 by Triller (Geo)
+#DESCRIPTION Fite 24x7 by Triller (Geo)
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:roku%3a//Bein Sports XTRA (Geo):Bein Sports XTRA (Geo)
+#DESCRIPTION Bein Sports XTRA (Geo)
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:roku%3a//Stadium:Stadium
+#DESCRIPTION Stadium
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:roku%3a//NBC Sports (Geo):NBC Sports (Geo)
+#DESCRIPTION NBC Sports (Geo)
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:roku%3a//FTF Sports (Geo):FTF Sports (Geo)
+#DESCRIPTION FTF Sports (Geo)
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:roku%3a//Fubo Sports Network (Geo):Fubo Sports Network (Geo)
+#DESCRIPTION Fubo Sports Network (Geo)
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:roku%3a//Fubo Sports Network alt (Geo):Fubo Sports Network alt (Geo)
+#DESCRIPTION Fubo Sports Network alt (Geo)
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:roku%3a//Swerve Combat (Geo):Swerve Combat (Geo)
+#DESCRIPTION Swerve Combat (Geo)
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:roku%3a//Swerve Combat alt:Swerve Combat alt
+#DESCRIPTION Swerve Combat alt
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:roku%3a//Pac 12 (Geo):Pac 12 (Geo)
+#DESCRIPTION Pac 12 (Geo)
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:roku%3a//HBCU GO Sport (Geo):HBCU GO Sport (Geo)
+#DESCRIPTION HBCU GO Sport (Geo)
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:roku%3a//Perfect Game (Geo):Perfect Game (Geo)
+#DESCRIPTION Perfect Game (Geo)
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:roku%3a//Origin Sports (Geo):Origin Sports (Geo)
+#DESCRIPTION Origin Sports (Geo)
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:roku%3a//ACC Digital Network (Geo):ACC Digital Network (Geo)
+#DESCRIPTION ACC Digital Network (Geo)
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:roku%3a//Motortrend Fast (Geo):Motortrend Fast (Geo)
+#DESCRIPTION Motortrend Fast (Geo)
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:roku%3a//Mav TV Select (Geo):Mav TV Select (Geo)
+#DESCRIPTION Mav TV Select (Geo)
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:roku%3a//PowerNation (Geo):PowerNation (Geo)
+#DESCRIPTION PowerNation (Geo)
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:roku%3a//Torque:Torque
+#DESCRIPTION Torque
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:roku%3a//NHRA TV (Geo):NHRA TV (Geo)
+#DESCRIPTION NHRA TV (Geo)
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:roku%3a//Sports Grid (Geo):Sports Grid (Geo)
+#DESCRIPTION Sports Grid (Geo)
+#SERVICE 4097:0:1:415:1:1:CCCC0000:0:0:0:roku%3a//DraftKings (Geo):DraftKings (Geo)
+#DESCRIPTION DraftKings (Geo)
+#SERVICE 4097:0:1:416:1:1:CCCC0000:0:0:0:roku%3a//XUMO Westerns (Geo):XUMO Westerns (Geo)
+#DESCRIPTION XUMO Westerns (Geo)
+#SERVICE 4097:0:1:417:1:1:CCCC0000:0:0:0:roku%3a//Cinevault Westerns (Geo):Cinevault Westerns (Geo)
+#DESCRIPTION Cinevault Westerns (Geo)
+#SERVICE 4097:0:1:418:1:1:CCCC0000:0:0:0:roku%3a//Grit Xtra (Geo):Grit Xtra (Geo)
+#DESCRIPTION Grit Xtra (Geo)
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:roku%3a//Maverick Black Cinema (Geo):Maverick Black Cinema (Geo)
+#DESCRIPTION Maverick Black Cinema (Geo)
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:roku%3a//Maverick Black Cinema alt:Maverick Black Cinema alt
+#DESCRIPTION Maverick Black Cinema alt
+#SERVICE 4097:0:1:41B:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Free Movies (Geo):Filmrise Free Movies (Geo)
+#DESCRIPTION Filmrise Free Movies (Geo)
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:roku%3a//Ebony TV (Geo):Ebony TV (Geo)
+#DESCRIPTION Ebony TV (Geo)
+#SERVICE 4097:0:1:41D:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Black TV (Geo):Filmrise Black TV (Geo)
+#DESCRIPTION Filmrise Black TV (Geo)
+#SERVICE 4097:0:1:41E:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Western (Geo):Filmrise Western (Geo)
+#DESCRIPTION Filmrise Western (Geo)
+#SERVICE 4097:0:1:41F:1:1:CCCC0000:0:0:0:roku%3a//HI Yah! (Geo):HI Yah! (Geo)
+#DESCRIPTION HI Yah! (Geo)
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:roku%3a//Hi-Yah alt:Hi-Yah alt
+#DESCRIPTION Hi-Yah alt
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:roku%3a//Shades of Black (Geo):Shades of Black (Geo)
+#DESCRIPTION Shades of Black (Geo)
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Action (Geo):Filmrise Action (Geo)
+#DESCRIPTION Filmrise Action (Geo)
+#SERVICE 4097:0:1:423:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Classic (Geo):Filmrise Classic (Geo)
+#DESCRIPTION Filmrise Classic (Geo)
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:roku%3a//El Rey Network (Geo):El Rey Network (Geo)
+#DESCRIPTION El Rey Network (Geo)
+#SERVICE 4097:0:1:425:1:1:CCCC0000:0:0:0:roku%3a//Black Pix (Geo):Black Pix (Geo)
+#DESCRIPTION Black Pix (Geo)
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:roku%3a//Retro Crush (Geo):Retro Crush (Geo)
+#DESCRIPTION Retro Crush (Geo)
+#SERVICE 4097:0:1:427:1:1:CCCC0000:0:0:0:roku%3a//Crunchyroll (Geo):Crunchyroll (Geo)
+#DESCRIPTION Crunchyroll (Geo)
+#SERVICE 4097:0:1:428:1:1:CCCC0000:0:0:0:roku%3a//The Dick Van Dyke Show (Geo):The Dick Van Dyke Show (Geo)
+#DESCRIPTION The Dick Van Dyke Show (Geo)
+#SERVICE 4097:0:1:429:1:1:CCCC0000:0:0:0:roku%3a//Johnny Carson TV (Geo):Johnny Carson TV (Geo)
+#DESCRIPTION Johnny Carson TV (Geo)
+#SERVICE 4097:0:1:42A:1:1:CCCC0000:0:0:0:roku%3a//Electric Now (Geo):Electric Now (Geo)
+#DESCRIPTION Electric Now (Geo)
+#SERVICE 4097:0:1:42B:1:1:CCCC0000:0:0:0:roku%3a//Electric Now alt:Electric Now alt
+#DESCRIPTION Electric Now alt
+#SERVICE 4097:0:1:42C:1:1:CCCC0000:0:0:0:roku%3a//Redbox Romance (Geo):Redbox Romance (Geo)
+#DESCRIPTION Redbox Romance (Geo)
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:roku%3a//Gravitas Movies (Geo):Gravitas Movies (Geo)
+#DESCRIPTION Gravitas Movies (Geo)
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:roku%3a//Redbox Free Movies (Geo):Redbox Free Movies (Geo)
+#DESCRIPTION Redbox Free Movies (Geo)
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:roku%3a//Tribeca (Geo):Tribeca (Geo)
+#DESCRIPTION Tribeca (Geo)
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:roku%3a//Filmrise British TV (Geo):Filmrise British TV (Geo)
+#DESCRIPTION Filmrise British TV (Geo)
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:roku%3a//Kocowa (Geo):Kocowa (Geo)
+#DESCRIPTION Kocowa (Geo)
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:roku%3a//Rakuten Viki (Geo):Rakuten Viki (Geo)
+#DESCRIPTION Rakuten Viki (Geo)
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:roku%3a//Rakuten Viki alt:Rakuten Viki alt
+#DESCRIPTION Rakuten Viki alt
+#SERVICE 4097:0:1:434:1:1:CCCC0000:0:0:0:roku%3a//Asian Crush (Geo):Asian Crush (Geo)
+#DESCRIPTION Asian Crush (Geo)
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:roku%3a//New KMovies (Geo):New KMovies (Geo)
+#DESCRIPTION New KMovies (Geo)
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:roku%3a//Mytime Movie Network (Geo):Mytime Movie Network (Geo)
+#DESCRIPTION Mytime Movie Network (Geo)
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:roku%3a//Cinevault Classics:Cinevault Classics
+#DESCRIPTION Cinevault Classics
+#SERVICE 4097:0:1:438:1:1:CCCC0000:0:0:0:roku%3a//Samuel Goldwyn Classic:Samuel Goldwyn Classic
+#DESCRIPTION Samuel Goldwyn Classic
+#SERVICE 4097:0:1:439:1:1:CCCC0000:0:0:0:roku%3a//Samuel Goldwyn-Films alt:Samuel Goldwyn-Films alt
+#DESCRIPTION Samuel Goldwyn-Films alt
+#SERVICE 4097:0:1:43A:1:1:CCCC0000:0:0:0:roku%3a//Cinevault 80s (Geo):Cinevault 80s (Geo)
+#DESCRIPTION Cinevault 80s (Geo)
+#SERVICE 4097:0:1:43B:1:1:CCCC0000:0:0:0:roku%3a//The Carol Burnett Show (Geo):The Carol Burnett Show (Geo)
+#DESCRIPTION The Carol Burnett Show (Geo)
+#SERVICE 4097:0:1:43C:1:1:CCCC0000:0:0:0:roku%3a//Baywatch Remastered (Geo):Baywatch Remastered (Geo)
+#DESCRIPTION Baywatch Remastered (Geo)
+#SERVICE 4097:0:1:43D:1:1:CCCC0000:0:0:0:roku%3a//CMT Pluto:CMT Pluto
+#DESCRIPTION CMT Pluto
+#SERVICE 4097:0:1:43E:1:1:CCCC0000:0:0:0:roku%3a//Bet Pluto:Bet Pluto
+#DESCRIPTION Bet Pluto
+#SERVICE 4097:0:1:43F:1:1:CCCC0000:0:0:0:roku%3a//The Grio (Geo):The Grio (Geo)
+#DESCRIPTION The Grio (Geo)
+#SERVICE 4097:0:1:440:1:1:CCCC0000:0:0:0:roku%3a//Doctors:Doctors
+#DESCRIPTION Doctors
+#SERVICE 4097:0:1:441:1:1:CCCC0000:0:0:0:roku%3a//About K Content by CJ ENM (Geo):About K Content by CJ ENM (Geo)
+#DESCRIPTION About K Content by CJ ENM (Geo)
+#SERVICE 4097:0:1:442:1:1:CCCC0000:0:0:0:roku%3a//Lifetime Holiday Favourites:Lifetime Holiday Favourites
+#DESCRIPTION Lifetime Holiday Favourites
+#SERVICE 4097:0:1:443:1:1:CCCC0000:0:0:0:roku%3a//Spark TV:Spark TV
+#DESCRIPTION Spark TV
+#SERVICE 4097:0:1:444:1:1:CCCC0000:0:0:0:roku%3a//Spark TV alt:Spark TV alt
+#DESCRIPTION Spark TV alt
+#SERVICE 4097:0:1:445:1:1:CCCC0000:0:0:0:roku%3a//Dove Channel (Geo):Dove Channel (Geo)
+#DESCRIPTION Dove Channel (Geo)
+#SERVICE 4097:0:1:446:1:1:CCCC0000:0:0:0:roku%3a//Redbox Faith and Family (Geo):Redbox Faith and Family (Geo)
+#DESCRIPTION Redbox Faith and Family (Geo)
+#SERVICE 4097:0:1:447:1:1:CCCC0000:0:0:0:roku%3a//Degrassi The Next Generation (Geo):Degrassi The Next Generation (Geo)
+#DESCRIPTION Degrassi The Next Generation (Geo)
+#SERVICE 4097:0:1:448:1:1:CCCC0000:0:0:0:roku%3a//Made in Chelsea (Geo):Made in Chelsea (Geo)
+#DESCRIPTION Made in Chelsea (Geo)
+#SERVICE 4097:0:1:449:1:1:CCCC0000:0:0:0:roku%3a//Silent Witness New Tricks (Geo):Silent Witness New Tricks (Geo)
+#DESCRIPTION Silent Witness New Tricks (Geo)
+#SERVICE 4097:0:1:44A:1:1:CCCC0000:0:0:0:roku%3a//Heartland (Geo):Heartland (Geo)
+#DESCRIPTION Heartland (Geo)
+#SERVICE 4097:0:1:44B:1:1:CCCC0000:0:0:0:roku%3a//Lively Place:Lively Place
+#DESCRIPTION Lively Place
+#SERVICE 4097:0:1:44C:1:1:CCCC0000:0:0:0:roku%3a//Life with Derek (Geo):Life with Derek (Geo)
+#DESCRIPTION Life with Derek (Geo)
+#SERVICE 4097:0:1:44D:1:1:CCCC0000:0:0:0:roku%3a//Like Nastya (Geo):Like Nastya (Geo)
+#DESCRIPTION Like Nastya (Geo)
+#SERVICE 4097:0:1:44E:1:1:CCCC0000:0:0:0:roku%3a//Ryan and Friends (Geo):Ryan and Friends (Geo)
+#DESCRIPTION Ryan and Friends (Geo)
+#SERVICE 4097:0:1:44F:1:1:CCCC0000:0:0:0:roku%3a//The Lego Channel (Geo):The Lego Channel (Geo)
+#DESCRIPTION The Lego Channel (Geo)
+#SERVICE 4097:0:1:450:1:1:CCCC0000:0:0:0:roku%3a//Pocket.Watch (Geo):Pocket.Watch (Geo)
+#DESCRIPTION Pocket.Watch (Geo)
+#SERVICE 4097:0:1:451:1:1:CCCC0000:0:0:0:roku%3a//Power Rangers (Geo):Power Rangers (Geo)
+#DESCRIPTION Power Rangers (Geo)
+#SERVICE 4097:0:1:452:1:1:CCCC0000:0:0:0:roku%3a//Kidz Bop (Geo):Kidz Bop (Geo)
+#DESCRIPTION Kidz Bop (Geo)
+#SERVICE 4097:0:1:453:1:1:CCCC0000:0:0:0:roku%3a//Toony Planet (Geo):Toony Planet (Geo)
+#DESCRIPTION Toony Planet (Geo)
+#SERVICE 4097:0:1:454:1:1:CCCC0000:0:0:0:roku%3a//Baby Shark TV (Geo):Baby Shark TV (Geo)
+#DESCRIPTION Baby Shark TV (Geo)
+#SERVICE 4097:0:1:455:1:1:CCCC0000:0:0:0:roku%3a//Baby Shark TV alt:Baby Shark TV alt
+#DESCRIPTION Baby Shark TV alt
+#SERVICE 4097:0:1:456:1:1:CCCC0000:0:0:0:roku%3a//Sensical Gaming (Geo):Sensical Gaming (Geo)
+#DESCRIPTION Sensical Gaming (Geo)
+#SERVICE 4097:0:1:457:1:1:CCCC0000:0:0:0:roku%3a//AfroKiddos (Geo):AfroKiddos (Geo)
+#DESCRIPTION AfroKiddos (Geo)
+#SERVICE 4097:0:1:458:1:1:CCCC0000:0:0:0:roku%3a//AfroKiddos alt (Geo):AfroKiddos alt (Geo)
+#DESCRIPTION AfroKiddos alt (Geo)
+#SERVICE 4097:0:1:459:1:1:CCCC0000:0:0:0:roku%3a//Kartoon Channel (Geo):Kartoon Channel (Geo)
+#DESCRIPTION Kartoon Channel (Geo)
+#SERVICE 4097:0:1:45A:1:1:CCCC0000:0:0:0:roku%3a//Ketchup TV (Geo):Ketchup TV (Geo)
+#DESCRIPTION Ketchup TV (Geo)
+#SERVICE 4097:0:1:45B:1:1:CCCC0000:0:0:0:roku%3a//Kids Pang TV:Kids Pang TV
+#DESCRIPTION Kids Pang TV
+#SERVICE 4097:0:1:45C:1:1:CCCC0000:0:0:0:roku%3a//Moonbug Kids (Geo):Moonbug Kids (Geo)
+#DESCRIPTION Moonbug Kids (Geo)
+#SERVICE 4097:0:1:45D:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Kids (Geo):Filmrise Kids (Geo)
+#DESCRIPTION Filmrise Kids (Geo)
+#SERVICE 4097:0:1:45E:1:1:CCCC0000:0:0:0:roku%3a//Super Simple Songs (Geo):Super Simple Songs (Geo)
+#DESCRIPTION Super Simple Songs (Geo)
+#SERVICE 4097:0:1:45F:1:1:CCCC0000:0:0:0:roku%3a//Super Simple Songs alt:Super Simple Songs alt
+#DESCRIPTION Super Simple Songs alt
+#SERVICE 4097:0:1:460:1:1:CCCC0000:0:0:0:roku%3a//Sonic the Hedgehog (Geo):Sonic the Hedgehog (Geo)
+#DESCRIPTION Sonic the Hedgehog (Geo)
+#SERVICE 4097:0:1:461:1:1:CCCC0000:0:0:0:roku%3a//Transformers (Geo):Transformers (Geo)
+#DESCRIPTION Transformers (Geo)
+#SERVICE 4097:0:1:462:1:1:CCCC0000:0:0:0:roku%3a//Super Mario Bros (Geo):Super Mario Bros (Geo)
+#DESCRIPTION Super Mario Bros (Geo)
+#SERVICE 4097:0:1:463:1:1:CCCC0000:0:0:0:roku%3a//Barney and Friends (Geo) check:Barney and Friends (Geo) check
+#DESCRIPTION Barney and Friends (Geo) check
+#SERVICE 4097:0:1:464:1:1:CCCC0000:0:0:0:roku%3a//Ninja Kids TV (Geo):Ninja Kids TV (Geo)
+#DESCRIPTION Ninja Kids TV (Geo)
+#SERVICE 4097:0:1:465:1:1:CCCC0000:0:0:0:roku%3a//QVC (Geo):QVC (Geo)
+#DESCRIPTION QVC (Geo)
+#SERVICE 4097:0:1:466:1:1:CCCC0000:0:0:0:roku%3a//HSN (Geo):HSN (Geo)
+#DESCRIPTION HSN (Geo)
+#SERVICE 4097:0:1:467:1:1:CCCC0000:0:0:0:roku%3a//Gusto TV (Geo):Gusto TV (Geo)
+#DESCRIPTION Gusto TV (Geo)
+#SERVICE 4097:0:1:468:1:1:CCCC0000:0:0:0:roku%3a//Gusto TV alt:Gusto TV alt
+#DESCRIPTION Gusto TV alt
+#SERVICE 4097:0:1:469:1:1:CCCC0000:0:0:0:roku%3a//Jamie Oliver (Geo):Jamie Oliver (Geo)
+#DESCRIPTION Jamie Oliver (Geo)
+#SERVICE 4097:0:1:46A:1:1:CCCC0000:0:0:0:roku%3a//Kin (Geo):Kin (Geo)
+#DESCRIPTION Kin (Geo)
+#SERVICE 4097:0:1:46B:1:1:CCCC0000:0:0:0:roku%3a//BBC Food:BBC Food
+#DESCRIPTION BBC Food
+#SERVICE 4097:0:1:46C:1:1:CCCC0000:0:0:0:roku%3a//Tastemade (Geo):Tastemade (Geo)
+#DESCRIPTION Tastemade (Geo)
+#SERVICE 4097:0:1:46D:1:1:CCCC0000:0:0:0:roku%3a//Tastemade alt:Tastemade alt
+#DESCRIPTION Tastemade alt
+#SERVICE 4097:0:1:46E:1:1:CCCC0000:0:0:0:roku%3a//Americas Test Kitchen (Geo):Americas Test Kitchen (Geo)
+#DESCRIPTION Americas Test Kitchen (Geo)
+#SERVICE 4097:0:1:46F:1:1:CCCC0000:0:0:0:roku%3a//Bon Appetit (Geo):Bon Appetit (Geo)
+#DESCRIPTION Bon Appetit (Geo)
+#SERVICE 4097:0:1:470:1:1:CCCC0000:0:0:0:roku%3a//Hello Inspo (Geo):Hello Inspo (Geo)
+#DESCRIPTION Hello Inspo (Geo)
+#SERVICE 4097:0:1:471:1:1:CCCC0000:0:0:0:roku%3a//Tiny House:Tiny House
+#DESCRIPTION Tiny House
+#SERVICE 4097:0:1:472:1:1:CCCC0000:0:0:0:roku%3a//The Design Network (Geo):The Design Network (Geo)
+#DESCRIPTION The Design Network (Geo)
+#SERVICE 4097:0:1:473:1:1:CCCC0000:0:0:0:roku%3a//The Design Network alt:The Design Network alt
+#DESCRIPTION The Design Network alt
+#SERVICE 4097:0:1:474:1:1:CCCC0000:0:0:0:roku%3a//This Old House (Geo):This Old House (Geo)
+#DESCRIPTION This Old House (Geo)
+#SERVICE 4097:0:1:475:1:1:CCCC0000:0:0:0:roku%3a//This Old House alt:This Old House alt
+#DESCRIPTION This Old House alt
+#SERVICE 4097:0:1:476:1:1:CCCC0000:0:0:0:roku%3a//This Old House Classic (Geo):This Old House Classic (Geo)
+#DESCRIPTION This Old House Classic (Geo)
+#SERVICE 4097:0:1:477:1:1:CCCC0000:0:0:0:roku%3a//This Old House Makers Channel (Geo):This Old House Makers Channel (Geo)
+#DESCRIPTION This Old House Makers Channel (Geo)
+#SERVICE 4097:0:1:478:1:1:CCCC0000:0:0:0:roku%3a//Homeful (Geo):Homeful (Geo)
+#DESCRIPTION Homeful (Geo)
+#SERVICE 4097:0:1:479:1:1:CCCC0000:0:0:0:roku%3a//Place and Spaces (Geo):Place and Spaces (Geo)
+#DESCRIPTION Place and Spaces (Geo)
+#SERVICE 4097:0:1:47A:1:1:CCCC0000:0:0:0:roku%3a//PBS Food (Geo):PBS Food (Geo)
+#DESCRIPTION PBS Food (Geo)
+#SERVICE 4097:0:1:47B:1:1:CCCC0000:0:0:0:roku%3a//The Bob Ross Channel (Geo):The Bob Ross Channel (Geo)
+#DESCRIPTION The Bob Ross Channel (Geo)
+#SERVICE 4097:0:1:47C:1:1:CCCC0000:0:0:0:roku%3a//Garedning with Monty Don (Geo):Garedning with Monty Don (Geo)
+#DESCRIPTION Garedning with Monty Don (Geo)
+#SERVICE 4097:0:1:47D:1:1:CCCC0000:0:0:0:roku%3a//At Home With Family Handyman (Geo):At Home With Family Handyman (Geo)
+#DESCRIPTION At Home With Family Handyman (Geo)
+#SERVICE 4097:0:1:47E:1:1:CCCC0000:0:0:0:roku%3a//Architectural Digest (Geo):Architectural Digest (Geo)
+#DESCRIPTION Architectural Digest (Geo)
+#SERVICE 4097:0:1:47F:1:1:CCCC0000:0:0:0:roku%3a//Outside TV +:Outside TV +
+#DESCRIPTION Outside TV +
+#SERVICE 4097:0:1:480:1:1:CCCC0000:0:0:0:roku%3a//Modern Marvels:Modern Marvels
+#DESCRIPTION Modern Marvels
+#SERVICE 4097:0:1:481:1:1:CCCC0000:0:0:0:roku%3a//Love Nature (Geo):Love Nature (Geo)
+#DESCRIPTION Love Nature (Geo)
+#SERVICE 4097:0:1:482:1:1:CCCC0000:0:0:0:roku%3a//The Jack Hanna Channel (Geo):The Jack Hanna Channel (Geo)
+#DESCRIPTION The Jack Hanna Channel (Geo)
+#SERVICE 4097:0:1:483:1:1:CCCC0000:0:0:0:roku%3a//True History Channel (Geo):True History Channel (Geo)
+#DESCRIPTION True History Channel (Geo)
+#SERVICE 4097:0:1:484:1:1:CCCC0000:0:0:0:roku%3a//True History alt:True History alt
+#DESCRIPTION True History alt
+#SERVICE 4097:0:1:485:1:1:CCCC0000:0:0:0:roku%3a//BBC Home and Garden:BBC Home and Garden
+#DESCRIPTION BBC Home and Garden
+#SERVICE 4097:0:1:486:1:1:CCCC0000:0:0:0:roku%3a//Magellan TV Now (Geo):Magellan TV Now (Geo)
+#DESCRIPTION Magellan TV Now (Geo)
+#SERVICE 4097:0:1:487:1:1:CCCC0000:0:0:0:roku%3a//Magellan TV Now alt 1 (Geo):Magellan TV Now alt 1 (Geo)
+#DESCRIPTION Magellan TV Now alt 1 (Geo)
+#SERVICE 4097:0:1:488:1:1:CCCC0000:0:0:0:roku%3a//Magellan TV Now alt 2:Magellan TV Now alt 2
+#DESCRIPTION Magellan TV Now alt 2
+#SERVICE 4097:0:1:489:1:1:CCCC0000:0:0:0:roku%3a//Xplore (Geo):Xplore (Geo)
+#DESCRIPTION Xplore (Geo)
+#SERVICE 4097:0:1:48A:1:1:CCCC0000:0:0:0:roku%3a//Wild Earth (Geo):Wild Earth (Geo)
+#DESCRIPTION Wild Earth (Geo)
+#SERVICE 4097:0:1:48B:1:1:CCCC0000:0:0:0:roku%3a//Great American Adventures (Geo):Great American Adventures (Geo)
+#DESCRIPTION Great American Adventures (Geo)
+#SERVICE 4097:0:1:48C:1:1:CCCC0000:0:0:0:roku%3a//Crime360:Crime360
+#DESCRIPTION Crime360
+#SERVICE 4097:0:1:48D:1:1:CCCC0000:0:0:0:roku%3a//Filmrise True Crime (Geo):Filmrise True Crime (Geo)
+#DESCRIPTION Filmrise True Crime (Geo)
+#SERVICE 4097:0:1:48E:1:1:CCCC0000:0:0:0:roku%3a//Law and Crime (Geo):Law and Crime (Geo)
+#DESCRIPTION Law and Crime (Geo)
+#SERVICE 4097:0:1:48F:1:1:CCCC0000:0:0:0:roku%3a//Total Crime (Geo):Total Crime (Geo)
+#DESCRIPTION Total Crime (Geo)
+#SERVICE 4097:0:1:490:1:1:CCCC0000:0:0:0:roku%3a//FilmRise Forensic Files (Geo):FilmRise Forensic Files (Geo)
+#DESCRIPTION FilmRise Forensic Files (Geo)
+#SERVICE 4097:0:1:491:1:1:CCCC0000:0:0:0:roku%3a//Reelz Famous and Infamous (Geo):Reelz Famous and Infamous (Geo)
+#DESCRIPTION Reelz Famous and Infamous (Geo)
+#SERVICE 4097:0:1:492:1:1:CCCC0000:0:0:0:roku%3a//Kriminal:Kriminal
+#DESCRIPTION Kriminal
+#SERVICE 4097:0:1:493:1:1:CCCC0000:0:0:0:roku%3a//Real Crime (Geo):Real Crime (Geo)
+#DESCRIPTION Real Crime (Geo)
+#SERVICE 4097:0:1:494:1:1:CCCC0000:0:0:0:roku%3a//Real Crime alt (Geo):Real Crime alt (Geo)
+#DESCRIPTION Real Crime alt (Geo)
+#SERVICE 4097:0:1:495:1:1:CCCC0000:0:0:0:roku%3a//Dr. G Medical Examiner (Geo):Dr. G Medical Examiner (Geo)
+#DESCRIPTION Dr. G Medical Examiner (Geo)
+#SERVICE 4097:0:1:496:1:1:CCCC0000:0:0:0:roku%3a//Unsolved Mysterys (Geo):Unsolved Mysterys (Geo)
+#DESCRIPTION Unsolved Mysterys (Geo)
+#SERVICE 4097:0:1:497:1:1:CCCC0000:0:0:0:roku%3a//Midsomer Murders (Geo):Midsomer Murders (Geo)
+#DESCRIPTION Midsomer Murders (Geo)
+#SERVICE 4097:0:1:498:1:1:CCCC0000:0:0:0:roku%3a//Midsomer Murders alt:Midsomer Murders alt
+#DESCRIPTION Midsomer Murders alt
+#SERVICE 4097:0:1:499:1:1:CCCC0000:0:0:0:roku%3a//Crime Thrill Her:Crime Thrill Her
+#DESCRIPTION Crime Thrill Her
+#SERVICE 4097:0:1:49A:1:1:CCCC0000:0:0:0:roku%3a//Trublu Crime Network (Geo):Trublu Crime Network (Geo)
+#DESCRIPTION Trublu Crime Network (Geo)
+#SERVICE 4097:0:1:49B:1:1:CCCC0000:0:0:0:roku%3a//FilmRise Mysteries (Geo):FilmRise Mysteries (Geo)
+#DESCRIPTION FilmRise Mysteries (Geo)
+#SERVICE 4097:0:1:49C:1:1:CCCC0000:0:0:0:roku%3a//Mysteria (Geo):Mysteria (Geo)
+#DESCRIPTION Mysteria (Geo)
+#SERVICE 4097:0:1:49D:1:1:CCCC0000:0:0:0:roku%3a//Rotten Tomatoes (Geo):Rotten Tomatoes (Geo)
+#DESCRIPTION Rotten Tomatoes (Geo)
+#SERVICE 4097:0:1:49E:1:1:CCCC0000:0:0:0:roku%3a//Cinevault Murder and Mayhem (Geo):Cinevault Murder and Mayhem (Geo)
+#DESCRIPTION Cinevault Murder and Mayhem (Geo)
+#SERVICE 4097:0:1:49F:1:1:CCCC0000:0:0:0:roku%3a//Backstage (Geo):Backstage (Geo)
+#DESCRIPTION Backstage (Geo)
+#SERVICE 4097:0:1:4A0:1:1:CCCC0000:0:0:0:roku%3a//Latino Vibes (Geo):Latino Vibes (Geo)
+#DESCRIPTION Latino Vibes (Geo)
+#SERVICE 4097:0:1:4A1:1:1:CCCC0000:0:0:0:roku%3a//Fox Soul:Fox Soul
+#DESCRIPTION Fox Soul
+#SERVICE 4097:0:1:4A2:1:1:CCCC0000:0:0:0:roku%3a//GQ (Geo):GQ (Geo)
+#DESCRIPTION GQ (Geo)
+#SERVICE 4097:0:1:4A3:1:1:CCCC0000:0:0:0:roku%3a//Revry (Geo):Revry (Geo)
+#DESCRIPTION Revry (Geo)
+#SERVICE 4097:0:1:4A4:1:1:CCCC0000:0:0:0:roku%3a//Vice (Geo) check:Vice (Geo) check
+#DESCRIPTION Vice (Geo) check
+#SERVICE 4097:0:1:4A5:1:1:CCCC0000:0:0:0:roku%3a//Drag Race Universe (Geo):Drag Race Universe (Geo)
+#DESCRIPTION Drag Race Universe (Geo)
+#SERVICE 4097:0:1:4A6:1:1:CCCC0000:0:0:0:roku%3a//Perform:Perform
+#DESCRIPTION Perform
+#SERVICE 4097:0:1:4A7:1:1:CCCC0000:0:0:0:roku%3a//Supermarket Sweep (Geo):Supermarket Sweep (Geo)
+#DESCRIPTION Supermarket Sweep (Geo)
+#SERVICE 4097:0:1:4A8:1:1:CCCC0000:0:0:0:roku%3a//Buzzr (Geo):Buzzr (Geo)
+#DESCRIPTION Buzzr (Geo)
+#SERVICE 4097:0:1:4A9:1:1:CCCC0000:0:0:0:roku%3a//The Price Is Right The Barker Era (Geo):The Price Is Right The Barker Era (Geo)
+#DESCRIPTION The Price Is Right The Barker Era (Geo)
+#SERVICE 4097:0:1:4AA:1:1:CCCC0000:0:0:0:roku%3a//Impossible:Impossible
+#DESCRIPTION Impossible
+#SERVICE 4097:0:1:4AB:1:1:CCCC0000:0:0:0:roku%3a//Game Show Central Channel (Geo):Game Show Central Channel (Geo)
+#DESCRIPTION Game Show Central Channel (Geo)
+#SERVICE 4097:0:1:4AC:1:1:CCCC0000:0:0:0:roku%3a//MTV Pluto:MTV Pluto
+#DESCRIPTION MTV Pluto
+#SERVICE 4097:0:1:4AD:1:1:CCCC0000:0:0:0:roku%3a//Xtreme Outdoors:Xtreme Outdoors
+#DESCRIPTION Xtreme Outdoors
+#SERVICE 4097:0:1:4AE:1:1:CCCC0000:0:0:0:roku%3a//Circle (Geo):Circle (Geo)
+#DESCRIPTION Circle (Geo)
+#SERVICE 4097:0:1:4AF:1:1:CCCC0000:0:0:0:roku%3a//Hell's Kitchen | Kitchen Nightmares (Geo):Hell's Kitchen | Kitchen Nightmares (Geo)
+#DESCRIPTION Hell's Kitchen | Kitchen Nightmares (Geo)
+#SERVICE 4097:0:1:4B0:1:1:CCCC0000:0:0:0:roku%3a//Ice Road Truckers:Ice Road Truckers
+#DESCRIPTION Ice Road Truckers
+#SERVICE 4097:0:1:4B1:1:1:CCCC0000:0:0:0:roku%3a//Filmrise Food (Geo):Filmrise Food (Geo)
+#DESCRIPTION Filmrise Food (Geo)
+#SERVICE 4097:0:1:4B2:1:1:CCCC0000:0:0:0:roku%3a//Axe Men:Axe Men
+#DESCRIPTION Axe Men
+#SERVICE 4097:0:1:4B3:1:1:CCCC0000:0:0:0:roku%3a//Dealzone:Dealzone
+#DESCRIPTION Dealzone
+#SERVICE 4097:0:1:4B4:1:1:CCCC0000:0:0:0:roku%3a//Antiques Roadshow UK:Antiques Roadshow UK
+#DESCRIPTION Antiques Roadshow UK
+#SERVICE 4097:0:1:4B5:1:1:CCCC0000:0:0:0:roku%3a//Home.Made.Nation:Home.Made.Nation
+#DESCRIPTION Home.Made.Nation
+#SERVICE 4097:0:1:4B6:1:1:CCCC0000:0:0:0:roku%3a//So Real (Geo):So Real (Geo)
+#DESCRIPTION So Real (Geo)
+#SERVICE 4097:0:1:4B7:1:1:CCCC0000:0:0:0:roku%3a//Confess by Nosey (Geo):Confess by Nosey (Geo)
+#DESCRIPTION Confess by Nosey (Geo)
+#SERVICE 4097:0:1:4B8:1:1:CCCC0000:0:0:0:roku%3a//Afroland TV (Geo):Afroland TV (Geo)
+#DESCRIPTION Afroland TV (Geo)
+#SERVICE 4097:0:1:4B9:1:1:CCCC0000:0:0:0:roku%3a//Afroland TV alt:Afroland TV alt
+#DESCRIPTION Afroland TV alt
+#SERVICE 4097:0:1:4BA:1:1:CCCC0000:0:0:0:roku%3a//Cheaters (Geo):Cheaters (Geo)
+#DESCRIPTION Cheaters (Geo)
+#SERVICE 4097:0:1:4BB:1:1:CCCC0000:0:0:0:roku%3a//The Pet Collective (Geo):The Pet Collective (Geo)
+#DESCRIPTION The Pet Collective (Geo)
+#SERVICE 4097:0:1:4BC:1:1:CCCC0000:0:0:0:roku%3a//Nosey (Geo):Nosey (Geo)
+#DESCRIPTION Nosey (Geo)
+#SERVICE 4097:0:1:4BD:1:1:CCCC0000:0:0:0:roku%3a//Judge Nosey (Geo):Judge Nosey (Geo)
+#DESCRIPTION Judge Nosey (Geo)
+#SERVICE 4097:0:1:4BE:1:1:CCCC0000:0:0:0:roku%3a//Demand Africa (Geo):Demand Africa (Geo)
+#DESCRIPTION Demand Africa (Geo)
+#SERVICE 4097:0:1:4BF:1:1:CCCC0000:0:0:0:roku%3a//Alien Nation by Dust:Alien Nation by Dust
+#DESCRIPTION Alien Nation by Dust
+#SERVICE 4097:0:1:4C0:1:1:CCCC0000:0:0:0:roku%3a//FilmRise Sci-Fi (Geo):FilmRise Sci-Fi (Geo)
+#DESCRIPTION FilmRise Sci-Fi (Geo)
+#SERVICE 4097:0:1:4C1:1:1:CCCC0000:0:0:0:roku%3a//Universal Westerns (Geo):Universal Westerns (Geo)
+#DESCRIPTION Universal Westerns (Geo)
+#SERVICE 4097:0:1:4C2:1:1:CCCC0000:0:0:0:roku%3a//Midnight Pulp (Geo):Midnight Pulp (Geo)
+#DESCRIPTION Midnight Pulp (Geo)
+#SERVICE 4097:0:1:4C3:1:1:CCCC0000:0:0:0:roku%3a//The Asylum Movie Channel (Geo):The Asylum Movie Channel (Geo)
+#DESCRIPTION The Asylum Movie Channel (Geo)
+#SERVICE 4097:0:1:4C4:1:1:CCCC0000:0:0:0:roku%3a//FilmRise Horror (Geo):FilmRise Horror (Geo)
+#DESCRIPTION FilmRise Horror (Geo)
+#SERVICE 4097:0:1:4C5:1:1:CCCC0000:0:0:0:roku%3a//MST3K (Geo):MST3K (Geo)
+#DESCRIPTION MST3K (Geo)
+#SERVICE 4097:0:1:4C6:1:1:CCCC0000:0:0:0:roku%3a//UnXplained:UnXplained
+#DESCRIPTION UnXplained
+#SERVICE 4097:0:1:4C7:1:1:CCCC0000:0:0:0:roku%3a//Screambox (Geo):Screambox (Geo)
+#DESCRIPTION Screambox (Geo)
+#SERVICE 4097:0:1:4C8:1:1:CCCC0000:0:0:0:roku%3a//Haunt TV (Geo):Haunt TV (Geo)
+#DESCRIPTION Haunt TV (Geo)
+#SERVICE 4097:0:1:4C9:1:1:CCCC0000:0:0:0:roku%3a//Lassie (Geo):Lassie (Geo)
+#DESCRIPTION Lassie (Geo)
+#SERVICE 4097:0:1:4CA:1:1:CCCC0000:0:0:0:roku%3a//Mr Beast (Geo):Mr Beast (Geo)
+#DESCRIPTION Mr Beast (Geo)
+#SERVICE 4097:0:1:4CB:1:1:CCCC0000:0:0:0:roku%3a//Mythical 24/7 (Geo):Mythical 24/7 (Geo)
+#DESCRIPTION Mythical 24/7 (Geo)
+#SERVICE 4097:0:1:4CC:1:1:CCCC0000:0:0:0:roku%3a//Comedy Central Pluto:Comedy Central Pluto
+#DESCRIPTION Comedy Central Pluto
+#SERVICE 4097:0:1:4CD:1:1:CCCC0000:0:0:0:roku%3a//SNL Vault (Geo):SNL Vault (Geo)
+#DESCRIPTION SNL Vault (Geo)
+#SERVICE 4097:0:1:4CE:1:1:CCCC0000:0:0:0:roku%3a//Doctor Who Classic:Doctor Who Classic
+#DESCRIPTION Doctor Who Classic
+#SERVICE 4097:0:1:4CF:1:1:CCCC0000:0:0:0:roku%3a//Lol Network (Geo):Lol Network (Geo)
+#DESCRIPTION Lol Network (Geo)
+#SERVICE 4097:0:1:4D0:1:1:CCCC0000:0:0:0:roku%3a//Fail Army (Geo):Fail Army (Geo)
+#DESCRIPTION Fail Army (Geo)
+#SERVICE 4097:0:1:4D1:1:1:CCCC0000:0:0:0:roku%3a//Always Funny Videos Home Disaster Zone (Geo):Always Funny Videos Home Disaster Zone (Geo)
+#DESCRIPTION Always Funny Videos Home Disaster Zone (Geo)
+#SERVICE 4097:0:1:4D2:1:1:CCCC0000:0:0:0:roku%3a//The Red Green Channel (Geo) check:The Red Green Channel (Geo) check
+#DESCRIPTION The Red Green Channel (Geo) check
+#SERVICE 4097:0:1:4D3:1:1:CCCC0000:0:0:0:roku%3a//Comedy Dynamics (Geo):Comedy Dynamics (Geo)
+#DESCRIPTION Comedy Dynamics (Geo)
+#SERVICE 4097:0:1:4D4:1:1:CCCC0000:0:0:0:roku%3a//Just for laughs Gags (Geo):Just for laughs Gags (Geo)
+#DESCRIPTION Just for laughs Gags (Geo)
+#SERVICE 4097:0:1:4D5:1:1:CCCC0000:0:0:0:roku%3a//Estrella News (Geo):Estrella News (Geo)
+#DESCRIPTION Estrella News (Geo)
+#SERVICE 4097:0:1:4D6:1:1:CCCC0000:0:0:0:roku%3a//Weather Channel en Espanol check:Weather Channel en Espanol check
+#DESCRIPTION Weather Channel en Espanol check
+#SERVICE 4097:0:1:4D7:1:1:CCCC0000:0:0:0:roku%3a//Estrella TV (Geo):Estrella TV (Geo)
+#DESCRIPTION Estrella TV (Geo)
+#SERVICE 4097:0:1:4D8:1:1:CCCC0000:0:0:0:roku%3a//Meganoticias Canal:Meganoticias Canal
+#DESCRIPTION Meganoticias Canal
+#SERVICE 4097:0:1:4D9:1:1:CCCC0000:0:0:0:roku%3a//C4 en Alerta (Geo):C4 en Alerta (Geo)
+#DESCRIPTION C4 en Alerta (Geo)
+#SERVICE 4097:0:1:4DA:1:1:CCCC0000:0:0:0:roku%3a//Americateve (Geo):Americateve (Geo)
+#DESCRIPTION Americateve (Geo)
+#SERVICE 4097:0:1:4DB:1:1:CCCC0000:0:0:0:roku%3a//Euronews Espanol (Geo):Euronews Espanol (Geo)
+#DESCRIPTION Euronews Espanol (Geo)
+#SERVICE 4097:0:1:4DC:1:1:CCCC0000:0:0:0:roku%3a//Euronews Espanol alt:Euronews Espanol alt
+#DESCRIPTION Euronews Espanol alt
+#SERVICE 4097:0:1:4DD:1:1:CCCC0000:0:0:0:roku%3a//Bein Sports Xtra en Espanol (Geo):Bein Sports Xtra en Espanol (Geo)
+#DESCRIPTION Bein Sports Xtra en Espanol (Geo)
+#SERVICE 4097:0:1:4DE:1:1:CCCC0000:0:0:0:roku%3a//ITV Deportes (Geo):ITV Deportes (Geo)
+#DESCRIPTION ITV Deportes (Geo)
+#SERVICE 4097:0:1:4DF:1:1:CCCC0000:0:0:0:roku%3a//Canela Sports (Geo):Canela Sports (Geo)
+#DESCRIPTION Canela Sports (Geo)
+#SERVICE 4097:0:1:4E0:1:1:CCCC0000:0:0:0:roku%3a//PowerNation en Espanol (Geo):PowerNation en Espanol (Geo)
+#DESCRIPTION PowerNation en Espanol (Geo)
+#SERVICE 4097:0:1:4E1:1:1:CCCC0000:0:0:0:roku%3a//PowerNation en Espanol alt:PowerNation en Espanol alt
+#DESCRIPTION PowerNation en Espanol alt
+#SERVICE 4097:0:1:4E2:1:1:CCCC0000:0:0:0:roku%3a//Bob Ross en Espanol (Geo):Bob Ross en Espanol (Geo)
+#DESCRIPTION Bob Ross en Espanol (Geo)
+#SERVICE 4097:0:1:4E3:1:1:CCCC0000:0:0:0:roku%3a//Love Nature Spanish (Geo):Love Nature Spanish (Geo)
+#DESCRIPTION Love Nature Spanish (Geo)
+#SERVICE 4097:0:1:4E4:1:1:CCCC0000:0:0:0:roku%3a//Estrella Games (Geo):Estrella Games (Geo)
+#DESCRIPTION Estrella Games (Geo)
+#SERVICE 4097:0:1:4E5:1:1:CCCC0000:0:0:0:roku%3a//Lo Mejor De Telemundo (Geo):Lo Mejor De Telemundo (Geo)
+#DESCRIPTION Lo Mejor De Telemundo (Geo)
+#SERVICE 4097:0:1:4E6:1:1:CCCC0000:0:0:0:roku%3a//La Saga (Geo):La Saga (Geo)
+#DESCRIPTION La Saga (Geo)
+#SERVICE 4097:0:1:4E7:1:1:CCCC0000:0:0:0:roku%3a//Azteca Internacional (Geo):Azteca Internacional (Geo)
+#DESCRIPTION Azteca Internacional (Geo)
+#SERVICE 4097:0:1:4E8:1:1:CCCC0000:0:0:0:roku%3a//Concursos de Cocina (Geo):Concursos de Cocina (Geo)
+#DESCRIPTION Concursos de Cocina (Geo)
+#SERVICE 4097:0:1:4E9:1:1:CCCC0000:0:0:0:roku%3a//Saber Mas (Geo):Saber Mas (Geo)
+#DESCRIPTION Saber Mas (Geo)
+#SERVICE 4097:0:1:4EA:1:1:CCCC0000:0:0:0:roku%3a//Canela TV (Geo):Canela TV (Geo)
+#DESCRIPTION Canela TV (Geo)
+#SERVICE 4097:0:1:4EB:1:1:CCCC0000:0:0:0:roku%3a//Filmrise series Gratis (Geo):Filmrise series Gratis (Geo)
+#DESCRIPTION Filmrise series Gratis (Geo)
+#SERVICE 4097:0:1:4EC:1:1:CCCC0000:0:0:0:roku%3a//Canela Cinema (Geo):Canela Cinema (Geo)
+#DESCRIPTION Canela Cinema (Geo)
+#SERVICE 4097:0:1:4ED:1:1:CCCC0000:0:0:0:roku%3a//Cine Romantico (Geo):Cine Romantico (Geo)
+#DESCRIPTION Cine Romantico (Geo)
+#SERVICE 4097:0:1:4EE:1:1:CCCC0000:0:0:0:roku%3a//Mytime Movie Network En Espanol (Geo):Mytime Movie Network En Espanol (Geo)
+#DESCRIPTION Mytime Movie Network En Espanol (Geo)
+#SERVICE 4097:0:1:4EF:1:1:CCCC0000:0:0:0:roku%3a//Spark TV - Luz and Amor:Spark TV - Luz & Amor
+#DESCRIPTION Spark TV - Luz & Amor
+#SERVICE 4097:0:1:4F0:1:1:CCCC0000:0:0:0:roku%3a//Runtime Espanol (Geo):Runtime Espanol (Geo)
+#DESCRIPTION Runtime Espanol (Geo)
+#SERVICE 4097:0:1:4F1:1:1:CCCC0000:0:0:0:roku%3a//Runtime Espanol alt:Runtime Espanol alt
+#DESCRIPTION Runtime Espanol alt
+#SERVICE 4097:0:1:4F2:1:1:CCCC0000:0:0:0:roku%3a//Cine Real (Geo):Cine Real (Geo)
+#DESCRIPTION Cine Real (Geo)
+#SERVICE 4097:0:1:4F3:1:1:CCCC0000:0:0:0:roku%3a//FilmRise Peliculas Gratis (Geo):FilmRise Peliculas Gratis (Geo)
+#DESCRIPTION FilmRise Peliculas Gratis (Geo)
+#SERVICE 4097:0:1:4F4:1:1:CCCC0000:0:0:0:roku%3a//Cine Sureno (Geo):Cine Sureno (Geo)
+#DESCRIPTION Cine Sureno (Geo)
+#SERVICE 4097:0:1:4F5:1:1:CCCC0000:0:0:0:roku%3a//Canela Telenovelas (Geo):Canela Telenovelas (Geo)
+#DESCRIPTION Canela Telenovelas (Geo)
+#SERVICE 4097:0:1:4F6:1:1:CCCC0000:0:0:0:roku%3a//Canela Clásicos (Geo):Canela Clásicos (Geo)
+#DESCRIPTION Canela Clásicos (Geo)
+#SERVICE 4097:0:1:4F7:1:1:CCCC0000:0:0:0:roku%3a//OroTV (Geo):OroTV (Geo)
+#DESCRIPTION OroTV (Geo)
+#SERVICE 4097:0:1:4F8:1:1:CCCC0000:0:0:0:roku%3a//Oro TV alt:Oro TV alt
+#DESCRIPTION Oro TV alt
+#SERVICE 4097:0:1:4F9:1:1:CCCC0000:0:0:0:roku%3a//FilmRise Autopista al Cielo:FilmRise Autopista al Cielo
+#DESCRIPTION FilmRise Autopista al Cielo
+#SERVICE 4097:0:1:4FA:1:1:CCCC0000:0:0:0:roku%3a//Filmex Clasico (Geo):Filmex Clasico (Geo)
+#DESCRIPTION Filmex Clasico (Geo)
+#SERVICE 4097:0:1:4FB:1:1:CCCC0000:0:0:0:roku%3a//Filmex Clasico alt (Geo):Filmex Clasico alt (Geo)
+#DESCRIPTION Filmex Clasico alt (Geo)
+#SERVICE 4097:0:1:4FC:1:1:CCCC0000:0:0:0:roku%3a//Filmex (Geo):Filmex (Geo)
+#DESCRIPTION Filmex (Geo)
+#SERVICE 4097:0:1:4FD:1:1:CCCC0000:0:0:0:roku%3a//Cine Estrella TV (Geo):Cine Estrella TV (Geo)
+#DESCRIPTION Cine Estrella TV (Geo)
+#SERVICE 4097:0:1:4FE:1:1:CCCC0000:0:0:0:roku%3a//Crímenes Verdaderos (Geo):Crímenes Verdaderos (Geo)
+#DESCRIPTION Crímenes Verdaderos (Geo)
+#SERVICE 4097:0:1:4FF:1:1:CCCC0000:0:0:0:roku%3a//Misterios sin Resolver (Geo):Misterios sin Resolver (Geo)
+#DESCRIPTION Misterios sin Resolver (Geo)
+#SERVICE 4097:0:1:500:1:1:CCCC0000:0:0:0:roku%3a//Cops en Espanol (Geo):Cops en Espanol (Geo)
+#DESCRIPTION Cops en Espanol (Geo)
+#SERVICE 4097:0:1:501:1:1:CCCC0000:0:0:0:roku%3a//MMC (Geo):MMC (Geo)
+#DESCRIPTION MMC (Geo)
+#SERVICE 4097:0:1:502:1:1:CCCC0000:0:0:0:roku%3a//Flash (Geo):Flash (Geo)
+#DESCRIPTION Flash (Geo)
+#SERVICE 4097:0:1:503:1:1:CCCC0000:0:0:0:roku%3a//AFV en Espanol:AFV en Espanol
+#DESCRIPTION AFV en Espanol
+#SERVICE 4097:0:1:504:1:1:CCCC0000:0:0:0:roku%3a//RCN Más recheck:RCN Más recheck
+#DESCRIPTION RCN Más recheck
+#SERVICE 4097:0:1:505:1:1:CCCC0000:0:0:0:roku%3a//RCN Xtra recheck:RCN Xtra recheck
+#DESCRIPTION RCN Xtra recheck
+#SERVICE 4097:0:1:506:1:1:CCCC0000:0:0:0:roku%3a//Sony Canal Competencias:Sony Canal Competencias
+#DESCRIPTION Sony Canal Competencias
+#SERVICE 4097:0:1:507:1:1:CCCC0000:0:0:0:roku%3a//Sony Canal Comedias:Sony Canal Comedias
+#DESCRIPTION Sony Canal Comedias
+#SERVICE 4097:0:1:508:1:1:CCCC0000:0:0:0:roku%3a//Sony Canal Novelas:Sony Canal Novelas
+#DESCRIPTION Sony Canal Novelas
+#SERVICE 4097:0:1:509:1:1:CCCC0000:0:0:0:roku%3a//MTV Flow Latino:MTV Flow Latino
+#DESCRIPTION MTV Flow Latino
+#SERVICE 4097:0:1:50A:1:1:CCCC0000:0:0:0:roku%3a//VEVO Reggaeton and Trap (Geo):VEVO Reggaeton and Trap (Geo)
+#DESCRIPTION VEVO Reggaeton and Trap (Geo)
+#SERVICE 4097:0:1:50B:1:1:CCCC0000:0:0:0:roku%3a//VEVO Latino (Geo):VEVO Latino (Geo)
+#DESCRIPTION VEVO Latino (Geo)
+#SERVICE 4097:0:1:50C:1:1:CCCC0000:0:0:0:roku%3a//MTV Spankin New:MTV Spankin New
+#DESCRIPTION MTV Spankin New
+#SERVICE 4097:0:1:50D:1:1:CCCC0000:0:0:0:roku%3a//MTV Biggest Pop:MTV Biggest Pop
+#DESCRIPTION MTV Biggest Pop
+#SERVICE 4097:0:1:50E:1:1:CCCC0000:0:0:0:roku%3a//MTV Block Party:MTV Block Party
+#DESCRIPTION MTV Block Party
+#SERVICE 4097:0:1:50F:1:1:CCCC0000:0:0:0:roku%3a//WMX POP (Geo):WMX POP (Geo)
+#DESCRIPTION WMX POP (Geo)
+#SERVICE 4097:0:1:510:1:1:CCCC0000:0:0:0:roku%3a//VEVO Pop (Geo):VEVO Pop (Geo)
+#DESCRIPTION VEVO Pop (Geo)
+#SERVICE 4097:0:1:511:1:1:CCCC0000:0:0:0:roku%3a//MTV Yo!:MTV Yo!
+#DESCRIPTION MTV Yo!
+#SERVICE 4097:0:1:512:1:1:CCCC0000:0:0:0:roku%3a//VEVO RandB (Geo):VEVO R&B (Geo)
+#DESCRIPTION VEVO R&B (Geo)
+#SERVICE 4097:0:1:513:1:1:CCCC0000:0:0:0:roku%3a//VEVO Hip Hop (Geo):VEVO Hip Hop (Geo)
+#DESCRIPTION VEVO Hip Hop (Geo)
+#SERVICE 4097:0:1:514:1:1:CCCC0000:0:0:0:roku%3a//WMX Hip Hop (Geo):WMX Hip Hop (Geo)
+#DESCRIPTION WMX Hip Hop (Geo)
+#SERVICE 4097:0:1:515:1:1:CCCC0000:0:0:0:roku%3a//VEVO Country (Geo):VEVO Country (Geo)
+#DESCRIPTION VEVO Country (Geo)
+#SERVICE 4097:0:1:516:1:1:CCCC0000:0:0:0:roku%3a//WMX Rock (Geo):WMX Rock (Geo)
+#DESCRIPTION WMX Rock (Geo)
+#SERVICE 4097:0:1:517:1:1:CCCC0000:0:0:0:roku%3a//VEVO 2K (Geo):VEVO 2K (Geo)
+#DESCRIPTION VEVO 2K (Geo)
+#SERVICE 4097:0:1:518:1:1:CCCC0000:0:0:0:roku%3a//Vevo 90s (Geo):Vevo 90s (Geo)
+#DESCRIPTION Vevo 90s (Geo)
+#SERVICE 4097:0:1:519:1:1:CCCC0000:0:0:0:roku%3a//VEVO 80s (Geo):VEVO 80s (Geo)
+#DESCRIPTION VEVO 80s (Geo)
+#SERVICE 4097:0:1:51A:1:1:CCCC0000:0:0:0:roku%3a//Vevo 70s (Geo):Vevo 70s (Geo)
+#DESCRIPTION Vevo 70s (Geo)
+#SERVICE 4097:0:1:51B:1:1:CCCC0000:0:0:0:roku%3a//iHeart Latino Hits:iHeart Latino Hits
+#DESCRIPTION iHeart Latino Hits
+#SERVICE 4097:0:1:51C:1:1:CCCC0000:0:0:0:roku%3a//iHeart The Beat:iHeart The Beat
+#DESCRIPTION iHeart The Beat
+#SERVICE 4097:0:1:51D:1:1:CCCC0000:0:0:0:roku%3a//iHeart Alt Radio:iHeart Alt Radio
+#DESCRIPTION iHeart Alt Radio
+#SERVICE 4097:0:1:51E:1:1:CCCC0000:0:0:0:roku%3a//iHeart Hit Nation:iHeart Hit Nation
+#DESCRIPTION iHeart Hit Nation
+#SERVICE 4097:0:1:51F:1:1:CCCC0000:0:0:0:roku%3a//iHeart Country:iHeart Country
+#DESCRIPTION iHeart Country
+#SERVICE 4097:0:1:520:1:1:CCCC0000:0:0:0:roku%3a//iHeart 90s:iHeart 90s
+#DESCRIPTION iHeart 90s
+#SERVICE 4097:0:1:521:1:1:CCCC0000:0:0:0:roku%3a//iHeart 80s:iHeart 80s
+#DESCRIPTION iHeart 80s
+#SERVICE 4097:0:1:522:1:1:CCCC0000:0:0:0:roku%3a//Atlanta News First:Atlanta News First
+#DESCRIPTION Atlanta News First
+#SERVICE 4097:0:1:523:1:1:CCCC0000:0:0:0:roku%3a//Arizona's Family:Arizona's Family
+#DESCRIPTION Arizona's Family
+#SERVICE 4097:0:1:524:1:1:CCCC0000:0:0:0:roku%3a//ABC7 WWSB:ABC7 WWSB
+#DESCRIPTION ABC7 WWSB
+#SERVICE 4097:0:1:525:1:1:CCCC0000:0:0:0:roku%3a//Cleveland 19 News Plus  check:Cleveland 19 News Plus  check
+#DESCRIPTION Cleveland 19 News Plus  check
+#SERVICE 4097:0:1:526:1:1:CCCC0000:0:0:0:roku%3a//WBTV News 3:WBTV News 3
+#DESCRIPTION WBTV News 3
+#SERVICE 4097:0:1:527:1:1:CCCC0000:0:0:0:roku%3a//KMOV News 4:KMOV News 4
+#DESCRIPTION KMOV News 4
+#SERVICE 4097:0:1:528:1:1:CCCC0000:0:0:0:roku%3a//WSMV 4 News:WSMV 4 News
+#DESCRIPTION WSMV 4 News
+#SERVICE 4097:0:1:529:1:1:CCCC0000:0:0:0:roku%3a//Channel 3 Eyewitness News:Channel 3 Eyewitness News
+#DESCRIPTION Channel 3 Eyewitness News

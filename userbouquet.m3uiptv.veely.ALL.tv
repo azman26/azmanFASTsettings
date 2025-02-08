@@ -1,0 +1,15 @@
+#NAME VEELY
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGReal Life:Real Life
+#DESCRIPTION Real Life
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGReal Stories:Real Stories
+#DESCRIPTION Real Stories
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGReal Wild:Real Wild
+#DESCRIPTION Real Wild
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGHistory Hit:Timeline
+#DESCRIPTION Timeline
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGWonder:Wonder
+#DESCRIPTION Wonder
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGReal Crime:Real Crime
+#DESCRIPTION Real Crime
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:veely%3a//Veely_EPGDon't Tell the Bride:Don't Tell The Bride
+#DESCRIPTION Don't Tell The Bride

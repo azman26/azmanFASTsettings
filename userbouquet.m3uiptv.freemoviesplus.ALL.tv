@@ -1,0 +1,35 @@
+#NAME FREEMOVIES PLUS
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:freemoviesplus%3a//ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!:ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!
+#DESCRIPTION ALL STREAMS!! ON THIS SERVICE ARE CURRENTLY OFFLINE!!
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:freemoviesplus%3a//True Crime Now -US:True Crime Now -US
+#DESCRIPTION True Crime Now -US
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:freemoviesplus%3a//War and Military Now -US:War and Military Now -US
+#DESCRIPTION War and Military Now -US
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Pecan -EU:Pecan -EU
+#DESCRIPTION Pecan -EU
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Intipacha -EU:Intipacha -EU
+#DESCRIPTION Intipacha -EU
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Vintage TV -US:Vintage TV -US
+#DESCRIPTION Vintage TV -US
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Just for Laughs Gags -EU:Just for Laughs Gags -EU
+#DESCRIPTION Just for Laughs Gags -EU
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Food -US:Food -US
+#DESCRIPTION Food -US
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Glory Kick Boxing -EU:Glory Kick Boxing -EU
+#DESCRIPTION Glory Kick Boxing -EU
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Todays Homeowner -US:Todays Homeowner -US
+#DESCRIPTION Todays Homeowner -US
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Space Science Now -US:Space Science Now -US
+#DESCRIPTION Space Science Now -US
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Ditty TV -EU:Ditty TV -EU
+#DESCRIPTION Ditty TV -EU
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Nosey 2 -US:Nosey 2 -US
+#DESCRIPTION Nosey 2 -US
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Real Nosey -US:Real Nosey -US
+#DESCRIPTION Real Nosey -US
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Pelimex -EU:Pelimex -EU
+#DESCRIPTION Pelimex -EU
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:freemoviesplus%3a//Crime and Thrillers -US:Crime and Thrillers -US
+#DESCRIPTION Crime and Thrillers -US
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:freemoviesplus%3a//WatchMojo -EU:WatchMojo -EU
+#DESCRIPTION WatchMojo -EU

@@ -1,0 +1,577 @@
+#NAME XIAOMI
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:xiaomi%3a//Billiards TV (EU):Billiards TV (EU)
+#DESCRIPTION Billiards TV (EU)
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:xiaomi%3a//NEW KPOP (EU):NEW KPOP (EU)
+#DESCRIPTION NEW KPOP (EU)
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Viki (EU):Rakuten Viki (EU)
+#DESCRIPTION Rakuten Viki (EU)
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:xiaomi%3a//SBS (EU):SBS (EU)
+#DESCRIPTION SBS (EU)
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:xiaomi%3a//YG TV (EU):YG TV (EU)
+#DESCRIPTION YG TV (EU)
+#SERVICE 4097:0:1F:3ED:1:1:CCCC0000:0:0:0:xiaomi%3a//Bloomberg TV 4K (US):Bloomberg TV 4K (US)
+#DESCRIPTION Bloomberg TV 4K (US)
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:xiaomi%3a//Bloomberg TV (EU):Bloomberg TV (EU)
+#DESCRIPTION Bloomberg TV (EU)
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:xiaomi%3a//Boomberg Quicktake (EU):Boomberg Quicktake (EU)
+#DESCRIPTION Boomberg Quicktake (EU)
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:xiaomi%3a//Rise Financial (EU):Rise Financial (EU)
+#DESCRIPTION Rise Financial (EU)
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:xiaomi%3a//Africa News (EU):Africa News (EU)
+#DESCRIPTION Africa News (EU)
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:xiaomi%3a//Africa News (FR):Africa News (FR)
+#DESCRIPTION Africa News (FR)
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:xiaomi%3a//Demand Africa:Demand Africa
+#DESCRIPTION Demand Africa
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Guardian (GB):Rakuten Guardian (GB)
+#DESCRIPTION Rakuten Guardian (GB)
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:xiaomi%3a//Xploration Station (GB):Xploration Station (GB)
+#DESCRIPTION Xploration Station (GB)
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:xiaomi%3a//Euronews World (EU):Euronews World (EU)
+#DESCRIPTION Euronews World (EU)
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:xiaomi%3a//Euronews French (FR):Euronews French (FR)
+#DESCRIPTION Euronews French (FR)
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:xiaomi%3a//Euronews German (DE):Euronews German (DE)
+#DESCRIPTION Euronews German (DE)
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:xiaomi%3a//Euronews Italian (IT):Euronews Italian (IT)
+#DESCRIPTION Euronews Italian (IT)
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:xiaomi%3a//Euronews Spanish (ES):Euronews Spanish (ES)
+#DESCRIPTION Euronews Spanish (ES)
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:xiaomi%3a//Euronews Portugese (BR):Euronews Portugese (BR)
+#DESCRIPTION Euronews Portugese (BR)
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:xiaomi%3a//TED Conferences (US):TED Conferences (US)
+#DESCRIPTION TED Conferences (US)
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:xiaomi%3a//Cops (GB):Cops (GB)
+#DESCRIPTION Cops (GB)
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:xiaomi%3a//Global Fashion Channel (EU):Global Fashion Channel (EU)
+#DESCRIPTION Global Fashion Channel (EU)
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:xiaomi%3a//Lovestories TV (EU):Lovestories TV (EU)
+#DESCRIPTION Lovestories TV (EU)
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:xiaomi%3a//Nosey (EU):Nosey (EU)
+#DESCRIPTION Nosey (EU)
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:xiaomi%3a//Nosey other (EU):Nosey other (EU)
+#DESCRIPTION Nosey other (EU)
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:xiaomi%3a//Real Nosey (EU):Real Nosey (EU)
+#DESCRIPTION Real Nosey (EU)
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:xiaomi%3a//Fite TV (EU):Fite TV (EU)
+#DESCRIPTION Fite TV (EU)
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:xiaomi%3a//Shade TV (EU):Shade TV (EU)
+#DESCRIPTION Shade TV (EU)
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:xiaomi%3a//The Red Green Show (EU):The Red Green Show (EU)
+#DESCRIPTION The Red Green Show (EU)
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:xiaomi%3a//Twisted Mirror Comedy (GB):Twisted Mirror Comedy (GB)
+#DESCRIPTION Twisted Mirror Comedy (GB)
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:xiaomi%3a//Twisted Mirror Comedy (US):Twisted Mirror Comedy (US)
+#DESCRIPTION Twisted Mirror Comedy (US)
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:xiaomi%3a//Ted Talks (EU):Ted Talks (EU)
+#DESCRIPTION Ted Talks (EU)
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:xiaomi%3a//Ondemand China (US):Ondemand China (US)
+#DESCRIPTION Ondemand China (US)
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:xiaomi%3a//Crime and Punishment (US):Crime and Punishment (US)
+#DESCRIPTION Crime and Punishment (US)
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:xiaomi%3a//Conflict (US):Conflict (US)
+#DESCRIPTION Conflict (US)
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:xiaomi%3a//Law and Crime:Law and Crime
+#DESCRIPTION Law and Crime
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:xiaomi%3a//Emergency (US):Emergency (US)
+#DESCRIPTION Emergency (US)
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:xiaomi%3a//Strongman Champions League (DE):Strongman Champions League (DE)
+#DESCRIPTION Strongman Champions League (DE)
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:xiaomi%3a//Super Simple Songs (EU):Super Simple Songs (EU)
+#DESCRIPTION Super Simple Songs (EU)
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:xiaomi%3a//Gigglemug (EU):Gigglemug (EU)
+#DESCRIPTION Gigglemug (EU)
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:xiaomi%3a//PocketWatch:PocketWatch
+#DESCRIPTION PocketWatch
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:xiaomi%3a//Caillou (ES):Caillou (ES)
+#DESCRIPTION Caillou (ES)
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:xiaomi%3a//Caillou (FR):Caillou (FR)
+#DESCRIPTION Caillou (FR)
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:xiaomi%3a//Yu-Gi-Oh (GB):Yu-Gi-Oh (GB)
+#DESCRIPTION Yu-Gi-Oh (GB)
+#SERVICE 4097:0:1:415:1:1:CCCC0000:0:0:0:xiaomi%3a//Yu-Gi-Oh (DE):Yu-Gi-Oh (DE)
+#DESCRIPTION Yu-Gi-Oh (DE)
+#SERVICE 4097:0:1:416:1:1:CCCC0000:0:0:0:xiaomi%3a//Yu-Gi-Oh (ES):Yu-Gi-Oh (ES)
+#DESCRIPTION Yu-Gi-Oh (ES)
+#SERVICE 4097:0:1:417:1:1:CCCC0000:0:0:0:xiaomi%3a//Yu-Gi-Oh (FR):Yu-Gi-Oh (FR)
+#DESCRIPTION Yu-Gi-Oh (FR)
+#SERVICE 4097:0:1:418:1:1:CCCC0000:0:0:0:xiaomi%3a//Yu-Gi-Oh (IT):Yu-Gi-Oh (IT)
+#DESCRIPTION Yu-Gi-Oh (IT)
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:xiaomi%3a//Naruto Geo:Naruto Geo
+#DESCRIPTION Naruto Geo
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:xiaomi%3a//Travel XP (EU):Travel XP (EU)
+#DESCRIPTION Travel XP (EU)
+#SERVICE 4097:0:1:41B:1:1:CCCC0000:0:0:0:xiaomi%3a//Travel XP (EU) alt:Travel XP (EU) alt
+#DESCRIPTION Travel XP (EU) alt
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:xiaomi%3a//Travel XP (DE):Travel XP (DE)
+#DESCRIPTION Travel XP (DE)
+#SERVICE 4097:0:1:41D:1:1:CCCC0000:0:0:0:xiaomi%3a//Travel XP (FR):Travel XP (FR)
+#DESCRIPTION Travel XP (FR)
+#SERVICE 4097:0:1:41E:1:1:CCCC0000:0:0:0:xiaomi%3a//Young Hollywood:Young Hollywood
+#DESCRIPTION Young Hollywood
+#SERVICE 4097:0:1:41F:1:1:CCCC0000:0:0:0:xiaomi%3a//Watch Mojo (EU):Watch Mojo (EU)
+#DESCRIPTION Watch Mojo (EU)
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten TV Shows (GB):Rakuten TV Shows (GB)
+#DESCRIPTION Rakuten TV Shows (GB)
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:xiaomi%3a//Trailers (UK) Geo:Trailers (UK) Geo
+#DESCRIPTION Trailers (UK) Geo
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:xiaomi%3a//Trailers (ES) Geo:Trailers (ES) Geo
+#DESCRIPTION Trailers (ES) Geo
+#SERVICE 4097:0:1:423:1:1:CCCC0000:0:0:0:xiaomi%3a//Trailers (FR) Geo:Trailers (FR) Geo
+#DESCRIPTION Trailers (FR) Geo
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:xiaomi%3a//Trailers (DE) Geo:Trailers (DE) Geo
+#DESCRIPTION Trailers (DE) Geo
+#SERVICE 4097:0:1:425:1:1:CCCC0000:0:0:0:xiaomi%3a//Trailers (IT) Geo:Trailers (IT) Geo
+#DESCRIPTION Trailers (IT) Geo
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:xiaomi%3a//Mytime (UK):Mytime (UK)
+#DESCRIPTION Mytime (UK)
+#SERVICE 4097:0:1:427:1:1:CCCC0000:0:0:0:xiaomi%3a//Mytime (ES):Mytime (ES)
+#DESCRIPTION Mytime (ES)
+#SERVICE 4097:0:1:428:1:1:CCCC0000:0:0:0:xiaomi%3a//Mytime (FR):Mytime (FR)
+#DESCRIPTION Mytime (FR)
+#SERVICE 4097:0:1:429:1:1:CCCC0000:0:0:0:xiaomi%3a//Mytime (DE):Mytime (DE)
+#DESCRIPTION Mytime (DE)
+#SERVICE 4097:0:1:42A:1:1:CCCC0000:0:0:0:xiaomi%3a//Top True Crime Geo:Top True Crime Geo
+#DESCRIPTION Top True Crime Geo
+#SERVICE 4097:0:1:42B:1:1:CCCC0000:0:0:0:xiaomi%3a//Craction TV Geo:Craction TV Geo
+#DESCRIPTION Craction TV Geo
+#SERVICE 4097:0:1:42C:1:1:CCCC0000:0:0:0:xiaomi%3a//TopFilme Geo:TopFilme Geo
+#DESCRIPTION TopFilme Geo
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:xiaomi%3a//Escapes (EU):Escapes (EU)
+#DESCRIPTION Escapes (EU)
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:xiaomi%3a//Drone TV (EU):Drone TV (EU)
+#DESCRIPTION Drone TV (EU)
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:xiaomi%3a//Go USA (EU):Go USA (EU)
+#DESCRIPTION Go USA (EU)
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:xiaomi%3a//Food (EU):Food (EU)
+#DESCRIPTION Food (EU)
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:xiaomi%3a//Today's Homeowner (EU):Today's Homeowner (EU)
+#DESCRIPTION Today's Homeowner (EU)
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:xiaomi%3a//Manifest TV (EU):Manifest TV (EU)
+#DESCRIPTION Manifest TV (EU)
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:xiaomi%3a//Ditty TV (EU):Ditty TV (EU)
+#DESCRIPTION Ditty TV (EU)
+#SERVICE 4097:0:1:434:1:1:CCCC0000:0:0:0:xiaomi%3a//Ditty TV (US):Ditty TV (US)
+#DESCRIPTION Ditty TV (US)
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:xiaomi%3a//Brat TV:Brat TV
+#DESCRIPTION Brat TV
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:xiaomi%3a//Whoa That Was Wild (EU):Whoa That Was Wild (EU)
+#DESCRIPTION Whoa That Was Wild (EU)
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:xiaomi%3a//BRB (EU):BRB (EU)
+#DESCRIPTION BRB (EU)
+#SERVICE 4097:0:1:438:1:1:CCCC0000:0:0:0:xiaomi%3a//Ninja Kidz TV (EU):Ninja Kidz TV (EU)
+#DESCRIPTION Ninja Kidz TV (EU)
+#SERVICE 4097:0:1:439:1:1:CCCC0000:0:0:0:xiaomi%3a//Now 70s:Now 70s
+#DESCRIPTION Now 70s
+#SERVICE 4097:0:1:43A:1:1:CCCC0000:0:0:0:xiaomi%3a//Now 80s:Now 80s
+#DESCRIPTION Now 80s
+#SERVICE 4097:0:1:43B:1:1:CCCC0000:0:0:0:xiaomi%3a//Now 90s:Now 90s
+#DESCRIPTION Now 90s
+#SERVICE 4097:0:1:43C:1:1:CCCC0000:0:0:0:xiaomi%3a//Pulse:Pulse
+#DESCRIPTION Pulse
+#SERVICE 4097:0:1:43D:1:1:CCCC0000:0:0:0:xiaomi%3a//Kids TV (US):Kids TV (US)
+#DESCRIPTION Kids TV (US)
+#SERVICE 4097:0:1:43E:1:1:CCCC0000:0:0:0:xiaomi%3a//Got Game (EU):Got Game (EU)
+#DESCRIPTION Got Game (EU)
+#SERVICE 4097:0:1:43F:1:1:CCCC0000:0:0:0:xiaomi%3a//Best TV ever (EU):Best TV ever (EU)
+#DESCRIPTION Best TV ever (EU)
+#SERVICE 4097:0:1:440:1:1:CCCC0000:0:0:0:xiaomi%3a//Best TV ever (US):Best TV ever (US)
+#DESCRIPTION Best TV ever (US)
+#SERVICE 4097:0:1:441:1:1:CCCC0000:0:0:0:xiaomi%3a//Commune (EU):Commune (EU)
+#DESCRIPTION Commune (EU)
+#SERVICE 4097:0:1:442:1:1:CCCC0000:0:0:0:xiaomi%3a//Commune (US):Commune (US)
+#DESCRIPTION Commune (US)
+#SERVICE 4097:0:1:443:1:1:CCCC0000:0:0:0:xiaomi%3a//MoreU (EU):MoreU (EU)
+#DESCRIPTION MoreU (EU)
+#SERVICE 4097:0:1:444:1:1:CCCC0000:0:0:0:xiaomi%3a//MoreU (US):MoreU (US)
+#DESCRIPTION MoreU (US)
+#SERVICE 4097:0:1:445:1:1:CCCC0000:0:0:0:xiaomi%3a//The Grid (EU):The Grid (EU)
+#DESCRIPTION The Grid (EU)
+#SERVICE 4097:0:1:446:1:1:CCCC0000:0:0:0:xiaomi%3a//The Grid (US):The Grid (US)
+#DESCRIPTION The Grid (US)
+#SERVICE 4097:0:1:447:1:1:CCCC0000:0:0:0:xiaomi%3a//Gusto TV (EU):Gusto TV (EU)
+#DESCRIPTION Gusto TV (EU)
+#SERVICE 4097:0:1:448:1:1:CCCC0000:0:0:0:xiaomi%3a//Mtrsprt 1:Mtrsprt 1
+#DESCRIPTION Mtrsprt 1
+#SERVICE 4097:0:1:449:1:1:CCCC0000:0:0:0:xiaomi%3a//Fuel TV (UK):Fuel TV (UK)
+#DESCRIPTION Fuel TV (UK)
+#SERVICE 4097:0:1:44A:1:1:CCCC0000:0:0:0:xiaomi%3a//Fuel TV (FR):Fuel TV (FR)
+#DESCRIPTION Fuel TV (FR)
+#SERVICE 4097:0:1:44B:1:1:CCCC0000:0:0:0:xiaomi%3a//Fuel TV (ES):Fuel TV (ES)
+#DESCRIPTION Fuel TV (ES)
+#SERVICE 4097:0:1:44C:1:1:CCCC0000:0:0:0:xiaomi%3a//Mav TV Geo:Mav TV Geo
+#DESCRIPTION Mav TV Geo
+#SERVICE 4097:0:1:44D:1:1:CCCC0000:0:0:0:xiaomi%3a//Strongmans Champion League (EU):Strongmans Champion League (EU)
+#DESCRIPTION Strongmans Champion League (EU)
+#SERVICE 4097:0:1:44E:1:1:CCCC0000:0:0:0:xiaomi%3a//Outdoor Action (EU):Outdoor Action (EU)
+#DESCRIPTION Outdoor Action (EU)
+#SERVICE 4097:0:1:44F:1:1:CCCC0000:0:0:0:xiaomi%3a//Teen Vee English:Teen Vee English
+#DESCRIPTION Teen Vee English
+#SERVICE 4097:0:1:450:1:1:CCCC0000:0:0:0:xiaomi%3a//La LA Life English:La LA Life English
+#DESCRIPTION La LA Life English
+#SERVICE 4097:0:1:451:1:1:CCCC0000:0:0:0:xiaomi%3a//Slick Slime Sam English:Slick Slime Sam English
+#DESCRIPTION Slick Slime Sam English
+#SERVICE 4097:0:1:452:1:1:CCCC0000:0:0:0:xiaomi%3a//123 Go! English (IN):123 Go! English (IN)
+#DESCRIPTION 123 Go! English (IN)
+#SERVICE 4097:0:1:453:1:1:CCCC0000:0:0:0:xiaomi%3a//123 Go! Spanish:123 Go! Spanish
+#DESCRIPTION 123 Go! Spanish
+#SERVICE 4097:0:1:454:1:1:CCCC0000:0:0:0:xiaomi%3a//Ideas En 5 Minutos Spanish:Ideas En 5 Minutos Spanish
+#DESCRIPTION Ideas En 5 Minutos Spanish
+#SERVICE 4097:0:1:455:1:1:CCCC0000:0:0:0:xiaomi%3a//Brightside English:Brightside English
+#DESCRIPTION Brightside English
+#SERVICE 4097:0:1:456:1:1:CCCC0000:0:0:0:xiaomi%3a//Brightside Spanish Geo:Brightside Spanish Geo
+#DESCRIPTION Brightside Spanish Geo
+#SERVICE 4097:0:1:457:1:1:CCCC0000:0:0:0:xiaomi%3a//PowerNation:PowerNation
+#DESCRIPTION PowerNation
+#SERVICE 4097:0:1:458:1:1:CCCC0000:0:0:0:xiaomi%3a//Cine Friki (IN):Cine Friki (IN)
+#DESCRIPTION Cine Friki (IN)
+#SERVICE 4097:0:1:459:1:1:CCCC0000:0:0:0:xiaomi%3a//Beond TV Geo:Beond TV Geo
+#DESCRIPTION Beond TV Geo
+#SERVICE 4097:0:1:45A:1:1:CCCC0000:0:0:0:xiaomi%3a//Intipcha (EU):Intipcha (EU)
+#DESCRIPTION Intipcha (EU)
+#SERVICE 4097:0:1:45B:1:1:CCCC0000:0:0:0:xiaomi%3a//Tucine Europe (EU):Tucine Europe (EU)
+#DESCRIPTION Tucine Europe (EU)
+#SERVICE 4097:0:1:45C:1:1:CCCC0000:0:0:0:xiaomi%3a//Cine Classico (EU) Geo:Cine Classico (EU) Geo
+#DESCRIPTION Cine Classico (EU) Geo
+#SERVICE 4097:0:1:45D:1:1:CCCC0000:0:0:0:xiaomi%3a//Tastemade:Tastemade
+#DESCRIPTION Tastemade
+#SERVICE 4097:0:1:45E:1:1:CCCC0000:0:0:0:xiaomi%3a//Tastemade (AU):Tastemade (AU)
+#DESCRIPTION Tastemade (AU)
+#SERVICE 4097:0:1:45F:1:1:CCCC0000:0:0:0:xiaomi%3a//Tastemade (ES):Tastemade (ES)
+#DESCRIPTION Tastemade (ES)
+#SERVICE 4097:0:1:460:1:1:CCCC0000:0:0:0:xiaomi%3a//Tastemade International:Tastemade International
+#DESCRIPTION Tastemade International
+#SERVICE 4097:0:1:461:1:1:CCCC0000:0:0:0:xiaomi%3a//Tastemade (DE):Tastemade (DE)
+#DESCRIPTION Tastemade (DE)
+#SERVICE 4097:0:1:462:1:1:CCCC0000:0:0:0:xiaomi%3a//ComedyDynamics:ComedyDynamics
+#DESCRIPTION ComedyDynamics
+#SERVICE 4097:0:1:463:1:1:CCCC0000:0:0:0:xiaomi%3a//MovieDome:MovieDome
+#DESCRIPTION MovieDome
+#SERVICE 4097:0:1:464:1:1:CCCC0000:0:0:0:xiaomi%3a//MovieDome Family:MovieDome Family
+#DESCRIPTION MovieDome Family
+#SERVICE 4097:0:1:465:1:1:CCCC0000:0:0:0:xiaomi%3a//MovieDome (UK):MovieDome (UK)
+#DESCRIPTION MovieDome (UK)
+#SERVICE 4097:0:1:466:1:1:CCCC0000:0:0:0:xiaomi%3a//Action Hollywood Movies:Action Hollywood Movies
+#DESCRIPTION Action Hollywood Movies
+#SERVICE 4097:0:1:467:1:1:CCCC0000:0:0:0:xiaomi%3a//OAN Encore (Asia):OAN Encore (Asia)
+#DESCRIPTION OAN Encore (Asia)
+#SERVICE 4097:0:1:468:1:1:CCCC0000:0:0:0:xiaomi%3a//Frecuencia Novelas (Asia):Frecuencia Novelas (Asia)
+#DESCRIPTION Frecuencia Novelas (Asia)
+#SERVICE 4097:0:1:469:1:1:CCCC0000:0:0:0:xiaomi%3a//Cinenanar (Asia):Cinenanar (Asia)
+#DESCRIPTION Cinenanar (Asia)
+#SERVICE 4097:0:1:46A:1:1:CCCC0000:0:0:0:xiaomi%3a//Screamin (Asia):Screamin (Asia)
+#DESCRIPTION Screamin (Asia)
+#SERVICE 4097:0:1:46B:1:1:CCCC0000:0:0:0:xiaomi%3a//Emotional (Asia):Emotional (Asia)
+#DESCRIPTION Emotional (Asia)
+#SERVICE 4097:0:1:46C:1:1:CCCC0000:0:0:0:xiaomi%3a//Edgesports (Asia):Edgesports (Asia)
+#DESCRIPTION Edgesports (Asia)
+#SERVICE 4097:0:1:46D:1:1:CCCC0000:0:0:0:xiaomi%3a//Sportsgrid (Asia):Sportsgrid (Asia)
+#DESCRIPTION Sportsgrid (Asia)
+#SERVICE 4097:0:1:46E:1:1:CCCC0000:0:0:0:xiaomi%3a//Trace Sports Stars (Asia):Trace Sports Stars (Asia)
+#DESCRIPTION Trace Sports Stars (Asia)
+#SERVICE 4097:0:1:46F:1:1:CCCC0000:0:0:0:xiaomi%3a//Zee News (Asia):Zee News (Asia)
+#DESCRIPTION Zee News (Asia)
+#SERVICE 4097:0:1:470:1:1:CCCC0000:0:0:0:xiaomi%3a//Zee Business (Asia):Zee Business (Asia)
+#DESCRIPTION Zee Business (Asia)
+#SERVICE 4097:0:1:471:1:1:CCCC0000:0:0:0:xiaomi%3a//Zee 24 Ghanta (Asia):Zee 24 Ghanta (Asia)
+#DESCRIPTION Zee 24 Ghanta (Asia)
+#SERVICE 4097:0:1:472:1:1:CCCC0000:0:0:0:xiaomi%3a//Zee Bihar (Asia):Zee Bihar (Asia)
+#DESCRIPTION Zee Bihar (Asia)
+#SERVICE 4097:0:1:473:1:1:CCCC0000:0:0:0:xiaomi%3a//Zee Taas (Asia):Zee Taas (Asia)
+#DESCRIPTION Zee Taas (Asia)
+#SERVICE 4097:0:1:474:1:1:CCCC0000:0:0:0:xiaomi%3a//Zee Wion (Asia):Zee Wion (Asia)
+#DESCRIPTION Zee Wion (Asia)
+#SERVICE 4097:0:1:475:1:1:CCCC0000:0:0:0:xiaomi%3a//9XM (Asia):9XM (Asia)
+#DESCRIPTION 9XM (Asia)
+#SERVICE 4097:0:1:476:1:1:CCCC0000:0:0:0:xiaomi%3a//ABP Majha (Asia):ABP Majha (Asia)
+#DESCRIPTION ABP Majha (Asia)
+#SERVICE 4097:0:1:477:1:1:CCCC0000:0:0:0:xiaomi%3a//India TV (Asia):India TV (Asia)
+#DESCRIPTION India TV (Asia)
+#SERVICE 4097:0:1:478:1:1:CCCC0000:0:0:0:xiaomi%3a//SBT International (Asia):SBT International (Asia)
+#DESCRIPTION SBT International (Asia)
+#SERVICE 4097:0:1:479:1:1:CCCC0000:0:0:0:xiaomi%3a//TV9 Bangla (IN) Geo:TV9 Bangla (IN) Geo
+#DESCRIPTION TV9 Bangla (IN) Geo
+#SERVICE 4097:0:1:47A:1:1:CCCC0000:0:0:0:xiaomi%3a//TV9 Bharatvarsh (IN) Geo:TV9 Bharatvarsh (IN) Geo
+#DESCRIPTION TV9 Bharatvarsh (IN) Geo
+#SERVICE 4097:0:1:47B:1:1:CCCC0000:0:0:0:xiaomi%3a//TV9 Marathi (IN):TV9 Marathi (IN)
+#DESCRIPTION TV9 Marathi (IN)
+#SERVICE 4097:0:1:47C:1:1:CCCC0000:0:0:0:xiaomi%3a//TV9 Telegu (IN):TV9 Telegu (IN)
+#DESCRIPTION TV9 Telegu (IN)
+#SERVICE 4097:0:1:47D:1:1:CCCC0000:0:0:0:xiaomi%3a//TV9 Kannada (IN) Geo:TV9 Kannada (IN) Geo
+#DESCRIPTION TV9 Kannada (IN) Geo
+#SERVICE 4097:0:1:47E:1:1:CCCC0000:0:0:0:xiaomi%3a//TV9 Gujarati (IN) Geo:TV9 Gujarati (IN) Geo
+#DESCRIPTION TV9 Gujarati (IN) Geo
+#SERVICE 4097:0:1:47F:1:1:CCCC0000:0:0:0:xiaomi%3a//ABP News (Asia):ABP News (Asia)
+#DESCRIPTION ABP News (Asia)
+#SERVICE 4097:0:1:480:1:1:CCCC0000:0:0:0:xiaomi%3a//ABP Ganga (Asia):ABP Ganga (Asia)
+#DESCRIPTION ABP Ganga (Asia)
+#SERVICE 4097:0:1:481:1:1:CCCC0000:0:0:0:xiaomi%3a//ABP Ananda (Asia):ABP Ananda (Asia)
+#DESCRIPTION ABP Ananda (Asia)
+#SERVICE 4097:0:1:482:1:1:CCCC0000:0:0:0:xiaomi%3a//ABP Asmita (Asia):ABP Asmita (Asia)
+#DESCRIPTION ABP Asmita (Asia)
+#SERVICE 4097:0:1:483:1:1:CCCC0000:0:0:0:xiaomi%3a//ABP Sanjha (Asia):ABP Sanjha (Asia)
+#DESCRIPTION ABP Sanjha (Asia)
+#SERVICE 4097:0:1:484:1:1:CCCC0000:0:0:0:xiaomi%3a//Pitaara (Asia):Pitaara (Asia)
+#DESCRIPTION Pitaara (Asia)
+#SERVICE 4097:0:1:485:1:1:CCCC0000:0:0:0:xiaomi%3a//Saga Music Haryanvi (Asia):Saga Music Haryanvi (Asia)
+#DESCRIPTION Saga Music Haryanvi (Asia)
+#SERVICE 4097:0:1:486:1:1:CCCC0000:0:0:0:xiaomi%3a//WPT (Asia):WPT (Asia)
+#DESCRIPTION WPT (Asia)
+#SERVICE 4097:0:1:487:1:1:CCCC0000:0:0:0:xiaomi%3a//Young Hollywood (Asia):Young Hollywood (Asia)
+#DESCRIPTION Young Hollywood (Asia)
+#SERVICE 4097:0:1:488:1:1:CCCC0000:0:0:0:xiaomi%3a//India TV:India TV
+#DESCRIPTION India TV
+#SERVICE 4097:0:1:489:1:1:CCCC0000:0:0:0:xiaomi%3a//India TV Speed News:India TV Speed News
+#DESCRIPTION India TV Speed News
+#SERVICE 4097:0:1:48A:1:1:CCCC0000:0:0:0:xiaomi%3a//Ghaint Punjabi (Asia):Ghaint Punjabi (Asia)
+#DESCRIPTION Ghaint Punjabi (Asia)
+#SERVICE 4097:0:1:48B:1:1:CCCC0000:0:0:0:xiaomi%3a//Saga Music (Asia):Saga Music (Asia)
+#DESCRIPTION Saga Music (Asia)
+#SERVICE 4097:0:1:48C:1:1:CCCC0000:0:0:0:xiaomi%3a//YRF Music (Asia):YRF Music (Asia)
+#DESCRIPTION YRF Music (Asia)
+#SERVICE 4097:0:1:48D:1:1:CCCC0000:0:0:0:xiaomi%3a//Mango TV (IN) Geo:Mango TV (IN) Geo
+#DESCRIPTION Mango TV (IN) Geo
+#SERVICE 4097:0:1:48E:1:1:CCCC0000:0:0:0:xiaomi%3a//Trace Sports Stars:Trace Sports Stars
+#DESCRIPTION Trace Sports Stars
+#SERVICE 4097:0:1:48F:1:1:CCCC0000:0:0:0:xiaomi%3a//Trace Sports Stars alt:Trace Sports Stars alt
+#DESCRIPTION Trace Sports Stars alt
+#SERVICE 4097:0:1:490:1:1:CCCC0000:0:0:0:xiaomi%3a//Mob TV:Mob TV
+#DESCRIPTION Mob TV
+#SERVICE 4097:0:1:491:1:1:CCCC0000:0:0:0:xiaomi%3a//Unbeaten:Unbeaten
+#DESCRIPTION Unbeaten
+#SERVICE 4097:0:1:492:1:1:CCCC0000:0:0:0:xiaomi%3a//Sports Grid:Sports Grid
+#DESCRIPTION Sports Grid
+#SERVICE 4097:0:1:493:1:1:CCCC0000:0:0:0:xiaomi%3a//My Padel:My Padel
+#DESCRIPTION My Padel
+#SERVICE 4097:0:1:494:1:1:CCCC0000:0:0:0:xiaomi%3a//Bike:Bike
+#DESCRIPTION Bike
+#SERVICE 4097:0:1:495:1:1:CCCC0000:0:0:0:xiaomi%3a//Skateboarding:Skateboarding
+#DESCRIPTION Skateboarding
+#SERVICE 4097:0:1:496:1:1:CCCC0000:0:0:0:xiaomi%3a//Snowboarder:Snowboarder
+#DESCRIPTION Snowboarder
+#SERVICE 4097:0:1:497:1:1:CCCC0000:0:0:0:xiaomi%3a//Surfer:Surfer
+#DESCRIPTION Surfer
+#SERVICE 4097:0:1:498:1:1:CCCC0000:0:0:0:xiaomi%3a//Powder:Powder
+#DESCRIPTION Powder
+#SERVICE 4097:0:1:499:1:1:CCCC0000:0:0:0:xiaomi%3a//Inwild:Inwild
+#DESCRIPTION Inwild
+#SERVICE 4097:0:1:49A:1:1:CCCC0000:0:0:0:xiaomi%3a//Inwonder:Inwonder
+#DESCRIPTION Inwonder
+#SERVICE 4097:0:19:49B:1:1:CCCC0000:0:0:0:xiaomi%3a//Inwonder HD:Inwonder HD
+#DESCRIPTION Inwonder HD
+#SERVICE 4097:0:1:49C:1:1:CCCC0000:0:0:0:xiaomi%3a//InTrouble:InTrouble
+#DESCRIPTION InTrouble
+#SERVICE 4097:0:1:49D:1:1:CCCC0000:0:0:0:xiaomi%3a//Infast:Infast
+#DESCRIPTION Infast
+#SERVICE 4097:0:1:49E:1:1:CCCC0000:0:0:0:xiaomi%3a//Infast alt:Infast alt
+#DESCRIPTION Infast alt
+#SERVICE 4097:0:1:49F:1:1:CCCC0000:0:0:0:xiaomi%3a//Fashion TV:Fashion TV
+#DESCRIPTION Fashion TV
+#SERVICE 4097:0:1:4A0:1:1:CCCC0000:0:0:0:xiaomi%3a//Wannasee:Wannasee
+#DESCRIPTION Wannasee
+#SERVICE 4097:0:1:4A1:1:1:CCCC0000:0:0:0:xiaomi%3a//Museum TV:Museum TV
+#DESCRIPTION Museum TV
+#SERVICE 4097:0:1:4A2:1:1:CCCC0000:0:0:0:xiaomi%3a//Museum TV (FR):Museum TV (FR)
+#DESCRIPTION Museum TV (FR)
+#SERVICE 4097:0:1:4A3:1:1:CCCC0000:0:0:0:xiaomi%3a//MYZEN:MYZEN
+#DESCRIPTION MYZEN
+#SERVICE 4097:0:1:4A4:1:1:CCCC0000:0:0:0:xiaomi%3a//MYZEN (FR):MYZEN (FR)
+#DESCRIPTION MYZEN (FR)
+#SERVICE 4097:0:1:4A5:1:1:CCCC0000:0:0:0:xiaomi%3a//Le Figaro (FR) Geo:Le Figaro (FR) Geo
+#DESCRIPTION Le Figaro (FR) Geo
+#SERVICE 4097:0:1:4A6:1:1:CCCC0000:0:0:0:xiaomi%3a//Motus La Chaine:Motus La Chaine
+#DESCRIPTION Motus La Chaine
+#SERVICE 4097:0:1:4A7:1:1:CCCC0000:0:0:0:xiaomi%3a//Enquetesdechoc:Enquetesdechoc
+#DESCRIPTION Enquetesdechoc
+#SERVICE 4097:0:1:4A8:1:1:CCCC0000:0:0:0:xiaomi%3a//Qui veut gagner des millions Geo:Qui veut gagner des millions Geo
+#DESCRIPTION Qui veut gagner des millions Geo
+#SERVICE 4097:0:1:4A9:1:1:CCCC0000:0:0:0:xiaomi%3a//Lesanges Geo:Lesanges Geo
+#DESCRIPTION Lesanges Geo
+#SERVICE 4097:0:1:4AA:1:1:CCCC0000:0:0:0:xiaomi%3a//Les Z Amours Geo:Les Z Amours Geo
+#DESCRIPTION Les Z Amours Geo
+#SERVICE 4097:0:1:4AB:1:1:CCCC0000:0:0:0:xiaomi%3a//Le Meilleur de la Tele-Realite Geo:Le Meilleur de la Tele-Realite Geo
+#DESCRIPTION Le Meilleur de la Tele-Realite Geo
+#SERVICE 4097:0:1:4AC:1:1:CCCC0000:0:0:0:xiaomi%3a//Homicide:Homicide
+#DESCRIPTION Homicide
+#SERVICE 4097:0:1:4AD:1:1:CCCC0000:0:0:0:xiaomi%3a//Yaquelaverite:Yaquelaverite
+#DESCRIPTION Yaquelaverite
+#SERVICE 4097:0:1:4AE:1:1:CCCC0000:0:0:0:xiaomi%3a//WildEarth:WildEarth
+#DESCRIPTION WildEarth
+#SERVICE 4097:0:1:4AF:1:1:CCCC0000:0:0:0:xiaomi%3a//Love the Planet (ES) Geo:Love the Planet (ES) Geo
+#DESCRIPTION Love the Planet (ES) Geo
+#SERVICE 4097:0:1:4B0:1:1:CCCC0000:0:0:0:xiaomi%3a//Petclub:Petclub
+#DESCRIPTION Petclub
+#SERVICE 4097:0:1:4B1:1:1:CCCC0000:0:0:0:xiaomi%3a//Real Series (GB):Real Series (GB)
+#DESCRIPTION Real Series (GB)
+#SERVICE 4097:0:1:4B2:1:1:CCCC0000:0:0:0:xiaomi%3a//Clubbing TV:Clubbing TV
+#DESCRIPTION Clubbing TV
+#SERVICE 4097:0:1:4B3:1:1:CCCC0000:0:0:0:xiaomi%3a//Fusebeat (UK):Fusebeat (UK)
+#DESCRIPTION Fusebeat (UK)
+#SERVICE 4097:0:1:4B4:1:1:CCCC0000:0:0:0:xiaomi%3a//Latido Music Geo:Latido Music Geo
+#DESCRIPTION Latido Music Geo
+#SERVICE 4097:0:1:4B5:1:1:CCCC0000:0:0:0:xiaomi%3a//Wedo Movies:Wedo Movies
+#DESCRIPTION Wedo Movies
+#SERVICE 4097:0:1:4B6:1:1:CCCC0000:0:0:0:xiaomi%3a//Watch4Movies:Watch4Movies
+#DESCRIPTION Watch4Movies
+#SERVICE 4097:0:1:4B7:1:1:CCCC0000:0:0:0:xiaomi%3a//Trace Brazuca:Trace Brazuca
+#DESCRIPTION Trace Brazuca
+#SERVICE 4097:0:1:4B8:1:1:CCCC0000:0:0:0:xiaomi%3a//Trace Latina:Trace Latina
+#DESCRIPTION Trace Latina
+#SERVICE 4097:0:1:4B9:1:1:CCCC0000:0:0:0:xiaomi%3a//Trace Urban:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:4BA:1:1:CCCC0000:0:0:0:xiaomi%3a//Vivaldi TV:Vivaldi TV
+#DESCRIPTION Vivaldi TV
+#SERVICE 4097:0:1:4BB:1:1:CCCC0000:0:0:0:xiaomi%3a//Love The Planet (IT) Geo:Love The Planet (IT) Geo
+#DESCRIPTION Love The Planet (IT) Geo
+#SERVICE 4097:0:1:4BC:1:1:CCCC0000:0:0:0:xiaomi%3a//Serially Drama (IT):Serially Drama (IT)
+#DESCRIPTION Serially Drama (IT)
+#SERVICE 4097:0:1:4BD:1:1:CCCC0000:0:0:0:xiaomi%3a//Serially Crime (IT):Serially Crime (IT)
+#DESCRIPTION Serially Crime (IT)
+#SERVICE 4097:0:1:4BE:1:1:CCCC0000:0:0:0:xiaomi%3a//Cinemasegreto (IT):Cinemasegreto (IT)
+#DESCRIPTION Cinemasegreto (IT)
+#SERVICE 4097:0:1:4BF:1:1:CCCC0000:0:0:0:xiaomi%3a//Fullmoon (IT):Fullmoon (IT)
+#DESCRIPTION Fullmoon (IT)
+#SERVICE 4097:0:1:4C0:1:1:CCCC0000:0:0:0:xiaomi%3a//Risate All Italiana:Risate All Italiana
+#DESCRIPTION Risate All Italiana
+#SERVICE 4097:0:1:4C1:1:1:CCCC0000:0:0:0:xiaomi%3a//WP (IT):WP (IT)
+#DESCRIPTION WP (IT)
+#SERVICE 4097:0:1:4C2:1:1:CCCC0000:0:0:0:xiaomi%3a//Chili Alta Tensione (IT):Chili Alta Tensione (IT)
+#DESCRIPTION Chili Alta Tensione (IT)
+#SERVICE 4097:0:1:4C3:1:1:CCCC0000:0:0:0:xiaomi%3a//Chili Buonumore (IT):Chili Buonumore (IT)
+#DESCRIPTION Chili Buonumore (IT)
+#SERVICE 4097:0:1:4C4:1:1:CCCC0000:0:0:0:xiaomi%3a//Chili Indimenticabili (IT):Chili Indimenticabili (IT)
+#DESCRIPTION Chili Indimenticabili (IT)
+#SERVICE 4097:0:1:4C5:1:1:CCCC0000:0:0:0:xiaomi%3a//Chili Velvet (IT):Chili Velvet (IT)
+#DESCRIPTION Chili Velvet (IT)
+#SERVICE 4097:0:1:4C6:1:1:CCCC0000:0:0:0:xiaomi%3a//Chili Hip Hop TV (IT):Chili Hip Hop TV (IT)
+#DESCRIPTION Chili Hip Hop TV (IT)
+#SERVICE 4097:0:1:4C7:1:1:CCCC0000:0:0:0:xiaomi%3a//Chili Rock TV (IT):Chili Rock TV (IT)
+#DESCRIPTION Chili Rock TV (IT)
+#SERVICE 4097:0:1:4C8:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Action Movies (GB):Rakuten Action Movies (GB)
+#DESCRIPTION Rakuten Action Movies (GB)
+#SERVICE 4097:0:1:4C9:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Comedy Movies (GB):Rakuten Comedy Movies (GB)
+#DESCRIPTION Rakuten Comedy Movies (GB)
+#SERVICE 4097:0:1:4CA:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Thriller (GB):Rakuten Thriller (GB)
+#DESCRIPTION Rakuten Thriller (GB)
+#SERVICE 4097:0:1:4CB:1:1:CCCC0000:0:0:0:xiaomi%3a//Sorrisi (IT):Sorrisi (IT)
+#DESCRIPTION Sorrisi (IT)
+#SERVICE 4097:0:1:4CC:1:1:CCCC0000:0:0:0:xiaomi%3a//Bizzaro Movies (IT):Bizzaro Movies (IT)
+#DESCRIPTION Bizzaro Movies (IT)
+#SERVICE 4097:0:1:4CD:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Series Crime (IT):Rakuten Series Crime (IT)
+#DESCRIPTION Rakuten Series Crime (IT)
+#SERVICE 4097:0:1:4CE:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Comedy Movies (IT):Rakuten Comedy Movies (IT)
+#DESCRIPTION Rakuten Comedy Movies (IT)
+#SERVICE 4097:0:1:4CF:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Classico (IT):Rakuten Classico (IT)
+#DESCRIPTION Rakuten Classico (IT)
+#SERVICE 4097:0:1:4D0:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten TV Shows (IT):Rakuten TV Shows (IT)
+#DESCRIPTION Rakuten TV Shows (IT)
+#SERVICE 4097:0:1:4D1:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Family (IT):Rakuten Family (IT)
+#DESCRIPTION Rakuten Family (IT)
+#SERVICE 4097:0:1:4D2:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Top Free (IT):Rakuten Top Free (IT)
+#DESCRIPTION Rakuten Top Free (IT)
+#SERVICE 4097:0:1:4D3:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Action Movies (ES):Rakuten Action Movies (ES)
+#DESCRIPTION Rakuten Action Movies (ES)
+#SERVICE 4097:0:1:4D4:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Comedy Movies (ES):Rakuten Comedy Movies (ES)
+#DESCRIPTION Rakuten Comedy Movies (ES)
+#SERVICE 4097:0:1:4D5:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Romance (ES):Rakuten Romance (ES)
+#DESCRIPTION Rakuten Romance (ES)
+#SERVICE 4097:0:1:4D6:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Spotlight (ES):Rakuten Spotlight (ES)
+#DESCRIPTION Rakuten Spotlight (ES)
+#SERVICE 4097:0:1:4D7:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Top Free (ES):Rakuten Top Free (ES)
+#DESCRIPTION Rakuten Top Free (ES)
+#SERVICE 4097:0:1:4D8:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten TV Shows (ES):Rakuten TV Shows (ES)
+#DESCRIPTION Rakuten TV Shows (ES)
+#SERVICE 4097:0:1:4D9:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Thriller (ES):Rakuten Thriller (ES)
+#DESCRIPTION Rakuten Thriller (ES)
+#SERVICE 4097:0:1:4DA:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Family (ES):Rakuten Family (ES)
+#DESCRIPTION Rakuten Family (ES)
+#SERVICE 4097:0:1:4DB:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Estilo y Vida (ES):Rakuten Estilo y Vida (ES)
+#DESCRIPTION Rakuten Estilo y Vida (ES)
+#SERVICE 4097:0:1:4DC:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Series Crime (ES):Rakuten Series Crime (ES)
+#DESCRIPTION Rakuten Series Crime (ES)
+#SERVICE 4097:0:1:4DD:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Guardian (ES):Rakuten Guardian (ES)
+#DESCRIPTION Rakuten Guardian (ES)
+#SERVICE 4097:0:1:4DE:1:1:CCCC0000:0:0:0:xiaomi%3a//Hola (ES):Hola (ES)
+#DESCRIPTION Hola (ES)
+#SERVICE 4097:0:1:4DF:1:1:CCCC0000:0:0:0:xiaomi%3a//Cine Espanol (ES):Cine Espanol (ES)
+#DESCRIPTION Cine Espanol (ES)
+#SERVICE 4097:0:1:4E0:1:1:CCCC0000:0:0:0:xiaomi%3a//123 Go! (ES):123 Go! (ES)
+#DESCRIPTION 123 Go! (ES)
+#SERVICE 4097:0:1:4E1:1:1:CCCC0000:0:0:0:xiaomi%3a//La Bocina Latina (ES):La Bocina Latina (ES)
+#DESCRIPTION La Bocina Latina (ES)
+#SERVICE 4097:0:1:4E2:1:1:CCCC0000:0:0:0:xiaomi%3a//Flo Cine:Flo Cine
+#DESCRIPTION Flo Cine
+#SERVICE 4097:0:1:4E3:1:1:CCCC0000:0:0:0:xiaomi%3a//RCN Mas (EU):RCN Mas (EU)
+#DESCRIPTION RCN Mas (EU)
+#SERVICE 4097:0:1:4E4:1:1:CCCC0000:0:0:0:xiaomi%3a//RCN Xtra (EU):RCN Xtra (EU)
+#DESCRIPTION RCN Xtra (EU)
+#SERVICE 4097:0:1:4E5:1:1:CCCC0000:0:0:0:xiaomi%3a//Cine Classico (EU) Geo:Cine Classico (EU) Geo
+#DESCRIPTION Cine Classico (EU) Geo
+#SERVICE 4097:0:1:4E6:1:1:CCCC0000:0:0:0:xiaomi%3a//Flash Geo:Flash Geo
+#DESCRIPTION Flash Geo
+#SERVICE 4097:0:1:4E7:1:1:CCCC0000:0:0:0:xiaomi%3a//Charlie (EU):Charlie (EU)
+#DESCRIPTION Charlie (EU)
+#SERVICE 4097:0:1:4E8:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten British Films (GB):Rakuten British Films (GB)
+#DESCRIPTION Rakuten British Films (GB)
+#SERVICE 4097:0:1:4E9:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Action Movies (DE):Rakuten Action Movies (DE)
+#DESCRIPTION Rakuten Action Movies (DE)
+#SERVICE 4097:0:1:4EA:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Comedy Movies (DE):Rakuten Comedy Movies (DE)
+#DESCRIPTION Rakuten Comedy Movies (DE)
+#SERVICE 4097:0:1:4EB:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Family (DE):Rakuten Family (DE)
+#DESCRIPTION Rakuten Family (DE)
+#SERVICE 4097:0:1:4EC:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten TV Shows (DE):Rakuten TV Shows (DE)
+#DESCRIPTION Rakuten TV Shows (DE)
+#SERVICE 4097:0:1:4ED:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Thriller (DE):Rakuten Thriller (DE)
+#DESCRIPTION Rakuten Thriller (DE)
+#SERVICE 4097:0:1:4EE:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Top Free (DE):Rakuten Top Free (DE)
+#DESCRIPTION Rakuten Top Free (DE)
+#SERVICE 4097:0:1:4EF:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Romance (DE):Rakuten Romance (DE)
+#DESCRIPTION Rakuten Romance (DE)
+#SERVICE 4097:0:1:4F0:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Kino 1 (DE):Rakuten Kino 1 (DE)
+#DESCRIPTION Rakuten Kino 1 (DE)
+#SERVICE 4097:0:1:4F1:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Guardian (DE):Rakuten Guardian (DE)
+#DESCRIPTION Rakuten Guardian (DE)
+#SERVICE 4097:0:1:4F2:1:1:CCCC0000:0:0:0:xiaomi%3a//Teletubbies (DE):Teletubbies (DE)
+#DESCRIPTION Teletubbies (DE)
+#SERVICE 4097:0:1:4F3:1:1:CCCC0000:0:0:0:xiaomi%3a//Teletubbies (IT):Teletubbies (IT)
+#DESCRIPTION Teletubbies (IT)
+#SERVICE 4097:0:1:4F4:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Action Movies (FR):Rakuten Action Movies (FR)
+#DESCRIPTION Rakuten Action Movies (FR)
+#SERVICE 4097:0:1:4F5:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Comedy Movies (FR):Rakuten Comedy Movies (FR)
+#DESCRIPTION Rakuten Comedy Movies (FR)
+#SERVICE 4097:0:1:4F6:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten French Films (FR):Rakuten French Films (FR)
+#DESCRIPTION Rakuten French Films (FR)
+#SERVICE 4097:0:1:4F7:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Family (FR):Rakuten Family (FR)
+#DESCRIPTION Rakuten Family (FR)
+#SERVICE 4097:0:1:4F8:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Spotlight (FR):Rakuten Spotlight (FR)
+#DESCRIPTION Rakuten Spotlight (FR)
+#SERVICE 4097:0:1:4F9:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten TV Shows (FR):Rakuten TV Shows (FR)
+#DESCRIPTION Rakuten TV Shows (FR)
+#SERVICE 4097:0:1:4FA:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Top Free (FR):Rakuten Top Free (FR)
+#DESCRIPTION Rakuten Top Free (FR)
+#SERVICE 4097:0:1:4FB:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Romance (FR):Rakuten Romance (FR)
+#DESCRIPTION Rakuten Romance (FR)
+#SERVICE 4097:0:1:4FC:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Thriller (FR):Rakuten Thriller (FR)
+#DESCRIPTION Rakuten Thriller (FR)
+#SERVICE 4097:0:1:4FD:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Guardian (FR):Rakuten Guardian (FR)
+#DESCRIPTION Rakuten Guardian (FR)
+#SERVICE 4097:0:1:4FE:1:1:CCCC0000:0:0:0:xiaomi%3a//Bref Cinema (EU):Bref Cinema (EU)
+#DESCRIPTION Bref Cinema (EU)
+#SERVICE 4097:0:1:4FF:1:1:CCCC0000:0:0:0:xiaomi%3a//Rakuten Guardian (IT):Rakuten Guardian (IT)
+#DESCRIPTION Rakuten Guardian (IT)
+#SERVICE 4097:0:1:500:1:1:CCCC0000:0:0:0:xiaomi%3a//ETV (GB):ETV (GB)
+#DESCRIPTION ETV (GB)
+#SERVICE 4097:0:1:501:1:1:CCCC0000:0:0:0:xiaomi%3a//ETV (FR):ETV (FR)
+#DESCRIPTION ETV (FR)
+#SERVICE 4097:0:1:502:1:1:CCCC0000:0:0:0:xiaomi%3a//Lacasadeljaripeo (EU):Lacasadeljaripeo (EU)
+#DESCRIPTION Lacasadeljaripeo (EU)
+#SERVICE 4097:0:1:503:1:1:CCCC0000:0:0:0:xiaomi%3a//Pelimex (EU):Pelimex (EU)
+#DESCRIPTION Pelimex (EU)
+#SERVICE 4097:0:1:504:1:1:CCCC0000:0:0:0:xiaomi%3a//Sonyone Compentencias (MX):Sonyone Compentencias (MX)
+#DESCRIPTION Sonyone Compentencias (MX)
+#SERVICE 4097:0:1:505:1:1:CCCC0000:0:0:0:xiaomi%3a//Sonyone Sharktank (MX):Sonyone Sharktank (MX)
+#DESCRIPTION Sonyone Sharktank (MX)
+#SERVICE 4097:0:1:506:1:1:CCCC0000:0:0:0:xiaomi%3a//Sony Comedias (MX):Sony Comedias (MX)
+#DESCRIPTION Sony Comedias (MX)
+#SERVICE 4097:0:1:507:1:1:CCCC0000:0:0:0:xiaomi%3a//Sony Novelas (MX):Sony Novelas (MX)
+#DESCRIPTION Sony Novelas (MX)

@@ -1,0 +1,23 @@
+#NAME GALAXY TV
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:galxytv%3a//Business Rockstars:Business Rockstars
+#DESCRIPTION Business Rockstars
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:galxytv%3a//Watch it.Kid !:Watch it.Kid !
+#DESCRIPTION Watch it.Kid !
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:galxytv%3a//Watch it Scream !:Watch it Scream !
+#DESCRIPTION Watch it Scream !
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:galxytv%3a//Galxy TV:Galxy TV
+#DESCRIPTION Galxy TV
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:galxytv%3a//El Conflecto!:El Conflecto!
+#DESCRIPTION El Conflecto!
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:galxytv%3a//REVRY Queer 247:REVRY Queer 247
+#DESCRIPTION REVRY Queer 247
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:galxytv%3a//SKI TV:SKI TV
+#DESCRIPTION SKI TV
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:galxytv%3a//Dungeon:Dungeon
+#DESCRIPTION Dungeon
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:galxytv%3a//Screendreams:Screendreams
+#DESCRIPTION Screendreams
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:galxytv%3a//FrightFlix:FrightFlix
+#DESCRIPTION FrightFlix
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:galxytv%3a//CinePride:CinePride
+#DESCRIPTION CinePride

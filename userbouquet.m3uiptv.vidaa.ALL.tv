@@ -1,0 +1,617 @@
+#NAME VIDAA
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:vidaa%3a//NewsMax 2 (EU):NewsMax 2 (EU)
+#DESCRIPTION NewsMax 2 (EU)
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:vidaa%3a//Ticker News:Ticker News
+#DESCRIPTION Ticker News
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:vidaa%3a//Roi (EU):Roi (EU)
+#DESCRIPTION Roi (EU)
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:vidaa%3a//Awe Plus:Awe Plus
+#DESCRIPTION Awe Plus
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:vidaa%3a//OAN Plus:OAN Plus
+#DESCRIPTION OAN Plus
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:vidaa%3a//The Washington Post:The Washington Post
+#DESCRIPTION The Washington Post
+#SERVICE 4097:0:1F:3EE:1:1:CCCC0000:0:0:0:vidaa%3a//Bloomberg TV (EU) 4K UHD:Bloomberg TV (EU) 4K UHD
+#DESCRIPTION Bloomberg TV (EU) 4K UHD
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:vidaa%3a//Bloomberg TV alt (EU):Bloomberg TV alt (EU)
+#DESCRIPTION Bloomberg TV alt (EU)
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:vidaa%3a//Bloomberg Quicktake (EU):Bloomberg Quicktake (EU)
+#DESCRIPTION Bloomberg Quicktake (EU)
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:vidaa%3a//Best TV Ever (EU):Best TV Ever (EU)
+#DESCRIPTION Best TV Ever (EU)
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:vidaa%3a//Best Action TV:Best Action TV
+#DESCRIPTION Best Action TV
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:vidaa%3a//Best Classic TV:Best Classic TV
+#DESCRIPTION Best Classic TV
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:vidaa%3a//Best Drama TV:Best Drama TV
+#DESCRIPTION Best Drama TV
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:vidaa%3a//Horror TV:Horror TV
+#DESCRIPTION Horror TV
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:vidaa%3a//Haunt TV (US):Haunt TV (US)
+#DESCRIPTION Haunt TV (US)
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:vidaa%3a//More U (EU):More U (EU)
+#DESCRIPTION More U (EU)
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:vidaa%3a//Witz TV (EU):Witz TV (EU)
+#DESCRIPTION Witz TV (EU)
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:vidaa%3a//The Grid (EU):The Grid (EU)
+#DESCRIPTION The Grid (EU)
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:vidaa%3a//Johnny Carson TV:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:vidaa%3a//The Carol Burnett Show:The Carol Burnett Show
+#DESCRIPTION The Carol Burnett Show
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:vidaa%3a//Mythical 24/7 (EU):Mythical 24/7 (EU)
+#DESCRIPTION Mythical 24/7 (EU)
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:vidaa%3a//Nashville Channel (US):Nashville Channel (US)
+#DESCRIPTION Nashville Channel (US)
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:vidaa%3a//Grace and Frankie:Grace and Frankie
+#DESCRIPTION Grace and Frankie
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:vidaa%3a//Grace and Frankie (AU):Grace and Frankie (AU)
+#DESCRIPTION Grace and Frankie (AU)
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:vidaa%3a//Crackle:Crackle
+#DESCRIPTION Crackle
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:vidaa%3a//Crackle Classics:Crackle Classics
+#DESCRIPTION Crackle Classics
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:vidaa%3a//Chicken Soup for the Soul:Chicken Soup for the Soul
+#DESCRIPTION Chicken Soup for the Soul
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:vidaa%3a//Celebrity Name Game:Celebrity Name Game
+#DESCRIPTION Celebrity Name Game
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:vidaa%3a//Real Nosey (EU):Real Nosey (EU)
+#DESCRIPTION Real Nosey (EU)
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:vidaa%3a//Nosey (EU):Nosey (EU)
+#DESCRIPTION Nosey (EU)
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:vidaa%3a//Nosey Escándalos (EU):Nosey Escándalos (EU)
+#DESCRIPTION Nosey Escándalos (EU)
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:vidaa%3a//Gusto TV:Gusto TV
+#DESCRIPTION Gusto TV
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:vidaa%3a//Cooking Panda:Cooking Panda
+#DESCRIPTION Cooking Panda
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:vidaa%3a//Hungry (EU):Hungry (EU)
+#DESCRIPTION Hungry (EU)
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:vidaa%3a//Great British Menu (GB):Great British Menu (GB)
+#DESCRIPTION Great British Menu (GB)
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:vidaa%3a//So Yummy TV:So Yummy TV
+#DESCRIPTION So Yummy TV
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:vidaa%3a//Tastemade Free TV 16:Tastemade Free TV 16
+#DESCRIPTION Tastemade Free TV 16
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:vidaa%3a//Tastemade (AU):Tastemade (AU)
+#DESCRIPTION Tastemade (AU)
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:vidaa%3a//Tastemade (CA) (Geo):Tastemade (CA) (Geo)
+#DESCRIPTION Tastemade (CA) (Geo)
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:vidaa%3a//Tastemade (UK) (Geo):Tastemade (UK) (Geo)
+#DESCRIPTION Tastemade (UK) (Geo)
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:vidaa%3a//CraftsyTV:CraftsyTV
+#DESCRIPTION CraftsyTV
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:vidaa%3a//Drone TV (EU):Drone TV (EU)
+#DESCRIPTION Drone TV (EU)
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:vidaa%3a//ESTV:ESTV
+#DESCRIPTION ESTV
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:vidaa%3a//ESTV (AU):ESTV (AU)
+#DESCRIPTION ESTV (AU)
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:vidaa%3a//Maximum Effort Channel (US) (Geo):Maximum Effort Channel (US) (Geo)
+#DESCRIPTION Maximum Effort Channel (US) (Geo)
+#SERVICE 4097:0:1:415:1:1:CCCC0000:0:0:0:vidaa%3a//Trailers from Hell (EU):Trailers from Hell (EU)
+#DESCRIPTION Trailers from Hell (EU)
+#SERVICE 4097:0:1:416:1:1:CCCC0000:0:0:0:vidaa%3a//FlixFling NOW:FlixFling NOW
+#DESCRIPTION FlixFling NOW
+#SERVICE 4097:0:1:417:1:1:CCCC0000:0:0:0:vidaa%3a//Popcorn Flix (EU):Popcorn Flix (EU)
+#DESCRIPTION Popcorn Flix (EU)
+#SERVICE 4097:0:1:418:1:1:CCCC0000:0:0:0:vidaa%3a//Moviesphere (US) (Geo):Moviesphere (US) (Geo)
+#DESCRIPTION Moviesphere (US) (Geo)
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:vidaa%3a//Moviesphere (US) (Geo):Moviesphere (US) (Geo)
+#DESCRIPTION Moviesphere (US) (Geo)
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:vidaa%3a//Moviesphere (CA) (Geo):Moviesphere (CA) (Geo)
+#DESCRIPTION Moviesphere (CA) (Geo)
+#SERVICE 4097:0:1:41B:1:1:CCCC0000:0:0:0:vidaa%3a//Moviesphere (AU):Moviesphere (AU)
+#DESCRIPTION Moviesphere (AU)
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:vidaa%3a//Moviesphere (UK):Moviesphere (UK)
+#DESCRIPTION Moviesphere (UK)
+#SERVICE 4097:0:1:41D:1:1:CCCC0000:0:0:0:vidaa%3a//Moviesphere (BR):Moviesphere (BR)
+#DESCRIPTION Moviesphere (BR)
+#SERVICE 4097:0:1:41E:1:1:CCCC0000:0:0:0:vidaa%3a//Mytime Movies (UK):Mytime Movies (UK)
+#DESCRIPTION Mytime Movies (UK)
+#SERVICE 4097:0:1:41F:1:1:CCCC0000:0:0:0:vidaa%3a//Mytime Movies (US) Spanish:Mytime Movies (US) Spanish
+#DESCRIPTION Mytime Movies (US) Spanish
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:vidaa%3a//Mytime Movies (BR):Mytime Movies (BR)
+#DESCRIPTION Mytime Movies (BR)
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:vidaa%3a//Mytime Movies (FR):Mytime Movies (FR)
+#DESCRIPTION Mytime Movies (FR)
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:vidaa%3a//Bigtjme (EU):Bigtjme (EU)
+#DESCRIPTION Bigtjme (EU)
+#SERVICE 4097:0:1:423:1:1:CCCC0000:0:0:0:vidaa%3a//Bigtjme alt (EU):Bigtjme alt (EU)
+#DESCRIPTION Bigtjme alt (EU)
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:vidaa%3a//Great! Movies TV:Great! Movies TV
+#DESCRIPTION Great! Movies TV
+#SERVICE 4097:0:1:425:1:1:CCCC0000:0:0:0:vidaa%3a//Great! Christmas:Great! Christmas
+#DESCRIPTION Great! Christmas
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:vidaa%3a//Great! Romance:Great! Romance
+#DESCRIPTION Great! Romance
+#SERVICE 4097:0:1:427:1:1:CCCC0000:0:0:0:vidaa%3a//Filmzie (GB):Filmzie (GB)
+#DESCRIPTION Filmzie (GB)
+#SERVICE 4097:0:1:428:1:1:CCCC0000:0:0:0:vidaa%3a//Gravitas Movies (EU):Gravitas Movies (EU)
+#DESCRIPTION Gravitas Movies (EU)
+#SERVICE 4097:0:1:429:1:1:CCCC0000:0:0:0:vidaa%3a//Tidpix (EU):Tidpix (EU)
+#DESCRIPTION Tidpix (EU)
+#SERVICE 4097:0:1:42A:1:1:CCCC0000:0:0:0:vidaa%3a//Wedo Movies:Wedo Movies
+#DESCRIPTION Wedo Movies
+#SERVICE 4097:0:1:42B:1:1:CCCC0000:0:0:0:vidaa%3a//Wedo Movies (DE):Wedo Movies (DE)
+#DESCRIPTION Wedo Movies (DE)
+#SERVICE 4097:0:1:42C:1:1:CCCC0000:0:0:0:vidaa%3a//Maverick Black Cinema (EU):Maverick Black Cinema (EU)
+#DESCRIPTION Maverick Black Cinema (EU)
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:vidaa%3a//Go See Westerns:Go See Westerns
+#DESCRIPTION Go See Westerns
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:vidaa%3a//Cowboy Movies Channel:Cowboy Movies Channel
+#DESCRIPTION Cowboy Movies Channel
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:vidaa%3a//Xumo Westerns:Xumo Westerns
+#DESCRIPTION Xumo Westerns
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:vidaa%3a//Grjngo 2(EU):Grjngo 2(EU)
+#DESCRIPTION Grjngo 2(EU)
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:vidaa%3a//Grjngo 3(EU):Grjngo 3(EU)
+#DESCRIPTION Grjngo 3(EU)
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:vidaa%3a//Grjngo 5(EU):Grjngo 5(EU)
+#DESCRIPTION Grjngo 5(EU)
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:vidaa%3a//Grjngo (DE):Grjngo (DE)
+#DESCRIPTION Grjngo (DE)
+#SERVICE 4097:0:1:434:1:1:CCCC0000:0:0:0:vidaa%3a//Hersphere (US) (Geo):Hersphere (US) (Geo)
+#DESCRIPTION Hersphere (US) (Geo)
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:vidaa%3a//Hersphere (US) Alt (Geo):Hersphere (US) Alt (Geo)
+#DESCRIPTION Hersphere (US) Alt (Geo)
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:vidaa%3a//OuterSphere (Geo):OuterSphere (Geo)
+#DESCRIPTION OuterSphere (Geo)
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:vidaa%3a//Artflix (EU):Artflix (EU)
+#DESCRIPTION Artflix (EU)
+#SERVICE 4097:0:1:438:1:1:CCCC0000:0:0:0:vidaa%3a//Artflix Movie Classica (EU):Artflix Movie Classica (EU)
+#DESCRIPTION Artflix Movie Classica (EU)
+#SERVICE 4097:0:1:439:1:1:CCCC0000:0:0:0:vidaa%3a//Artflix (DE):Artflix (DE)
+#DESCRIPTION Artflix (DE)
+#SERVICE 4097:0:1:43A:1:1:CCCC0000:0:0:0:vidaa%3a//Minute Shorts dead replace:Minute Shorts dead replace
+#DESCRIPTION Minute Shorts dead replace
+#SERVICE 4097:0:1:43B:1:1:CCCC0000:0:0:0:vidaa%3a//Wanted Dead or Alive (US) (Geo):Wanted Dead or Alive (US) (Geo)
+#DESCRIPTION Wanted Dead or Alive (US) (Geo)
+#SERVICE 4097:0:1:43C:1:1:CCCC0000:0:0:0:vidaa%3a//Wanted Dead or Alive (US) alt (Geo):Wanted Dead or Alive (US) alt (Geo)
+#DESCRIPTION Wanted Dead or Alive (US) alt (Geo)
+#SERVICE 4097:0:1:43D:1:1:CCCC0000:0:0:0:vidaa%3a//Ghost Hunters Channel (AU):Ghost Hunters Channel (AU)
+#DESCRIPTION Ghost Hunters Channel (AU)
+#SERVICE 4097:0:1:43E:1:1:CCCC0000:0:0:0:vidaa%3a//Ghost Hunters Channel (US):Ghost Hunters Channel (US)
+#DESCRIPTION Ghost Hunters Channel (US)
+#SERVICE 4097:0:1:43F:1:1:CCCC0000:0:0:0:vidaa%3a//Anger Management (US):Anger Management (US)
+#DESCRIPTION Anger Management (US)
+#SERVICE 4097:0:1:440:1:1:CCCC0000:0:0:0:vidaa%3a//Anger Management alt:Anger Management alt
+#DESCRIPTION Anger Management alt
+#SERVICE 4097:0:1:441:1:1:CCCC0000:0:0:0:vidaa%3a//Anger Management Espanol:Anger Management Espanol
+#DESCRIPTION Anger Management Espanol
+#SERVICE 4097:0:1:442:1:1:CCCC0000:0:0:0:vidaa%3a//Tratamento de Choque:Tratamento de Choque
+#DESCRIPTION Tratamento de Choque
+#SERVICE 4097:0:1:443:1:1:CCCC0000:0:0:0:vidaa%3a//Are We There Yet (US):Are We There Yet (US)
+#DESCRIPTION Are We There Yet (US)
+#SERVICE 4097:0:1:444:1:1:CCCC0000:0:0:0:vidaa%3a//Are we There Yet alt:Are we There Yet alt
+#DESCRIPTION Are we There Yet alt
+#SERVICE 4097:0:1:445:1:1:CCCC0000:0:0:0:vidaa%3a//Wicked Tuna:Wicked Tuna
+#DESCRIPTION Wicked Tuna
+#SERVICE 4097:0:1:446:1:1:CCCC0000:0:0:0:vidaa%3a//Wicked Tuna (AU):Wicked Tuna (AU)
+#DESCRIPTION Wicked Tuna (AU)
+#SERVICE 4097:0:1:447:1:1:CCCC0000:0:0:0:vidaa%3a//Fail Army (US):Fail Army (US)
+#DESCRIPTION Fail Army (US)
+#SERVICE 4097:0:1:448:1:1:CCCC0000:0:0:0:vidaa%3a//Fail Army International (EU):Fail Army International (EU)
+#DESCRIPTION Fail Army International (EU)
+#SERVICE 4097:0:1:449:1:1:CCCC0000:0:0:0:vidaa%3a//People Are Awesome International (EU):People Are Awesome International (EU)
+#DESCRIPTION People Are Awesome International (EU)
+#SERVICE 4097:0:1:44A:1:1:CCCC0000:0:0:0:vidaa%3a//LOL! Network:LOL! Network
+#DESCRIPTION LOL! Network
+#SERVICE 4097:0:1:44B:1:1:CCCC0000:0:0:0:vidaa%3a//Just for Laughs Gags (EU):Just for Laughs Gags (EU)
+#DESCRIPTION Just for Laughs Gags (EU)
+#SERVICE 4097:0:1:44C:1:1:CCCC0000:0:0:0:vidaa%3a//Just for Laughs Gags alt:Just for Laughs Gags alt
+#DESCRIPTION Just for Laughs Gags alt
+#SERVICE 4097:0:1:44D:1:1:CCCC0000:0:0:0:vidaa%3a//Twisted Mirror Comedy (US):Twisted Mirror Comedy (US)
+#DESCRIPTION Twisted Mirror Comedy (US)
+#SERVICE 4097:0:1:44E:1:1:CCCC0000:0:0:0:vidaa%3a//Family Time:Family Time
+#DESCRIPTION Family Time
+#SERVICE 4097:0:1:44F:1:1:CCCC0000:0:0:0:vidaa%3a//Go Traveler:Go Traveler
+#DESCRIPTION Go Traveler
+#SERVICE 4097:0:1:450:1:1:CCCC0000:0:0:0:vidaa%3a//BRB Travel and Food (EU):BRB Travel and Food (EU)
+#DESCRIPTION BRB Travel and Food (EU)
+#SERVICE 4097:0:1:451:1:1:CCCC0000:0:0:0:vidaa%3a//Go USA (EU):Go USA (EU)
+#DESCRIPTION Go USA (EU)
+#SERVICE 4097:0:1:452:1:1:CCCC0000:0:0:0:vidaa%3a//Magellan TV (EU):Magellan TV (EU)
+#DESCRIPTION Magellan TV (EU)
+#SERVICE 4097:0:1:453:1:1:CCCC0000:0:0:0:vidaa%3a//Manifest TV (EU):Manifest TV (EU)
+#DESCRIPTION Manifest TV (EU)
+#SERVICE 4097:0:1:454:1:1:CCCC0000:0:0:0:vidaa%3a//Manjaro:Manjaro
+#DESCRIPTION Manjaro
+#SERVICE 4097:0:1:455:1:1:CCCC0000:0:0:0:vidaa%3a//Outdoor Channel:Outdoor Channel
+#DESCRIPTION Outdoor Channel
+#SERVICE 4097:0:1:456:1:1:CCCC0000:0:0:0:vidaa%3a//Fubo Sports Network (Geo):Fubo Sports Network (Geo)
+#DESCRIPTION Fubo Sports Network (Geo)
+#SERVICE 4097:0:1:457:1:1:CCCC0000:0:0:0:vidaa%3a//Fubo Sports Network (Geo):Fubo Sports Network (Geo)
+#DESCRIPTION Fubo Sports Network (Geo)
+#SERVICE 4097:0:1:458:1:1:CCCC0000:0:0:0:vidaa%3a//Motorvision:Motorvision
+#DESCRIPTION Motorvision
+#SERVICE 4097:0:1:459:1:1:CCCC0000:0:0:0:vidaa%3a//Auto Allstars (EU):Auto Allstars (EU)
+#DESCRIPTION Auto Allstars (EU)
+#SERVICE 4097:0:1:45A:1:1:CCCC0000:0:0:0:vidaa%3a//Motortrend Fast TV:Motortrend Fast TV
+#DESCRIPTION Motortrend Fast TV
+#SERVICE 4097:0:1:45B:1:1:CCCC0000:0:0:0:vidaa%3a//SpeedVision:SpeedVision
+#DESCRIPTION SpeedVision
+#SERVICE 4097:0:1:45C:1:1:CCCC0000:0:0:0:vidaa%3a//Fifth Gear:Fifth Gear
+#DESCRIPTION Fifth Gear
+#SERVICE 4097:0:1:45D:1:1:CCCC0000:0:0:0:vidaa%3a//FIFA+:FIFA+
+#DESCRIPTION FIFA+
+#SERVICE 4097:0:1:45E:1:1:CCCC0000:0:0:0:vidaa%3a//Bein Xtra:Bein Xtra
+#DESCRIPTION Bein Xtra
+#SERVICE 4097:0:1:45F:1:1:CCCC0000:0:0:0:vidaa%3a//Bein Xtra Espanol:Bein Xtra Espanol
+#DESCRIPTION Bein Xtra Espanol
+#SERVICE 4097:0:1:460:1:1:CCCC0000:0:0:0:vidaa%3a//Bleav Football:Bleav Football
+#DESCRIPTION Bleav Football
+#SERVICE 4097:0:1:461:1:1:CCCC0000:0:0:0:vidaa%3a//Bleav Sports:Bleav Sports
+#DESCRIPTION Bleav Sports
+#SERVICE 4097:0:1:462:1:1:CCCC0000:0:0:0:vidaa%3a//EdgeSports:EdgeSports
+#DESCRIPTION EdgeSports
+#SERVICE 4097:0:1:463:1:1:CCCC0000:0:0:0:vidaa%3a//Edge Sports ROW:Edge Sports ROW
+#DESCRIPTION Edge Sports ROW
+#SERVICE 4097:0:1:464:1:1:CCCC0000:0:0:0:vidaa%3a//DAZN Combat (GEO):DAZN Combat (GEO)
+#DESCRIPTION DAZN Combat (GEO)
+#SERVICE 4097:0:1:465:1:1:CCCC0000:0:0:0:vidaa%3a//DAZN ROW Women's Sport (Geo):DAZN ROW Women's Sport (Geo)
+#DESCRIPTION DAZN ROW Women's Sport (Geo)
+#SERVICE 4097:0:1:466:1:1:CCCC0000:0:0:0:vidaa%3a//Trace Sport Stars:Trace Sport Stars
+#DESCRIPTION Trace Sport Stars
+#SERVICE 4097:0:1:467:1:1:CCCC0000:0:0:0:vidaa%3a//Trace Sport Stars alt:Trace Sport Stars alt
+#DESCRIPTION Trace Sport Stars alt
+#SERVICE 4097:0:1:468:1:1:CCCC0000:0:0:0:vidaa%3a//Glory Kickboxing:Glory Kickboxing
+#DESCRIPTION Glory Kickboxing
+#SERVICE 4097:0:1:469:1:1:CCCC0000:0:0:0:vidaa%3a//PFL MMA (EU):PFL MMA (EU)
+#DESCRIPTION PFL MMA (EU)
+#SERVICE 4097:0:1:46A:1:1:CCCC0000:0:0:0:vidaa%3a//ITSF:ITSF
+#DESCRIPTION ITSF
+#SERVICE 4097:0:1:46B:1:1:CCCC0000:0:0:0:vidaa%3a//Strongman Champions League (EU):Strongman Champions League (EU)
+#DESCRIPTION Strongman Champions League (EU)
+#SERVICE 4097:0:1:46C:1:1:CCCC0000:0:0:0:vidaa%3a//Sportsgrid:Sportsgrid
+#DESCRIPTION Sportsgrid
+#SERVICE 4097:0:1:46D:1:1:CCCC0000:0:0:0:vidaa%3a//Sports Grid (CA):Sports Grid (CA)
+#DESCRIPTION Sports Grid (CA)
+#SERVICE 4097:0:1:46E:1:1:CCCC0000:0:0:0:vidaa%3a//Emergency:Emergency
+#DESCRIPTION Emergency
+#SERVICE 4097:0:1:46F:1:1:CCCC0000:0:0:0:vidaa%3a//Party Poker:Party Poker
+#DESCRIPTION Party Poker
+#SERVICE 4097:0:1:470:1:1:CCCC0000:0:0:0:vidaa%3a//Brat TV:Brat TV
+#DESCRIPTION Brat TV
+#SERVICE 4097:0:1:471:1:1:CCCC0000:0:0:0:vidaa%3a//Brat TV (AU):Brat TV (AU)
+#DESCRIPTION Brat TV (AU)
+#SERVICE 4097:0:1:472:1:1:CCCC0000:0:0:0:vidaa%3a//Pop Kids:Pop Kids
+#DESCRIPTION Pop Kids
+#SERVICE 4097:0:1:473:1:1:CCCC0000:0:0:0:vidaa%3a//PW Kids (EU):PW Kids (EU)
+#DESCRIPTION PW Kids (EU)
+#SERVICE 4097:0:1:474:1:1:CCCC0000:0:0:0:vidaa%3a//Ninja Kidz (EU):Ninja Kidz (EU)
+#DESCRIPTION Ninja Kidz (EU)
+#SERVICE 4097:0:1:475:1:1:CCCC0000:0:0:0:vidaa%3a//Cartoon Classics:Cartoon Classics
+#DESCRIPTION Cartoon Classics
+#SERVICE 4097:0:1:476:1:1:CCCC0000:0:0:0:vidaa%3a//Toon Goggles:Toon Goggles
+#DESCRIPTION Toon Goggles
+#SERVICE 4097:0:1:477:1:1:CCCC0000:0:0:0:vidaa%3a//TG Junior:TG Junior
+#DESCRIPTION TG Junior
+#SERVICE 4097:0:1:478:1:1:CCCC0000:0:0:0:vidaa%3a//Kidoodle.TV (GB):Kidoodle.TV (GB)
+#DESCRIPTION Kidoodle.TV (GB)
+#SERVICE 4097:0:1:479:1:1:CCCC0000:0:0:0:vidaa%3a//Kidoodle.TV (US):Kidoodle.TV (US)
+#DESCRIPTION Kidoodle.TV (US)
+#SERVICE 4097:0:1:47A:1:1:CCCC0000:0:0:0:vidaa%3a//Kiddo Plus:Kiddo Plus
+#DESCRIPTION Kiddo Plus
+#SERVICE 4097:0:1:47B:1:1:CCCC0000:0:0:0:vidaa%3a//Skwad:Skwad
+#DESCRIPTION Skwad
+#SERVICE 4097:0:1:47C:1:1:CCCC0000:0:0:0:vidaa%3a//Smurf TV:Smurf TV
+#DESCRIPTION Smurf TV
+#SERVICE 4097:0:1:47D:1:1:CCCC0000:0:0:0:vidaa%3a//Boonie Cubs TV:Boonie Cubs TV
+#DESCRIPTION Boonie Cubs TV
+#SERVICE 4097:0:1:47E:1:1:CCCC0000:0:0:0:vidaa%3a//Ducktv:Ducktv
+#DESCRIPTION Ducktv
+#SERVICE 4097:0:1:47F:1:1:CCCC0000:0:0:0:vidaa%3a//Midsomer Murders (US):Midsomer Murders (US)
+#DESCRIPTION Midsomer Murders (US)
+#SERVICE 4097:0:1:480:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten British Films (GB):Rakuten British Films (GB)
+#DESCRIPTION Rakuten British Films (GB)
+#SERVICE 4097:0:1:481:1:1:CCCC0000:0:0:0:vidaa%3a//100%0christmas - Rakuten TV (GB):100hristmas - Rakuten TV (GB)
+#DESCRIPTION 100hristmas - Rakuten TV (GB)
+#SERVICE 4097:0:1:482:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Family (GB):Rakuten Family (GB)
+#DESCRIPTION Rakuten Family (GB)
+#SERVICE 4097:0:1:483:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (GB):Rakuten Action Movies (GB)
+#DESCRIPTION Rakuten Action Movies (GB)
+#SERVICE 4097:0:1:484:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Thriller (GB):Rakuten Thriller (GB)
+#DESCRIPTION Rakuten Thriller (GB)
+#SERVICE 4097:0:1:485:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (GB):Rakuten Comedy Movies (GB)
+#DESCRIPTION Rakuten Comedy Movies (GB)
+#SERVICE 4097:0:1:486:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (GB):Rakuten TV Shows (GB)
+#DESCRIPTION Rakuten TV Shows (GB)
+#SERVICE 4097:0:1:487:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Top Free (GB):Rakuten Top Free (GB)
+#DESCRIPTION Rakuten Top Free (GB)
+#SERVICE 4097:0:1:488:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Spotlight (GB):Rakuten Spotlight (GB)
+#DESCRIPTION Rakuten Spotlight (GB)
+#SERVICE 4097:0:1:489:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Romance (GB):Rakuten Romance (GB)
+#DESCRIPTION Rakuten Romance (GB)
+#SERVICE 4097:0:1:48A:1:1:CCCC0000:0:0:0:vidaa%3a//Guardian (GB):Guardian (GB)
+#DESCRIPTION Guardian (GB)
+#SERVICE 4097:0:1:48B:1:1:CCCC0000:0:0:0:vidaa%3a//So Real (GB):So Real (GB)
+#DESCRIPTION So Real (GB)
+#SERVICE 4097:0:1:48C:1:1:CCCC0000:0:0:0:vidaa%3a//Documentary Plus (EU):Documentary Plus (EU)
+#DESCRIPTION Documentary Plus (EU)
+#SERVICE 4097:0:1:48D:1:1:CCCC0000:0:0:0:vidaa%3a//Documentary Plus (US):Documentary Plus (US)
+#DESCRIPTION Documentary Plus (US)
+#SERVICE 4097:0:1:48E:1:1:CCCC0000:0:0:0:vidaa%3a//Docu Vision:Docu Vision
+#DESCRIPTION Docu Vision
+#SERVICE 4097:0:1:48F:1:1:CCCC0000:0:0:0:vidaa%3a//Radical Docs (US):Radical Docs (US)
+#DESCRIPTION Radical Docs (US)
+#SERVICE 4097:0:1:490:1:1:CCCC0000:0:0:0:vidaa%3a//Wedo Big Stories:Wedo Big Stories
+#DESCRIPTION Wedo Big Stories
+#SERVICE 4097:0:1:491:1:1:CCCC0000:0:0:0:vidaa%3a//TED Conferences (EU):TED Conferences (EU)
+#DESCRIPTION TED Conferences (EU)
+#SERVICE 4097:0:1:492:1:1:CCCC0000:0:0:0:vidaa%3a//History Time:History Time
+#DESCRIPTION History Time
+#SERVICE 4097:0:1:493:1:1:CCCC0000:0:0:0:vidaa%3a//Da Vinci (US):Da Vinci (US)
+#DESCRIPTION Da Vinci (US)
+#SERVICE 4097:0:1:494:1:1:CCCC0000:0:0:0:vidaa%3a//Da Vinci (Geo):Da Vinci (Geo)
+#DESCRIPTION Da Vinci (Geo)
+#SERVICE 4097:0:1:495:1:1:CCCC0000:0:0:0:vidaa%3a//Weatherspy (EU):Weatherspy (EU)
+#DESCRIPTION Weatherspy (EU)
+#SERVICE 4097:0:1:496:1:1:CCCC0000:0:0:0:vidaa%3a//Conflict:Conflict
+#DESCRIPTION Conflict
+#SERVICE 4097:0:1:497:1:1:CCCC0000:0:0:0:vidaa%3a//Watch Mojo (EU):Watch Mojo (EU)
+#DESCRIPTION Watch Mojo (EU)
+#SERVICE 4097:0:1:498:1:1:CCCC0000:0:0:0:vidaa%3a//WatchMojo alt:WatchMojo alt
+#DESCRIPTION WatchMojo alt
+#SERVICE 4097:0:1:499:1:1:CCCC0000:0:0:0:vidaa%3a//Homeful (US):Homeful (US)
+#DESCRIPTION Homeful (US)
+#SERVICE 4097:0:1:49A:1:1:CCCC0000:0:0:0:vidaa%3a//The Design Network (EU):The Design Network (EU)
+#DESCRIPTION The Design Network (EU)
+#SERVICE 4097:0:1:49B:1:1:CCCC0000:0:0:0:vidaa%3a//Todays Home Owner (EU):Todays Home Owner (EU)
+#DESCRIPTION Todays Home Owner (EU)
+#SERVICE 4097:0:1:49C:1:1:CCCC0000:0:0:0:vidaa%3a//Homes Under the Hammer (GB):Homes Under the Hammer (GB)
+#DESCRIPTION Homes Under the Hammer (GB)
+#SERVICE 4097:0:1:49D:1:1:CCCC0000:0:0:0:vidaa%3a//Love Nature (US):Love Nature (US)
+#DESCRIPTION Love Nature (US)
+#SERVICE 4097:0:1:49E:1:1:CCCC0000:0:0:0:vidaa%3a//Love Nature alt:Love Nature alt
+#DESCRIPTION Love Nature alt
+#SERVICE 4097:0:1:49F:1:1:CCCC0000:0:0:0:vidaa%3a//WaterBear Network:WaterBear Network
+#DESCRIPTION WaterBear Network
+#SERVICE 4097:0:1:4A0:1:1:CCCC0000:0:0:0:vidaa%3a//Love Pets (US):Love Pets (US)
+#DESCRIPTION Love Pets (US)
+#SERVICE 4097:0:1:4A1:1:1:CCCC0000:0:0:0:vidaa%3a//The Pet Collective (EU):The Pet Collective (EU)
+#DESCRIPTION The Pet Collective (EU)
+#SERVICE 4097:0:1:4A2:1:1:CCCC0000:0:0:0:vidaa%3a//Young Hollywood (AU):Young Hollywood (AU)
+#DESCRIPTION Young Hollywood (AU)
+#SERVICE 4097:0:1:4A3:1:1:CCCC0000:0:0:0:vidaa%3a//Young Hollywood:Young Hollywood
+#DESCRIPTION Young Hollywood
+#SERVICE 4097:0:1:4A4:1:1:CCCC0000:0:0:0:vidaa%3a//Drag Race Universe (US):Drag Race Universe (US)
+#DESCRIPTION Drag Race Universe (US)
+#SERVICE 4097:0:1:4A5:1:1:CCCC0000:0:0:0:vidaa%3a//Tokushoutsu:Tokushoutsu
+#DESCRIPTION Tokushoutsu
+#SERVICE 4097:0:1:4A6:1:1:CCCC0000:0:0:0:vidaa%3a//Family Tree ENG:Family Tree ENG
+#DESCRIPTION Family Tree ENG
+#SERVICE 4097:0:1:4A7:1:1:CCCC0000:0:0:0:vidaa%3a//Flame and Fire                                                                                                                                                                                                                     Flame and Fire ENG:Flame and Fire                                                                                                                                                                                                                     Flame and Fire ENG
+#DESCRIPTION Flame and Fire                                                                                                                                                                                                                     Flame and Fire ENG
+#SERVICE 4097:0:1:4A8:1:1:CCCC0000:0:0:0:vidaa%3a//Horrorfy:Horrorfy
+#DESCRIPTION Horrorfy
+#SERVICE 4097:0:1:4A9:1:1:CCCC0000:0:0:0:vidaa%3a//Mystify:Mystify
+#DESCRIPTION Mystify
+#SERVICE 4097:0:1:4AA:1:1:CCCC0000:0:0:0:vidaa%3a//Total Crime:Total Crime
+#DESCRIPTION Total Crime
+#SERVICE 4097:0:1:4AB:1:1:CCCC0000:0:0:0:vidaa%3a//True Crime Now:True Crime Now
+#DESCRIPTION True Crime Now
+#SERVICE 4097:0:1:4AC:1:1:CCCC0000:0:0:0:vidaa%3a//Crime and Punishment:Crime & Punishment
+#DESCRIPTION Crime & Punishment
+#SERVICE 4097:0:1:4AD:1:1:CCCC0000:0:0:0:vidaa%3a//Unexplained (EU):Unexplained (EU)
+#DESCRIPTION Unexplained (EU)
+#SERVICE 4097:0:1:4AE:1:1:CCCC0000:0:0:0:vidaa%3a//Unreel (EU):Unreel (EU)
+#DESCRIPTION Unreel (EU)
+#SERVICE 4097:0:1:4AF:1:1:CCCC0000:0:0:0:vidaa%3a//Robot Wars by Mech+:Robot Wars by Mech+
+#DESCRIPTION Robot Wars by Mech+
+#SERVICE 4097:0:1:4B0:1:1:CCCC0000:0:0:0:vidaa%3a//Wu Tang Collection TV:Wu Tang Collection TV
+#DESCRIPTION Wu Tang Collection TV
+#SERVICE 4097:0:1:4B1:1:1:CCCC0000:0:0:0:vidaa%3a//Moconomy (EU):Moconomy (EU)
+#DESCRIPTION Moconomy (EU)
+#SERVICE 4097:0:1:4B2:1:1:CCCC0000:0:0:0:vidaa%3a//Moconomy (EU) alt:Moconomy (EU) alt
+#DESCRIPTION Moconomy (EU) alt
+#SERVICE 4097:0:1:4B3:1:1:CCCC0000:0:0:0:vidaa%3a//Moconomy (DE):Moconomy (DE)
+#DESCRIPTION Moconomy (DE)
+#SERVICE 4097:0:1:4B4:1:1:CCCC0000:0:0:0:vidaa%3a//CCBM Broadcasting (EU):CCBM Broadcasting (EU)
+#DESCRIPTION CCBM Broadcasting (EU)
+#SERVICE 4097:0:1:4B5:1:1:CCCC0000:0:0:0:vidaa%3a//Pecan TV (EU):Pecan TV (EU)
+#DESCRIPTION Pecan TV (EU)
+#SERVICE 4097:0:1:4B6:1:1:CCCC0000:0:0:0:vidaa%3a//Shade TV (EU):Shade TV (EU)
+#DESCRIPTION Shade TV (EU)
+#SERVICE 4097:0:1:4B7:1:1:CCCC0000:0:0:0:vidaa%3a//Mech Plus (EU):Mech Plus (EU)
+#DESCRIPTION Mech Plus (EU)
+#SERVICE 4097:0:1:4B8:1:1:CCCC0000:0:0:0:vidaa%3a//Global Fashion Channel TV (EU):Global Fashion Channel TV (EU)
+#DESCRIPTION Global Fashion Channel TV (EU)
+#SERVICE 4097:0:1:4B9:1:1:CCCC0000:0:0:0:vidaa%3a//Just.Classical:Just.Classical
+#DESCRIPTION Just.Classical
+#SERVICE 4097:0:1:4BA:1:1:CCCC0000:0:0:0:vidaa%3a//Trace Urban:Trace Urban
+#DESCRIPTION Trace Urban
+#SERVICE 4097:0:1:4BB:1:1:CCCC0000:0:0:0:vidaa%3a//Our Vinyl TV (EU):Our Vinyl TV (EU)
+#DESCRIPTION Our Vinyl TV (EU)
+#SERVICE 4097:0:1:4BC:1:1:CCCC0000:0:0:0:vidaa%3a//Ditty TV (EU):Ditty TV (EU)
+#DESCRIPTION Ditty TV (EU)
+#SERVICE 4097:0:1:4BD:1:1:CCCC0000:0:0:0:vidaa%3a//Clubbing TV:Clubbing TV
+#DESCRIPTION Clubbing TV
+#SERVICE 4097:0:19:4BE:1:1:CCCC0000:0:0:0:vidaa%3a//Deluxe Lounge HD:Deluxe Lounge HD
+#DESCRIPTION Deluxe Lounge HD
+#SERVICE 4097:0:1:4BF:1:1:CCCC0000:0:0:0:vidaa%3a//Party Tyme Karaoke:Party Tyme Karaoke
+#DESCRIPTION Party Tyme Karaoke
+#SERVICE 4097:0:1:4C0:1:1:CCCC0000:0:0:0:vidaa%3a//Vevo Navidad:Vevo Navidad
+#DESCRIPTION Vevo Navidad
+#SERVICE 4097:0:1:4C1:1:1:CCCC0000:0:0:0:vidaa%3a//Stingray Greatest Holiday Hits:Stingray Greatest Holiday Hits
+#DESCRIPTION Stingray Greatest Holiday Hits
+#SERVICE 4097:0:1:4C2:1:1:CCCC0000:0:0:0:vidaa%3a//Stingray Holidayscapes:Stingray Holidayscapes
+#DESCRIPTION Stingray Holidayscapes
+#SERVICE 4097:0:1:4C3:1:1:CCCC0000:0:0:0:vidaa%3a//Stingray Hot Country Christmas:Stingray Hot Country Christmas
+#DESCRIPTION Stingray Hot Country Christmas
+#SERVICE 4097:0:1:4C4:1:1:CCCC0000:0:0:0:vidaa%3a//Stingray Karaoke:Stingray Karaoke
+#DESCRIPTION Stingray Karaoke
+#SERVICE 4097:0:1:4C5:1:1:CCCC0000:0:0:0:vidaa%3a//Stingray Naturescape:Stingray Naturescape
+#DESCRIPTION Stingray Naturescape
+#SERVICE 4097:0:1:4C6:1:1:CCCC0000:0:0:0:vidaa%3a//Stingray Soul Storm Christmas:Stingray Soul Storm Christmas
+#DESCRIPTION Stingray Soul Storm Christmas
+#SERVICE 4097:0:1:4C7:1:1:CCCC0000:0:0:0:vidaa%3a//Just.classical:Just.classical
+#DESCRIPTION Just.classical
+#SERVICE 4097:0:1:4C8:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (FR):Rakuten Comedy Movies (FR)
+#DESCRIPTION Rakuten Comedy Movies (FR)
+#SERVICE 4097:0:1:4C9:1:1:CCCC0000:0:0:0:vidaa%3a//Films Francais (FR):Films Francais (FR)
+#DESCRIPTION Films Francais (FR)
+#SERVICE 4097:0:1:4CA:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Family (FR):Rakuten Family (FR)
+#DESCRIPTION Rakuten Family (FR)
+#SERVICE 4097:0:1:4CB:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Romance (FR):Rakuten Romance (FR)
+#DESCRIPTION Rakuten Romance (FR)
+#SERVICE 4097:0:1:4CC:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (FR):Rakuten Action Movies (FR)
+#DESCRIPTION Rakuten Action Movies (FR)
+#SERVICE 4097:0:1:4CD:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Spotlight (FR):Rakuten Spotlight (FR)
+#DESCRIPTION Rakuten Spotlight (FR)
+#SERVICE 4097:0:1:4CE:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Thriller (FR):Rakuten Thriller (FR)
+#DESCRIPTION Rakuten Thriller (FR)
+#SERVICE 4097:0:1:4CF:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Top Free (FR):Rakuten Top Free (FR)
+#DESCRIPTION Rakuten Top Free (FR)
+#SERVICE 4097:0:1:4D0:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (FR):Rakuten TV Shows (FR)
+#DESCRIPTION Rakuten TV Shows (FR)
+#SERVICE 4097:0:1:4D1:1:1:CCCC0000:0:0:0:vidaa%3a//Guardian (FR):Guardian (FR)
+#DESCRIPTION Guardian (FR)
+#SERVICE 4097:0:1:4D2:1:1:CCCC0000:0:0:0:vidaa%3a//Curiosity Now (DE):Curiosity Now (DE)
+#DESCRIPTION Curiosity Now (DE)
+#SERVICE 4097:0:1:4D3:1:1:CCCC0000:0:0:0:vidaa%3a//Konflikte (DE):Konflikte (DE)
+#DESCRIPTION Konflikte (DE)
+#SERVICE 4097:0:1:4D4:1:1:CCCC0000:0:0:0:vidaa%3a//Mytime Movies (DE):Mytime Movies (DE)
+#DESCRIPTION Mytime Movies (DE)
+#SERVICE 4097:0:1:4D5:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (DE):Rakuten Action Movies (DE)
+#DESCRIPTION Rakuten Action Movies (DE)
+#SERVICE 4097:0:1:4D6:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Thriller (DE):Rakuten Thriller (DE)
+#DESCRIPTION Rakuten Thriller (DE)
+#SERVICE 4097:0:1:4D7:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (DE):Rakuten Comedy Movies (DE)
+#DESCRIPTION Rakuten Comedy Movies (DE)
+#SERVICE 4097:0:1:4D8:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Family (DE):Rakuten Family (DE)
+#DESCRIPTION Rakuten Family (DE)
+#SERVICE 4097:0:1:4D9:1:1:CCCC0000:0:0:0:vidaa%3a//100eihnachten - Rakuten TV (DE):100eihnachten - Rakuten TV (DE)
+#DESCRIPTION 100eihnachten - Rakuten TV (DE)
+#SERVICE 4097:0:1:4DA:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Romance (DE):Rakuten Romance (DE)
+#DESCRIPTION Rakuten Romance (DE)
+#SERVICE 4097:0:1:4DB:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Stories (DE):Rakuten Stories (DE)
+#DESCRIPTION Rakuten Stories (DE)
+#SERVICE 4097:0:1:4DC:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Top Free (DE):Rakuten Top Free (DE)
+#DESCRIPTION Rakuten Top Free (DE)
+#SERVICE 4097:0:1:4DD:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (DE):Rakuten TV Shows (DE)
+#DESCRIPTION Rakuten TV Shows (DE)
+#SERVICE 4097:0:1:4DE:1:1:CCCC0000:0:0:0:vidaa%3a//Guardian (DE):Guardian (DE)
+#DESCRIPTION Guardian (DE)
+#SERVICE 4097:0:1:4DF:1:1:CCCC0000:0:0:0:vidaa%3a//Deutsches Kino (DE):Deutsches Kino (DE)
+#DESCRIPTION Deutsches Kino (DE)
+#SERVICE 4097:0:1:4E0:1:1:CCCC0000:0:0:0:vidaa%3a//Cine Clasico (ES):Cine Clasico (ES)
+#DESCRIPTION Cine Clasico (ES)
+#SERVICE 4097:0:1:4E1:1:1:CCCC0000:0:0:0:vidaa%3a//Rcnmas+ (EU):Rcnmas+ (EU)
+#DESCRIPTION Rcnmas+ (EU)
+#SERVICE 4097:0:1:4E2:1:1:CCCC0000:0:0:0:vidaa%3a//Top Cine:Top Cine
+#DESCRIPTION Top Cine
+#SERVICE 4097:0:1:4E3:1:1:CCCC0000:0:0:0:vidaa%3a//Tu Cine:Tu Cine
+#DESCRIPTION Tu Cine
+#SERVICE 4097:0:1:4E4:1:1:CCCC0000:0:0:0:vidaa%3a//Tu Cine ES (Geo):Tu Cine ES (Geo)
+#DESCRIPTION Tu Cine ES (Geo)
+#SERVICE 4097:0:1:4E5:1:1:CCCC0000:0:0:0:vidaa%3a//Flash (ES):Flash (ES)
+#DESCRIPTION Flash (ES)
+#SERVICE 4097:0:1:4E6:1:1:CCCC0000:0:0:0:vidaa%3a//MMC (ES):MMC (ES)
+#DESCRIPTION MMC (ES)
+#SERVICE 4097:0:1:4E7:1:1:CCCC0000:0:0:0:vidaa%3a//Mytime Movie (ES):Mytime Movie (ES)
+#DESCRIPTION Mytime Movie (ES)
+#SERVICE 4097:0:1:4E8:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (ES):Rakuten Action Movies (ES)
+#DESCRIPTION Rakuten Action Movies (ES)
+#SERVICE 4097:0:1:4E9:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (ES):Rakuten Comedy Movies (ES)
+#DESCRIPTION Rakuten Comedy Movies (ES)
+#SERVICE 4097:0:1:4EA:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Family (ES):Rakuten Family (ES)
+#DESCRIPTION Rakuten Family (ES)
+#SERVICE 4097:0:1:4EB:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Romance (ES):Rakuten Romance (ES)
+#DESCRIPTION Rakuten Romance (ES)
+#SERVICE 4097:0:1:4EC:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Spotlight (ES):Rakuten Spotlight (ES)
+#DESCRIPTION Rakuten Spotlight (ES)
+#SERVICE 4097:0:1:4ED:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Thriller (ES):Rakuten Thriller (ES)
+#DESCRIPTION Rakuten Thriller (ES)
+#SERVICE 4097:0:1:4EE:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Top Free (ES):Rakuten Top Free (ES)
+#DESCRIPTION Rakuten Top Free (ES)
+#SERVICE 4097:0:1:4EF:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (ES):Rakuten TV Shows (ES)
+#DESCRIPTION Rakuten TV Shows (ES)
+#SERVICE 4097:0:1:4F0:1:1:CCCC0000:0:0:0:vidaa%3a//Guardian (ES):Guardian (ES)
+#DESCRIPTION Guardian (ES)
+#SERVICE 4097:0:1:4F1:1:1:CCCC0000:0:0:0:vidaa%3a//Hola (ES):Hola (ES)
+#DESCRIPTION Hola (ES)
+#SERVICE 4097:0:1:4F2:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (IT):Rakuten Action Movies (IT)
+#DESCRIPTION Rakuten Action Movies (IT)
+#SERVICE 4097:0:1:4F3:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (IT):Rakuten Comedy Movies (IT)
+#DESCRIPTION Rakuten Comedy Movies (IT)
+#SERVICE 4097:0:1:4F4:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Guardian (IT):Rakuten Guardian (IT)
+#DESCRIPTION Rakuten Guardian (IT)
+#SERVICE 4097:0:1:4F5:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Top Free (IT):Rakuten Top Free (IT)
+#DESCRIPTION Rakuten Top Free (IT)
+#SERVICE 4097:0:1:4F6:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Family (IT):Rakuten Family (IT)
+#DESCRIPTION Rakuten Family (IT)
+#SERVICE 4097:0:1:4F7:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Romance (IT):Rakuten Romance (IT)
+#DESCRIPTION Rakuten Romance (IT)
+#SERVICE 4097:0:1:4F8:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Spotlight (IT):Rakuten Spotlight (IT)
+#DESCRIPTION Rakuten Spotlight (IT)
+#SERVICE 4097:0:1:4F9:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Thriller (IT):Rakuten Thriller (IT)
+#DESCRIPTION Rakuten Thriller (IT)
+#SERVICE 4097:0:1:4FA:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (IT):Rakuten TV Shows (IT)
+#DESCRIPTION Rakuten TV Shows (IT)
+#SERVICE 4097:0:1:4FB:1:1:CCCC0000:0:0:0:vidaa%3a//Classico (IT):Classico (IT)
+#DESCRIPTION Classico (IT)
+#SERVICE 4097:0:1:4FC:1:1:CCCC0000:0:0:0:vidaa%3a//Konflikte (AT):Konflikte (AT)
+#DESCRIPTION Konflikte (AT)
+#SERVICE 4097:0:1:4FD:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (AT):Rakuten Comedy Movies (AT)
+#DESCRIPTION Rakuten Comedy Movies (AT)
+#SERVICE 4097:0:1:4FE:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Family (AT):Rakuten Family (AT)
+#DESCRIPTION Rakuten Family (AT)
+#SERVICE 4097:0:1:4FF:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (AT):Rakuten TV Shows (AT)
+#DESCRIPTION Rakuten TV Shows (AT)
+#SERVICE 4097:0:1:500:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (AT):Rakuten Action Movies (AT)
+#DESCRIPTION Rakuten Action Movies (AT)
+#SERVICE 4097:0:1:501:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Spotlight (AT):Rakuten Spotlight (AT)
+#DESCRIPTION Rakuten Spotlight (AT)
+#SERVICE 4097:0:1:502:1:1:CCCC0000:0:0:0:vidaa%3a//Guardian (AT):Guardian (AT)
+#DESCRIPTION Guardian (AT)
+#SERVICE 4097:0:1:503:1:1:CCCC0000:0:0:0:vidaa%3a//Curiosity Now (CH):Curiosity Now (CH)
+#DESCRIPTION Curiosity Now (CH)
+#SERVICE 4097:0:1:504:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Comedy Movies (CH):Rakuten Comedy Movies (CH)
+#DESCRIPTION Rakuten Comedy Movies (CH)
+#SERVICE 4097:0:1:505:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten TV Shows (CH):Rakuten TV Shows (CH)
+#DESCRIPTION Rakuten TV Shows (CH)
+#SERVICE 4097:0:1:506:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Action Movies (CH):Rakuten Action Movies (CH)
+#DESCRIPTION Rakuten Action Movies (CH)
+#SERVICE 4097:0:1:507:1:1:CCCC0000:0:0:0:vidaa%3a//Rakuten Spotlight (CH):Rakuten Spotlight (CH)
+#DESCRIPTION Rakuten Spotlight (CH)
+#SERVICE 4097:0:1:508:1:1:CCCC0000:0:0:0:vidaa%3a//Lacasadel Jaripeo (EU):Lacasadel Jaripeo (EU)
+#DESCRIPTION Lacasadel Jaripeo (EU)
+#SERVICE 4097:0:1:509:1:1:CCCC0000:0:0:0:vidaa%3a//Canela TeleNovelas:Canela TeleNovelas
+#DESCRIPTION Canela TeleNovelas
+#SERVICE 4097:0:1:50A:1:1:CCCC0000:0:0:0:vidaa%3a//La Bocina TV (EU):La Bocina TV (EU)
+#DESCRIPTION La Bocina TV (EU)
+#SERVICE 4097:0:1:50B:1:1:CCCC0000:0:0:0:vidaa%3a//MegaNoticias (EU):MegaNoticias (EU)
+#DESCRIPTION MegaNoticias (EU)
+#SERVICE 4097:0:1:50C:1:1:CCCC0000:0:0:0:vidaa%3a//Univision 24/7 News:Univision 24/7 News
+#DESCRIPTION Univision 24/7 News
+#SERVICE 4097:0:1:50D:1:1:CCCC0000:0:0:0:vidaa%3a//Aqui y Ahora:Aqui y Ahora
+#DESCRIPTION Aqui y Ahora
+#SERVICE 4097:0:1:50E:1:1:CCCC0000:0:0:0:vidaa%3a//Cine Retro:Cine Retro
+#DESCRIPTION Cine Retro
+#SERVICE 4097:0:1:50F:1:1:CCCC0000:0:0:0:vidaa%3a//Cine de Oro:Cine de Oro
+#DESCRIPTION Cine de Oro
+#SERVICE 4097:0:1:510:1:1:CCCC0000:0:0:0:vidaa%3a//Jajaja:Jajaja
+#DESCRIPTION Jajaja
+#SERVICE 4097:0:1:511:1:1:CCCC0000:0:0:0:vidaa%3a//Grandes Parejas:Grandes Parejas
+#DESCRIPTION Grandes Parejas
+#SERVICE 4097:0:1:512:1:1:CCCC0000:0:0:0:vidaa%3a//Galanes:Galanes
+#DESCRIPTION Galanes
+#SERVICE 4097:0:1:513:1:1:CCCC0000:0:0:0:vidaa%3a//Las 3 Marias:Las 3 Marias
+#DESCRIPTION Las 3 Marias
+#SERVICE 4097:0:1:514:1:1:CCCC0000:0:0:0:vidaa%3a//Rebelde:Rebelde
+#DESCRIPTION Rebelde
+#SERVICE 4097:0:1:515:1:1:CCCC0000:0:0:0:vidaa%3a//Zona TUDN:Zona TUDN
+#DESCRIPTION Zona TUDN
+#SERVICE 4097:0:1:516:1:1:CCCC0000:0:0:0:vidaa%3a//Como Dice el Dicho:Como Dice el Dicho
+#DESCRIPTION Como Dice el Dicho
+#SERVICE 4097:0:1:517:1:1:CCCC0000:0:0:0:vidaa%3a//Lo Mejor de Liga:Lo Mejor de Liga
+#DESCRIPTION Lo Mejor de Liga
+#SERVICE 4097:0:1:518:1:1:CCCC0000:0:0:0:vidaa%3a//Pequeños Gigantes:Pequeños Gigantes
+#DESCRIPTION Pequeños Gigantes
+#SERVICE 4097:0:1:519:1:1:CCCC0000:0:0:0:vidaa%3a//Juntos:Juntos
+#DESCRIPTION Juntos
+#SERVICE 4097:0:1:51A:1:1:CCCC0000:0:0:0:vidaa%3a//Accion Mexicano:Accion Mexicano
+#DESCRIPTION Accion Mexicano
+#SERVICE 4097:0:1:51B:1:1:CCCC0000:0:0:0:vidaa%3a//HappiTV:HappiTV
+#DESCRIPTION HappiTV

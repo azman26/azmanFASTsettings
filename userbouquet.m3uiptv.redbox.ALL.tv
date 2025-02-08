@@ -1,0 +1,369 @@
+#NAME REDBOX
+#SERVICE 4097:0:1:3E8:1:1:CCCC0000:0:0:0:redbox%3a//Redbox Free Movies:Redbox Free Movies
+#DESCRIPTION Redbox Free Movies
+#SERVICE 4097:0:1:3E9:1:1:CCCC0000:0:0:0:redbox%3a//IFC Films Picks:IFC Films Picks
+#DESCRIPTION IFC Films Picks
+#SERVICE 4097:0:1:3EA:1:1:CCCC0000:0:0:0:redbox%3a//Moviesphere:Moviesphere
+#DESCRIPTION Moviesphere
+#SERVICE 4097:0:1:3EB:1:1:CCCC0000:0:0:0:redbox%3a//FilmRise Free Movies:FilmRise Free Movies
+#DESCRIPTION FilmRise Free Movies
+#SERVICE 4097:0:1:3EC:1:1:CCCC0000:0:0:0:redbox%3a//COPS:COPS
+#DESCRIPTION COPS
+#SERVICE 4097:0:1:3ED:1:1:CCCC0000:0:0:0:redbox%3a//Jail:Jail
+#DESCRIPTION Jail
+#SERVICE 4097:0:1:3EE:1:1:CCCC0000:0:0:0:redbox%3a//Crackle Originals:Crackle Originals
+#DESCRIPTION Crackle Originals
+#SERVICE 4097:0:1:3EF:1:1:CCCC0000:0:0:0:redbox%3a//Sleuth:Sleuth
+#DESCRIPTION Sleuth
+#SERVICE 4097:0:1:3F0:1:1:CCCC0000:0:0:0:redbox%3a//Forensic Files:Forensic Files
+#DESCRIPTION Forensic Files
+#SERVICE 4097:0:1:3F1:1:1:CCCC0000:0:0:0:redbox%3a//Unsolved Mysteries:Unsolved Mysteries
+#DESCRIPTION Unsolved Mysteries
+#SERVICE 4097:0:1:3F2:1:1:CCCC0000:0:0:0:redbox%3a//True Crime Now:True Crime Now
+#DESCRIPTION True Crime Now
+#SERVICE 4097:0:1:3F3:1:1:CCCC0000:0:0:0:redbox%3a//Judge Nosey:Judge Nosey
+#DESCRIPTION Judge Nosey
+#SERVICE 4097:0:1:3F4:1:1:CCCC0000:0:0:0:redbox%3a//Divorce Court:Divorce Court
+#DESCRIPTION Divorce Court
+#SERVICE 4097:0:1:3F5:1:1:CCCC0000:0:0:0:redbox%3a//Court TV:Court TV
+#DESCRIPTION Court TV
+#SERVICE 4097:0:1:3F6:1:1:CCCC0000:0:0:0:redbox%3a//Midsomer Murders:Midsomer Murders
+#DESCRIPTION Midsomer Murders
+#SERVICE 4097:0:1:3F7:1:1:CCCC0000:0:0:0:redbox%3a//Dr. G%3a Medical Examiner:Dr. G%3a Medical Examiner
+#DESCRIPTION Dr. G: Medical Examiner
+#SERVICE 4097:0:1:3F8:1:1:CCCC0000:0:0:0:redbox%3a//Caught in Providence:Caught in Providence
+#DESCRIPTION Caught in Providence
+#SERVICE 4097:0:1:3F9:1:1:CCCC0000:0:0:0:redbox%3a//Reelz Channel:Reelz Channel
+#DESCRIPTION Reelz Channel
+#SERVICE 4097:0:1:3FA:1:1:CCCC0000:0:0:0:redbox%3a//Law and Crime:Law & Crime
+#DESCRIPTION Law & Crime
+#SERVICE 4097:0:1:3FB:1:1:CCCC0000:0:0:0:redbox%3a//Redbox Free Movies:Redbox Free Movies
+#DESCRIPTION Redbox Free Movies
+#SERVICE 4097:0:1:3FC:1:1:CCCC0000:0:0:0:redbox%3a//Redbox Romance:Redbox Romance
+#DESCRIPTION Redbox Romance
+#SERVICE 4097:0:1:3FD:1:1:CCCC0000:0:0:0:redbox%3a//Chicken Soup for the Soul:Chicken Soup for the Soul
+#DESCRIPTION Chicken Soup for the Soul
+#SERVICE 4097:0:1:3FE:1:1:CCCC0000:0:0:0:redbox%3a//Hallmark Movies and More:Hallmark Movies & More
+#DESCRIPTION Hallmark Movies & More
+#SERVICE 4097:0:1:3FF:1:1:CCCC0000:0:0:0:redbox%3a//Moviesphere:Moviesphere
+#DESCRIPTION Moviesphere
+#SERVICE 4097:0:1:400:1:1:CCCC0000:0:0:0:redbox%3a//XUMO FREE Movies:XUMO FREE Movies
+#DESCRIPTION XUMO FREE Movies
+#SERVICE 4097:0:1:401:1:1:CCCC0000:0:0:0:redbox%3a//FilmRise Free Movies:FilmRise Free Movies
+#DESCRIPTION FilmRise Free Movies
+#SERVICE 4097:0:1:402:1:1:CCCC0000:0:0:0:redbox%3a//Stories by AMC:Stories by AMC
+#DESCRIPTION Stories by AMC
+#SERVICE 4097:0:1:403:1:1:CCCC0000:0:0:0:redbox%3a//IFC Films Picks:IFC Films Picks
+#DESCRIPTION IFC Films Picks
+#SERVICE 4097:0:1:404:1:1:CCCC0000:0:0:0:redbox%3a//Cine Life:Cine Life
+#DESCRIPTION Cine Life
+#SERVICE 4097:0:1:405:1:1:CCCC0000:0:0:0:redbox%3a//Filmhub:Filmhub
+#DESCRIPTION Filmhub
+#SERVICE 4097:0:1:406:1:1:CCCC0000:0:0:0:redbox%3a//Gravitas Movies:Gravitas Movies
+#DESCRIPTION Gravitas Movies
+#SERVICE 4097:0:1:407:1:1:CCCC0000:0:0:0:redbox%3a//AllBlk Gems:AllBlk Gems
+#DESCRIPTION AllBlk Gems
+#SERVICE 4097:0:1:408:1:1:CCCC0000:0:0:0:redbox%3a//Maverick:Maverick
+#DESCRIPTION Maverick
+#SERVICE 4097:0:1:409:1:1:CCCC0000:0:0:0:redbox%3a//Made in Hollywood:Made in Hollywood
+#DESCRIPTION Made in Hollywood
+#SERVICE 4097:0:1:40A:1:1:CCCC0000:0:0:0:redbox%3a//MagellanTV Now:MagellanTV Now
+#DESCRIPTION MagellanTV Now
+#SERVICE 4097:0:1:40B:1:1:CCCC0000:0:0:0:redbox%3a//BNC GO:BNC GO
+#DESCRIPTION BNC GO
+#SERVICE 4097:0:1:40C:1:1:CCCC0000:0:0:0:redbox%3a//CRACKLE:CRACKLE
+#DESCRIPTION CRACKLE
+#SERVICE 4097:0:1:40D:1:1:CCCC0000:0:0:0:redbox%3a//The Walking Dead Universe:The Walking Dead Universe
+#DESCRIPTION The Walking Dead Universe
+#SERVICE 4097:0:1:40E:1:1:CCCC0000:0:0:0:redbox%3a//AMC Thrillers:AMC Thrillers
+#DESCRIPTION AMC Thrillers
+#SERVICE 4097:0:1:40F:1:1:CCCC0000:0:0:0:redbox%3a//DUST:DUST
+#DESCRIPTION DUST
+#SERVICE 4097:0:1:410:1:1:CCCC0000:0:0:0:redbox%3a//Paranormal Files:Paranormal Files
+#DESCRIPTION Paranormal Files
+#SERVICE 4097:0:1:411:1:1:CCCC0000:0:0:0:redbox%3a//Farscape:Farscape
+#DESCRIPTION Farscape
+#SERVICE 4097:0:1:412:1:1:CCCC0000:0:0:0:redbox%3a//ANIME x HIDIVE:ANIME x HIDIVE
+#DESCRIPTION ANIME x HIDIVE
+#SERVICE 4097:0:1:413:1:1:CCCC0000:0:0:0:redbox%3a//Wu Tang Collection TV:Wu Tang Collection TV
+#DESCRIPTION Wu Tang Collection TV
+#SERVICE 4097:0:1:414:1:1:CCCC0000:0:0:0:redbox%3a//Hi-Yah!:Hi-Yah!
+#DESCRIPTION Hi-Yah!
+#SERVICE 4097:0:1:415:1:1:CCCC0000:0:0:0:redbox%3a//CINEVAULT%3a Murder and Mayhem:CINEVAULT%3a Murder & Mayhem
+#DESCRIPTION CINEVAULT: Murder & Mayhem
+#SERVICE 4097:0:1:416:1:1:CCCC0000:0:0:0:redbox%3a//FilmRise Sci-Fi:FilmRise Sci-Fi
+#DESCRIPTION FilmRise Sci-Fi
+#SERVICE 4097:0:1:417:1:1:CCCC0000:0:0:0:redbox%3a//ALTER:ALTER
+#DESCRIPTION ALTER
+#SERVICE 4097:0:1:418:1:1:CCCC0000:0:0:0:redbox%3a//Scream Factory TV:Scream Factory TV
+#DESCRIPTION Scream Factory TV
+#SERVICE 4097:0:1:419:1:1:CCCC0000:0:0:0:redbox%3a//Shout! Cult:Shout! Cult
+#DESCRIPTION Shout! Cult
+#SERVICE 4097:0:1:41A:1:1:CCCC0000:0:0:0:redbox%3a//Popcornflix:Popcornflix
+#DESCRIPTION Popcornflix
+#SERVICE 4097:0:1:41B:1:1:CCCC0000:0:0:0:redbox%3a//ElectricNOW:ElectricNOW
+#DESCRIPTION ElectricNOW
+#SERVICE 4097:0:1:41C:1:1:CCCC0000:0:0:0:redbox%3a//PriceIsRight:PriceIsRight
+#DESCRIPTION PriceIsRight
+#SERVICE 4097:0:1:41D:1:1:CCCC0000:0:0:0:redbox%3a//Nosey:Nosey
+#DESCRIPTION Nosey
+#SERVICE 4097:0:1:41E:1:1:CCCC0000:0:0:0:redbox%3a//Confess by Nosey:Confess by Nosey
+#DESCRIPTION Confess by Nosey
+#SERVICE 4097:0:1:41F:1:1:CCCC0000:0:0:0:redbox%3a//FearFactor:FearFactor
+#DESCRIPTION FearFactor
+#SERVICE 4097:0:1:420:1:1:CCCC0000:0:0:0:redbox%3a//Game Show Central:Game Show Central
+#DESCRIPTION Game Show Central
+#SERVICE 4097:0:1:421:1:1:CCCC0000:0:0:0:redbox%3a//Supermarket Sweep:Supermarket Sweep
+#DESCRIPTION Supermarket Sweep
+#SERVICE 4097:0:1:422:1:1:CCCC0000:0:0:0:redbox%3a//Family Feud:Family Feud
+#DESCRIPTION Family Feud
+#SERVICE 4097:0:1:423:1:1:CCCC0000:0:0:0:redbox%3a//Family Feud:Family Feud
+#DESCRIPTION Family Feud
+#SERVICE 4097:0:1:424:1:1:CCCC0000:0:0:0:redbox%3a//DealorNoDeal:DealorNoDeal
+#DESCRIPTION DealorNoDeal
+#SERVICE 4097:0:1:425:1:1:CCCC0000:0:0:0:redbox%3a//TheBiggestLoser:TheBiggestLoser
+#DESCRIPTION TheBiggestLoser
+#SERVICE 4097:0:1:426:1:1:CCCC0000:0:0:0:redbox%3a//Buzzr:Buzzr
+#DESCRIPTION Buzzr
+#SERVICE 4097:0:1:427:1:1:CCCC0000:0:0:0:redbox%3a//WipeoutXtra:WipeoutXtra
+#DESCRIPTION WipeoutXtra
+#SERVICE 4097:0:1:428:1:1:CCCC0000:0:0:0:redbox%3a//All Reality WE tv:All Reality WE tv
+#DESCRIPTION All Reality WE tv
+#SERVICE 4097:0:1:429:1:1:CCCC0000:0:0:0:redbox%3a//Redbox War and Westerns:Redbox War & Westerns
+#DESCRIPTION Redbox War & Westerns
+#SERVICE 4097:0:1:42A:1:1:CCCC0000:0:0:0:redbox%3a//CINEVAULT%3a Westerns:CINEVAULT%3a Westerns
+#DESCRIPTION CINEVAULT: Westerns
+#SERVICE 4097:0:1:42B:1:1:CCCC0000:0:0:0:redbox%3a//Snowy River%3a The Mcgregor Saga:Snowy River%3a The Mcgregor Saga
+#DESCRIPTION Snowy River: The Mcgregor Saga
+#SERVICE 4097:0:1:42C:1:1:CCCC0000:0:0:0:redbox%3a//Wanted%3a Dead or Alive:Wanted%3a Dead or Alive
+#DESCRIPTION Wanted: Dead or Alive
+#SERVICE 4097:0:1:42D:1:1:CCCC0000:0:0:0:redbox%3a//XUMO FREE Westerns:XUMO FREE Westerns
+#DESCRIPTION XUMO FREE Westerns
+#SERVICE 4097:0:1:42E:1:1:CCCC0000:0:0:0:redbox%3a//Cowboy Way:Cowboy Way
+#DESCRIPTION Cowboy Way
+#SERVICE 4097:0:1:42F:1:1:CCCC0000:0:0:0:redbox%3a//World Poker Tour:World Poker Tour
+#DESCRIPTION World Poker Tour
+#SERVICE 4097:0:1:430:1:1:CCCC0000:0:0:0:redbox%3a//SPEEDVISION:SPEEDVISION
+#DESCRIPTION SPEEDVISION
+#SERVICE 4097:0:1:431:1:1:CCCC0000:0:0:0:redbox%3a//BilliardTV:BilliardTV
+#DESCRIPTION BilliardTV
+#SERVICE 4097:0:1:432:1:1:CCCC0000:0:0:0:redbox%3a//GLORY Kickboxing:GLORY Kickboxing
+#DESCRIPTION GLORY Kickboxing
+#SERVICE 4097:0:1:433:1:1:CCCC0000:0:0:0:redbox%3a//IMPACT Wrestling Channel:IMPACT Wrestling Channel
+#DESCRIPTION IMPACT Wrestling Channel
+#SERVICE 4097:0:1:434:1:1:CCCC0000:0:0:0:redbox%3a//ACL Cornhole:ACL Cornhole
+#DESCRIPTION ACL Cornhole
+#SERVICE 4097:0:1:435:1:1:CCCC0000:0:0:0:redbox%3a//Nitro Circus:Nitro Circus
+#DESCRIPTION Nitro Circus
+#SERVICE 4097:0:1:436:1:1:CCCC0000:0:0:0:redbox%3a//Fight Network:Fight Network
+#DESCRIPTION Fight Network
+#SERVICE 4097:0:1:437:1:1:CCCC0000:0:0:0:redbox%3a//Unbeaten:Unbeaten
+#DESCRIPTION Unbeaten
+#SERVICE 4097:0:1:438:1:1:CCCC0000:0:0:0:redbox%3a//Hard Knocks Fighting Championship:Hard Knocks Fighting Championship
+#DESCRIPTION Hard Knocks Fighting Championship
+#SERVICE 4097:0:1:439:1:1:CCCC0000:0:0:0:redbox%3a//beIN Sports:beIN Sports
+#DESCRIPTION beIN Sports
+#SERVICE 4097:0:1:43A:1:1:CCCC0000:0:0:0:redbox%3a//Outdoor America:Outdoor America
+#DESCRIPTION Outdoor America
+#SERVICE 4097:0:1:43B:1:1:CCCC0000:0:0:0:redbox%3a//Outside TV:Outside TV
+#DESCRIPTION Outside TV
+#SERVICE 4097:0:1:43C:1:1:CCCC0000:0:0:0:redbox%3a//MSG SportsZone:MSG SportsZone
+#DESCRIPTION MSG SportsZone
+#SERVICE 4097:0:1:43D:1:1:CCCC0000:0:0:0:redbox%3a//Redbox Rewind:Redbox Rewind
+#DESCRIPTION Redbox Rewind
+#SERVICE 4097:0:1:43E:1:1:CCCC0000:0:0:0:redbox%3a//Baywatch:Baywatch
+#DESCRIPTION Baywatch
+#SERVICE 4097:0:1:43F:1:1:CCCC0000:0:0:0:redbox%3a//Crackle Classics:Crackle Classics
+#DESCRIPTION Crackle Classics
+#SERVICE 4097:0:1:440:1:1:CCCC0000:0:0:0:redbox%3a//ALF:ALF
+#DESCRIPTION ALF
+#SERVICE 4097:0:1:441:1:1:CCCC0000:0:0:0:redbox%3a//Its Showtime At The Apollo:Its Showtime At The Apollo
+#DESCRIPTION Its Showtime At The Apollo
+#SERVICE 4097:0:1:442:1:1:CCCC0000:0:0:0:redbox%3a//CINEVAULT%3a 80s:CINEVAULT%3a 80s
+#DESCRIPTION CINEVAULT: 80s
+#SERVICE 4097:0:1:443:1:1:CCCC0000:0:0:0:redbox%3a//FilmRise Classic TV:FilmRise Classic TV
+#DESCRIPTION FilmRise Classic TV
+#SERVICE 4097:0:1:444:1:1:CCCC0000:0:0:0:redbox%3a//The Bob Ross Channel:The Bob Ross Channel
+#DESCRIPTION The Bob Ross Channel
+#SERVICE 4097:0:1:445:1:1:CCCC0000:0:0:0:redbox%3a//Johnny Carson TV:Johnny Carson TV
+#DESCRIPTION Johnny Carson TV
+#SERVICE 4097:0:1:446:1:1:CCCC0000:0:0:0:redbox%3a//Shout! Factory TV:Shout! Factory TV
+#DESCRIPTION Shout! Factory TV
+#SERVICE 4097:0:1:447:1:1:CCCC0000:0:0:0:redbox%3a//American Classics:American Classics
+#DESCRIPTION American Classics
+#SERVICE 4097:0:1:448:1:1:CCCC0000:0:0:0:redbox%3a//The Archive:The Archive
+#DESCRIPTION The Archive
+#SERVICE 4097:0:1:449:1:1:CCCC0000:0:0:0:redbox%3a//Redbox Faith and Family:Redbox Faith & Family
+#DESCRIPTION Redbox Faith & Family
+#SERVICE 4097:0:1:44A:1:1:CCCC0000:0:0:0:redbox%3a//FilmRise Family:FilmRise Family
+#DESCRIPTION FilmRise Family
+#SERVICE 4097:0:1:44B:1:1:CCCC0000:0:0:0:redbox%3a//Dove Channel:Dove Channel
+#DESCRIPTION Dove Channel
+#SERVICE 4097:0:1:44C:1:1:CCCC0000:0:0:0:redbox%3a//The LEGO Channel:The LEGO Channel
+#DESCRIPTION The LEGO Channel
+#SERVICE 4097:0:1:44D:1:1:CCCC0000:0:0:0:redbox%3a//Heartland:Heartland
+#DESCRIPTION Heartland
+#SERVICE 4097:0:1:44E:1:1:CCCC0000:0:0:0:redbox%3a//BABY SHARK TV:BABY SHARK TV
+#DESCRIPTION BABY SHARK TV
+#SERVICE 4097:0:1:44F:1:1:CCCC0000:0:0:0:redbox%3a//Toon Goggles:Toon Goggles
+#DESCRIPTION Toon Goggles
+#SERVICE 4097:0:1:450:1:1:CCCC0000:0:0:0:redbox%3a//pocket.watch:pocket.watch
+#DESCRIPTION pocket.watch
+#SERVICE 4097:0:1:451:1:1:CCCC0000:0:0:0:redbox%3a//batteryPop:batteryPop
+#DESCRIPTION batteryPop
+#SERVICE 4097:0:1:452:1:1:CCCC0000:0:0:0:redbox%3a//Happykids:Happykids
+#DESCRIPTION Happykids
+#SERVICE 4097:0:1:453:1:1:CCCC0000:0:0:0:redbox%3a//Trinity Broadcasting Network:Trinity Broadcasting Network
+#DESCRIPTION Trinity Broadcasting Network
+#SERVICE 4097:0:1:454:1:1:CCCC0000:0:0:0:redbox%3a//LOL Network:LOL Network
+#DESCRIPTION LOL Network
+#SERVICE 4097:0:1:455:1:1:CCCC0000:0:0:0:redbox%3a//Portlandia:Portlandia
+#DESCRIPTION Portlandia
+#SERVICE 4097:0:1:456:1:1:CCCC0000:0:0:0:redbox%3a//Are We There Yet:Are We There Yet
+#DESCRIPTION Are We There Yet
+#SERVICE 4097:0:1:457:1:1:CCCC0000:0:0:0:redbox%3a//The Red Green Channel:The Red Green Channel
+#DESCRIPTION The Red Green Channel
+#SERVICE 4097:0:1:458:1:1:CCCC0000:0:0:0:redbox%3a//MST3K:MST3K
+#DESCRIPTION MST3K
+#SERVICE 4097:0:1:459:1:1:CCCC0000:0:0:0:redbox%3a//Fail Army:Fail Army
+#DESCRIPTION Fail Army
+#SERVICE 4097:0:1:45A:1:1:CCCC0000:0:0:0:redbox%3a//The Pet Collective:The Pet Collective
+#DESCRIPTION The Pet Collective
+#SERVICE 4097:0:1:45B:1:1:CCCC0000:0:0:0:redbox%3a//Funny or Die:Funny or Die
+#DESCRIPTION Funny or Die
+#SERVICE 4097:0:1:45C:1:1:CCCC0000:0:0:0:redbox%3a//Quip:Quip
+#DESCRIPTION Quip
+#SERVICE 4097:0:1:45D:1:1:CCCC0000:0:0:0:redbox%3a//Comedy Dynamics:Comedy Dynamics
+#DESCRIPTION Comedy Dynamics
+#SERVICE 4097:0:1:45E:1:1:CCCC0000:0:0:0:redbox%3a//Slightly Off IFC:Slightly Off IFC
+#DESCRIPTION Slightly Off IFC
+#SERVICE 4097:0:1:45F:1:1:CCCC0000:0:0:0:redbox%3a//Just For Laughs Gags:Just For Laughs Gags
+#DESCRIPTION Just For Laughs Gags
+#SERVICE 4097:0:1:460:1:1:CCCC0000:0:0:0:redbox%3a//Dry Bar Comedy:Dry Bar Comedy
+#DESCRIPTION Dry Bar Comedy
+#SERVICE 4097:0:1:461:1:1:CCCC0000:0:0:0:redbox%3a//CHIVE TV:CHIVE TV
+#DESCRIPTION CHIVE TV
+#SERVICE 4097:0:1:462:1:1:CCCC0000:0:0:0:redbox%3a//Jamie Oliver:Jamie Oliver
+#DESCRIPTION Jamie Oliver
+#SERVICE 4097:0:1:463:1:1:CCCC0000:0:0:0:redbox%3a//America's Test Kitchen:America's Test Kitchen
+#DESCRIPTION America's Test Kitchen
+#SERVICE 4097:0:1:464:1:1:CCCC0000:0:0:0:redbox%3a//Tastemade:Tastemade
+#DESCRIPTION Tastemade
+#SERVICE 4097:0:1:465:1:1:CCCC0000:0:0:0:redbox%3a//Food52:Food52
+#DESCRIPTION Food52
+#SERVICE 4097:0:1:466:1:1:CCCC0000:0:0:0:redbox%3a//Bon Appetit:Bon Appetit
+#DESCRIPTION Bon Appetit
+#SERVICE 4097:0:1:467:1:1:CCCC0000:0:0:0:redbox%3a//CookChopChat:CookChopChat
+#DESCRIPTION CookChopChat
+#SERVICE 4097:0:1:468:1:1:CCCC0000:0:0:0:redbox%3a//Hungry:Hungry
+#DESCRIPTION Hungry
+#SERVICE 4097:0:1:469:1:1:CCCC0000:0:0:0:redbox%3a//Places and Spaces:Places and Spaces
+#DESCRIPTION Places and Spaces
+#SERVICE 4097:0:1:46A:1:1:CCCC0000:0:0:0:redbox%3a//The Design Network:The Design Network
+#DESCRIPTION The Design Network
+#SERVICE 4097:0:1:46B:1:1:CCCC0000:0:0:0:redbox%3a//Architectural Digest:Architectural Digest
+#DESCRIPTION Architectural Digest
+#SERVICE 4097:0:1:46C:1:1:CCCC0000:0:0:0:redbox%3a//Vevo:Vevo
+#DESCRIPTION Vevo
+#SERVICE 4097:0:1:46D:1:1:CCCC0000:0:0:0:redbox%3a//Vevo 80's:Vevo 80's
+#DESCRIPTION Vevo 80's
+#SERVICE 4097:0:1:46E:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Everything 80s:Stingray Everything 80s
+#DESCRIPTION Stingray Everything 80s
+#SERVICE 4097:0:1:46F:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Classic Rock:Stingray Classic Rock
+#DESCRIPTION Stingray Classic Rock
+#SERVICE 4097:0:1:470:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Hitlist:Stingray Hitlist
+#DESCRIPTION Stingray Hitlist
+#SERVICE 4097:0:1:471:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Greatest Hits:Stingray Greatest Hits
+#DESCRIPTION Stingray Greatest Hits
+#SERVICE 4097:0:1:472:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Hot Country Christmas:Stingray Hot Country Christmas
+#DESCRIPTION Stingray Hot Country Christmas
+#SERVICE 4097:0:1:473:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Soul Storm:Stingray Soul Storm
+#DESCRIPTION Stingray Soul Storm
+#SERVICE 4097:0:1:474:1:1:CCCC0000:0:0:0:redbox%3a//Stingray Naturescape:Stingray Naturescape
+#DESCRIPTION Stingray Naturescape
+#SERVICE 4097:0:1:475:1:1:CCCC0000:0:0:0:redbox%3a//Accu Weather:Accu Weather
+#DESCRIPTION Accu Weather
+#SERVICE 4097:0:1:476:1:1:CCCC0000:0:0:0:redbox%3a//Cheddar:Cheddar
+#DESCRIPTION Cheddar
+#SERVICE 4097:0:1:477:1:1:CCCC0000:0:0:0:redbox%3a//USA Today:USA Today
+#DESCRIPTION USA Today
+#SERVICE 4097:0:1:478:1:1:CCCC0000:0:0:0:redbox%3a//Bloomberg Television:Bloomberg Television
+#DESCRIPTION Bloomberg Television
+#SERVICE 4097:0:1:479:1:1:CCCC0000:0:0:0:redbox%3a//YahooFinance:YahooFinance
+#DESCRIPTION YahooFinance
+#SERVICE 4097:0:1:47A:1:1:CCCC0000:0:0:0:redbox%3a//Newsy:Newsy
+#DESCRIPTION Newsy
+#SERVICE 4097:0:1:47B:1:1:CCCC0000:0:0:0:redbox%3a//CBC News:CBC News
+#DESCRIPTION CBC News
+#SERVICE 4097:0:1:47C:1:1:CCCC0000:0:0:0:redbox%3a//NowThis:NowThis
+#DESCRIPTION NowThis
+#SERVICE 4097:0:1:47D:1:1:CCCC0000:0:0:0:redbox%3a//Wired:Wired
+#DESCRIPTION Wired
+#SERVICE 4097:0:1:47E:1:1:CCCC0000:0:0:0:redbox%3a//WSB Breaking News:WSB Breaking News
+#DESCRIPTION WSB Breaking News
+#SERVICE 4097:0:1:47F:1:1:CCCC0000:0:0:0:redbox%3a//WFTV Breaking News:WFTV Breaking News
+#DESCRIPTION WFTV Breaking News
+#SERVICE 4097:0:1:480:1:1:CCCC0000:0:0:0:redbox%3a//WSOC Breaking News:WSOC Breaking News
+#DESCRIPTION WSOC Breaking News
+#SERVICE 4097:0:1:481:1:1:CCCC0000:0:0:0:redbox%3a//KIRO Seattle:KIRO Seattle
+#DESCRIPTION KIRO Seattle
+#SERVICE 4097:0:1:482:1:1:CCCC0000:0:0:0:redbox%3a//Boston 25:Boston 25
+#DESCRIPTION Boston 25
+#SERVICE 4097:0:1:483:1:1:CCCC0000:0:0:0:redbox%3a//WPXI Breaking News:WPXI Breaking News
+#DESCRIPTION WPXI Breaking News
+#SERVICE 4097:0:1:484:1:1:CCCC0000:0:0:0:redbox%3a//Action News Jax:Action News Jax
+#DESCRIPTION Action News Jax
+#SERVICE 4097:0:1:485:1:1:CCCC0000:0:0:0:redbox%3a//WHIO Breaking News:WHIO Breaking News
+#DESCRIPTION WHIO Breaking News
+#SERVICE 4097:0:1:486:1:1:CCCC0000:0:0:0:redbox%3a//Pattrn:Pattrn
+#DESCRIPTION Pattrn
+#SERVICE 4097:0:1:487:1:1:CCCC0000:0:0:0:redbox%3a//AMC en Español:AMC en Español
+#DESCRIPTION AMC en Español
+#SERVICE 4097:0:1:488:1:1:CCCC0000:0:0:0:redbox%3a//The Weather Channel En Español:The Weather Channel En Español
+#DESCRIPTION The Weather Channel En Español
+#SERVICE 4097:0:1:489:1:1:CCCC0000:0:0:0:redbox%3a//ES16US:ES16US
+#DESCRIPTION ES16US
+#SERVICE 4097:0:1:48A:1:1:CCCC0000:0:0:0:redbox%3a//Sony Canal Novelas:Sony Canal Novelas
+#DESCRIPTION Sony Canal Novelas
+#SERVICE 4097:0:1:48B:1:1:CCCC0000:0:0:0:redbox%3a//Sony Canal Competencias:Sony Canal Competencias
+#DESCRIPTION Sony Canal Competencias
+#SERVICE 4097:0:1:48C:1:1:CCCC0000:0:0:0:redbox%3a//Sony Canal Comedias:Sony Canal Comedias
+#DESCRIPTION Sony Canal Comedias
+#SERVICE 4097:0:1:48D:1:1:CCCC0000:0:0:0:redbox%3a//Cine Romantico:Cine Romantico
+#DESCRIPTION Cine Romantico
+#SERVICE 4097:0:1:48E:1:1:CCCC0000:0:0:0:redbox%3a//HSN:HSN
+#DESCRIPTION HSN
+#SERVICE 4097:0:1:48F:1:1:CCCC0000:0:0:0:redbox%3a//QVC:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:490:1:1:CCCC0000:0:0:0:redbox%3a//All Weddings WE tv:All Weddings WE tv
+#DESCRIPTION All Weddings WE tv
+#SERVICE 4097:0:1:491:1:1:CCCC0000:0:0:0:redbox%3a//Love Stories TV:Love Stories TV
+#DESCRIPTION Love Stories TV
+#SERVICE 4097:0:1:492:1:1:CCCC0000:0:0:0:redbox%3a//People Are Awesome:People Are Awesome
+#DESCRIPTION People Are Awesome
+#SERVICE 4097:0:1:493:1:1:CCCC0000:0:0:0:redbox%3a//Tastemade Travel:Tastemade Travel
+#DESCRIPTION Tastemade Travel
+#SERVICE 4097:0:1:494:1:1:CCCC0000:0:0:0:redbox%3a//Go Traveler:Go Traveler
+#DESCRIPTION Go Traveler
+#SERVICE 4097:0:1:495:1:1:CCCC0000:0:0:0:redbox%3a//XUMO Travel and Lifestyle:XUMO Travel & Lifestyle
+#DESCRIPTION XUMO Travel & Lifestyle
+#SERVICE 4097:0:1:496:1:1:CCCC0000:0:0:0:redbox%3a//Complex:Complex
+#DESCRIPTION Complex
+#SERVICE 4097:0:1:497:1:1:CCCC0000:0:0:0:redbox%3a//FUSE:FUSE
+#DESCRIPTION FUSE
+#SERVICE 4097:0:1:498:1:1:CCCC0000:0:0:0:redbox%3a//Circle TV:Circle TV
+#DESCRIPTION Circle TV
+#SERVICE 4097:0:1:499:1:1:CCCC0000:0:0:0:redbox%3a//AXS TV NOW:AXS TV NOW
+#DESCRIPTION AXS TV NOW
+#SERVICE 4097:0:1:49A:1:1:CCCC0000:0:0:0:redbox%3a//Journy:Journy
+#DESCRIPTION Journy
+#SERVICE 4097:0:1:49B:1:1:CCCC0000:0:0:0:redbox%3a//Weatherspy:Weatherspy
+#DESCRIPTION Weatherspy
+#SERVICE 4097:0:1:49C:1:1:CCCC0000:0:0:0:redbox%3a//GQ:GQ
+#DESCRIPTION GQ
+#SERVICE 4097:0:1:49D:1:1:CCCC0000:0:0:0:redbox%3a//Glamour:Glamour
+#DESCRIPTION Glamour
+#SERVICE 4097:0:1:49E:1:1:CCCC0000:0:0:0:redbox%3a//Vanity Fair:Vanity Fair
+#DESCRIPTION Vanity Fair
+#SERVICE 4097:0:1:49F:1:1:CCCC0000:0:0:0:redbox%3a//Vogue:Vogue
+#DESCRIPTION Vogue
